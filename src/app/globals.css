@@ -2,20 +2,76 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
+@layer base {
+  * {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+  }
+  * {
+    -webkit-tap-highlight-color: transparent;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    -moz-tap-highlight-color: transparent;
+  }
+  * > * {
+    -webkit-tap-highlight-color: transparent;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    -moz-tap-highlight-color: transparent;
+  }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+  ::-webkit-scrollbar {
+    width: 5px;
+    height: 4px;
+    /* background-color: #1100ff91; */
+  }
+
+  /* Track (the area behind the thumb) */
+  ::-webkit-scrollbar-track {
+    @apply bg-gray-400;
+  }
+
+  /* Handle (the draggable part of the scrollbar) */
+  ::-webkit-scrollbar-thumb {
+    /* background: #888; */
+    @apply rounded-lg;
+  }
+
+  html {
+    overflow-x: hidden;
+  }
+  body {
+    overflow-x: hidden;
+    @apply font-rubik text-black;
   }
 }
 
-body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+@layer components {
+  .select-class {
+    @apply text-base bg-transparent  placeholder:italic outline-none   duration-150 appearance-none;
+  }
+  .option-class {
+    @apply bg-white-background;
+  }
+  .input-class {
+    @apply h-10 px-2 sm:px-4  w-full min-[1360px]:max-w-[800px] bg-white-100  rounded-md text-base caret-primary placeholder:text-secondary-300 placeholder:italic outline-none focus:border focus:border-primary-100  duration-150;
+  }
+
+  /* .btn {
+    } */
+
+  .btn {
+    @apply duration-150 h-11 px-6 py-3 flex justify-center w-full items-center rounded-xl  font-medium hover:scale-[1.01] active:scale-[0.97];
+  }
+}
+
+@layer utilities {
+  .container {
+    max-width: 1400px;
+    margin: 0 auto;
+    /* @apply bg-black; */
+  }
+
+  .nav-link {
+    @apply hover:font-medium hover:text-primary duration-150;
+  }
 }
