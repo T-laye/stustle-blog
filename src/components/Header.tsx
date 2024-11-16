@@ -50,9 +50,9 @@ const Header = () => {
                 Hello
               </option>
             </select> */}
-            {/* <Link href="#">
+            <Link href="#">
               <li>Events</li>
-            </Link> */}
+            </Link>
             {/* <Link href="#">
               <li>Contact</li>
             </Link> */}
