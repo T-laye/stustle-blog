@@ -17,7 +17,7 @@ const Header = () => {
 
   return (
     <header
-      className={` ${pathname.startsWith("/studio") && "hidden"}  md:bg-primary  h-[8vh] fixed left-0 right-0 top-0`}
+      className={` ${pathname.startsWith("/studio") && "hidden"} bg-white-background md:bg-primary  h-[8vh] fixed left-0 right-0 top-0`}
     >
       <div
         onClick={closeNav}
@@ -26,7 +26,7 @@ const Header = () => {
         } fixed md:hidden bg-[#19100090] duration-700  z-40 top-0 bottom-0 left-0 right-0 h-screen`}
       ></div>
 
-      <div className="container mx-auto h-full px-4 flex justify-between items-center">
+      <div className="container mx-auto h-full px-4 md:px-8 flex justify-between items-center">
         <Logo />
         <nav
           className={` ${

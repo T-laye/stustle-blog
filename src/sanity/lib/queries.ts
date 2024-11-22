@@ -7,8 +7,23 @@ title,
 slug, 
 _createdAt, 
 author -> {
-  _id, name, image, bio
+  _id, name, bio
 }, 
+image,
 views, 
 post
 }`);
+
+export const POST_QUERY = defineQuery(`*[_type == "post" && _id == $id][0] {
+  _id, 
+  title,
+  slug, 
+  _createdAt, 
+  author -> {
+    _id, name, bio
+  }, 
+  image,
+  views, 
+  post
+}
+`);

@@ -23,6 +23,7 @@
     width: 5px;
     height: 4px;
     /* background-color: #1100ff91; */
+    display: none;
   }
 
   /* Track (the area behind the thumb) */
@@ -74,4 +75,26 @@
   .nav-link {
     @apply hover:font-medium hover:text-primary duration-150;
   }
+  .blog-header {
+    @apply text-2xl min-[350px]:text-4xl sm:text-6xl lg:text-8xl text-white font-medium;
+  }
 }
+.loader {
+    width: 48px;
+    height: 48px;
+    border: 5px solid rgba(226, 149, 7, 0.5);
+    border-bottom-color: #E29507;
+    border-radius: 50%;
+    display: inline-block;
+    box-sizing: border-box;
+    animation: rotation 1s linear infinite;
+    }
+
+    @keyframes rotation {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+    } 
