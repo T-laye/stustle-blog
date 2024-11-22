@@ -29,7 +29,7 @@ export default {
           DEFAULT: "#191000",
         },
         white: {
-          background: "#ffffff",
+          background: "#FFFAF0",
           DEFAULT: "#ffffff",
         },
         error: "#EB5555",

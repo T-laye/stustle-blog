@@ -1,16 +1,24 @@
 "use client";
 import Link from "next/link";
-import React from "react";
+// import React, { useState } from "react";
 import Button from "./ui/Button";
 import Logo from "./ui/Logo";
 import { MdMenu } from "react-icons/md";
-import { useNavStore } from "../../store/variables";
+import { useNavStore } from "../store/variables";
+import { usePathname } from "next/navigation";
+// import { IoIosArrowDown, IoIosArrowUp } from "react-icons/io";
 
 const Header = () => {
   const { closeNav, isNavOpen, openNav } = useNavStore();
+  // const [openMore, setOpenMore] = useState(false);
+  const pathname = usePathname();
+
+  // console.log(pathname);
 
   return (
-    <header className="md:bg-primary  h-[8vh] fixed left-0 right-0 top-0">
+    <header
+      className={` ${pathname.startsWith("/studio") && "hidden"}  md:bg-primary  h-[8vh] fixed left-0 right-0 top-0`}
+    >
       <div
         onClick={closeNav}
         className={`${
@@ -31,37 +39,114 @@ const Header = () => {
           <ul
             className={`${
               isNavOpen ? "max-md:translate-x-0" : "max-md:-translate-x-[200%]"
-            }  flex max-md:px-5 max-md:text-lg gap-5  md:gap-12 md:text-white max-md:flex-col duration-700 `}
+            }  flex max-md:px-5 max-md:text-lg gap-6  lg:gap-12 md:text-white max-md:flex-col duration-700 `}
           >
             <Link href="#">
-              <li className="nav-link">Home</li>
+              <li className="">Home</li>
             </Link>
-            <Link href="#">
+            <Link href="#" className="">
               <li>About us</li>
             </Link>
             <Link href="#">
               <li>Services</li>
             </Link>
             <Link href="#">
-              <li>Blog</li>
-            </Link>
-            {/* <select className="select-class" name="" id="">
-              <option className="" value="">
-                Hello
-              </option>
-            </select> */}
-            <Link href="#">
               <li>Events</li>
             </Link>
-            {/* <Link href="#">
+            <Link href="/blog">
+              <li>Blog</li>
+            </Link>
+            <Link className="max-md:hidde" href="#">
               <li>Contact</li>
-            </Link> */}
+            </Link>
+
+            {/* <li className="relative cursor-pointer max-lg:hidden">
+              <div
+                onClick={() => setOpenMore(!openMore)}
+                className="flex items-center gap-1"
+              >
+                <span>Learn</span>
+                {openMore ? (
+                  <IoIosArrowUp size={16} strokeWidth={10} className="" />
+                ) : (
+                  <IoIosArrowDown size={16} strokeWidth={10} className="" />
+                  // <IoIosArrowDown size={16} />
+                )}
+              </div>
+
+              {openMore && (
+                <div
+                  onClick={() => setOpenMore(false)}
+                  className=" fixed top-0 bottom-0 h-screen left-0 right-0 "
+                ></div>
+              )}
+              {openMore && (
+                <div
+                  onClick={() => setOpenMore(false)}
+                  className="absolute top-7 bg-white-background text-black p-4 shadow rounded-md flex flex-col gap-3 min-w-32"
+                >
+                  <Link href="#">
+                    <p className="hover:text-primary duration-150">Blog</p>
+                  </Link>
+                  <Link href="#">
+                    <p className="whitespace-nowrap hover:text-primary duration-150">
+                      Newsletter
+                    </p>
+                  </Link>
+                  <Link href="#">
+                    <p className="hover:text-primary duration-150">Updates</p>
+                  </Link>
+                </div>
+              )}
+            </li> */}
+
+            {/* <li className="relative cursor-pointer lg:hidden">
+              <div
+                onClick={() => setOpenMore(!openMore)}
+                className="flex items-center gap-1"
+              >
+                <span>More</span>
+                {openMore ? (
+                  <IoIosArrowUp size={16} strokeWidth={10} className="" />
+                ) : (
+                  <IoIosArrowDown size={16} strokeWidth={10} className="" />
+                  // <IoIosArrowDown size={16} />
+                )}
+              </div>
+              {openMore && (
+                <div
+                  onClick={() => setOpenMore(false)}
+                  className=" fixed top-0 bottom-0 h-screen left-0 right-0"
+                ></div>
+              )}
+              {openMore && (
+                <div
+                  onClick={() => setOpenMore(false)}
+                  className="absolute top-7 bg-white-background text-black p-4 shadow rounded-md flex flex-col gap-3 min-w-32"
+                >
+                  <Link href="#">
+                    <p className="hover:text-primary duration-150">About us</p>
+                  </Link>
+                  <Link href="#">
+                    <p className="hover:text-primary duration-150">Blog</p>
+                  </Link>
+                  <Link href="#">
+                    <p className="whitespace-nowrap hover:text-primary duration-150">
+                      Newsletter
+                    </p>
+                  </Link>
+                  <Link href="#">
+                    <p className="hover:text-primary duration-150">Contact</p>
+                  </Link>
+                </div>
+              )}
+            </li> */}
           </ul>
-          <ul className="md:hidden">
-            {/* <Button style="reverse" type="button">
+          <div className="md:hidden mt-10">
+            <Button style="primary" type="button">
               Request A Service
-            </Button> */}
-          </ul>
+            </Button>
+          </div>
         </nav>
         <div>
           <div className="hidden md:block">

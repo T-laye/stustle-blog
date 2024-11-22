@@ -26,7 +26,7 @@ const Button: React.FC<ButtonProps> = ({
       className={`btn whitespace-nowrap  ${
         style === "primary" && "bg-primary text-white  "
       } 
-      ${style === "secondary" && "text-primary "} 
+      ${style === "secondary" && "text-primary border border-primary"} 
       ${style === "reverse" && "bg-white text-primary "} 
       
       ${disabled && style === "primary" && "bg-primary-200  text-white-200"} ${

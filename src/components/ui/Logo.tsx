@@ -3,7 +3,7 @@ import React from "react";
 
 const Logo = () => {
   return (
-    <div className="h-4 sm:h-5">
+    <div className="h-4 lg:h-5">
       <Image
         src="/images/logo.svg"
         height={100}
