@@ -16,7 +16,7 @@ const Page = () => {
 
   const parsedContent = md.render(post?.post || "");
 
-//   console.log($id);
+  //   console.log($id);
 
   const fetchPost = async () => {
     try {
@@ -72,7 +72,7 @@ const Page = () => {
             <p>No details Provided</p>
           )}
 
-          <p className="mt-7 text-gray-300">
+          <p className="mt-7 text-gray-300 text-sm">
             {post?._createdAt && formatDate(post?._createdAt)}
           </p>
         </section>

@@ -5,6 +5,7 @@ import { useRouter } from "next/navigation";
 import React from "react";
 import { Post } from "../../../types/sanityTypes";
 import markdownit from "markdown-it";
+// import Image from "next/image";
 
 // Add TypeScript type for props
 interface PostCardProps {
@@ -27,6 +28,8 @@ const PostCard: React.FC<PostCardProps> = ({ post }) => {
     >
       <div className="h-1/2 bg-primary-activeCard rounded-xl overflow-hidden">
         <img
+          height={400}
+          width={400}
           src={post?.image || "/default-image.jpg"} // Fallback image
           alt="post image"
           className="object-cover object-center h-full w-full hover:scale-105 duration-150"
