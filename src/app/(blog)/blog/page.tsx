@@ -89,16 +89,15 @@ const Page = () => {
       )}
 
       {/* Posts Section */}
-      <div className="relative min-h-[50vh] grid min-[510px]:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-10 px-4 md:px-8 pt-10 container">
+      <div className=" min-h-[50vh] grid min-[510px]:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-10 px-4 md:px-8 pt-10 container ">
         {loading ? (
-          <div className="absolute top-0 mt-36 bottom-0 w-full">
+          <div className=" mt-36 w-full ">
             <Loader />
           </div> // Loading state
         ) : error ? (
           <div>{error}</div> // Error state
         ) : (
           renderPosts // Render posts when data is available
-          
         )}
       </div>
     </div>

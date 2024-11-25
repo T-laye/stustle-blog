@@ -83,7 +83,14 @@ const Hero = () => {
         </div>
       </div>
 
-      <div></div>
+      <div>
+        <div>
+          <Image src="" height={500} width={500} alt="images" />
+        </div>
+        <div></div>
+        <div></div>
+        <div></div>
+      </div>
     </div>
   );
 };

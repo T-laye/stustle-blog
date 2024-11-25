@@ -23,7 +23,7 @@ const Header = () => {
         onClick={closeNav}
         className={`${
           isNavOpen ? "translate-x-0" : "-translate-x-[200%]"
-        } fixed md:hidden bg-[#19100090] duration-700  z-40 top-0 bottom-0 left-0 right-0 h-screen`}
+        } fixed md:hidden bg-[#19100090] duration-700  z-[999] top-0 bottom-0 left-0 right-0 h-screen`}
       ></div>
 
       <div className="container mx-auto h-full px-4 md:px-8 flex justify-between items-center">
@@ -31,7 +31,7 @@ const Header = () => {
         <nav
           className={` ${
             isNavOpen ? "max-md:translate-x-0" : "max-md:-translate-x-[200%]"
-          }  max-md:fixed z-50 max-md:rounded-br-2xl max-md:rounded-tr-2xl max-md:bg-white-background max-md:max-w-xs top-0 left-0 bottom-0 max-md:w-7/12 max-md:px-4 duration-300`}
+          }  max-md:fixed z-[1000] max-md:rounded-br-2xl max-md:rounded-tr-2xl max-md:bg-white-background max-md:max-w-xs top-0 left-0 bottom-0 max-md:w-7/12 max-md:px-4 duration-300`}
         >
           <div className="bg-green400 flex md:hidden my-10">
             <Logo />

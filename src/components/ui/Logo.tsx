@@ -1,9 +1,10 @@
 import Image from "next/image";
+import Link from "next/link";
 import React from "react";
 
 const Logo = () => {
   return (
-    <div className="h-4 lg:h-5">
+    <Link href='/' className="h-4 lg:h-5">
       <Image
         src="/images/logo.svg"
         height={100}
@@ -18,7 +19,7 @@ const Logo = () => {
         className="h-full w-full object-contain hidden md:block"
         alt="Stustle Logo"
       />
-    </div>
+    </Link>
   );
 };
 
