@@ -38,3 +38,27 @@ export const services = [
     color: "#D0FFF9",
   },
 ];
+export const steps = [
+  {
+    
+    text: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Omnis, officiis?",
+    color: "#FCFFD7",
+  },
+  {
+    text: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Omnis, officiis?",
+    color: "#F5E9FF",
+  },
+  {
+    text: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Omnis, officiis?",
+    color: "#FFD7D7",
+  },
+  {
+    text: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Omnis, officiis?",
+    color: "#D7E5FF",
+  },
+  {
+    
+    text: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Omnis, officiis?",
+    color: "#FFE1D0",
+  },
+];

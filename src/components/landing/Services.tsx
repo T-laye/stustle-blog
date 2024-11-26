@@ -13,7 +13,7 @@ const ServiceCards: React.FC<ServiceProps> = (s) => {
   return (
     <div
       style={{ backgroundColor: s.color }}
-      className={` h-[94px] w-full flex gap-2 items-center rounded-lg max-w-[448px] p-4`}
+      className={`hover:shadow-md duration-150 h-[94px] w-full flex gap-2 items-center rounded-lg max-w-[448px] p-4`}
     >
       <div className="min-w-[70px] w-[70px] h-[70px] rounded-full overflow-hidden">
         <Image
