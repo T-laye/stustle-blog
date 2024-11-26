@@ -25,11 +25,11 @@ const About = () => {
             <IoIosCheckmarkCircleOutline />
             <span>ABOUT STUSTLE</span>
           </h3>
-          <h2 className="text-2xl max-sm:text-center sm:text-3xl text-primary mt-4">
+          <h2 className="max-sm:text-center  text-primary mt-4">
             A TEAM OF DEDICATED AND FOCUS DRIVEN INDIVIDUALS
           </h2>
 
-          <ul className="list-disc pl-4 text-xl flex flex-col gap-3 mt-3">
+          <ul className="list-disc pl-4 text-base md:text-xl flex flex-col gap-3 mt-3">
             {about?.map((c, i) => <li key={i}>{c}</li>)}
           </ul>
         </div>
