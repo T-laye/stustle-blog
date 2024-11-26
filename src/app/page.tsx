@@ -1,11 +1,15 @@
+import About from "@/components/landing/About";
 import Hero from "@/components/landing/Hero";
+import Services from "@/components/landing/Services";
+import Steps from "@/components/landing/Steps";
 
 export default function Home() {
   return (
     <div className="min-h-screen">
-      <section>
-        <Hero />
-      </section>
+      <Hero />
+      <About />
+      <Services />
+      <Steps />
     </div>
   );
 }

@@ -44,6 +44,10 @@
     overflow-x: hidden;
     @apply font-rubik text-black;
   }
+
+  h3 {
+    @apply text-xl  sm:text-3xl;
+  }
 }
 
 @layer components {

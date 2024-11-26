@@ -34,10 +34,10 @@ const Hero = () => {
     startCounting(30, setStustlersCount);
   }, []);
   return (
-    <div className="bg-green300 container mx-auto min-h-screen pt-28 md:pt-52 px-4">
-      <div>
-        <div>
-          <div className="w-5/6 md:max-w-[500px]">
+    <div className="pb-20 container mx-auto min-h-screen pt-28 lg:pt-52 px-4 gap-10 sm:gap-20 flex flex-col lg:flex-row justify-between">
+      <div className="w-full">
+        <div className=" items-center lg:items-start flex flex-col ">
+          <div className="w-5/6 sm:w-4/5  lg:max-w-[500px]">
             <Image
               height={200}
               width={200}
@@ -47,7 +47,7 @@ const Hero = () => {
             />
           </div>
 
-          <p className="text-lg md:text-xl w-5/6 md:max-w-[400px] mt-3 leading-6">
+          <p className="text-center lg:text-start text-lg md:text-xl w-5/6 lg:max-w-[400px] mt-3 leading-6">
             Making life easy in terms of daily runs, school tasks and finances.
           </p>
 
@@ -72,7 +72,7 @@ const Hero = () => {
             </div>
           </div>
 
-          <div className="flex gap-5 mt-10 max-w-[500px] flex-col sm:flex-row">
+          <div className="flex gap-5 mt-10 w-full sm:max-w-[500px] flex-col sm:flex-row">
             <Button style="primary" type="button">
               Request a Service
             </Button>
@@ -83,13 +83,43 @@ const Hero = () => {
         </div>
       </div>
 
-      <div>
-        <div>
-          <Image src="" height={500} width={500} alt="images" />
+      <div className="grid grid-cols-2 gap-10 h-fit w-full">
+        <div className=" h-[120px] w-[120px] sm:h-[250px] sm:w-[250px] lg:h-[200px] lg:w-[200px] xl:h-[250px] xl:w-[250px] overflow-hidden rounded-l-full place-self-end">
+          <Image
+            src="/images/test.png"
+            className="h-full w-full object-cover object-center"
+            height={500}
+            width={500}
+            alt="images"
+          />
         </div>
-        <div></div>
-        <div></div>
-        <div></div>
+        <div className=" h-[120px] w-[120px] sm:h-[250px] sm:w-[250px] lg:h-[200px] lg:w-[200px] xl:h-[250px] xl:w-[250px] overflow-hidden rounded-full">
+          <Image
+            src="/images/test.png"
+            className="h-full w-full object-cover object-center"
+            height={500}
+            width={500}
+            alt="images"
+          />
+        </div>
+        <div className=" h-[120px] w-[120px] sm:h-[250px] sm:w-[250px] lg:h-[200px] lg:w-[200px] xl:h-[250px] xl:w-[250px] overflow-hidden rounded-full place-self-end">
+          <Image
+            src="/images/test.png"
+            className="h-full w-full object-cover object-center"
+            height={500}
+            width={500}
+            alt="images"
+          />
+        </div>
+        <div className=" h-[120px] w-[120px] sm:h-[250px] sm:w-[250px] lg:h-[200px] lg:w-[200px] xl:h-[250px] xl:w-[250px] overflow-hidden rounded-r-full">
+          <Image
+            src="/images/test.png"
+            className="h-full w-full object-cover object-center"
+            height={500}
+            width={500}
+            alt="images"
+          />
+        </div>
       </div>
     </div>
   );
