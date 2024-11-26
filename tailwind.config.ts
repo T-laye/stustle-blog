@@ -13,6 +13,7 @@ export default {
       colors: {
         primary: {
           100: "#A96E03",
+          light: "#FFF6E6",
           disabled: "rgba(226, 149, 7, 0.38)",
           active: "rgba(226, 149, 7, 0.5)",
           activeCard: "rgba(226, 149, 7, 0.1)",
@@ -37,6 +38,12 @@ export default {
       },
       fontFamily: {
         rubik: ["var(--font-rubik)", "sans-serif"],
+      },
+    },
+    variants: {
+      extend: {
+        scrollSnapType: ["responsive"],
+        scrollSnapAlign: ["responsive"],
       },
     },
   },
