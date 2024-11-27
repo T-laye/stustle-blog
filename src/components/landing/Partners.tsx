@@ -26,7 +26,7 @@ const Partners = () => {
       <div className="container mx-auto">
         <h2 className="font-bold text-center md:mt-20">CALL FOR PARTNERS</h2>
 
-        <div className="mt-10">
+        <div className="mt-5">
           <p className="text-center  mx-auto max-w-2xl sm:text-lg">
             Collaborate with us to provide meaningful job opportunities,
             empowering students to gain valuable experience and contribute to
@@ -36,12 +36,13 @@ const Partners = () => {
             to make these work. Kindly contact us
           </p>
 
-          <div className="max-w-4xl mx-auto mt-12 relative z-10">
+          <div className="max-w-4xl mx-auto mt-6 pr-1 sm:pr-3 rounded-xl flex items-center justify-between border-2 border-primary-active">
             <input
+              placeholder="Email Address"
               type="text"
-              className="w-full h-20 px-3 py-6 rounded-lg bg-transparent border-2 border-primary-active focus:outline-none caret-primary"
+              className="w-full h-14 sm:h-20 px-3 py-6 rounded-lg placeholder:text-gray-200  bg-transparent  focus:outline-none caret-primary"
             />
-            <div className="absolute z-10 top-[18px] right-3 ">
+            <div className="">
               <Button style="primary" type="submit">
                 Join Now
               </Button>
