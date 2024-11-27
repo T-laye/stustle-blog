@@ -99,7 +99,7 @@ const Page = () => {
           <div>{error}</div> // Error state
         ) : (
           renderPosts // Render posts when data is available
-        )}
+          )}
       </div>
     </div>
   );

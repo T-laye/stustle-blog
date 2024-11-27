@@ -23,3 +23,14 @@ export const POST_QUERY =
   views, 
   post
 }`);
+export const POST_QUERY_ID =
+  defineQuery(`*[_type == "post" && id == $id][0] {
+  _id, 
+  title,
+  slug, 
+  _createdAt, 
+  description,
+  image,
+  views, 
+  post
+}`);
