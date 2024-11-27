@@ -1,17 +1,22 @@
-import type { NextConfig } from "next";
+import { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
   images: {
-    domains: [
-      "res.cloudinary.com",
-      "media.istockphoto.com",
-      "images.unsplash.com",
-    ], // Allow images from Cloudinary
     remotePatterns: [
       {
         protocol: "https",
         hostname: "res.cloudinary.com",
         pathname: "/**", // Match all paths under the domain
+      },
+      {
+        protocol: "https",
+        hostname: "media.istockphoto.com",
+        pathname: "/**",
+      },
+      {
+        protocol: "https",
+        hostname: "images.unsplash.com",
+        pathname: "/**",
       },
     ],
   },

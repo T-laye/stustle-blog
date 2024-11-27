@@ -5,7 +5,7 @@ import { IoIosCheckmarkCircleOutline } from "react-icons/io";
 
 const About = () => {
   return (
-    <section className="pb-20 pt-10 px-4  container mx-auto min-h-[50vh]">
+    <section id="about" className="pb-20 pt-10 px-4  container mx-auto min-h-[50vh]">
       <div className="flex justify-between gap-10  max-md:flex-wrap">
         <h3 className="sm:hidden flex items-center gap-2 sm:gap-4 ">
           <IoIosCheckmarkCircleOutline />

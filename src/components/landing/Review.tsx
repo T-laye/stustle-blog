@@ -74,7 +74,7 @@ const Review: React.FC = () => {
   }, []);
 
   return (
-    <section className="pb-20 pt-10 px-4 container mx-auto min-h-[50vh]">
+    <section id="review" className="pb-20 pt-10 px-4 container mx-auto min-h-[50vh]">
       <h3 className="flex items-center gap-2 sm:gap-4 text-primary justify-center">
         <IoIosCheckmarkCircleOutline />
         <span>MEET OUR SATISFIED CLIENTS</span>

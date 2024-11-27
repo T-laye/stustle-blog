@@ -23,7 +23,7 @@ const Header = () => {
         onClick={closeNav}
         className={`${
           isNavOpen ? "translate-x-0" : "-translate-x-[200%]"
-        } fixed md:hidden bg-[#19100090] duration-700  z-[999] top-0 bottom-0 left-0 right-0 h-screen`}
+        } fixed md:hidden bg-[#19100090] duration-300  z-[999] top-0 bottom-0 left-0 right-0 h-screen`}
       ></div>
 
       <div className="container mx-auto h-full px-4 md:px-8 flex justify-between items-center">
@@ -37,26 +37,27 @@ const Header = () => {
             <Logo />
           </div>
           <ul
+            onClick={closeNav}
             className={`${
               isNavOpen ? "max-md:translate-x-0" : "max-md:-translate-x-[200%]"
-            }  flex max-md:px-5 max-md:text-lg gap-6  lg:gap-12 md:text-white max-md:flex-col duration-700 `}
+            }  flex max-md:px-5 max-md:text-lg gap-6  lg:gap-12 md:text-white max-md:flex-col duration-300 `}
           >
-            <Link href="#">
+            <Link href="/">
               <li className="">Home</li>
             </Link>
-            <Link href="#" className="">
+            <Link href="#about" className="">
               <li>About us</li>
             </Link>
-            <Link href="#">
+            <Link href="#services">
               <li>Services</li>
             </Link>
-            <Link href="#">
+            <Link href="/events">
               <li>Events</li>
             </Link>
             <Link href="/blog">
               <li>Blog</li>
             </Link>
-            <Link className="max-md:hidde" href="#">
+            <Link className="max-md:hidde" href="#contact">
               <li>Contact</li>
             </Link>
 
@@ -86,15 +87,15 @@ const Header = () => {
                   className="absolute top-7 bg-white-background text-black p-4 shadow rounded-md flex flex-col gap-3 min-w-32"
                 >
                   <Link href="#">
-                    <p className="hover:text-primary duration-150">Blog</p>
+                    <p className="hover:text-primary duration-300">Blog</p>
                   </Link>
                   <Link href="#">
-                    <p className="whitespace-nowrap hover:text-primary duration-150">
+                    <p className="whitespace-nowrap hover:text-primary duration-300">
                       Newsletter
                     </p>
                   </Link>
                   <Link href="#">
-                    <p className="hover:text-primary duration-150">Updates</p>
+                    <p className="hover:text-primary duration-300">Updates</p>
                   </Link>
                 </div>
               )}
@@ -125,18 +126,18 @@ const Header = () => {
                   className="absolute top-7 bg-white-background text-black p-4 shadow rounded-md flex flex-col gap-3 min-w-32"
                 >
                   <Link href="#">
-                    <p className="hover:text-primary duration-150">About us</p>
+                    <p className="hover:text-primary duration-300">About us</p>
                   </Link>
                   <Link href="#">
-                    <p className="hover:text-primary duration-150">Blog</p>
+                    <p className="hover:text-primary duration-300">Blog</p>
                   </Link>
                   <Link href="#">
-                    <p className="whitespace-nowrap hover:text-primary duration-150">
+                    <p className="whitespace-nowrap hover:text-primary duration-300">
                       Newsletter
                     </p>
                   </Link>
                   <Link href="#">
-                    <p className="hover:text-primary duration-150">Contact</p>
+                    <p className="hover:text-primary duration-300">Contact</p>
                   </Link>
                 </div>
               )}

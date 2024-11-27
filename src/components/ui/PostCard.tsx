@@ -24,9 +24,9 @@ const PostCard: React.FC<PostCardProps> = ({ post }) => {
   return (
     <div
       onClick={gotoPost}
-      className="cursor-pointer min-w-[230px] md:max-w-[300px] lg:max-w-[400px] w-full h-[300px] lg:h-[350px] flex flex-col rounded-xl bg-white-background hover:shadow-lg duration-150 shadow active:bg-primary-activeCard active:shadow"
+      className="cursor-pointer min-w-[230px] md:max-w-[300px] lg:max-w-[400px] w-full h-[390px] lg:h-[350px] flex flex-col rounded-xl bg-white-background hover:shadow-lg duration-150 shadow active:bg-primary-activeCard active:shadow"
     >
-      <div className="h-1/2 bg-primary-activeCard rounded-xl overflow-hidden">
+      <div className="h-1/2 min-h-[200px] bg-primary-activeCard rounded-xl overflow-hidden">
         <img
           height={400}
           width={400}
@@ -35,7 +35,7 @@ const PostCard: React.FC<PostCardProps> = ({ post }) => {
           className="object-cover object-center h-full w-full hover:scale-105 duration-150"
         />
       </div>
-      <div className="px-4 py-2 flex flex-col gap-1">
+      <div className="px-4 py-3 flex flex-col gap-1 ">
         <p className="text-xs text-gray-300">{formatDate(post?._createdAt)}</p>
         <h3 className="text-xl font-medium line-clamp-1">{post?.title}</h3>
         <div className="line-clamp-4 md:line-clamp-5 text-sm">

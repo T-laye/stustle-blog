@@ -4,7 +4,10 @@ import Button from "../ui/Button";
 
 const Partners = () => {
   return (
-    <section className="sm:mt-10 pb-20 mb-20 pt-10 px-4 relative z-10 min-h-[50vh] bg-primary-light overflow-hidden">
+    <section
+      id="contact"
+      className="sm:mt-10 pb-20 mb-20 pt-10 px-4 relative z-10 min-h-[50vh] bg-primary-light overflow-hidden"
+    >
       <div className="z-10 h-20 w-20 sm:h-32 sm:w-32 lg:w-40 lg:h-40 absolute -top-1 -right-1">
         <Image
           src="/images/partners_1.png"
@@ -40,7 +43,7 @@ const Partners = () => {
             <input
               placeholder="Email Address"
               type="text"
-              className="w-full h-14 sm:h-20 px-3 py-6 rounded-lg placeholder:text-gray-200  bg-transparent  focus:outline-none caret-primary"
+              className="w-full h-14 sm:h-16 px-3 py-6 rounded-lg placeholder:text-gray-200  bg-transparent  focus:outline-none caret-primary"
             />
             <div className="">
               <Button style="primary" type="submit">

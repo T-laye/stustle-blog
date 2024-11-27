@@ -8,6 +8,7 @@ import React, { useEffect, useState } from "react";
 import { Post } from "../../../../../types/sanityTypes";
 import Loader from "@/components/ui/Loader";
 import markdownit from "markdown-it";
+import GoBack from "@/components/ui/GoBack";
 
 const Page = () => {
   const [post, setPost] = useState<Post | null>(null); // Handle the post state as Post | null
@@ -45,6 +46,9 @@ const Page = () => {
 
   return (
     <div className="pt-[76px] pb-20">
+      <div className="px-4 mb-4">
+        <GoBack />
+      </div>
       <div
         className="h-[20vh] sm:h-[35vh]"
         style={{

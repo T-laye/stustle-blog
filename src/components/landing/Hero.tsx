@@ -34,7 +34,7 @@ const Hero = () => {
     startCounting(30, setStustlersCount);
   }, []);
   return (
-    <div className="pb-20 container mx-auto min-h-screen pt-28 lg:pt-52 px-4 gap-10 sm:gap-20 flex flex-col lg:flex-row justify-between">
+    <div className="pb-20 container mx-auto min-h-screen pt-20 sm:pt-28 lg:pt-52 px-4 gap-10 sm:gap-20 flex flex-col lg:flex-row justify-between">
       <div className="w-full">
         <div className=" items-center lg:items-start flex flex-col ">
           <div className="w-5/6 sm:w-4/5  lg:max-w-[500px]">

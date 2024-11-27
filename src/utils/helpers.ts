@@ -63,3 +63,7 @@ export function formatDate(dateString: string) {
 export const getRandomIndex = (length: number): number => {
   return Math.floor(Math.random() * length);
 };
+
+export function getCurrentYear(): number {
+  return new Date().getFullYear();
+}
