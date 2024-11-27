@@ -77,12 +77,12 @@ const Review: React.FC = () => {
     <section className="pb-20 pt-10 px-4 container mx-auto min-h-[50vh]">
       <h3 className="flex items-center gap-2 sm:gap-4 text-primary justify-center">
         <IoIosCheckmarkCircleOutline />
-        <span>GET IT DONE IN 5 EASY STEPS</span>
+        <span>MEET OUR SATISFIED CLIENTS</span>
       </h3>
 
       <div
         ref={scrollContainerRef}
-        className="mt-10 flex gap-4 md:gap-8 overflow-x-auto scroll-snap-x-mandatory scroll-smooth pb-10"
+        className="mt-8 sm:mt-16 flex gap-4 md:gap-8 overflow-x-auto scroll-snap-x-mandatory scroll-smooth pb-10"
         onMouseEnter={stopAutoScroll} // Pause auto-scroll on hover
         onMouseLeave={startAutoScroll} // Resume auto-scroll when leaving
       >
