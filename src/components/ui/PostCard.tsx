@@ -26,13 +26,13 @@ const PostCard: React.FC<PostCardProps> = ({ post }) => {
       // Optimistically update the UI
       setTotalViews((prev) => prev + 1);
 
-      const res = await writeClient
+      await writeClient
         .patch(post._id)
         .setIfMissing({ views: 0 })
         .inc({ views: 1 })
         .commit();
 
-      console.log("Views updated successfully:", res);
+      // console.log("Views updated successfully:", res);
     } catch (error) {
       // Revert the optimistic update if the API call fails
       setTotalViews((prev) => prev - 1);
