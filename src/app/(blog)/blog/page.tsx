@@ -7,6 +7,7 @@ import { capitalizeWords, getRandomIndex } from "@/utils/helpers";
 import React, { useEffect, useState } from "react";
 import { Post } from "../../../../types/sanityTypes";
 import Loader from "@/components/ui/Loader";
+import { urlFor } from "@/sanity/lib/image";
 
 const Page = () => {
   const [posts, setPosts] = useState<Post[] | null>(null); // Type posts as array or null
@@ -19,7 +20,7 @@ const Page = () => {
     try {
       setLoading(true);
       const posts = await client.fetch(POSTS_QUERY);
-      console.log("Fetched Posts:", JSON.stringify(posts, null, 2));
+      // console.log("Fetched Posts:", JSON.stringify(posts, null, 2));
       setPosts(posts); // Set posts as raw data
     } catch (error) {
       console.error("Error fetching posts:", error);
@@ -55,7 +56,7 @@ const Page = () => {
   // Dynamically generate background images based on posts
   const getBackgroundImage = (index: number) => {
     return posts && posts[index]
-      ? `linear-gradient(to bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(${posts[index].image || ""})`
+      ? `linear-gradient(to bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(${urlFor(posts[index].image).url() || ""})`
       : "";
   };
 
@@ -91,7 +92,7 @@ const Page = () => {
       {/* Posts Section */}
       <div className=" min-h-[50vh] grid min-[510px]:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-10 px-4 md:px-8 pt-10 container ">
         {loading ? (
-          <div className=" mt-36 w-full ">
+          <div className=" mt-36 w-screen flex justify-center ">
             <Loader />
           </div> // Loading state
         ) : error ? (

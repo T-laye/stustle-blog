@@ -11,9 +11,8 @@ export interface Post {
   _id: string;
   title: string;
   slug: { current: string };
-  author: { _id: string; name: string; image: string; bio: string };
   views: number;
-  category: "technology" | "business" | "lifestyle";
+  description: string;
   image: string;
   post: string;
   _createdAt: string;

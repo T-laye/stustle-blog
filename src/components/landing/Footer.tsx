@@ -38,7 +38,7 @@ const Footer = () => {
               href="https://x.com/stustle?t=oUhSdft2m5friz4KZjAeng&s=09"
               className="flex "
             >
-              <FaXTwitter size={24} className="text-black" />
+              <FaXTwitter size={24} className="text-[#333]" />
             </Link>
             <Link
               target="_blank"

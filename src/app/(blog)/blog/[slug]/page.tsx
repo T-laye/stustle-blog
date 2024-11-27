@@ -9,10 +9,11 @@ import { Post } from "../../../../../types/sanityTypes";
 import Loader from "@/components/ui/Loader";
 import markdownit from "markdown-it";
 import GoBack from "@/components/ui/GoBack";
+import { urlFor } from "@/sanity/lib/image";
 
 const Page = () => {
   const [post, setPost] = useState<Post | null>(null); // Handle the post state as Post | null
-  const { postId: $id } = useParams();
+  const { slug: $slug } = useParams();
   const md = markdownit();
 
   const parsedContent = md.render(post?.post || "");
@@ -21,8 +22,8 @@ const Page = () => {
 
   const fetchPost = async () => {
     try {
-      const postData = await client.fetch(POST_QUERY, { id: $id });
-      console.log("Fetched Post:", JSON.stringify(postData, null, 2));
+      const postData = await client.fetch(POST_QUERY, { slug: $slug });
+      // console.log("Fetched Post:", JSON.stringify(postData, null, 2));
 
       setPost(postData || null); // Ensure the post is set or null if not found
     } catch (error) {
@@ -34,7 +35,7 @@ const Page = () => {
   useEffect(() => {
     fetchPost();
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [$id]); // Fetch post when the ID changes
+  }, [$slug]); // Fetch post when the ID changes
 
   if (!post) {
     return (
@@ -46,14 +47,14 @@ const Page = () => {
 
   return (
     <div className="pt-[76px] pb-20">
-      <div className="px-4 mb-4">
+      <div className="px-4 mb-4 mt-4">
         <GoBack />
       </div>
       <div
         className="h-[20vh] sm:h-[35vh]"
         style={{
           backgroundImage: post?.image
-            ? `linear-gradient(to bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(${post.image})`
+            ? `linear-gradient(to bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(${urlFor(post.image).url()})`
             : "linear-gradient(to bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('/default-image.jpg')", // Fallback to a default image if post.image is not available
           backgroundRepeat: "no-repeat",
           backgroundPosition: "center",

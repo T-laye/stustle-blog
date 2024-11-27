@@ -5,6 +5,5 @@ export const structure: StructureResolver = (S) =>
   S.list()
     .title("Content")
     .items([
-      S.documentTypeListItem("author").title("Authors"), // Corrected to 'documentTypeListItem'
       S.documentTypeListItem("post").title("Posts"), // Corrected to 'documentTypeListItem'
     ]);

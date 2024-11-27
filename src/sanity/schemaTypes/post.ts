@@ -6,39 +6,41 @@ export const post = defineType({
   type: "document",
   // icon: UserIcon
   fields: [
-      defineField({
-        name: "title",
-        type: "string",
-      }),
+    defineField({
+      name: "title",
+      type: "string",
+      validation: (Rule) => Rule.required(),
+    }),
     defineField({
       name: "slug",
       type: "slug",
-      options:{
-        source: 'title'
-      }
-    }),
-    defineField({
-      name: "author",
-      type: "reference",
-      to: {type: 'author'}
+      validation: (Rule) => Rule.required(),
+      options: {
+        source: "title",
+      },
     }),
     defineField({
       name: "views",
       type: "number",
     }),
     defineField({
-        name: "category",
-        type: "string",
-        //   validation: (Rule) => Rule.min(minNumber:1)
+      name: "description",
+      type: "string",
+      //   validation: (Rule) => Rule.min(minNumber:1)
+      validation: (Rule) => Rule.required(),
     }),
     defineField({
       name: "image",
-      type: "url",
-      validation: (Rule)=> Rule.required()
+      type: "image", // Use 'image' for file uploads
+      options: {
+        hotspot: true, // Enable image hotspot for better cropping
+      },
+      validation: (Rule) => Rule.required(),
     }),
     defineField({
       name: "post",
       type: "markdown",
+      validation: (Rule) => Rule.required(),
     }),
   ],
 });

@@ -13,7 +13,7 @@ const GoBack = () => {
   return (
     <div
       onClick={goBack}
-      className="flex gap-2 items-center w-fit"
+      className="flex gap-2 items-center w-fit cursor-pointer"
     >
       <BsArrowLeft size={22} />
       <span>Back</span>

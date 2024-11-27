@@ -64,10 +64,10 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${rubik.variable} ${rubik.variable} antialiased bg-white-background `}
+        className={`${rubik.variable} ${rubik.variable} antialiased bg-white-background`}
       >
         <Header />
-        <main>{children}</main>
+        <main className="min-h-[80vh]">{children}</main>
         <Footer />
       </body>
     </html>

@@ -1,13 +1,8 @@
+
+
 export function capitalizeWords(input: string) {
   return input?.replace(/\b\w/g, (char) => char?.toUpperCase());
 }
-
-// Example usage
-// const text = "hello world. this is a test sentence.";
-// const capitalizedText = capitalizeWords(text);
-
-// console.log(capitalizedText);
-// Output: "Hello World. This Is A Test Sentence."
 
 export function formatDate(dateString: string) {
   const date = new Date(dateString);
@@ -55,11 +50,6 @@ export function formatDate(dateString: string) {
   return `${month} ${day}${ordinal(day)}, ${year} at ${hours}:${minutes}${ampm}`;
 }
 
-// Example usage
-// const formattedDate = formatDate("2024-11-21T12:03:29Z");
-// console.log(formattedDate);
-// Output: "November 21st 2024 12:03pm"
-
 export const getRandomIndex = (length: number): number => {
   return Math.floor(Math.random() * length);
 };
@@ -67,3 +57,4 @@ export const getRandomIndex = (length: number): number => {
 export function getCurrentYear(): number {
   return new Date().getFullYear();
 }
+
