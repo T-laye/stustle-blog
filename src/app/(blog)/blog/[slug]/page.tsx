@@ -1,7 +1,7 @@
 /* eslint-disable @next/next/no-img-element */
 "use client";
 import { client } from "@/sanity/lib/client";
-import { POST_QUERY } from "@/sanity/lib/queries";
+import { POST_QUERY, POSTS_QUERY } from "@/sanity/lib/queries";
 import { capitalizeWords, formatDate } from "@/utils/helpers";
 import { useParams } from "next/navigation";
 import React, { useEffect, useState } from "react";
@@ -10,8 +10,12 @@ import Loader from "@/components/ui/Loader";
 import markdownit from "markdown-it";
 import GoBack from "@/components/ui/GoBack";
 import { urlFor } from "@/sanity/lib/image";
+import PostCard from "@/components/ui/PostCard";
 
 const Page = () => {
+  const [posts, setPosts] = useState<Post[] | null>(null); // Type posts as array or null
+  const [loading, setLoading] = useState<boolean>(true);
+  const [error, setError] = useState<string | null>(null);
   const [post, setPost] = useState<Post | null>(null); // Handle the post state as Post | null
   const { slug: $slug } = useParams();
   const md = markdownit();
@@ -32,6 +36,24 @@ const Page = () => {
     }
   };
 
+  const fetchPosts = async () => {
+    try {
+      setLoading(true);
+      const posts = await client.fetch(POSTS_QUERY);
+      // console.log("Fetched Posts:", JSON.stringify(posts, null, 2));
+      setPosts(posts); // Set posts as raw data
+    } catch (error) {
+      console.error("Error fetching posts:", error);
+      setError("Failed to fetch posts");
+    } finally {
+      setLoading(false);
+    }
+  };
+
+  useEffect(() => {
+    fetchPosts();
+  }, []);
+
   useEffect(() => {
     fetchPost();
     // eslint-disable-next-line react-hooks/exhaustive-deps
@@ -44,6 +66,12 @@ const Page = () => {
       </div>
     ); // Display loading state or error message
   }
+
+  const renderPosts = posts
+    ?.filter((p) => p._id !== post?._id) // Exclude the current post
+    .sort(() => Math.random() - 0.5) // Shuffle the posts array
+    .slice(0, 4) // Take the first 4 items
+    .map((p) => <PostCard key={p._id} post={p} />);
 
   return (
     <div className="pt-[76px] pb-20">
@@ -83,12 +111,17 @@ const Page = () => {
         </section>
 
         <section>
-          <h3 className="text-xl font-medium mb-5">More Reads</h3>
+          <h3 className="text-xl font-medium mb-5 text-start">More Reads</h3>
           <div className="flex gap-10 overflow-auto pb-10">
-            {/* Add dynamic fetching of related posts if necessary */}
-            {/* Example: <PostCard /> */}
-
-            {/* <Loader /> */}
+            {loading ? (
+              <div className=" mt-36 w-screen flex justify-center ">
+                <Loader />
+              </div> // Loading state
+            ) : error ? (
+              <div>{error}</div> // Error state
+            ) : (
+              renderPosts // Render posts when data is available
+            )}
           </div>
         </section>
       </div>

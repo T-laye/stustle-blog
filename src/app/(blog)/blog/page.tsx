@@ -67,7 +67,7 @@ const Page = () => {
   const renderPosts = posts?.map((p) => <PostCard key={p._id} post={p} />);
 
   return (
-    <div className="pt-[76px] pb-20">
+    <div className="pt-14 pb-20">
       {/* Header Section */}
       {posts && (
         <div
