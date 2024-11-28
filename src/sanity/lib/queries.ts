@@ -23,8 +23,7 @@ export const POST_QUERY =
   views, 
   post
 }`);
-export const POST_QUERY_ID =
-  defineQuery(`*[_type == "post" && id == $id][0] {
+export const POST_QUERY_ID = defineQuery(`*[_type == "post" && id == $id][0] {
   _id, 
   title,
   slug, 
@@ -33,4 +32,35 @@ export const POST_QUERY_ID =
   image,
   views, 
   post
+}`);
+
+// Events Query ///////////////////////////
+export const EVENTS_QUERY =
+  defineQuery(`*[_type == "event" && defined(slug.current)] | order(_createdAt desc) {
+  _id, 
+  theme,
+  slug, 
+  time,
+  image,
+  date, 
+  location,
+  link, 
+  description,
+  registrations,
+  _createdAt, 
+  }`);
+
+export const EVENT_QUERY =
+  defineQuery(`*[_type == "event" && slug.current == $slug][0] {
+    _id, 
+    theme,
+    slug, 
+    time,
+    image,
+    date, 
+    location,
+    link, 
+    registrations,
+  description,
+  _createdAt, 
 }`);

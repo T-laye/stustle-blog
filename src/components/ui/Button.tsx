@@ -1,5 +1,5 @@
 import React from "react";
-import Spinner from "./Spinner";
+// import Spinner from "./Spinner";
 
 interface ButtonProps {
   children: React.ReactNode; // Correct type for children
@@ -33,7 +33,13 @@ const Button: React.FC<ButtonProps> = ({
         disabled && style === "secondary" && "bg-secondary-300  text-white-200"
       } `} // Add your button styles here
     >
-      {loading ? <Spinner /> : <span className="label">{children}</span>}
+      {loading ? (
+        <div className="flex justify-center w-full">
+          <span className="btn-loader"></span>
+        </div>
+      ) : (
+        <span className="label">{children}</span>
+      )}
     </button>
   );
 };

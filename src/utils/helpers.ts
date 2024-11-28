@@ -4,7 +4,40 @@ export function capitalizeWords(input: string) {
   return input?.replace(/\b\w/g, (char) => char?.toUpperCase());
 }
 
-export function formatDate(dateString: string) {
+export function formatDate(dateString: string): string {
+  const date = new Date(dateString); // Parses 'YYYY-MM-DD'
+
+  // Month names
+  const months = [
+    "January",
+    "February",
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August",
+    "September",
+    "October",
+    "November",
+    "December",
+  ];
+
+  // Extract parts of the date
+  const month = months[date.getMonth()];
+  const day = date.getDate();
+  const year = date.getFullYear();
+
+  // Get the ordinal suffix
+  const ordinal = (n: number) =>
+    n > 3 && n < 21 ? "th" : ["st", "nd", "rd"][(n % 10) - 1] || "th";
+
+  // Format the date string
+  return `${day}${ordinal(day)} ${month} ${year}`;
+}
+
+
+export function formatDateAndTIme(dateString: string) {
   const date = new Date(dateString);
 
   // Define month names

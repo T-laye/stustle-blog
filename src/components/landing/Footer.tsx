@@ -1,13 +1,18 @@
+"use client";
 import { getCurrentYear } from "@/utils/helpers";
 import Image from "next/image";
 import Link from "next/link";
+import { usePathname } from "next/navigation";
 import React from "react";
 import { FaXTwitter } from "react-icons/fa6";
 import { MdLocalPhone, MdMail } from "react-icons/md";
 
 const Footer = () => {
+  const pathname = usePathname();
   return (
-    <section className="bg-primary text-white min-h-[20vh]">
+    <section
+      className={` ${pathname.startsWith("/studio") && "hidden"} bg-primary text-white min-h-[20vh]`}
+    >
       <div className="container mx-auto px-4 py-5">
         <h3 className="font-medium">CONTACT US</h3>
 

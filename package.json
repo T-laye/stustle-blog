@@ -18,8 +18,11 @@
     "@sanity/vision": "^3.64.2",
     "@tailwindcss/typography": "github:tailwindcss/typography",
     "axios": "^1.7.8",
+    "dayjs": "^1.11.13",
+    "formik": "^2.4.6",
     "gsap": "^3.12.5",
     "markdown-it": "^14.1.0",
+    "nanoid": "^5.0.9",
     "next": "15.0.3",
     "next-sanity": "^9.8.3-canary.1",
     "react": "19.0.0-rc-66855b96-20241106",
@@ -28,8 +31,10 @@
     "sanity": "^3.64.2",
     "sanity-plugin-markdown": "^5.0.0",
     "server-only": "^0.0.1",
+    "sonner": "^1.7.0",
     "styled-components": "^6.1.13",
     "tailwindcss-animate": "^1.0.7",
+    "yup": "^1.4.0",
     "zustand": "^5.0.1"
   },
   "devDependencies": {

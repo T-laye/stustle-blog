@@ -4,6 +4,7 @@ import "./globals.css";
 import Header from "@/components/Header";
 import "easymde/dist/easymde.min.css";
 import Footer from "@/components/landing/Footer";
+import { Toaster } from "sonner";
 
 const rubik = localFont({
   src: [
@@ -67,8 +68,9 @@ export default function RootLayout({
         className={`${rubik.variable} ${rubik.variable} antialiased bg-white-background`}
       >
         <Header />
-        <main className="min-h-[80vh]">{children}</main>
+        <main className="min-h-screen">{children}</main>
         <Footer />
+        <Toaster richColors position="top-right" />
       </body>
     </html>
   );

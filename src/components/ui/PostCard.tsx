@@ -1,6 +1,6 @@
 /* eslint-disable @next/next/no-img-element */
 "use client";
-import { capitalizeWords, formatDate } from "@/utils/helpers";
+import { capitalizeWords, formatDateAndTIme } from "@/utils/helpers";
 import { useRouter } from "next/navigation";
 import React, { useState } from "react";
 import { Post } from "../../../types/sanityTypes";
@@ -63,15 +63,17 @@ const PostCard: React.FC<PostCardProps> = ({ post }) => {
         />
       </div>
       <div className="px-4 py-3 flex flex-col gap-1 ">
-        <p className="text-xs text-gray-300">{formatDate(post?._createdAt)}</p>
+        <p className="text-xs text-gray-300">
+          {formatDateAndTIme(post?._createdAt)}
+        </p>
         <h3 className="text-xl font-medium line-clamp-1 text-start">
           {capitalizeWords(post?.title)}
         </h3>
-        <div className="line-clamp-4 md:line-clamp-5 text-sm">
+        <div className="line-clamp-4 md:line-clamp-4 text-sm">
           <div>{post?.description}</div>
         </div>
       </div>
-      <div className="absolute right-2 bottom-2 flex items-center gap-1 place-self-end mt-auto text-sm">
+      <div className="absolute right-3 bottom-2 flex items-center gap-1 place-self-end mt-auto text-sm">
         <span className="inline-block">
           {totalViews}
           {/* view{totalViews !== 1 ? "s" : ""} */}
