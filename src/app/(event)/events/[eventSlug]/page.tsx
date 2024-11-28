@@ -46,7 +46,7 @@ const Page = () => {
   }
 
   return (
-    <div className="pt-16 max-sm:pt-[76px] pb-20">
+    <div className="max-md:pt-16  pt-20 pb-20">
       <div className="flex justify-between px-4 mb-4 mt-4 ">
         <GoBack />
         <p className="text-primary font-medium">
