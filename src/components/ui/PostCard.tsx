@@ -69,7 +69,7 @@ const PostCard: React.FC<PostCardProps> = ({ post }) => {
         <h3 className="text-xl font-medium line-clamp-1 text-start">
           {capitalizeWords(post?.title)}
         </h3>
-        <div className="line-clamp-4 md:line-clamp-4 text-sm">
+        <div className="line-clamp-4 md:line-clamp-4 text-sm text-gray-300">
           <div>{post?.description}</div>
         </div>
       </div>

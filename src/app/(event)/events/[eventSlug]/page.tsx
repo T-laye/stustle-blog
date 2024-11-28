@@ -73,8 +73,8 @@ const Page = () => {
         </h1>
       </div>
 
-      <div className="px-4 md:px-8 pt-4 container">
-        <div className="">
+      <div className="px-4 md:px-8 pt-4 md:pt-8 container">
+        <div className="text-lg">
           <p>{event.description}</p>
         </div>
 
@@ -82,7 +82,7 @@ const Page = () => {
           <p className="mt-7 text-gray-300 text-sm text-end">{`${formatDate(event.date)} at ${event.time} WAT`}</p>{" "}
         </section>
 
-        <div className="mt-5 max-w-md mx-auto ">
+        <div className="mt-5 md:mt-10 max-w-md mx-auto ">
           <Button fn={openEventModal} style="primary" type="button">
             Register Now
           </Button>

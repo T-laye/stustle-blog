@@ -78,7 +78,7 @@ const EventRegisterModal: React.FC<EventCardProps> = ({ eventId, event }) => {
   return (
     <>
       {isEventModalOpen && (
-        <div className="fixed top-0 bg-[#33333380] backdrop-blur left-0 right-0 bottom-0 flex justify-center items-center z-50 px-4">
+        <div className="fixed top-0 bg-[#33333350] backdrop-blur left-0 right-0 bottom-0 flex justify-center items-center z-50 px-4">
           <form
             onSubmit={formik.handleSubmit}
             className="bg-white p-5 rounded-xl flex flex-col gap-4 w-full max-w-md pt-8 relative"
