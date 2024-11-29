@@ -21,13 +21,20 @@ interface EventModalStore {
   openEventModal: () => void;
   closeEventModal: () => void;
   toggleEventModal: () => void;
+  isRegisterSuccess: boolean;
+  openSuccess: () => void;
+  closeSuccess: () => void;
 }
 
 export const useEventModalStore = create<EventModalStore>((set) => ({
+  isRegisterSuccess: false,
   isEventModalOpen: false,
 
   openEventModal: () => set({ isEventModalOpen: true }),
   closeEventModal: () => set({ isEventModalOpen: false }),
+
+  openSuccess: () => set({ isRegisterSuccess: true }),
+  closeSuccess: () => set({ isRegisterSuccess: false }),
 
   toggleEventModal: () =>
     set((state) => ({ isEventModalOpen: !state.isEventModalOpen })),

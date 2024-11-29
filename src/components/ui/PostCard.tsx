@@ -41,7 +41,7 @@ const PostCard: React.FC<PostCardProps> = ({ post }) => {
   };
   const gotoPost = () => {
     handleCardClick();
-    router.push(`blog/${post?.slug.current}`);
+    router.push(`/blog/${post?.slug.current}`);
   };
 
   // Increment views when the card is clicked

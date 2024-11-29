@@ -74,28 +74,30 @@ const Page = () => {
     .map((p) => <PostCard key={p._id} post={p} />);
 
   return (
-    <div className="pt-[76px] pb-20">
-      <div className="px-4 mb-4 mt-4">
-        <GoBack />
-      </div>
+    // <div className="pt-[76px] pb-20">
+    <div className="max-md:pt-16  pt-[77px] pb-20 ">
       <div
-        className="h-[20vh] sm:h-[35vh]"
+        className="h-[20vh] sm:h-[35vh] flex flex-col pt-3 sm:pt-7"
         style={{
           backgroundImage: post?.image
-            ? `linear-gradient(to bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(${urlFor(post.image).url()})`
+            ? `linear-gradient(to bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(${urlFor(post?.image).url()})`
             : "linear-gradient(to bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('/default-image.jpg')", // Fallback to a default image if post.image is not available
           backgroundRepeat: "no-repeat",
           backgroundPosition: "center",
           backgroundSize: "cover",
-          display: "flex",
-          justifyContent: "center",
-          alignItems: "center",
+          // display: "flex",
+          // justifyContent: "center",
+          // alignItems: "center",
         }}
       >
-        <h1 className="blog-header text-center">
+        <div className="flex justify-between px-4 sm:px-8  text-white w-full container mx-auto">
+          <GoBack />
+        </div>
+        <h1 className="blog-header text-center my-auto sm:mt-16 line-clamp-2">
           {capitalizeWords(post?.title)}
         </h1>
       </div>
+      {/* </div> */}
 
       <div className="px-4 md:px-8 pt-10 container">
         <section className="mb-20 text-justify">

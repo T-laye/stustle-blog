@@ -34,7 +34,7 @@ export default {
           DEFAULT: "#ffffff",
         },
         error: "#EB5555",
-        success: "02C221",
+        success: "#02C221",
       },
       fontFamily: {
         rubik: ["var(--font-rubik)", "sans-serif"],

@@ -61,14 +61,14 @@ const Page = () => {
           // alignItems: "center",
         }}
       >
-        <div className="flex justify-between px-4  text-white w-full">
+        <div className="flex justify-between px-4 sm:px-8  text-white w-full container mx-auto">
           <GoBack />
-          <p className="text-primary font-medium">
+          <p className="sm:text-lg font-medium">
             {`${event?.registrations?.length}` || 0}{" "}
             <span className="text-sm">Registered</span>
           </p>
         </div>
-        <h1 className="blog-header text-center mt-10 sm:mt-16">
+        <h1 className="blog-header text-center my-auto sm:mt-16">
           {capitalizeWords(event?.theme)}
         </h1>
       </div>
