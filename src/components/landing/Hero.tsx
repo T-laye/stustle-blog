@@ -48,7 +48,7 @@ const Hero = () => {
           </div>
 
           <p className="text-center lg:text-start text-lg md:text-xl w-5/6 lg:max-w-[400px] mt-3 leading-6">
-            Making life easy in terms of daily runs, school tasks and finances.
+            Making life easy for students, professionals and business owners.
           </p>
 
           <div className="flex space-x-8 justify-between mt-5 w-11/12 max-w-[300px] ">

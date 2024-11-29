@@ -23,42 +23,45 @@ export const services = [
     color: "#FFD7D7",
   },
   {
-    title: "TUTORING",
+    title: "Graphics Design",
     image: "/images/test.png",
     color: "#D7E5FF",
   },
   {
-    title: "VIRTUAL ASSISTANT",
+    title: "Virtual Assitance",
     image: "/images/test.png",
     color: "#FFE1D0",
   },
   {
-    title: "MANAGEMENT",
+    title: "Tutoring",
+    image: "/images/test.png",
+    color: "#D0FFF9",
+  },
+  {
+    title: "Others",
     image: "/images/test.png",
     color: "#D0FFF9",
   },
 ];
 export const steps = [
   {
-    
-    text: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Omnis, officiis?",
+    text: "Highlight the service you need",
     color: "#FCFFD7",
   },
   {
-    text: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Omnis, officiis?",
+    text: "Contact Our Admin",
     color: "#F5E9FF",
   },
   {
-    text: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Omnis, officiis?",
+    text: "Have a call/chat with expert in selected service area.",
     color: "#FFD7D7",
   },
   {
-    text: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Omnis, officiis?",
+    text: "Connected to a Skilled Stustler",
     color: "#D7E5FF",
   },
   {
-    
-    text: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Omnis, officiis?",
+    text: "Job Delivered",
     color: "#FFE1D0",
   },
 ];
