@@ -90,17 +90,17 @@ const Page = () => {
       )}
 
       {/* Posts Section */}
-      <div className=" min-h-[50vh] grid min-[510px]:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-10 px-4 md:px-8 pt-10 container ">
-        {loading ? (
-          <div className=" mt-36 w-screen flex justify-center ">
-            <Loader />
-          </div> // Loading state
-        ) : error ? (
-          <div>{error}</div> // Error state
-        ) : (
-          renderPosts // Render posts when data is available
-          )}
-      </div>
+      {loading ? (
+        <div className=" mt-36 w-full mx-auto flex justify-center">
+          <Loader />
+        </div> // Loading state
+      ) : error ? (
+        <div>{error}</div> // Error state
+      ) : (
+        <div className="min-h-[50vh] grid min-[510px]:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-10 px-4 md:px-8 pt-10 container ">
+          {renderPosts}
+        </div>
+      )}
     </div>
   );
 };

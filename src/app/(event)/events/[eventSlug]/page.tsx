@@ -46,16 +46,9 @@ const Page = () => {
   }
 
   return (
-    <div className="max-md:pt-16  pt-20 pb-20">
-      <div className="flex justify-between px-4 mb-4 mt-4 ">
-        <GoBack />
-        <p className="text-primary font-medium">
-          {`${event?.registrations?.length}` || 0}{" "}
-          <span className="text-sm">Registered</span>
-        </p>
-      </div>
+    <div className="max-md:pt-16  pt-[77px] pb-20 ">
       <div
-        className="h-[20vh] sm:h-[35vh]"
+        className="h-[20vh] sm:h-[35vh] flex flex-col pt-3 sm:pt-7"
         style={{
           backgroundImage: event?.image
             ? `linear-gradient(to bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(${urlFor(event?.image).url()})`
@@ -63,12 +56,19 @@ const Page = () => {
           backgroundRepeat: "no-repeat",
           backgroundPosition: "center",
           backgroundSize: "cover",
-          display: "flex",
-          justifyContent: "center",
-          alignItems: "center",
+          // display: "flex",
+          // justifyContent: "center",
+          // alignItems: "center",
         }}
       >
-        <h1 className="blog-header text-center">
+        <div className="flex justify-between px-4  text-white w-full">
+          <GoBack />
+          <p className="text-primary font-medium">
+            {`${event?.registrations?.length}` || 0}{" "}
+            <span className="text-sm">Registered</span>
+          </p>
+        </div>
+        <h1 className="blog-header text-center mt-10 sm:mt-16">
           {capitalizeWords(event?.theme)}
         </h1>
       </div>
