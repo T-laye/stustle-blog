@@ -9,38 +9,38 @@ export const about = [
 export const services = [
   {
     title: "Web Development",
-    image: "/images/test.png",
-    color: "#FCFFD7",
+    image: "/images/web_dev.jpg",
+    color: "#D7E5FF",
   },
   {
     title: "WRITING",
-    image: "/images/test.png",
+    image: "/images/writing.jpg",
     color: "#F5E9FF",
   },
   {
     title: "CLEANING",
-    image: "/images/test.png",
-    color: "#FFD7D7",
-  },
-  {
-    title: "Graphics Design",
-    image: "/images/test.png",
+    image: "/images/cleaning.jpg",
     color: "#D7E5FF",
   },
   {
+    title: "Design (Graphics, UI/IX, 3D)",
+    image: "/images/designer.jpg",
+    color: "#FFD7D7",
+  },
+  {
     title: "Virtual Assitance",
-    image: "/images/test.png",
+    image: "/images/virtual_assistant.jpg",
     color: "#FFE1D0",
   },
   {
     title: "Tutoring",
-    image: "/images/test.png",
+    image: "/images/tutor.jpg",
     color: "#D0FFF9",
   },
   {
     title: "Others",
-    image: "/images/test.png",
-    color: "#D0FFF9",
+    image: "/images/others.jpg",
+    color: "#FCFFD7",
   },
 ];
 export const steps = [
