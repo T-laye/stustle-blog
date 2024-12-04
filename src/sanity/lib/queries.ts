@@ -64,3 +64,14 @@ export const EVENT_QUERY =
   description,
   _createdAt, 
 }`);
+
+//REVIEW QUERIES /////////////////
+export const REVIEWS_QUERY =
+  defineQuery(`*[_type == "review" && defined(_id)] | order(_createdAt desc) {
+  _id, 
+  name,
+  comment, 
+  image,
+  role,
+  _createdAt, 
+  }`);

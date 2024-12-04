@@ -8,6 +8,14 @@ export interface Post {
   post: string;
   _createdAt: string;
 }
+export interface Review {
+  _id: string;
+  name: string;
+  comment: string;
+  image: string;
+  role: string;
+  _createdAt: string;
+}
 
 export interface Registration {
   _key: string; // Unique identifier for each registration

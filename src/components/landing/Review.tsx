@@ -1,24 +1,34 @@
-'use client'
-import React, { useRef, useEffect } from "react";
+/* eslint-disable @next/next/no-img-element */
+"use client";
+import { client } from "@/sanity/lib/client";
+import { REVIEWS_QUERY } from "@/sanity/lib/queries";
+import React, { useRef, useEffect, useState } from "react";
 import { GoArrowLeft, GoArrowRight } from "react-icons/go";
 import { IoIosCheckmarkCircleOutline } from "react-icons/io";
+import type { Review } from "../../../types/sanityTypes";
+import Loader from "../ui/Loader";
+import { urlFor } from "@/sanity/lib/image";
 
-const ReviewCard: React.FC = () => {
+const ReviewCard: React.FC<Review> = ({ comment, image, role, name }) => {
   return (
     <div className="min-w-[300px] lg:min-w-[528px] h-[242px] rounded-lg p-4 lg:p-8 bg-primary-light shadow-md flex flex-col justify-between">
       <div className="flex gap-5">
-        <div className="h-10 min-w-10 rounded-full bg-gray-200"></div>
+        <div className="h-14 min-w-14 rounded-full bg-gray-200 overflow-hidden">
+          <img
+            height={400}
+            width={400}
+            src={urlFor(image).url()} // Fallback image
+            alt="event image"
+            className="object-cover object-center h-full w-full hover:scale-105 duration-150"
+          />
+        </div>
         <div>
-          <p className="text-center line-clamp-6">
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas
-            sequi, similique quis quisquam ad excepturi sunt nemo iusto minus
-            libero?
-          </p>
+          <p className="text-center line-clamp-6">{comment}</p>
         </div>
       </div>
       <div>
-        <p>Daramola Debby</p>
-        <p className="text-primary">Stustler</p>
+        <p>{name}</p>
+        <p className="text-primary">{role}</p>
       </div>
     </div>
   );
@@ -27,6 +37,27 @@ const ReviewCard: React.FC = () => {
 const Review: React.FC = () => {
   const scrollContainerRef = useRef<HTMLDivElement | null>(null);
   const autoScrollInterval = useRef<number | null>(null);
+  const [reviews, setReviews] = useState<Review[] | null>(null); // Type posts as array or null
+  const [loading, setLoading] = useState<boolean>(true); // Track loading state
+  const [error, setError] = useState<string | null>(null); // Track error state
+
+  const fetchReviews = async () => {
+    try {
+      setLoading(true);
+      const posts = await client.fetch(REVIEWS_QUERY);
+      // console.log("Fetched Posts:", JSON.stringify(posts, null, 2));
+      setReviews(posts); // Set posts as raw data
+    } catch (error) {
+      console.error("Error fetching posts:", error);
+      setError("Failed to fetch posts");
+    } finally {
+      setLoading(false);
+    }
+  };
+
+  useEffect(() => {
+    fetchReviews();
+  }, []);
 
   const scrollLeft = (): void => {
     if (scrollContainerRef.current) {
@@ -74,24 +105,45 @@ const Review: React.FC = () => {
   }, []);
 
   return (
-    <section id="review" className="pb-20 pt-10 px-4 container mx-auto min-h-[50vh]">
+    <section
+      id="review"
+      className="pb-20 pt-10 px-4 container mx-auto min-h-[50vh]"
+    >
       <h3 className="flex items-center gap-2 sm:gap-4 text-primary justify-center">
         <IoIosCheckmarkCircleOutline />
         <span>MEET OUR SATISFIED CLIENTS</span>
       </h3>
 
-      <div
-        ref={scrollContainerRef}
-        className="mt-8 sm:mt-16 flex gap-4 md:gap-8 overflow-x-auto scroll-snap-x-mandatory scroll-smooth pb-10"
-        onMouseEnter={stopAutoScroll} // Pause auto-scroll on hover
-        onMouseLeave={startAutoScroll} // Resume auto-scroll when leaving
-      >
+      {loading ? (
+        <div className=" my-20 w-full mx-auto flex justify-center">
+          <Loader />
+        </div> // Loading state
+      ) : error ? (
+        <div>{error}</div> // Error state
+      ) : (
+        <div
+          ref={scrollContainerRef}
+          className="mt-8 sm:mt-16 flex gap-4 md:gap-8 overflow-x-auto scroll-snap-x-mandatory scroll-smooth pb-10"
+          onMouseEnter={stopAutoScroll} // Pause auto-scroll on hover
+          onMouseLeave={startAutoScroll} // Resume auto-scroll when leaving
+        >
+          {reviews?.map((r) => (
+            <ReviewCard
+              key={r._id}
+              _createdAt={r._createdAt}
+              image={r.image}
+              comment={r.comment}
+              role={r.role}
+              name={r.name}
+              _id={r._id}
+            />
+          ))}
+        </div>
+      )}
+      {/* <ReviewCard />
         <ReviewCard />
         <ReviewCard />
-        <ReviewCard />
-        <ReviewCard />
-        <ReviewCard />
-      </div>
+        <ReviewCard /> */}
 
       <div className="flex justify-center items-center gap-4 ">
         <button
