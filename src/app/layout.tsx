@@ -5,6 +5,10 @@ import Header from "@/components/Header";
 import "easymde/dist/easymde.min.css";
 import Footer from "@/components/landing/Footer";
 import { Toaster } from "sonner";
+// import { gsap } from "gsap";
+// import ScrollTrigger from "gsap/ScrollTrigger";
+
+// gsap.registerPlugin(ScrollTrigger);
 
 const rubik = localFont({
   src: [

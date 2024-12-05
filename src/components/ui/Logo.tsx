@@ -4,7 +4,7 @@ import React from "react";
 
 const Logo = () => {
   return (
-    <Link href='/' className="h-4 lg:h-5">
+    <Link href="/" className="logo h-4 lg:h-5">
       <Image
         src="/images/logo.svg"
         height={100}

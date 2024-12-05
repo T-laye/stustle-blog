@@ -18,12 +18,13 @@ const Button: React.FC<ButtonProps> = ({
   disabled,
   style,
 }) => {
+
   return (
     <button
       onClick={fn}
       disabled={loading || disabled} // Disable the button when loading or manually disabled
       type={type}
-      className={`btn whitespace-nowrap  ${
+      className={`btn whitespace-nowrap btns ${
         style === "primary" && "bg-primary text-white  "
       } 
       ${style === "secondary" && "text-primary border border-primary"} 

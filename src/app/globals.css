@@ -130,3 +130,16 @@
     transform: rotate(360deg);
   }
 }
+
+.logo,
+button,
+span,
+.card,
+.hero-text,
+.image,
+.mobile,
+li,
+/* .postCard, */
+.span {
+  opacity: 0;
+}

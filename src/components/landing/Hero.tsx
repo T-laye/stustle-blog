@@ -1,12 +1,17 @@
 "use client";
 import Image from "next/image";
-import React, { useEffect, useState } from "react";
+import React, { useEffect, useRef, useState } from "react";
 import Button from "../ui/Button";
+import { gsap } from "gsap";
+import ScrollTrigger from "gsap/ScrollTrigger";
+
+gsap.registerPlugin(ScrollTrigger);
 
 const Hero = () => {
   const [clientsCount, setClientsCount] = useState(0);
   const [jobsCount, setJobsCount] = useState(0);
   const [stustlersCount, setStustlersCount] = useState(0);
+  const sectionRef = useRef(null);
 
   const startCounting = (
     target: number,
@@ -33,18 +38,53 @@ const Hero = () => {
     startCounting(250, setJobsCount);
     startCounting(30, setStustlersCount);
   }, []);
+
+  useEffect(() => {
+    const section = sectionRef.current;
+    const tlH = gsap.timeline({
+      scrollTrigger: {
+        trigger: section,
+        // pin: true, // Pin the section
+        pinSpacing: false,
+        scrub: true,
+        start: "top -20%", // Pin immediately when entering viewport
+        // end: "bottom", // Pin until the bottom of the section
+      },
+    });
+
+    tlH.to(section, { y: 0 });
+
+    gsap.fromTo(
+      ".hero-text",
+      { opacity: 0, y: -100, start: "top 0%" }, // Add start value for animation
+      { opacity: 1, duration: 1, y: 0, stagger: 0.2 }
+    );
+
+    gsap.fromTo(
+      ".image, span,button",
+      { opacity: 0, scale: 0, start: "top 0%" }, // Add start value for animation
+      {
+        opacity: 1,
+        scale: 1,
+        stagger: 0.2,
+        ease: "elastic.out(1, 0.7)",
+        duration: .6,
+      }
+    );
+  }, []);
+
   return (
-    <div className="hero_bg">
+    <div ref={sectionRef} className="hero_bg">
       <div className="pb-20 container mx-auto min-h-screen pt-20 sm:pt-28 lg:pt-52 px-4 gap-10 sm:gap-20 flex flex-col lg:flex-row justify-between ">
         <div className="w-full">
-          <div className=" items-center lg:items-start flex flex-col ">
-            <div className="w-5/6 sm:w-4/5  lg:max-w-[500px]">
+          <div className=" items-center lg:items-start flex flex-col hero-text ">
+            <div className="w-5/6 sm:w-4/5  lg:max-w-[500px] ">
               <Image
                 height={200}
                 width={200}
                 src="/images/hero-text.svg"
                 alt="Stustle"
-                className="h-full w-full object-contain"
+                className="h-full w-full object-contain "
               />
             </div>
 
@@ -85,7 +125,7 @@ const Hero = () => {
         </div>
 
         <div className="grid grid-cols-2 gap-10 h-fit w-full">
-          <div className=" h-[120px] w-[120px] sm:h-[250px] sm:w-[250px] lg:h-[200px] lg:w-[200px] xl:h-[250px] xl:w-[250px] overflow-hidden rounded-l-full place-self-end">
+          <div className=" h-[120px] w-[120px] sm:h-[250px] sm:w-[250px] lg:h-[200px] lg:w-[200px] xl:h-[250px] xl:w-[250px] overflow-hidden rounded-l-full place-self-end image">
             <Image
               src="/images/virtual_assistant.jpg"
               className="h-full w-full object-cover object-center"
@@ -94,7 +134,7 @@ const Hero = () => {
               alt="images"
             />
           </div>
-          <div className=" h-[120px] w-[120px] sm:h-[250px] sm:w-[250px] lg:h-[200px] lg:w-[200px] xl:h-[250px] xl:w-[250px] overflow-hidden rounded-full">
+          <div className=" h-[120px] w-[120px] sm:h-[250px] sm:w-[250px] lg:h-[200px] lg:w-[200px] xl:h-[250px] xl:w-[250px] overflow-hidden rounded-full image">
             <Image
               src="/images/designer.jpg"
               className="h-full w-full object-cover object-center"
@@ -103,7 +143,7 @@ const Hero = () => {
               alt="images"
             />
           </div>
-          <div className=" h-[120px] w-[120px] sm:h-[250px] sm:w-[250px] lg:h-[200px] lg:w-[200px] xl:h-[250px] xl:w-[250px] overflow-hidden rounded-full place-self-end">
+          <div className=" h-[120px] w-[120px] sm:h-[250px] sm:w-[250px] lg:h-[200px] lg:w-[200px] xl:h-[250px] xl:w-[250px] overflow-hidden rounded-full place-self-end image">
             <Image
               src="/images/web_dev.jpg"
               className="h-full w-full object-cover object-center"
@@ -112,7 +152,7 @@ const Hero = () => {
               alt="images"
             />
           </div>
-          <div className=" h-[120px] w-[120px] sm:h-[250px] sm:w-[250px] lg:h-[200px] lg:w-[200px] xl:h-[250px] xl:w-[250px] overflow-hidden rounded-r-full">
+          <div className=" h-[120px] w-[120px] sm:h-[250px] sm:w-[250px] lg:h-[200px] lg:w-[200px] xl:h-[250px] xl:w-[250px] overflow-hidden rounded-r-full image">
             <Image
               src="/images/cleaning.jpg"
               className="h-full w-full object-cover object-center"
