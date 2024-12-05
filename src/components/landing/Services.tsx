@@ -76,7 +76,7 @@ const Services = () => {
           duration: 1.2,
           scrollTrigger: {
             trigger: section,
-            start: "-50%",
+            start: "-10%",
           },
         }
       );
