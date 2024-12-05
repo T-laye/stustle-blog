@@ -49,7 +49,7 @@ const EventCard: React.FC<EventCardProps> = ({ event }) => {
           </p>
         </div>
         <div>
-          <p className="text-sm font-medium  text-end text-primary">{`${event.registrations.length} Registered`}</p>
+          <p className="text-sm font-medium  text-end text-primary">{`${event?.registrations?.length || 0} Registered`}</p>
         </div>
       </div>
     </div>
