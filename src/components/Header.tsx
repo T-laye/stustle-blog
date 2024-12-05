@@ -23,7 +23,7 @@ const Header = () => {
     //   { opacity: 1, duration: 1, y: 0, stagger: 0.1 }
     // );
     gsap.fromTo(
-      "li, .logo",
+      ".li, .logo",
       { opacity: 0, y: -100 },
       {
         opacity: 1,
@@ -62,25 +62,25 @@ const Header = () => {
             }  flex max-md:px-5 max-md:text-lg gap-6  lg:gap-12 md:text-white max-md:flex-col duration-300 `}
           >
             <Link href="/">
-              <li className="mobile">Home</li>
+              <li className="mobile li">Home</li>
             </Link>
             <Link href="/#about" className="">
-              <li className="mobile">About us</li>
+              <li className="mobile li">About us</li>
             </Link>
             <Link href="/#services">
-              <li className="mobile">Services</li>
+              <li className="mobile li">Services</li>
             </Link>
             <Link href="/events">
-              <li className="mobile">Events</li>
+              <li className="mobile li">Events</li>
             </Link>
             <Link href="/blog">
-              <li className="mobile">Blog</li>
+              <li className="mobile li">Blog</li>
             </Link>
             <Link className="max-md:hidde" href="#contact">
-              <li className="mobile">Contact</li>
+              <li className="mobile li">Contact</li>
             </Link>
           </ul>
-          <div className="md:hidden mobile mt-10">
+          <div className="md:hidden mobile li mt-10">
             <Button style="primary" type="button">
               Request A Service
             </Button>

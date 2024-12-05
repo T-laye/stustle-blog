@@ -132,13 +132,13 @@
 }
 
 .logo,
-button,
-span,
+.button,
+.span,
 .card,
 .hero-text,
 .image,
 .mobile,
-li,
+.li,
 /* .postCard, */
 .span {
   opacity: 0;

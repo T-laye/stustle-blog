@@ -61,7 +61,7 @@ const Hero = () => {
     );
 
     gsap.fromTo(
-      ".image, span,button",
+      ".image, .span, .button",
       { opacity: 0, scale: 0, start: "top 0%" }, // Add start value for animation
       {
         opacity: 1,
@@ -94,22 +94,22 @@ const Hero = () => {
 
             <div className="flex space-x-8 justify-between mt-5 w-11/12 max-w-[300px] ">
               <div className="flex flex-col gap-1 justify-center">
-                <span className="text-xl md:text-2xl text-primary font-bold">
+                <span className="text-xl md:text-2xl text-primary font-bold span">
                   {clientsCount}+
                 </span>{" "}
-                <span className="text-base md:text-lg  -mt-2">Clients</span>
+                <span className="text-base md:text-lg  -mt-2 span">Clients</span>
               </div>
               <div className="flex flex-col gap-1 justify-center">
-                <span className="text-xl md:text-2xl text-primary font-bold">
+                <span className="text-xl md:text-2xl text-primary font-bold span">
                   {jobsCount}+
                 </span>{" "}
-                <span className="text-base md:text-lg  -mt-2">Jobs done</span>
+                <span className="text-base md:text-lg  -mt-2 span">Jobs done</span>
               </div>
               <div className="flex flex-col gap-1 justify-center">
-                <span className="text-xl md:text-2xl text-primary font-bold">
+                <span className="text-xl md:text-2xl text-primary font-bold span">
                   {stustlersCount}+
                 </span>{" "}
-                <span className="text-base md:text-lg  -mt-2">Stustlers</span>
+                <span className="text-base md:text-lg span -mt-2">Stustlers</span>
               </div>
             </div>
 

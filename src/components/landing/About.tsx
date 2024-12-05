@@ -96,7 +96,7 @@ const About = () => {
       <div className="flex justify-between gap-10  max-md:flex-wrap">
         <h3 className="sm:hidden flex items-center gap-2 sm:gap-4 ">
           <IoIosCheckmarkCircleOutline />
-          <span>ABOUT STUSTLE</span>
+          <span className="span">ABOUT STUSTLE</span>
         </h3>
         <div className="md:w-1/2 md:flex  md:max-w-xl max-w-md mx-auto left-pic ">
           <Image
