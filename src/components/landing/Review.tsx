@@ -11,9 +11,9 @@ import { urlFor } from "@/sanity/lib/image";
 
 const ReviewCard: React.FC<Review> = ({ comment, image, role, name }) => {
   return (
-    <div className="min-w-[300px] lg:min-w-[528px] h-[242px] rounded-lg p-4 lg:p-8 bg-primary-light shadow-md flex flex-col justify-between">
-      <div className="flex gap-5">
-        <div className="h-14 min-w-14 rounded-full bg-gray-200 overflow-hidden">
+    <div className="min-w-[310px] lg:min-w-[528px] h-[242px] rounded-lg p-4 lg:p-8 bg-primary-light shadow-md flex flex-col justify-between">
+      <div className="flex gap-2">
+        <div className="h-12 min-w-12 rounded-full bg-gray-200 overflow-hidden">
           <img
             height={400}
             width={400}
@@ -23,7 +23,7 @@ const ReviewCard: React.FC<Review> = ({ comment, image, role, name }) => {
           />
         </div>
         <div>
-          <p className="text-center line-clamp-6">{comment}</p>
+          <p className="text-center line-clamp-5">{comment}</p>
         </div>
       </div>
       <div>
@@ -62,7 +62,7 @@ const Review: React.FC = () => {
   const scrollLeft = (): void => {
     if (scrollContainerRef.current) {
       scrollContainerRef.current.scrollBy({
-        left: -312,
+        left: -322,
         behavior: "smooth",
       });
     }
@@ -71,7 +71,7 @@ const Review: React.FC = () => {
   const scrollRight = (): void => {
     if (scrollContainerRef.current) {
       scrollContainerRef.current.scrollBy({
-        left: 312,
+        left: 322,
         behavior: "smooth",
       });
     }
