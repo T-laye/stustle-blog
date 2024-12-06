@@ -46,7 +46,7 @@ const Header = () => {
       ></div>
 
       <div className="container mx-auto h-full px-4 md:px-8 flex justify-between items-center ">
-        <Logo />
+        <Logo  />
         <nav
           className={` ${
             isNavOpen ? "max-md:translate-x-0" : "max-md:-translate-x-[200%]"

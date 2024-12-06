@@ -40,12 +40,12 @@ const EventCard: React.FC<EventCardProps> = ({ event }) => {
             {capitalizeWords(event?.theme)}
           </h3>
           <div className="line-clamp-4 text-sm text-gray-300">
-            <p>{event.description} </p>
+            <p>{event?.description} </p>
           </div>
           <p className="text-xs mt-1 text-gray-300">
-            {formatDate(event.date)}
+            {formatDate(event?.date)}
             <br />
-            {event.time} WAT
+            {event?.time} WAT
           </p>
         </div>
         <div>

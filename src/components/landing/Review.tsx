@@ -48,8 +48,8 @@ const Review: React.FC = () => {
       // console.log("Fetched Posts:", JSON.stringify(posts, null, 2));
       setReviews(posts); // Set posts as raw data
     } catch (error) {
-      console.error("Error fetching posts:", error);
-      setError("Failed to fetch posts");
+      console.error("Error fetching reviews:", error);
+      setError("Failed to fetch reviews");
     } finally {
       setLoading(false);
     }
