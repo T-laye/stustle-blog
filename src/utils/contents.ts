@@ -65,3 +65,30 @@ export const steps = [
     color: "#FFE1D0",
   },
 ];
+export const faqs = [
+  {
+    question: "Highlight the service you need",
+    answer:
+      "Highlight the service you needHighlight the service you needHighlight the service you needHighlight the service you needHighlight the service you needHighlight the service you need",
+  },
+  {
+    question: "Contact Our Admin",
+    answer:
+      "Highlight the service you needHighlight the service you needHighlight the service you needHighlight the service you needHighlight the service you needHighlight the service you need",
+  },
+  {
+    question: "Have a call/chat with expert in selected service area.",
+    answer:
+      "Highlight the service you needHighlight the service you needHighlight the service you needHighlight the service you needHighlight the service you needHighlight the service you need",
+  },
+  {
+    question: "Connected to a Skilled Stustler",
+    answer:
+      "Highlight the service you needHighlight the service you needHighlight the service you needHighlight the service you needHighlight the service you needHighlight the service you need",
+  },
+  {
+    question: "Job Delivered",
+    answer:
+      "Highlight the service you needHighlight the service you needHighlight the service you needHighlight the service you needHighlight the service you needHighlight the service you need",
+  },
+];

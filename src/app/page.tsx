@@ -1,4 +1,5 @@
 import About from "@/components/landing/About";
+import Faq from "@/components/landing/Faq";
 import Hero from "@/components/landing/Hero";
 import Partners from "@/components/landing/Partners";
 import Review from "@/components/landing/Review";
@@ -13,6 +14,7 @@ export default function Home() {
       <Services />
       <Steps />
       <Review />
+      <Faq />
       <Partners />
     </div>
   );
