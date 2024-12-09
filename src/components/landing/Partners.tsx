@@ -39,7 +39,7 @@ const Partners = () => {
             to make these work. Kindly contact us
           </p>
 
-          <div className="max-w-4xl mx-auto mt-6 pr-1 sm:pr-3 rounded-xl flex items-center justify-between border-2 border-primary-active">
+          {/* <div className="max-w-4xl mx-auto mt-6 pr-1 sm:pr-3 rounded-xl flex items-center justify-between border-2 border-primary-active">
             <input
               placeholder="Email Address"
               type="text"
@@ -50,6 +50,11 @@ const Partners = () => {
                 Join Now
               </Button>
             </div>
+          </div> */}
+          <div className="mt-5 w-fit mx-auto">
+            <Button style="primary" type="button">
+              Join Now
+            </Button>
           </div>
         </div>
       </div>
