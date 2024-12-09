@@ -25,7 +25,7 @@ const EventRegisterModal: React.FC<EventCardProps> = ({ eventId, event }) => {
     openSuccess,
     closeSuccess,
   } = useEventModalStore();
-  const emails = event?.registrations.map((r) => r.email);
+  const emails = event?.registrations?.map((r) => r.email);
 
   //   console.log(emails);
 

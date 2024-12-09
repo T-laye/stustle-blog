@@ -11,6 +11,7 @@ import markdownit from "markdown-it";
 import GoBack from "@/components/ui/GoBack";
 import { urlFor } from "@/sanity/lib/image";
 import PostCard from "@/components/ui/PostCard";
+import { MdShare } from "react-icons/md";
 
 const Page = () => {
   const [posts, setPosts] = useState<Post[] | null>(null); // Type posts as array or null
@@ -73,6 +74,29 @@ const Page = () => {
     .slice(0, 4) // Take the first 4 items
     .map((p) => <PostCard key={p._id} post={p} />);
 
+  // SHARE
+  // SHARE
+  const handleShare = () => {
+    const url = window.location.href; // Get the current URL
+    if (navigator.share) {
+      // Use the Web Share API if available
+      navigator
+        .share({
+          title: "Check out this event!",
+          text: "Here's an event you might be interested in:",
+          url,
+        })
+        .then(() => console.log("Content shared successfully"))
+        .catch((error) => console.error("Error sharing content", error));
+    } else {
+      // Fallback: Copy the URL to the clipboard
+      navigator.clipboard
+        .writeText(url)
+        .then(() => alert("URL copied to clipboard"))
+        .catch((error) => console.error("Error copying URL", error));
+    }
+  };
+
   return (
     // <div className="pt-[76px] pb-20">
     <div className="max-md:pt-16  pt-[77px] pb-20 ">
@@ -92,6 +116,11 @@ const Page = () => {
       >
         <div className="flex justify-between px-4 sm:px-8  text-white w-full container mx-auto">
           <GoBack />
+          <div className="flex items-center space-x-3">
+            <button onClick={handleShare} aria-label="Share">
+              <MdShare size={28} />
+            </button>
+          </div>
         </div>
         <h1 className="blog-header text-center my-auto sm:mt-16 line-clamp-2">
           {capitalizeWords(post?.title)}

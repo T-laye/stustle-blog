@@ -12,6 +12,7 @@ import { urlFor } from "@/sanity/lib/image";
 import EventRegisterModal from "@/components/EventRegisterModal";
 import Button from "@/components/ui/Button";
 import { useEventModalStore } from "@/store/variables";
+import { MdShare } from "react-icons/md";
 
 const Page = () => {
   const [event, setEvent] = useState<Event | null>(null); // Handle the post state as Post | null
@@ -19,7 +20,7 @@ const Page = () => {
 
   const { openEventModal } = useEventModalStore();
 
-  // console.log(event);
+  // console.log(event?.registrations);
 
   const fetchEvent = async () => {
     try {
@@ -45,6 +46,29 @@ const Page = () => {
     ); // Display loading state or error message
   }
 
+
+  // SHARE
+  const handleShare = () => {
+    const url = window.location.href; // Get the current URL
+    if (navigator.share) {
+      // Use the Web Share API if available
+      navigator
+        .share({
+          title: "Check out this event!",
+          text: "Here's an event you might be interested in:",
+          url,
+        })
+        .then(() => console.log("Content shared successfully"))
+        .catch((error) => console.error("Error sharing content", error));
+    } else {
+      // Fallback: Copy the URL to the clipboard
+      navigator.clipboard
+        .writeText(url)
+        .then(() => alert("URL copied to clipboard"))
+        .catch((error) => console.error("Error copying URL", error));
+    }
+  };
+
   return (
     <div className="max-md:pt-16  pt-[77px] pb-20 ">
       <div
@@ -63,10 +87,16 @@ const Page = () => {
       >
         <div className="flex justify-between px-4 sm:px-8  text-white w-full container mx-auto">
           <GoBack />
-          <p className="sm:text-lg font-medium">
-            {`${event?.registrations?.length}` || 0}{" "}
-            <span className="text-sm">Registered</span>
-          </p>
+          <div className="flex items-center space-x-3">
+            <p className="sm:text-lg font-medium">
+              {event?.registrations?.length || 0}{" "}
+              <span className="text-sm">Registered</span>
+            </p>
+
+            <button onClick={handleShare} aria-label="Share">
+              <MdShare size={28} />
+            </button>
+          </div>
         </div>
         <h1 className="blog-header text-center my-auto sm:mt-16">
           {capitalizeWords(event?.theme)}
@@ -75,7 +105,7 @@ const Page = () => {
 
       <div className="px-4 md:px-8 pt-4 md:pt-8 container">
         <div className="text-lg">
-          <p>{event.description}</p>
+          <p>{event?.description}</p>
         </div>
 
         <section className=" text-justify">
