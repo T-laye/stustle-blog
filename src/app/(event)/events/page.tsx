@@ -21,11 +21,11 @@ const Page = () => {
     try {
       setLoading(true);
       const events = await client.fetch(EVENTS_QUERY);
-      console.log("Fetched Posts:", events);
+      // console.log("Fetched Posts:", events);
       setEvents(events); // Set posts as raw data
     } catch (error) {
       console.error("Error fetching events:", error);
-      setError("Failed to fetch posts");
+      setError("Failed to fetch events");
     } finally {
       setLoading(false);
     }

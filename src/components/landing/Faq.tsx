@@ -76,7 +76,7 @@ const Faq = () => {
 
       {/* FAQ List Section */}
       <div className="flex-1 px-4 sm:px-8">
-        <div className="mt-16 md:mt-32">
+        <div className="mt-8">
           <h3 className="flex items-center gap-2 sm:gap-4 text-primary justify-center text-xl sm:text-2xl font-semibold">
             <RiQuestionFill size={28} />
             <span>FREQUENTLY ASKED QUESTIONS (FAQ)</span>
