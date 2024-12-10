@@ -59,7 +59,7 @@ const rubik = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Stutsle",
+  title: "Stustle",
   description:
     "Students hustle and service platform. Making life easy in terms of daily tasks, school tasks and finances",
   keywords:
