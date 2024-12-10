@@ -10,7 +10,7 @@ import { MdLocalPhone, MdMail } from "react-icons/md";
 const Footer = () => {
   // const pathname = usePathname();
   return (
-    <section className="min-h-[20vh] bg-primary text-white">
+    <section id="contact" className="min-h-[20vh] bg-primary text-white">
       <div className="container mx-auto px-4 py-10">
         {/* <div className="flex justify-between mb-10 max-sm:flex-cl max-sm:items-center max-sm:gap-10"> */}
         <div className="grid max-sm:grid-cols-3 grid-cols-4 gap-4 max-[300px]:flex max-[300px]:flex-col max-[300px]:gap-10">

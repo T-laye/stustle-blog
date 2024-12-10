@@ -1,6 +1,5 @@
 "use client";
 import Link from "next/link";
-// import React, { useState } from "react";
 import Button from "./ui/Button";
 import Logo from "./ui/Logo";
 import { MdMenu } from "react-icons/md";
@@ -8,12 +7,18 @@ import { useNavStore } from "../store/variables";
 import { usePathname } from "next/navigation";
 import { useEffect } from "react";
 import gsap from "gsap";
-// import { IoIosArrowDown, IoIosArrowUp } from "react-icons/io";
 
 const Header = () => {
   const { closeNav, isNavOpen, openNav } = useNavStore();
-  // const [openMore, setOpenMore] = useState(false);
   const pathname = usePathname();
+  // const router = useRouter();
+
+  const requestAService = () => {
+    window.open(
+      "https://wa.me/2348115237006?text=Hi%2C%20I%27m%20interested%20in%20your%20service.%20(Please%20specify%20the%20service)",
+      "_blank" // Opens the link in a new tab
+    );
+  };
 
   useEffect(() => {
     // Your GSAP animations or timeline code goes here
@@ -46,7 +51,7 @@ const Header = () => {
       ></div>
 
       <div className="container mx-auto h-full px-4 md:px-8 flex justify-between items-center ">
-        <Logo  />
+        <Logo />
         <nav
           className={` ${
             isNavOpen ? "max-md:translate-x-0" : "max-md:-translate-x-[200%]"
@@ -76,19 +81,19 @@ const Header = () => {
             <Link href="/blog">
               <li className="mobile li">Blog</li>
             </Link>
-            <Link className="max-md:hidde" href="#contact">
+            <Link className="max-md:hidde" href="/#contact">
               <li className="mobile li">Contact</li>
             </Link>
           </ul>
           <div className="md:hidden mobile li mt-10">
-            <Button style="primary" type="button">
+            <Button style="primary" type="button" fn={requestAService}>
               Request A Service
             </Button>
           </div>
         </nav>
         <div>
           <div className="hidden md:block">
-            <Button style="reverse" type="button">
+            <Button style="reverse" type="button" fn={requestAService}>
               Request A Service
             </Button>
           </div>

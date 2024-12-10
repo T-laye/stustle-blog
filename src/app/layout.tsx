@@ -5,6 +5,7 @@ import Header from "@/components/Header";
 import "easymde/dist/easymde.min.css";
 import Footer from "@/components/landing/Footer";
 import { Toaster } from "sonner";
+import NextTopLoader from "nextjs-toploader";
 // import { gsap } from "gsap";
 // import ScrollTrigger from "gsap/ScrollTrigger";
 
@@ -72,6 +73,17 @@ export default function RootLayout({
         className={`${rubik.variable} ${rubik.variable} antialiased bg-white-background`}
       >
         <Header />
+        <NextTopLoader
+          color="#E29507"
+          initialPosition={0.08}
+          crawlSpeed={200}
+          height={3}
+          crawl={true}
+          showSpinner={false}
+          easing="ease"
+          speed={200}
+          shadow="0 0 10px #2299DD,0 0 5px #2299DD"
+        />
         <main className="min-h-screen">{children}</main>
         <Footer />
         <Toaster richColors position="top-right" />

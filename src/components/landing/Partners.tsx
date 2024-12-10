@@ -1,8 +1,17 @@
+'use client'
 import Image from "next/image";
 import React from "react";
 import Button from "../ui/Button";
 
 const Partners = () => {
+
+   const joinStustle = () => {
+     window.open(
+        "https://wa.me/2348115237006?text=Hi%2C%20My%20name%20is%20_______%20I%27d%20love%20to%20work%20with%20you%20guys.",
+       "_blank" // Opens the link in a new tab
+     );
+   };
+
   return (
     <section
       id="contact"
@@ -52,7 +61,7 @@ const Partners = () => {
             </div>
           </div> */}
           <div className="mt-5 w-fit mx-auto">
-            <Button style="primary" type="button">
+            <Button fn={joinStustle} style="primary" type="button">
               Join Now
             </Button>
           </div>

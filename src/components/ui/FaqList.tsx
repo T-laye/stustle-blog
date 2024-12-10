@@ -17,7 +17,7 @@ export const FaqList: FC<FaqProps> = ({ question, answer }) => {
         onClick={handleToggle}
         aria-expanded={open}
         aria-controls={`faq-answer-${question}`}
-        className="flex justify-between items-center w-full text-left"
+        className="flex justify-between items-center w-full text-left gap-3"
       >
         <h4 className="font-medium text-base sm:text-lg">{question}</h4>
         <MdOutlineKeyboardArrowDown

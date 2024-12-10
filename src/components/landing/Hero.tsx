@@ -13,6 +13,20 @@ const Hero = () => {
   const [stustlersCount, setStustlersCount] = useState(0);
   const sectionRef = useRef(null);
 
+  const requestAService = () => {
+    window.open(
+      "https://wa.me/2348115237006?text=Hi%2C%20I%27m%20interested%20in%20your%20service.%20(Please%20specify%20the%20service)",
+      "_blank" // Opens the link in a new tab
+    );
+  };
+
+  const becomeAStustler = () => {
+    window.open(
+      "https://wa.me/2348115237006?text=Hi%2C%20My%20name%20is%20_______%20I%27d%20love%20to%20work%20with%20you%20guys.",
+      "_blank" // Opens the link in a new tab
+    );
+  };
+
   const startCounting = (
     target: number,
     setCount: React.Dispatch<React.SetStateAction<number>>
@@ -68,7 +82,7 @@ const Hero = () => {
         scale: 1,
         stagger: 0.2,
         ease: "elastic.out(1, 0.7)",
-        duration: .6,
+        duration: 0.6,
       }
     );
   }, []);
@@ -97,27 +111,33 @@ const Hero = () => {
                 <span className="text-xl md:text-2xl text-primary font-bold span">
                   {clientsCount}+
                 </span>{" "}
-                <span className="text-base md:text-lg  -mt-2 span">Clients</span>
+                <span className="text-base md:text-lg  -mt-2 span">
+                  Clients
+                </span>
               </div>
               <div className="flex flex-col gap-1 justify-center">
                 <span className="text-xl md:text-2xl text-primary font-bold span">
                   {jobsCount}+
                 </span>{" "}
-                <span className="text-base md:text-lg  -mt-2 span">Jobs done</span>
+                <span className="text-base md:text-lg  -mt-2 span">
+                  Jobs done
+                </span>
               </div>
               <div className="flex flex-col gap-1 justify-center">
                 <span className="text-xl md:text-2xl text-primary font-bold span">
                   {stustlersCount}+
                 </span>{" "}
-                <span className="text-base md:text-lg span -mt-2">Stustlers</span>
+                <span className="text-base md:text-lg span -mt-2">
+                  Stustlers
+                </span>
               </div>
             </div>
 
             <div className="flex gap-5 mt-10 w-full sm:max-w-[500px] flex-col sm:flex-row">
-              <Button style="primary" type="button">
+              <Button style="primary" type="button" fn={requestAService}>
                 Request a Service
               </Button>
-              <Button style="secondary" type="button">
+              <Button style="secondary" type="button" fn={becomeAStustler}>
                 Become a Stustler
               </Button>
             </div>
