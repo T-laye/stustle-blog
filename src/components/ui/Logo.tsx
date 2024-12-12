@@ -9,14 +9,14 @@ const Logo = () => {
         src="/images/logo.svg"
         height={100}
         width={100}
-        className="h-full w-full object-contain md:hidden"
+        className="h-full w-full object-contain lg:hidden"
         alt="Stustle Logo"
       />
       <Image
         src="/images/white-logo.svg"
         height={100}
         width={100}
-        className="h-full w-full object-contain hidden md:block"
+        className="h-full w-full object-contain hidden lg:block"
         alt="Stustle Logo"
       />
     </Link>

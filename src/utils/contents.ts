@@ -86,26 +86,26 @@ export const faqs = [
     answer:
       "No. Stustle creates room for opportunities to students without any skill set. Through our programs and webinars, you can learn, explore your options, and get inspired.",
   },
-  {
-    question: "Are there networking opportunities ?",
-    answer:
-      "Of course! Stustle organizes networking sessions, webinars, and meet ups to help it's members connect with their peers, industry professionals and potential clients.",
-  },
+  // {
+  //   question: "Are there networking opportunities ?",
+  //   answer:
+  //     "Of course! Stustle organizes networking sessions, webinars, and meet ups to help it's members connect with their peers, industry professionals and potential clients.",
+  // },
   {
     question: "Can I find clients or get gigs through the community ?",
     answer:
       "Yes. Stustle provides a forum for students to advertise their services and skills, and get access to potential clients who are in need of them.",
   },
-  {
-    question: "Can I collaborate with other members ?",
-    answer:
-      "Definitely! Stustle encourages collaboration with members through forums, group projects or specific tasks projects.",
-  },
-  {
-    question: "Can I get help starting my own side hustle ?",
-    answer:
-      "Yes. The community offers resources, webinars and step by step guides to help you launch your desired side hustle.",
-  },
+  // {
+  //   question: "Can I collaborate with other members ?",
+  //   answer:
+  //     "Definitely! Stustle encourages collaboration with members through forums, group projects or specific tasks projects.",
+  // },
+  // {
+  //   question: "Can I get help starting my own side hustle ?",
+  //   answer:
+  //     "Yes. The community offers resources, webinars and step by step guides to help you launch your desired side hustle.",
+  // },
   {
     question: "What kind of hustle or activities can I explore here ?",
     answer:
