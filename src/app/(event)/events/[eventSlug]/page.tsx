@@ -25,7 +25,7 @@ const Page = () => {
   const fetchEvent = async () => {
     try {
       const eventData = await client.fetch(EVENT_QUERY, { slug: $slug });
-      // console.log("Fetched Post:", eventData);
+      console.log("Fetched Event:", eventData);
       setEvent(eventData || null); // Ensure the post is set or null if not found
     } catch (error) {
       console.error("Error fetching Event:", error);
@@ -45,7 +45,6 @@ const Page = () => {
       </div>
     ); // Display loading state or error message
   }
-
 
   // SHARE
   const handleShare = () => {
@@ -113,9 +112,11 @@ const Page = () => {
         </section>
 
         <div className="mt-5 md:mt-10 max-w-md mx-auto ">
-          <Button fn={openEventModal} style="primary" type="button">
-            Register Now
-          </Button>
+          {event?.status === "opened" && (
+            <Button fn={openEventModal} style="primary" type="button">
+              Register Now
+            </Button>
+          )}
         </div>
       </div>
       <EventRegisterModal eventId={event?._id} event={event} />

@@ -78,6 +78,20 @@ export const event = defineType({
     }),
 
     defineField({
+      name: "status",
+      type: "string",
+      title: "Status",
+      options: {
+        list: [
+          { title: "Opened", value: "opened" },
+          { title: "Closed", value: "closed" },
+          // { title: "User", value: "user" },
+        ], // Add more options as needed
+      },
+      validation: (Rule) => Rule.required(),
+    }),
+
+    defineField({
       name: "registrations",
       title: "Registrations",
       type: "array",

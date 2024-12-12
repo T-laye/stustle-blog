@@ -21,7 +21,7 @@ const Page = () => {
     try {
       setLoading(true);
       const events = await client.fetch(EVENTS_QUERY);
-      // console.log("Fetched Posts:", events);
+      console.log("Fetched Events:", events);
       setEvents(events); // Set posts as raw data
     } catch (error) {
       console.error("Error fetching events:", error);
@@ -90,15 +90,17 @@ const Page = () => {
         </div>
       )}
 
-      {/* events Section */}
+      {/* Posts Section */}
       {loading ? (
-        <div className=" mt-36 w-screen flex justify-center ">
+        <div className="mt-36 w-full mx-auto flex justify-center">
           <Loader />
         </div> // Loading state
       ) : error ? (
-        <div>{error}</div> // Error state
+        <div className="">{error}</div> // Error state
+      ) : events?.length === 0 ? (
+        <div className="text-center w-full ">No Events Available</div>
       ) : (
-        <div className=" min-h-[50vh] grid min-[510px]:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-10 px-4 md:px-8 pt-10 container ">
+        <div className="min-h-[50vh] grid min-[510px]:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-10 px-4 md:px-8 pt-10 container">
           {renderEvents}
         </div>
       )}

@@ -4,7 +4,7 @@ import PostCard from "@/components/ui/PostCard";
 import { client } from "@/sanity/lib/client";
 import { POSTS_QUERY } from "@/sanity/lib/queries";
 import { capitalizeWords, getRandomIndex } from "@/utils/helpers";
-import React, { useEffect,  useState } from "react";
+import React, { useEffect, useState } from "react";
 
 import { Post } from "../../../../types/sanityTypes";
 import Loader from "@/components/ui/Loader";
@@ -73,54 +73,11 @@ const Page = () => {
 
   const renderPosts = posts?.map((p) => <PostCard key={p._id} post={p} />);
 
-  // useEffect(() => {
-  //   const section = sectionRef.current;
-  //   if (section) {
-  //     gsap.fromTo(
-  //       section.querySelector(".container"),
-  //       { opacity: 0, y: 150 },
-  //       {
-  //         opacity: 1,
-  //         y: 0,
-  //         duration: 1,
-  //         scrollTrigger: {
-  //           trigger: section,
-  //           start: "0", // Adjust the start value as needed
-  //         },
-  //       }
-  //     );
-
-  //     gsap.fromTo(
-  //       section.querySelectorAll(".postCard"),
-  //       {
-  //         opacity: 0,
-  //         // scale: 0,
-  //         rotateY: -180,
-  //         // backgroundColor: "#ff0000", // Starting color (red)
-  //       },
-  //       {
-  //         opacity: 1,
-  //         // scale: 1,
-  //         rotateY: 0,
-  //         // backgroundColor: "#00ff00", // Final color (green)
-  //         stagger: 0.3,
-  //         ease: "elastic.out(1.2, 0.5)",
-  //         duration: 1.2,
-  //         scrollTrigger: {
-  //           trigger: section,
-  //           start: "0%",
-  //         },
-  //       }
-  //     );
-  //   }
-  // }, []);
-
   return (
     <div className="pt-14 pb-20">
       {/* Header Section */}
       {posts && (
         <div
-          
           className="h-[20vh] sm:h-[35vh] duration-150 transition-all ease-in-out"
           style={{
             backgroundImage: getBackgroundImage(randomNumber), // Use the random index for background
@@ -141,13 +98,15 @@ const Page = () => {
 
       {/* Posts Section */}
       {loading ? (
-        <div className=" mt-36 w-full mx-auto flex justify-center">
+        <div className="mt-36 w-full mx-auto flex justify-center">
           <Loader />
         </div> // Loading state
       ) : error ? (
-        <div>{error}</div> // Error state
+        <div className="">{error}</div> // Error state
+      ) : posts?.length === 0 ? (
+        <div className="text-center w-full ">No Posts Available</div>
       ) : (
-        <div className="min-h-[50vh] grid min-[510px]:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-10 px-4 md:px-8 pt-10 container ">
+        <div className="min-h-[50vh] grid min-[510px]:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-10 px-4 md:px-8 pt-10 container">
           {renderPosts}
         </div>
       )}

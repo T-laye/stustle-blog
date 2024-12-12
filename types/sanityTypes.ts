@@ -43,6 +43,7 @@ export interface Event {
       width: number;
     }; // Optional for cropping
   };
+  status: "opened" | "closed";
   registrations: Registration[]; // Array of registration objects
   _createdAt: string; // ISO format creation date
   _updatedAt?: string; // Optional: ISO format update date

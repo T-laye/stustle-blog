@@ -47,6 +47,7 @@ export const EVENTS_QUERY =
   link, 
   description,
   registrations,
+  status,
   _createdAt, 
   }`);
 
@@ -60,6 +61,7 @@ export const EVENT_QUERY =
     date, 
     location,
     link, 
+    status,
     registrations,
   description,
   _createdAt, 
