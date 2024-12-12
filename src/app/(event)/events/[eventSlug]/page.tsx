@@ -25,7 +25,7 @@ const Page = () => {
   const fetchEvent = async () => {
     try {
       const eventData = await client.fetch(EVENT_QUERY, { slug: $slug });
-      console.log("Fetched Event:", eventData);
+      // console.log("Fetched Event:", eventData);
       setEvent(eventData || null); // Ensure the post is set or null if not found
     } catch (error) {
       console.error("Error fetching Event:", error);
