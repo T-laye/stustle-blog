@@ -74,12 +74,12 @@
 }
 
 @layer utilities {
-  /* .container {
-    max-width: 1400px;
+  .container {
+    /* max-width: 1400px; */
     margin: 0 auto;
 
-    @apply md:px-20;
-  } */
+    /* @apply md:px-20; */
+  }
 
   .nav-link {
     @apply hover:font-medium hover:text-primary duration-150;

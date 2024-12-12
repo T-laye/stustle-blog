@@ -100,7 +100,7 @@ const Page = () => {
       ) : events?.length === 0 ? (
         <div className="text-center w-full ">No Events Available</div>
       ) : (
-        <div className="min-h-[50vh] grid min-[510px]:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-10 px-4 md:px-8 pt-10 container">
+        <div className="min-h-[50vh] grid min-[510px]:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-10 px-4 md:px-8 pt-10 container  mx-auto ">
           {renderEvents}
         </div>
       )}
