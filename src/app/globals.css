@@ -78,7 +78,7 @@
     /* max-width: 1400px; */
     margin: 0 auto;
 
-    /* @apply md:px-20; */
+    /* @apply  lg:px-8; */
   }
 
   .nav-link {
