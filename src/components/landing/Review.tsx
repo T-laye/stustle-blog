@@ -119,7 +119,7 @@ const Review: React.FC = () => {
           <Loader />
         </div> // Loading state
       ) : error ? (
-        <div>{error}</div> // Error state
+        <div className="text-center w-full my-3">{error}</div> // Error state
       ) : (
         <div
           ref={scrollContainerRef}
