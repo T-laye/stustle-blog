@@ -85,7 +85,7 @@
     @apply hover:font-medium hover:text-primary duration-150;
   }
   .blog-header {
-    @apply text-2xl min-[350px]:text-4xl sm:text-6xl lg:text-8xl text-white font-medium;
+    @apply text-xl sm:text-3xl lg:text-5xl text-white font-medium;
   }
 
   /* .hero_bg {

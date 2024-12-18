@@ -82,7 +82,7 @@ const Page = () => {
       // Use the Web Share API if available
       navigator
         .share({
-          title: "Check out this event!",
+          title: "Check out this blog post!",
           text: "Here's an event you might be interested in:",
           url,
         })

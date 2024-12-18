@@ -30,6 +30,7 @@ export interface Event {
   theme: string;
   slug: { current: string }; // Slug object with current value
   description: string;
+  post: string;
   date: string; // ISO format date (e.g., "2024-11-28")
   time: string; // Time string (e.g., "14:00")
   location: string;

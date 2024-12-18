@@ -13,11 +13,14 @@ import EventRegisterModal from "@/components/EventRegisterModal";
 import Button from "@/components/ui/Button";
 import { useEventModalStore } from "@/store/variables";
 import { MdShare } from "react-icons/md";
+import markdownit from "markdown-it";
 
 const Page = () => {
   const [event, setEvent] = useState<Event | null>(null); // Handle the post state as Post | null
   const { eventSlug: $slug } = useParams();
+  const md = markdownit();
 
+  const parsedContent = md.render(event?.post || "");
   const { openEventModal } = useEventModalStore();
 
   // console.log(event?.registrations);
@@ -103,8 +106,18 @@ const Page = () => {
       </div>
 
       <div className="px-4 md:px-8 pt-4 md:pt-8 container">
-        <div className="text-lg">
+        {/* <div className="text-lg">
           <p>{event?.description}</p>
+        </div> */}
+
+        <div className="px-4 md:px-8 pt-10 container">
+          <section className="mb-20 text-justify">
+            {event.post && parsedContent ? (
+              <article dangerouslySetInnerHTML={{ __html: parsedContent }} />
+            ) : (
+              <p>{event?.description}</p>
+            )}
+          </section>
         </div>
 
         <section className=" text-justify">

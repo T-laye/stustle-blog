@@ -90,7 +90,11 @@ export const event = defineType({
       },
       validation: (Rule) => Rule.required(),
     }),
-
+    defineField({
+      name: "post",
+      type: "markdown",
+      validation: (Rule) => Rule.required(),
+    }),
     defineField({
       name: "registrations",
       title: "Registrations",
