@@ -23,7 +23,7 @@ export const services = [
     color: "#D7E5FF",
   },
   {
-    title: "Design (Graphics, UI/IX, 3D)",
+    title: "Design (Graphics, UI/UX, 3D)",
     image: "/images/designer.jpg",
     color: "#FFD7D7",
   },
