@@ -94,7 +94,7 @@ const Page = () => {
               {event?.registrations?.length || 0}{" "}
               <span className="text-sm">Registered</span>
             </p> */}
-            <p className="sm:text-lg font-medium">{`${(event?.attendees && event?.attendees + " " + "Attended") || (event?.registrations?.length && event?.registrations?.length + " " + "Registered") || 0 + " " + "Registered"} `}</p>
+            <p className="sm:text-lg font-medium">{`${(event?.attendees > 0 && event?.attendees + " " + "Attended") || (event?.registrations?.length > 0 && event?.registrations?.length + " " + "Registered") || 0 + " " + "Registered"} `}</p>
 
             <button onClick={handleShare} aria-label="Share">
               <MdShare size={28} />
