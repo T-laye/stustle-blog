@@ -22,11 +22,11 @@ export const services = [
     image: "/images/cleaning.jpg",
     color: "#D7E5FF",
   },
-  {
-    title: "Design (Graphics, UI/UX, 3D)",
-    image: "/images/designer.jpg",
-    color: "#FFD7D7",
-  },
+  // {
+  //   title: "Design (Graphics, UI/UX, 3D)",
+  //   image: "/images/designer.jpg",
+  //   color: "#FFD7D7",
+  // },
   {
     title: "Virtual Assitance",
     image: "/images/virtual_assistant.jpg",
