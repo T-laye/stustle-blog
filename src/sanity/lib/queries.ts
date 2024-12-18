@@ -48,11 +48,12 @@ export const EVENTS_QUERY =
   description,
   registrations,
   post,
+  attendees,
   status,
   _createdAt, 
   }`);
-
-export const EVENT_QUERY =
+  
+  export const EVENT_QUERY =
   defineQuery(`*[_type == "event" && slug.current == $slug][0] {
     _id, 
     theme,
@@ -63,6 +64,7 @@ export const EVENT_QUERY =
     location,
     link, 
     status,
+    attendees,
     post,
     registrations,
   description,

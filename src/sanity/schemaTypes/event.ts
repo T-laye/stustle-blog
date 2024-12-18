@@ -13,6 +13,7 @@ export const event = defineType({
       type: "string",
       validation: (Rule) => Rule.required().error("Theme is required."),
     }),
+
     defineField({
       name: "slug",
       title: "Slug",
@@ -94,6 +95,16 @@ export const event = defineType({
       name: "post",
       type: "markdown",
       validation: (Rule) => Rule.required(),
+    }),
+    defineField({
+      name: "attendees",
+      title: "Attendees",
+      type: "number",
+      initialValue: 0, // Set the default value to 0
+      validation: (Rule) =>
+        Rule.required()
+          .min(0)
+          .error("Attendees must be a number and cannot be negative."),
     }),
     defineField({
       name: "registrations",

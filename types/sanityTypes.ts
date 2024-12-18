@@ -35,6 +35,7 @@ export interface Event {
   time: string; // Time string (e.g., "14:00")
   location: string;
   link: string; // URL to the event
+  attendees: number;
   image: {
     asset: { _ref: string; _type: string }; // Image reference in Sanity
     hotspot?: {
