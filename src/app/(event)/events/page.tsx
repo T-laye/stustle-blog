@@ -21,7 +21,7 @@ const Page = () => {
     try {
       setLoading(true);
       const events = await client.fetch(EVENTS_QUERY);
-      console.log("Fetched Events:", events);
+      // console.log("Fetched Events:", events);
       setEvents(events); // Set posts as raw data
     } catch (error) {
       console.error("Error fetching events:", error);

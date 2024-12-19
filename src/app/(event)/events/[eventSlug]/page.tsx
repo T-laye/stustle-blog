@@ -14,6 +14,7 @@ import Button from "@/components/ui/Button";
 import { useEventModalStore } from "@/store/variables";
 import { MdShare } from "react-icons/md";
 import markdownit from "markdown-it";
+import Link from "next/link";
 
 const Page = () => {
   const [event, setEvent] = useState<Event | null>(null); // Handle the post state as Post | null
@@ -107,11 +108,13 @@ const Page = () => {
       </div>
 
       <div className="px-4 md:px-8 pt-4 md:pt-8 container">
-        {/* <div className="text-lg">
-          <p>{event?.description}</p>
-        </div> */}
-
         <div className="px-4 md:px-8 pt-10 container">
+          <div className="text-lg flex gap-2 mb-4">
+            <h4 className="font-medium">Event Link :</h4>
+            <Link className="text-primary" target="_blank" href={event?.link}>
+              {event?.link}
+            </Link>
+          </div>
           <section className="mb-20 text-justify">
             {event.post && parsedContent ? (
               <article dangerouslySetInnerHTML={{ __html: parsedContent }} />
