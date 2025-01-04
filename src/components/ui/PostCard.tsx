@@ -1,12 +1,11 @@
 /* eslint-disable @next/next/no-img-element */
-"use client";
-import { capitalizeWords, formatDateAndTIme } from "@/utils/helpers";
-import { useRouter } from "next/navigation";
 import React, { useState } from "react";
+import { useRouter } from "next/navigation";
 import { Post } from "../../../types/sanityTypes";
 import { urlFor } from "@/sanity/lib/image";
 import { writeClient } from "@/sanity/lib/write-client";
 import { LiaEyeSolid } from "react-icons/lia";
+import { capitalizeWords, formatDateAndTIme } from "@/utils/helpers";
 
 interface PostCardProps {
   post: Post;
@@ -22,6 +21,17 @@ const PostCard: React.FC<PostCardProps> = ({ post }) => {
       return;
     }
 
+    const storedIds = JSON.parse(localStorage.getItem("postIds") || "[]");
+
+    if (storedIds.includes(post._id)) {
+      // console.log("Post already viewed, not incrementing views.");
+      return;
+    }
+
+    // Add post ID to local storage
+    const updatedIds = [...storedIds, post._id];
+    localStorage.setItem("postIds", JSON.stringify(updatedIds));
+
     try {
       // Optimistically update the UI
       setTotalViews((prev) => prev + 1);
@@ -32,21 +42,18 @@ const PostCard: React.FC<PostCardProps> = ({ post }) => {
         .inc({ views: 1 })
         .commit();
 
-      // console.log("Views updated successfully:", res);
+      // console.log("Views updated successfully");
     } catch (error) {
       // Revert the optimistic update if the API call fails
       setTotalViews((prev) => prev - 1);
       console.error("Error updating views:", error);
     }
   };
+
   const gotoPost = () => {
     handleCardClick();
     router.push(`/blog/${post?.slug.current}`);
   };
-
-  // Increment views when the card is clicked
-
-  // console.log(post);
 
   return (
     <div
@@ -62,7 +69,7 @@ const PostCard: React.FC<PostCardProps> = ({ post }) => {
           className="object-cover object-center h-full w-full hover:scale-105 duration-150"
         />
       </div>
-      <div className="px-4 py-3 flex flex-col gap-1 ">
+      <div className="px-4 py-3 flex flex-col gap-1">
         <p className="text-xs text-gray-300">
           {formatDateAndTIme(post?._createdAt)}
         </p>
@@ -74,10 +81,7 @@ const PostCard: React.FC<PostCardProps> = ({ post }) => {
         </div>
       </div>
       <div className="absolute right-3 bottom-2 flex items-center gap-1 place-self-end mt-auto text-sm">
-        <span className="inline-block">
-          {totalViews}
-          {/* view{totalViews !== 1 ? "s" : ""} */}
-        </span>
+        <span className="inline-block">{totalViews}</span>
         <LiaEyeSolid size={22} />
       </div>
     </div>
