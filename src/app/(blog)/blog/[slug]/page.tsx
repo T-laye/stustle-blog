@@ -20,7 +20,7 @@ const Page = () => {
   const [post, setPost] = useState<Post | null>(null);
   const { slug: $slug } = useParams();
   const md = markdownit();
-  console.log(post?.views)
+  // console.log(post?.views)
 
   useEffect(() => {
     const fetchPost = async () => {
