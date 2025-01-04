@@ -73,7 +73,7 @@ const Page = () => {
   };
 
   return (
-    <div className="max-md:pt-16  pt-[77px] pb-20 ">
+    <div className="max-md:pt-16  pt-[90px] pb-20 ">
       <div
         className="h-[20vh] sm:h-[35vh] flex flex-col pt-3 sm:pt-7"
         style={{

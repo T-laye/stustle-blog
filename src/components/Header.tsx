@@ -41,7 +41,7 @@ const Header = () => {
   }, []);
   return (
     <header
-      className={` ${pathname.startsWith("/studio") && "hidden"} z-50 bg-white-background lg:bg-primary  h-[8vh] fixed left-0 right-0 top-0`}
+      className={` ${pathname.startsWith("/studio") && "hidden"} z-50 bg-white-background lg:bg-primary h-[80px]  sm:h-[90px] fixed left-0 right-0 top-0`}
     >
       <div
         onClick={closeNav}

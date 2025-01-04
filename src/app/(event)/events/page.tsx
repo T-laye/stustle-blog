@@ -68,7 +68,7 @@ const Page = () => {
   const renderEvents = events?.map((e) => <EventCard key={e._id} event={e} />);
 
   return (
-    <div className="pt-[76px] pb-20">
+    <div className="pt-[90px] pb-20">
       {/* Header Section */}
       {events && (
         <div
