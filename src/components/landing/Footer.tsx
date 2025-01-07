@@ -48,11 +48,11 @@ const Footer = () => {
 
             <div className="flex flex-col gap-4 text-sm max-sm:items-center max-[300px]:items-start ">
               <Link
-                href="mailto:stustledev@gmail.com"
+                href="mailto:contact@stustle.com"
                 className="flex max-sm:w-full items-center gap-1"
               >
                 <MdMail size={24} />
-                <span>stustledev@gmail.com</span>
+                <span>contact@stustle.com</span>
               </Link>
 
               <Link
