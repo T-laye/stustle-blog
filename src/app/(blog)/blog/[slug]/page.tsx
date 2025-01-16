@@ -111,10 +111,30 @@ const Page = () => {
   return (
     <>
       <Head>
+        <link
+          rel="canonical"
+          href={`https://www.stustle.com/blog/${post.slug}`}
+        />
         <title>{post.title} | Stustle</title>
         <meta property="og:title" content={post.title} />
         <meta property="og:description" content={post.description} />
-        <meta property="og:image" content={post.image} />
+        <meta
+          property="og:image"
+          content={`https://www.stustle.com${post.image}`}
+        />
+        <meta
+          property="og:url"
+          content={`https://www.stustle.com/blog/${post.slug}`}
+        />
+
+        {/* Optional: Add Twitter Card metadata */}
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content={post.title} />
+        <meta name="twitter:description" content={post.description} />
+        <meta
+          name="twitter:image"
+          content={`https://www.stustle.com${post.image}`}
+        />
       </Head>
 
       <div className=" pt-[90px] pb-20 ">
