@@ -120,7 +120,7 @@ const Page = () => {
         <meta property="og:description" content={post.description} />
         <meta
           property="og:image"
-          content={`https://www.stustle.com${post.image}`}
+          content={post.image}
         />
         <meta
           property="og:url"
