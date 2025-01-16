@@ -116,25 +116,22 @@ const Page = () => {
           href={`https://www.stustle.com/blog/${post.slug}`}
         />
         <title>{post.title} | Stustle</title>
+
+        {/* Open Graph Meta Tags */}
         <meta property="og:title" content={post.title} />
         <meta property="og:description" content={post.description} />
-        <meta
-          property="og:image"
-          content={post.image}
-        />
+        <meta property="og:image" content={urlFor(post.image).url()} />
         <meta
           property="og:url"
           content={`https://www.stustle.com/blog/${post.slug}`}
         />
+        <meta property="og:type" content="article" />
 
-        {/* Optional: Add Twitter Card metadata */}
+        {/* Twitter Card Meta Tags */}
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content={post.title} />
         <meta name="twitter:description" content={post.description} />
-        <meta
-          name="twitter:image"
-          content={`https://www.stustle.com${post.image}`}
-        />
+        <meta name="twitter:image" content={urlFor(post.image).url()} />
       </Head>
 
       <div className=" pt-[90px] pb-20 ">
