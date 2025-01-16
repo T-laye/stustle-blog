@@ -7,6 +7,7 @@ import Footer from "@/components/landing/Footer";
 import { Toaster } from "sonner";
 import NextTopLoader from "nextjs-toploader";
 import { Analytics } from "@vercel/analytics/react";
+import Head from "next/head";
 // import { gsap } from "gsap";
 // import ScrollTrigger from "gsap/ScrollTrigger";
 
@@ -74,6 +75,9 @@ export default function RootLayout({
   return (
     <html lang="en">
       <Analytics />
+      <Head>
+        <meta name="theme-color" content="#E29507" />
+      </Head>
       <body
         className={`${rubik.variable} ${rubik.variable} antialiased bg-white-background`}
       >

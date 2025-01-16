@@ -12,6 +12,7 @@ import { urlFor } from "@/sanity/lib/image";
 import PostCard from "@/components/ui/PostCard";
 import { MdShare } from "react-icons/md";
 import { writeClient } from "@/sanity/lib/write-client";
+import Head from "next/head";
 
 const Page = () => {
   const [posts, setPosts] = useState<Post[] | null>(null);
@@ -108,61 +109,72 @@ const Page = () => {
   };
 
   return (
-    <div className=" pt-[90px] pb-20 ">
-      <div
-        className="h-[20vh] sm:h-[35vh] flex flex-col pt-3 sm:pt-7"
-        style={{
-          backgroundImage: post?.image
-            ? `linear-gradient(to bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(${urlFor(post?.image).url()})`
-            : "linear-gradient(to bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('/default-image.jpg')",
-          backgroundRepeat: "no-repeat",
-          backgroundPosition: "center",
-          backgroundSize: "cover",
-        }}
-      >
-        <div className="flex justify-between px-4 sm:px-8 text-white w-full container mx-auto">
-          <GoBack />
-          <div className="flex items-center space-x-3">
-            <button onClick={handleShare} aria-label="Share">
-              <MdShare size={28} />
-            </button>
+    <>
+      <Head>
+        <title>{post.title} | Stustle</title>
+        <meta property="og:title" content={post.title} />
+        <meta property="og:description" content={post.description} />
+        <meta property="og:image" content={post.image} />
+      </Head>
+
+      <div className=" pt-[90px] pb-20 ">
+        <div
+          className="h-[20vh] sm:h-[35vh] flex flex-col pt-3 sm:pt-7"
+          style={{
+            backgroundImage: post?.image
+              ? `linear-gradient(to bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(${urlFor(post?.image).url()})`
+              : "linear-gradient(to bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('/default-image.jpg')",
+            backgroundRepeat: "no-repeat",
+            backgroundPosition: "center",
+            backgroundSize: "cover",
+          }}
+        >
+          <div className="flex justify-between px-4 sm:px-8 text-white w-full container mx-auto">
+            <GoBack />
+            <div className="flex items-center space-x-3">
+              <button onClick={handleShare} aria-label="Share">
+                <MdShare size={28} />
+              </button>
+            </div>
           </div>
+          <h1 className="blog-header text-center my-auto sm:mt-16 line-clamp-2">
+            {capitalizeWords(post?.title)}
+          </h1>
         </div>
-        <h1 className="blog-header text-center my-auto sm:mt-16 line-clamp-2">
-          {capitalizeWords(post?.title)}
-        </h1>
-      </div>
 
-      <div className="px-4 md:px-8 pt-10 container">
-        <section className="mb-20 text-justify">
-          {md.render(post?.post || "") ? (
-            <article
-              dangerouslySetInnerHTML={{ __html: md.render(post?.post || "") }}
-            />
-          ) : (
-            <p>No details Provided</p>
-          )}
-          <p className="mt-7 text-gray-300 text-sm">
-            {post?._createdAt && formatDate(post?._createdAt)}
-          </p>
-        </section>
-
-        <section>
-          <h3 className="text-xl font-medium mb-5 text-start">More Reads</h3>
-          <div className="flex gap-10 overflow-auto pb-10">
-            {loading ? (
-              <div className="mt-36 w-screen flex justify-center">
-                <Loader />
-              </div>
-            ) : error ? (
-              <div>{error}</div>
+        <div className="px-4 md:px-8 pt-10 container">
+          <section className="mb-20 text-justify">
+            {md.render(post?.post || "") ? (
+              <article
+                dangerouslySetInnerHTML={{
+                  __html: md.render(post?.post || ""),
+                }}
+              />
             ) : (
-              renderPosts
+              <p>No details Provided</p>
             )}
-          </div>
-        </section>
+            <p className="mt-7 text-gray-300 text-sm">
+              {post?._createdAt && formatDate(post?._createdAt)}
+            </p>
+          </section>
+
+          <section>
+            <h3 className="text-xl font-medium mb-5 text-start">More Reads</h3>
+            <div className="flex gap-10 overflow-auto pb-10">
+              {loading ? (
+                <div className="mt-36 w-screen flex justify-center">
+                  <Loader />
+                </div>
+              ) : error ? (
+                <div>{error}</div>
+              ) : (
+                renderPosts
+              )}
+            </div>
+          </section>
+        </div>
       </div>
-    </div>
+    </>
   );
 };
 
