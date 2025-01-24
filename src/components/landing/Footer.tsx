@@ -52,7 +52,7 @@ const Footer = () => {
                 className="flex max-sm:w-full items-center gap-1"
               >
                 <MdMail size={24} />
-                <span>contact@stustle.com</span>
+                <span>admin@stustle.com</span>
               </Link>
 
               <Link
