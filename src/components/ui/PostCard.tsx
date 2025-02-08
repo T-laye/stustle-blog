@@ -1,10 +1,10 @@
 /* eslint-disable @next/next/no-img-element */
-import React, { useState } from "react";
+// import React, { useState } from "react";
 import { useRouter } from "next/navigation";
 import { Post } from "../../../types/sanityTypes";
 import { urlFor } from "@/sanity/lib/image";
 import { writeClient } from "@/sanity/lib/write-client";
-import { LiaEyeSolid } from "react-icons/lia";
+// import { LiaEyeSolid } from "react-icons/lia";
 import { capitalizeWords, formatDateAndTIme } from "@/utils/helpers";
 
 interface PostCardProps {
@@ -12,7 +12,7 @@ interface PostCardProps {
 }
 
 const PostCard: React.FC<PostCardProps> = ({ post }) => {
-  const [totalViews, setTotalViews] = useState(post.views || 0); // Initial views from the post prop
+  // const [totalViews, setTotalViews] = useState(post.views || 0); // Initial views from the post prop
   const router = useRouter();
 
   const handleCardClick = async () => {
@@ -34,7 +34,7 @@ const PostCard: React.FC<PostCardProps> = ({ post }) => {
 
     try {
       // Optimistically update the UI
-      setTotalViews((prev) => prev + 1);
+      // setTotalViews((prev) => prev + 1);
 
       await writeClient
         .patch(post._id)
@@ -45,7 +45,7 @@ const PostCard: React.FC<PostCardProps> = ({ post }) => {
       // console.log("Views updated successfully");
     } catch (error) {
       // Revert the optimistic update if the API call fails
-      setTotalViews((prev) => prev - 1);
+      // setTotalViews((prev) => prev - 1);
       console.error("Error updating views:", error);
     }
   };
@@ -80,10 +80,10 @@ const PostCard: React.FC<PostCardProps> = ({ post }) => {
           <div>{post?.description}</div>
         </div>
       </div>
-      <div className="absolute right-3 bottom-2 flex items-center gap-1 place-self-end mt-auto text-sm">
+      {/* <div className="absolute right-3 bottom-2 flex items-center gap-1 place-self-end mt-auto text-sm">
         <span className="inline-block">{totalViews}</span>
         <LiaEyeSolid size={22} />
-      </div>
+      </div> */}
     </div>
   );
 };
