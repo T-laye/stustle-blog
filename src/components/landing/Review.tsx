@@ -13,7 +13,7 @@ const ReviewCard: React.FC<Review> = ({ comment, image, role, name }) => {
   return (
     <div className="min-w-[310px] lg:min-w-[528px] h-[242px] rounded-lg p-4 lg:p-8 bg-primary-light shadow-md flex flex-col justify-between">
       <div className="flex gap-2">
-        <div className="h-12 min-w-12 rounded-full bg-gray-200 overflow-hidden">
+        <div className="h-12 min-w-12 w-12 rounded-full bg-gray-200 overflow-hidden">
           <img
             height={400}
             width={400}
