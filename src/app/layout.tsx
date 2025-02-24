@@ -60,11 +60,27 @@ const rubik = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Stustle",
+  metadataBase: new URL("https://www.stustle.com"),
+  title: {
+    template: `%s | Stustle`,
+    default: "Stustle",
+  },
   description:
     "Students hustle and service platform. Making life easy in terms of daily tasks, school tasks and finances",
-  keywords:
+  keywords: [
     "student, freelance, hustle, cleaning, tech, web development, design, graphics, ui/ux, academic, assignment",
+  ],
+  openGraph: {
+    title: "Stustle",
+    description:
+      "Students hustle and service platform. Making life easy in terms of daily tasks, school tasks and finances",
+    images: [
+      {
+        url: "/images/stustle_blog.webp",
+        alt: "stustle",
+      },
+    ],
+  },
 };
 
 export default function RootLayout({
