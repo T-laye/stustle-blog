@@ -3,7 +3,7 @@ export const about = [
   "Stustle is available to make student's life easy on campus in terms of finances, school tasks and their daily runs.",
   "A platform where students can get basic services at their comfort.",
   "Stustle is available to make student's life easy on campus in terms of finances, school tasks and their daily runs.",
-  "Stustle is available to make student's life easy on campus in terms of finances, school tasks and their daily runs.",
+  "Stustle provides the skilled to busy business owners and professionals.",
 ];
 
 export const services = [
