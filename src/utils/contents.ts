@@ -2,7 +2,7 @@ export const about = [
   "Stustle (Students Hustle) creates an opportunity for students to get part time jobs online and offline.",
   "Stustle provides skilled talents to business owners and professionals.",
   "A platform where students can get basic services at their comfort.",
-  "Stustle is available to make student's life easy on campus in terms of finances, school tasks and their daily runs.",
+  // "Stustle is available to make student's life easy on campus in terms of finances, school tasks and their daily runs.",
 ];
 
 export const services = [

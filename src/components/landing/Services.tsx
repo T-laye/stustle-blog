@@ -91,7 +91,7 @@ const Services = () => {
     >
       <h3 className="flex items-center gap-2 sm:gap-4 text-primary justify-center">
         <IoIosCheckmarkCircleOutline />
-        <span>WHAT DO WE OFFER</span>
+        <span>WHAT WE OFFER</span>
       </h3>
 
       <div className="flex flex-col items-center sm:grid sm:grid-cols-2 lg:grid-cols-3 gap-5 mt-8 sm:mt-16 ">
