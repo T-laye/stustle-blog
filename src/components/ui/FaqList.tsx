@@ -36,14 +36,14 @@ export const FaqList: FC<FaqProps> = ({ question, answer }) => {
   };
 
   return (
-    <li className="border-b border-[#d9d9d9] pb-4 cursor-pointer card">
+    <li className="border-b border-[#d9d9d9] pb-2 cursor-pointer card">
       <button
         onClick={handleToggle}
         aria-expanded={open}
         aria-controls={`faq-answer-${question}`}
         className="flex justify-between items-center w-full text-left gap-3"
       >
-        <h4 className="font-medium text-base sm:text-lg">{question}</h4>
+        <h4 className="font- text-base sm:text-lg">{question}</h4>
         <MdOutlineKeyboardArrowDown
           size={28}
           className={`transition-transform ${open ? "rotate-180" : "rotate-0"}`}
@@ -55,7 +55,7 @@ export const FaqList: FC<FaqProps> = ({ question, answer }) => {
         className="mt-4 text-sm sm:text-base text-gray-700"
         style={{ height: 0, opacity: 0, overflow: "hidden" }}
       >
-        <p>{answer}</p>
+        <p className="pb-4">{answer}</p>
       </div>
     </li>
   );

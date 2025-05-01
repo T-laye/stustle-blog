@@ -121,3 +121,30 @@ export const faqs = [
       "Yes. The platform has various activities for you to engage in, so if you feel like you're capable at handling more than hustle or activity, you are free to.",
   },
 ];
+export const bigConferenceFaqs = [
+  {
+    question: "Who can attend the BIG Conference?",
+    answer:
+      "The conference is open to STUDENTS and YOUNG GRADUATES from any institution who are interested in entrepreneurship, remote work, innovation, and career growth.",
+  },
+  {
+    question: "Is registration free?",
+    answer:
+      "Yes! Registration is completely free, but seats are limited. Early registration is encouraged to secure your spot.",
+  },
+  {
+    question: "How can I participate in the competitions or hackathons?",
+    answer:
+      "Once registered, you'll receive details via email or WhatsApp on how to apply for the entrepreneur pitch, remote portfolio challenge, or Web3 hackathon. Shortlisted participants will be contacted ahead of the main event.",
+  },
+  {
+    question: "Can I partner with or sponsor the event?",
+    answer:
+      "Absolutely! We're welcoming sponsors and partners who want to support youth empowerment while also showcasing their products or services to our vibrant student community.",
+  },
+  {
+    question: "Do I have to be in Delta State to attend?",
+    answer:
+      "No, you don’t! While the BIG Conference will hold in-person in Delta State, there will also be virtual access for participants from other states or countries. Once you register, you’ll receive updates and a link to join online if you’re attending virtually.",
+  },
+];

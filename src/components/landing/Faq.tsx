@@ -48,7 +48,7 @@ const Faq = () => {
           duration: 1.2,
           scrollTrigger: {
             trigger: section,
-            start: "-10%",
+            start: "-50%",
           },
         }
       );
