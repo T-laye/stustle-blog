@@ -1,6 +1,6 @@
 import About from "@/components/bigConference/About";
-import EventHero from "@/components/bigConference/EventHero";
 import Faq from "@/components/bigConference/Faq";
+import Hero from "@/components/bigConference/Hero";
 import Partners from "@/components/bigConference/Partners";
 import WhatElse from "@/components/bigConference/WhatElse";
 import React from "react";
@@ -8,7 +8,7 @@ import React from "react";
 export default function Page() {
   return (
     <>
-      <EventHero />
+      <Hero />
       <About />
       <WhatElse />
       <Faq />
