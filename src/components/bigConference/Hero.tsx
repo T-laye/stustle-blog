@@ -7,8 +7,8 @@ import HeroInfoTab from "./HeroInfoTab";
 export default function Hero() {
   return (
     <section className=" pt-[90px] bgred-300 relative">
-      <div className="min-h-[80vh] flex ">
-        <div className=" flex-1 flex justify-center mt-20 sm:px-8 px-4">
+      <div className="min-h-[80vh] flex max-lg:flex-col-reverse">
+        <div className=" flex-1 flex justify-center mt-10 lg:mt-20 sm:px-8 px-4">
           <div className="w-fit">
             <div className="text-[64px]  font-medium flex flex-col max-w-3xl">
               <span className="">Your Next</span>
@@ -26,20 +26,20 @@ export default function Hero() {
               </div>
               <span className="place-self-end">Starts Here</span>
             </div>
-            <p className="text-2xl font-normal mt-4 max-w-2xl">
+            <p className="max-lg:text-center text-2xl font-normal mt-4 max-w-2xl">
               If you&apos;re a student or young graduate with big dreams, this
               is where you need to be.
             </p>
           </div>
         </div>
-        <div className=" flex-1">
-          <div className=" w-full h-full">
+        <div className="lg:flex-1">
+          <div className=" w-full h-[50vh] lg:h-full">
             <Image
               alt="Stustlers"
               src="/images/eventHeroImage.svg"
               height={1000}
               width={1000}
-              className="object-cover w-full h-full object-center"
+              className="object-cover object-bottom lg:object-cover w-full h-full lg:object-center"
             />
           </div>
         </div>

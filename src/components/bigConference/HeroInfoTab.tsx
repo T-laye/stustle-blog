@@ -6,7 +6,7 @@ import { RiUserAddLine } from "react-icons/ri";
 import { RxTimer } from "react-icons/rx";
 
 const HeroInfoTab = () => {
-  const style = `flex-1 flex justify-center items-center flex-col gap-5`;
+  const style = `flex-1 flex justify-center items-center flex-col gap-5 p-2`;
   const style2 = `flex flex-col items-center justify-center gap-1`;
 
   const [timeLeft, setTimeLeft] = useState({
@@ -51,7 +51,7 @@ const HeroInfoTab = () => {
   }, []);
 
   return (
-    <div className="absolute left-0 right-0 -bottom-[10%]">
+    <div className="mt-14 lg:absolute left-0 right-0 -bottom-[10%] px-4">
       <div className="bg-[#fefefe] w-full  rounded-[20px] h-[185px] max-w-7xl shadow-lg mx-auto flex justify-between">
         <div className={`${style}`}>
           <RxTimer className="text-primary" size={40} />

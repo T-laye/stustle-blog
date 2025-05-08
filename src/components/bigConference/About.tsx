@@ -1,14 +1,13 @@
 import React from "react";
 import { SlLocationPin } from "react-icons/sl";
 import { IoCalendarOutline } from "react-icons/io5";
+import Subtitle from "./Subtitle";
 
 const About = () => {
   return (
-    <section className="pt-14 sm:pt-44 px-4 sm:px-8 max-sm:pb-20">
+    <section className="pt-28 lg:pt-52 px-4 sm:px-8 max-sm:pb-20">
       <div className="container min-h-[50vh]">
-        <h2 className="mb-4 font-semibold text-xl sm:text-2xl text-primary">
-          About Event
-        </h2>
+        <Subtitle text="About Event" />
         <p>
           The BIG Conference is designed to help you start now, grow faster, and
           build the future you want. If you have a business idea, a skill
