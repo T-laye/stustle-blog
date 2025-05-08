@@ -38,6 +38,7 @@ export default {
       },
       fontFamily: {
         rubik: ["var(--font-rubik)", "sans-serif"],
+        digitNumbers: ["var(--font-digitNumbers)", "sans-serif"],
       },
     },
     variants: {

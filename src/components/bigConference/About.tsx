@@ -4,7 +4,7 @@ import { IoCalendarOutline } from "react-icons/io5";
 
 const About = () => {
   return (
-    <section className="pt-14 sm:pt-32 px-4 sm:px-8 max-sm:pb-20">
+    <section className="pt-14 sm:pt-44 px-4 sm:px-8 max-sm:pb-20">
       <div className="container min-h-[50vh]">
         <h2 className="mb-4 font-semibold text-xl sm:text-2xl text-primary">
           About Event

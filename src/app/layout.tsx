@@ -59,6 +59,17 @@ const rubik = localFont({
   variable: "--font-rubik",
 });
 
+const digitNumbers = localFont({
+  src: [
+    {
+      path: "./fonts/DigitalNumbers-Regular.ttf",
+      weight: "400",
+      style: "normal",
+    },
+  ],
+  variable: "--font-digitNumbers",
+});
+
 export const metadata: Metadata = {
   metadataBase: new URL("https://www.stustle.com"),
   title: {
@@ -95,7 +106,7 @@ export default function RootLayout({
         <meta name="theme-color" content="#E29507" />
       </Head>
       <body
-        className={`${rubik.variable} ${rubik.variable} antialiased bg-white-background`}
+        className={`${rubik.variable} ${rubik.variable} ${digitNumbers.variable} antialiased bg-white-background`}
       >
         <Header />
         <NextTopLoader
