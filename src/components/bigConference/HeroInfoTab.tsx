@@ -8,6 +8,7 @@ import { RxTimer } from "react-icons/rx";
 const HeroInfoTab = () => {
   const style = `flex-1 flex justify-center items-center flex-col gap-5 p-2`;
   const style2 = `flex flex-col items-center justify-center gap-1`;
+  const textShadowStyle = { textShadow: "2px 2px 4px rgba(0, 0, 0, 0.3)" };
 
   const [timeLeft, setTimeLeft] = useState({
     days: "00",
@@ -51,11 +52,11 @@ const HeroInfoTab = () => {
   }, []);
 
   return (
-    <div className="mt-14 lg:absolute left-0 right-0 -bottom-[10%] px-4">
-      <div className="bg-[#fefefe] w-full  rounded-[20px] h-[185px] max-w-7xl shadow-lg mx-auto flex justify-between">
+    <div className="mt-14 lg:absolute left-0 right-0 -bottom-[10%] sm:px-4">
+      <div className="bg-[#fefefe] w-full  rounded-[20px] min-h-[185px] max-w-7xl shadow-lg mx-auto flex max-lg:flex-col justify-between max-lg:p-10 max-lg:gap-10">
         <div className={`${style}`}>
-          <RxTimer className="text-primary" size={40} />
-          <div className="text-shadow-lg flex gap-4 ">
+          <RxTimer className="text-primary text-3xl md:text-5xl " />
+          <div className="text-shadow-lg flex gap-4" style={textShadowStyle}>
             <div className={style2}>
               <span className="font-digitNumbers text-2xl">
                 {timeLeft.days}
@@ -74,7 +75,7 @@ const HeroInfoTab = () => {
               <span className="font-digitNumbers text-2xl">
                 {timeLeft.minutes}
               </span>
-              <span className="">Minutes</span>
+              <span>Minutes</span>
             </div>
             <span className="text-4xl">:</span>
             <div className={style2}>
@@ -85,12 +86,12 @@ const HeroInfoTab = () => {
             </div>
           </div>
         </div>
-        <div className={`${style} border-l border-r border-[#eeeeee]`}>
-          <IoHandRightOutline size={40} className="text-primary" />
-          <span className="italic font-medium text-2xl">Free to attend</span>
+        <div className={`${style} md:border-l md:border-r border-[#eeeeee]`}>
+          <IoHandRightOutline className="text-primary text-3xl md:text-5xl " />
+          <span className="md:italic font-medium text-2xl">Free to attend</span>
         </div>
         <div className={`${style}`}>
-          <RiUserAddLine size={40} className="text-primary" />
+          <RiUserAddLine className="text-primary text-3xl md:text-5xl " />
 
           <div className="w-[250px]">
             <Button style="primary" type="button">

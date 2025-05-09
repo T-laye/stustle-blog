@@ -6,15 +6,15 @@ import HeroInfoTab from "./HeroInfoTab";
 
 export default function Hero() {
   return (
-    <section className=" pt-[90px] bgred-300 relative">
+    <section className="pt-[90px] bgred-300 relative">
       <div className="min-h-[80vh] flex max-lg:flex-col-reverse">
         <div className=" flex-1 flex justify-center mt-10 lg:mt-20 sm:px-8 px-4">
           <div className="w-fit">
-            <div className="text-[64px]  font-medium flex flex-col max-w-3xl">
+            <div className="text-2xl md:text-[64px]  font-medium flex flex-col max-w-3xl">
               <span className="">Your Next</span>
-              <div className="text-[96px] items-center flex italic  -mt-7 -mb-7 font-semibold place-self-center text-primary">
+              <div className="text-5xl whitespace-nowrap md:text-[96px] items-center flex italic -mb-1 -mt-1 lg:-mt-7 lg:-mb-7 font-semibold place-self-center text-primary">
                 <span className="-mr-4">&apos;BIG STEP&apos;</span>
-                <div className="w-40">
+                <div className="w-16 md:w-40">
                   <Image
                     alt="step icon"
                     src="/images/step_icon.svg"
@@ -26,7 +26,7 @@ export default function Hero() {
               </div>
               <span className="place-self-end">Starts Here</span>
             </div>
-            <p className="max-lg:text-center text-2xl font-normal mt-4 max-w-2xl">
+            <p className="max-lg:text-center text-lg md:text-2xl font-normal mt-4 sm:mt-14 max-w-2xl">
               If you&apos;re a student or young graduate with big dreams, this
               is where you need to be.
             </p>
