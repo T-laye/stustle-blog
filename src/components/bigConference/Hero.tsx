@@ -12,7 +12,7 @@ export default function Hero() {
           <div className="w-fit">
             <div className="text-2xl md:text-[64px]  font-medium flex flex-col max-w-3xl">
               <span className="">Your Next</span>
-              <div className="text-5xl whitespace-nowrap md:text-[96px] items-center flex italic -mb-1 -mt-1 lg:-mt-7 lg:-mb-7 font-semibold place-self-center text-primary">
+              <div className="text-5xl whitespace-nowrap md:text-[96px] items-center flex italic -mb-1 -mt-1 md:-mt-7 md:-mb-7 lg:mt-1 lg:mb-1 font-semibold place-self-center text-primary">
                 <span className="-mr-4">&apos;BIG STEP&apos;</span>
                 <div className="w-16 md:w-40">
                   <Image

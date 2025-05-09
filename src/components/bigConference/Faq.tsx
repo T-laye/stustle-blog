@@ -5,6 +5,7 @@ import React, { useEffect, useRef } from "react";
 import { FaqList } from "../ui/FaqList";
 import { gsap } from "gsap";
 import ScrollTrigger from "gsap/ScrollTrigger";
+import Subtitle from "./Subtitle";
 
 // Register ScrollTrigger as a GSAP plugin
 gsap.registerPlugin(ScrollTrigger);
@@ -63,10 +64,12 @@ const Faq = () => {
       {/* FAQ List Section */}
       <div className="flex-1 px-4 sm:px-8">
         <div className="mt-8">
-          <h3 className="flex items-center gap-2 sm:gap-4 text-primary justify-center text-xl sm:text-2xl font-semibold">
-            {/* <RiQuestionFill size={28} /> */}
-            <span>Questions you might have</span>
-          </h3>
+          <div className="flex flex-col items-center justify-center mb-[72px]">
+            <Subtitle
+              text="Questions you might have"
+              style="flex flex-col items-center "
+            />
+          </div>
 
           <ul className="list-none max-w-[614px] mx-auto mt-7 space-y-4">
             {bigConferenceFaqs.map((faq, index) => (
