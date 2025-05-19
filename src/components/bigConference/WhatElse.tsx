@@ -21,19 +21,24 @@ const Content: React.FC<ContentProps> = ({ icon, text }) => {
 export default function WhatElse() {
   const contents = [
     {
-      icon: <CiMicrophoneOn size={30} />,
+      icon: <CiMicrophoneOn size={30} className="text-primary" />,
       text: "Pitch Battles",
     },
     {
-      icon: <BsGlobe2 size={30} />,
+      icon: <BsGlobe2 size={30} className="text-[#4CA94F]" />,
       text: "Web2 & Web3 Challenges",
     },
     {
-      icon: <LiaNetworkWiredSolid size={36} className=" sm:text-2xl" />,
+      icon: (
+        <LiaNetworkWiredSolid
+          size={36}
+          className="text-[#AD1818] sm:text-2xl"
+        />
+      ),
       text: "Networking & Mentorship",
     },
     {
-      icon: <BsBriefcase size={30} className="sm:text-2xl" />,
+      icon: <BsBriefcase size={30} className="sm:text-2xl text-[#CE22B7]" />,
       text: "Business display & Spotlight",
     },
     // {

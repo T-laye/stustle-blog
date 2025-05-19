@@ -5,7 +5,7 @@ import Subtitle from "./Subtitle";
 
 const About = () => {
   return (
-    <section className="pt-28 lg:pt-52 px-4 sm:px-8 max-sm:pb-20">
+    <section className="pt-10 lg:pt-40 px-4 sm:px-8 max-sm:pb-20">
       <div className="container min-h-[50vh]">
         <Subtitle text="About Event" />
         <p>
