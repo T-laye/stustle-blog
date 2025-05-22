@@ -86,17 +86,26 @@
     @apply text-xl sm:text-3xl lg:text-5xl text-white font-medium;
   }
 
-  /* .hero_bg {
+  .hero_bg {
     background-image: linear-gradient(
-        to bottom,
-        rgba(225, 250, 250, 10),
-        rgba(225, 246, 230, 0)
-      ),
-      url("/images/stustle1.jpg");
+      to left,
+      rgba(226, 149, 7, 0.271),
+      #ffffff
+    );
     background-position: top;
     background-repeat: no-repeat;
     background-size: cover;
-  } */
+  }
+  .hero_bg_conference {
+    background-image: linear-gradient(
+      to right,
+      rgba(226, 149, 7, 0.271),
+      #ffffff
+    );
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
 }
 .loader {
   width: 48px;
