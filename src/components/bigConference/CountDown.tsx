@@ -6,6 +6,7 @@ const CountDown = () => {
   const style = `flex-1 flex justify-center items-center flex-col gap-5 p-2`;
   const style2 = `flex flex-col items-center justify-center gap-1`;
   const textShadowStyle = { textShadow: "2px 2px 4px rgba(0, 0, 0, 0.3)" };
+  const [defined] = useState(false);
 
   const [timeLeft, setTimeLeft] = useState({
     days: "00",
@@ -54,33 +55,42 @@ const CountDown = () => {
       <img alt="" className="absolute -top-12 left-16" src="/images/pin.svg" />
       <div className={`${style}`}>
         <RxTimer className="text-primary text-2xl md:text-4xl " />
-        <div
-          className="text-shadow-lg flex gap-2 sm:gap-4"
-          style={textShadowStyle}
-        >
-          <div className={style2}>
-            <span className="font-digitNumbers text-2xl">{timeLeft.days}</span>
-            <span className="">Days</span>
+        {defined && (
+          <div
+            className="text-shadow-lg flex gap-2 sm:gap-4"
+            style={textShadowStyle}
+          >
+            <div className={style2}>
+              <span className="font-digitNumbers text-2xl">
+                {timeLeft.days}
+              </span>
+              <span className="">Days</span>
+            </div>
+            <span className="text-4xl">:</span>
+            <div className={style2}>
+              <span className="font-digitNumbers text-2xl">
+                {timeLeft.hours}
+              </span>
+              <span className="">Hours</span>
+            </div>
+            <span className="text-4xl">:</span>
+            <div className={style2}>
+              <span className="font-digitNumbers text-2xl">
+                {timeLeft.minutes}
+              </span>
+              <span>Minutes</span>
+            </div>
+            <span className="text-4xl">:</span>
+            <div className={style2}>
+              <span className="font-digitNumbers text-2xl">
+                {timeLeft.seconds}
+              </span>
+              <span className="">Seconds</span>
+            </div>
           </div>
-          <span className="text-4xl">:</span>
-          <div className={style2}>
-            <span className="font-digitNumbers text-2xl">{timeLeft.hours}</span>
-            <span className="">Hours</span>
-          </div>
-          <span className="text-4xl">:</span>
-          <div className={style2}>
-            <span className="font-digitNumbers text-2xl">
-              {timeLeft.minutes}
-            </span>
-            <span>Minutes</span>
-          </div>
-          <span className="text-4xl">:</span>
-          <div className={style2}>
-            <span className="font-digitNumbers text-2xl">
-              {timeLeft.seconds}
-            </span>
-            <span className="">Seconds</span>
-          </div>
+        )}
+        <div className={`font-digitNumbers text-xl sm:text-4xl text-center`}>
+          Coming Soon
         </div>
       </div>
     </div>

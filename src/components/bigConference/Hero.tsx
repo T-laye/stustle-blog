@@ -9,11 +9,11 @@ import CountDown from "./CountDown";
 
 export default function Hero() {
   return (
-    <section className="pt-[90px] hero_bg max-md:hero_bg_conference relative">
+    <section className="pt-[90px] pb-10 hero_bg max-md:hero_bg_conference relative">
       {/* <Decors shape="dots" className="-left-24 max-sm:hidden" />
       <Decors shape="polygon" className="right-0" /> */}
       <div className="min-h-[80vh] lg:max-hscreen flex max-lg:flex-col">
-        <div className=" flex-1 flex justify-center items-center max-sm:m-10 sm:px-8 px-4">
+        <div className=" flex-1 flex justify-center items-center max-sm:m-10 sm:px-8">
           <div className="mt-[10%]">
             <div>
               <Image
