@@ -8,6 +8,7 @@ import { Event } from "../../../../types/sanityTypes";
 import Loader from "@/components/ui/Loader";
 import { urlFor } from "@/sanity/lib/image";
 import EventCard from "@/components/ui/EventCard";
+import BigCard from "@/components/bigConference/BigCard";
 // import EventRegisterModal from "@/components/EventRegisterModal";
 
 const Page = () => {
@@ -101,6 +102,7 @@ const Page = () => {
         <div className="text-center w-full ">No Events Available</div>
       ) : (
         <div className="min-h-[50vh] grid min-[510px]:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-10 px-4 md:px-8 pt-10 container  mx-auto ">
+          <BigCard />
           {renderEvents}
         </div>
       )}
