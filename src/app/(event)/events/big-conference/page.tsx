@@ -11,7 +11,7 @@ export default function Page() {
     <>
       <Hero />
       <About />
-      <Speakers />
+      {/* <Speakers /> */}
       <WhatElse />
       <Faq />
       <Partners />
