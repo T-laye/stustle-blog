@@ -90,7 +90,7 @@ const CountDown = () => {
           </div>
         )}
         <div className={`font-digitNumbers text-xl sm:text-4xl text-center`}>
-          Coming Soon
+          August 2025
         </div>
       </div>
     </div>
