@@ -8,7 +8,7 @@ const About = () => {
     <section className="pt-10 sm:pt-20 lg:pt-40 px-4 sm:px-8 max-sm:pb-20">
       <div className="container min-h-[50vh]">
         <Subtitle text="About Event" />
-        <p>
+        <div>
           The BIG Conference is designed to help you start now, grow faster, and
           build the future you want. If you have a business idea, a skill
           you&apos;re developing, or you&apos;re just ready to learn and grow,
@@ -16,14 +16,24 @@ const About = () => {
           opportunities.
           <br />
           <br />
-          It&apos;s our way of tackling the talent gap, by helping young people
-          discover their potential, sharpen their skills, and position them in
-          the right way.
-          {/* <br />
-          <br /> */}
-          One community. Endless possibilities! Come join other bold students
-          and graduates who aren&apos;t waiting for tomorrow to make their mark.
-        </p>
+          This year, we&apos;re focused on{" "}
+          <strong>Building Sustainable talents among young people</strong>
+          <br />
+          <br />
+          <strong>We aim to:</strong>
+          <ul className="list-disc pl-4">
+            <li>
+              Inspire students and young professionals to take bold steps in
+              entrepreneurship and career development.
+            </li>
+            <li>Equip young people with practical skills for growth.</li>
+            <li>
+              Foster community spirit and collaboration amongst student
+              entrepreneurs and innovators.
+            </li>
+            <li>Connect students with industry leaders, and mentors</li>
+          </ul>
+        </div>
 
         <div className="mt-5 sm:mt-10">
           <h2 className="font-semibold text-lg sm:text-xl">Other Details</h2>
