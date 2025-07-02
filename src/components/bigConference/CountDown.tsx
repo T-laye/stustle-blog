@@ -6,7 +6,7 @@ const CountDown = () => {
   const style = `flex-1 flex justify-center items-center flex-col gap-5 p-2`;
   const style2 = `flex flex-col items-center justify-center gap-1`;
   const textShadowStyle = { textShadow: "2px 2px 4px rgba(0, 0, 0, 0.3)" };
-  const [defined] = useState(false);
+  const [defined] = useState(true);
 
   const [timeLeft, setTimeLeft] = useState({
     days: "00",
@@ -18,7 +18,7 @@ const CountDown = () => {
   useEffect(() => {
     const calculateTimeLeft = () => {
       const now = new Date();
-      const targetDate = new Date(now.getFullYear(), 4, 31, 23, 59, 59); // May 31st, 11:59:59 PM
+      const targetDate = new Date(now.getFullYear(), 7, 9, 23, 59, 59);// Aug 8th, 11:59:59 PM
       const difference = targetDate.getTime() - now.getTime();
 
       if (difference <= 0) {
@@ -89,9 +89,9 @@ const CountDown = () => {
             </div>
           </div>
         )}
-        <div className={`font-digitNumbers text-xl sm:text-4xl text-center`}>
+        {/* <div className={`font-digitNumbers text-xl sm:text-4xl text-center`}>
           August 2025
-        </div>
+        </div> */}
       </div>
     </div>
   );
