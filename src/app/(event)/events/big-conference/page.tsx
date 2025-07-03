@@ -5,12 +5,14 @@ import Partners from "@/components/bigConference/Partners";
 // import Speakers from "@/components/bigConference/Speakers";
 import WhatElse from "@/components/bigConference/WhatElse";
 import React from "react";
+import GenerateImage from "../../../../components/bigConference/GenerateImage";
 
 export default function Page() {
   return (
     <>
       <Hero />
       <About />
+      <GenerateImage />
       {/* <Speakers /> */}
       <WhatElse />
       <Faq />

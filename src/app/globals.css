@@ -52,6 +52,8 @@
   h3 {
     @apply text-xl  sm:text-3xl text-center;
   }
+
+  /* .input-class */
 }
 
 @layer components {
@@ -63,6 +65,7 @@
   }
   .input-class {
     @apply h-10 px-2  w-full min-[1360px]:max-w-[800px] border border-primary-active rounded-md text-base caret-primary placeholder:text-gray-300 placeholder:italic outline-none focus:border focus:border-primary-100  duration-150;
+    
   }
 
   /* .btn {

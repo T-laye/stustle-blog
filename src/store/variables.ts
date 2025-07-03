@@ -51,3 +51,30 @@ export const useEventModalStore = create<EventModalStore>((set) => ({
   toggleEventModal: () =>
     set((state) => ({ isEventModalOpen: !state.isEventModalOpen })),
 }));
+
+interface ImageState {
+  name: string;
+  selectedFile: File | null;
+  previewUrl: string | null;
+  setName: (name: string) => void;
+  setSelectedFile: (file: File | null) => void;
+  setPreviewUrl: (url: string | null) => void;
+  resetState: () => void;
+}
+
+export const useImageStore = create<ImageState>((set) => ({
+  name: '',
+  selectedFile: null,
+  previewUrl: null,
+  setName: (name) => set({ name }),
+  setSelectedFile: (file) => {
+    if (file) {
+      const url = URL.createObjectURL(file);
+      set({ selectedFile: file, previewUrl: url });
+    } else {
+      set({ selectedFile: null, previewUrl: null });
+    }
+  },
+  setPreviewUrl: (url) => set({ previewUrl: url }),
+  resetState: () => set({ name: '', selectedFile: null, previewUrl: null }),
+}));
