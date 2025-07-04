@@ -104,7 +104,7 @@ const GenerateImage = () => {
         </div>
         <div className="w-full">
           <h2 className="text-xl font-medium text-center mb-7">
-            Generate your Attendeed DP here
+            Generate your Attendees DP here
           </h2>
 
           <div className="flex flex-col gap-4 max-w-[500px] mx-auto">
