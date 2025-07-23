@@ -38,15 +38,17 @@ const About = () => {
         <div className="mt-5 sm:mt-10">
           <h2 className="font-semibold text-lg sm:text-xl">Other Details</h2>
 
-          <div className="flex gap-2 mt-4">
-            <SlLocationPin className="text-[20px] sm:text-2xl" />
+          <div className="flex gap-2 mt-4 items-center">
+            <SlLocationPin className="text-[20px] sm:text-2xl min-w-5" />
             <span className="sm:text-[18px]">
-              Delta State, Nigeria(In-person) | | Live Stream
+              Airport Road, Opposite Mosheshe Estate, Effurun, Delta State,
+              Nigeria (Exact details will be shared with registered participants
+              only) | | Live Stream
             </span>
           </div>
           <div className="flex gap-2 mt-4">
             <IoCalendarOutline className="text-[20px] sm:text-2xl" />
-            <span className="sm:text-[18px]">August 2025.</span>
+            <span className="sm:text-[18px]">9th August, 2025.</span>
           </div>
         </div>
       </div>
