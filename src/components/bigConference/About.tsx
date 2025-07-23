@@ -42,8 +42,8 @@ const About = () => {
             <SlLocationPin className="text-[20px] sm:text-2xl min-w-5" />
             <span className="sm:text-[18px]">
               Airport Road, Opposite Mosheshe Estate, Effurun, Delta State,
-              Nigeria (Exact details will be shared with registered participants
-              only) | | Live Stream
+              Nigeria <br className="max-lg:hidden" /> (Exact details will be
+              shared with registered participants only) | | Live Stream.
             </span>
           </div>
           <div className="flex gap-2 mt-4">
