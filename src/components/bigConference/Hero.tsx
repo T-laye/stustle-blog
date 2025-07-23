@@ -13,9 +13,9 @@ export default function Hero() {
   const registerNow = () => {
     window.open("https://forms.gle/5c6fMUpYzayLpZai8", "_blank");
   };
-  const joinVolunteers = () => {
-    window.open("https://forms.gle/zVy2CJeuHe52ies18", "_blank");
-  };
+  // const joinVolunteers = () => {
+  //   window.open("https://forms.gle/zVy2CJeuHe52ies18", "_blank");
+  // };
 
   return (
     <section className="pt-[90px] pb-10 hero_bg max-md:hero_bg_conference relative">
@@ -53,13 +53,13 @@ export default function Hero() {
               If you&apos;re a student or young graduate with big dreams, this
               is where you need to be.
             </p>
-            <div className="flex gap-4 mt-8 sm:mt-14 max-lg:justify-center max-sm:flex-wrap">
+            <div className="flex gap-4 mt-8 sm:mt-14 max-lg:justify-center max-sm:flex-wrap lg:w-1/2 lg:mx-auto">
               <Button style="primary" type="button" fn={registerNow}>
                 Register
               </Button>
-              <Button style="secondary" type="button" fn={joinVolunteers}>
+              {/* <Button style="secondary" type="button" fn={joinVolunteers}>
                 Volunteer
-              </Button>
+              </Button> */}
             </div>
             <div className="mt-20  max-lg:justify-center flex">
               <CountDown />
