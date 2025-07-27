@@ -1,21 +1,29 @@
 import Image from "next/image";
 import React from "react";
 
-const SpeakerCard = () => {
+const SpeakerCard = ({
+  name,
+  img,
+  role,
+}: {
+  name: string;
+  img: string;
+  role: string;
+}) => {
   return (
     <div className="flex flex-col items-center gap-4">
-      <div className="overflow-hidden  w-[300px] h-[300px] rounded-full">
+      <div className="overflow-hidden  w-[300px] h-[300px] rounded-full bg-[#eee]">
         <Image
           alt="Speaker"
-          src="/images/Ellipse 63.png"
-          className="h-full w-full object-cover"
+          src={img}
+          className="h-full w-full object-cover object-top"
           height={500}
           width={500}
         />
       </div>
       <div>
-        <h5 className="font-medium text-[18px]">Speaker Name</h5>
-        <span>Role/Position</span>
+        <h5 className="font-medium text-[18px] text-center">{name}</h5>
+        <p className="text-center">{role}</p>
       </div>
     </div>
   );

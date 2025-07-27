@@ -1,6 +1,7 @@
 import React from "react";
 import SpeakerCard from "./SpeakerCard";
 import Subtitle from "./Subtitle";
+import { speakers } from "../../utils/contents";
 
 const Speakers = () => {
   return (
@@ -10,10 +11,9 @@ const Speakers = () => {
       </div>
 
       <div className="flex justify-center gap-12 flex-wrap">
-        <SpeakerCard />
-        <SpeakerCard />
-        <SpeakerCard />
-        <SpeakerCard />
+        {speakers.map((s, i) => (
+          <SpeakerCard key={i} img={s.img} name={s.name} role={s.role} />
+        ))}
       </div>
     </section>
   );

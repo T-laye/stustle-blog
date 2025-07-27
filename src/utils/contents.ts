@@ -147,3 +147,6201 @@ export const bigConferenceFaqs = [
       "No, you don’t! While the BIG Conference will hold in-person in Delta State, there will also be virtual access for participants from other states or countries. Once you register, you’ll receive updates and a link to join online if you’re attending virtually.",
   },
 ];
+
+export const speakers = [
+  {
+    name: "Great Owete",
+    role: "Talent & Leadership Consultant",
+    img: "/images/great.jpeg",
+  },
+  {
+    name: "Norman Osaruyi",
+    role: "Co-founder & CTO SkysenxHub",
+    img: "/images/norman.jpg",
+  },
+  {
+    name: "Obaro Uti",
+    role: "CEO Elvis Solutions",
+    img: "/images/obaro.jpeg",
+  },
+  {
+    name: "Timothy Ovie",
+    role: "Programs & Community Manager",
+    img: "/images/timothy.jpg",
+  },
+  {
+    name: "Chidera Nwanyemike",
+    role: "CEO South Circle",
+    img: "/images/chidera.jpg",
+  },
+  {
+    name: "Becky Ogheneakporobo",
+    role: "Administrative Manager, CBC Blockchain Services",
+    img: "/images/becky.jpg",
+  },
+  {
+    name: "David Arawore",
+    role: "WEB3 Brand Strategist",
+    img: "/images/daravid.jpg",
+  },
+];
+
+
+export const sponsors = [
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash-logo.png",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+];
