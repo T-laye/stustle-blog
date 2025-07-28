@@ -192,6 +192,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -230,42 +234,8 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  ///////////////////////////////
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -306,42 +276,8 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  ///////////////////////////////
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -382,42 +318,8 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  ///////////////////////////////
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -458,2485 +360,8 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-
-  ///////////////////////////////
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -2977,42 +402,8 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  ///////////////////////////////
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -3053,42 +444,8 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  ///////////////////////////////
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -3129,42 +486,8 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  ///////////////////////////////
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -3204,6 +527,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -3239,6 +566,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -3276,6 +607,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -3315,6 +650,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -3352,6 +691,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -3387,6 +730,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -3424,6 +771,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -3461,6 +812,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -3500,6 +855,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -3537,6 +896,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -3572,6 +935,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -3609,6 +976,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -3648,6 +1019,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -3683,6 +1058,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -3720,6 +1099,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -3757,6 +1140,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -3796,6 +1183,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -3833,6 +1224,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -3868,6 +1263,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -3905,6 +1304,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -3942,6 +1345,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -3981,6 +1388,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -4016,6 +1427,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -4053,6 +1468,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -4092,6 +1511,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -4129,6 +1552,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -4164,6 +1591,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -4201,6 +1632,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -4238,6 +1673,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -4277,6 +1716,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -4314,6 +1757,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -4349,6 +1796,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -4386,6 +1837,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -4425,6 +1880,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -4460,6 +1919,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -4497,6 +1960,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -4534,6 +2001,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -4573,6 +2044,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -4610,6 +2085,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -4645,6 +2124,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -4682,6 +2165,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -4719,6 +2206,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -4758,6 +2249,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -4793,6 +2288,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -4830,6 +2329,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -4869,6 +2372,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -4906,6 +2413,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -4941,6 +2452,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -4978,6 +2493,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -5015,6 +2534,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -5054,6 +2577,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -5091,6 +2618,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -5126,6 +2657,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -5163,6 +2698,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -5202,6 +2741,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -5237,6 +2780,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -5274,6 +2821,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -5311,6 +2862,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -5350,6 +2905,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -5387,6 +2946,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -5422,6 +2985,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -5459,6 +3026,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -5496,6 +3067,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -5535,6 +3110,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -5570,6 +3149,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -5607,6 +3190,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -5648,42 +3235,8 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  ///////////////////////////////
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -5724,42 +3277,8 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  ///////////////////////////////
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -5800,42 +3319,8 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  ///////////////////////////////
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -5876,2484 +3361,8 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-
-  ///////////////////////////////
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -8394,42 +3403,8 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  ///////////////////////////////
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -8470,42 +3445,8 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  ///////////////////////////////
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -8546,42 +3487,8 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  ///////////////////////////////
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -8621,6 +3528,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -8656,6 +3567,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -8693,6 +3608,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -8732,6 +3651,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -8769,6 +3692,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -8804,6 +3731,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -8841,6 +3772,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -8878,6 +3813,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -8917,6 +3856,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -8954,6 +3897,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -8989,6 +3936,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -9026,6 +3977,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -9065,6 +4020,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -9100,6 +4059,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -9137,6 +4100,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -9174,6 +4141,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -9213,6 +4184,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -9250,6 +4225,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -9285,6 +4264,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -9322,6 +4305,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -9359,6 +4346,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -9398,6 +4389,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -9433,6 +4428,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -9470,6 +4469,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -9509,6 +4512,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -9546,6 +4553,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -9581,6 +4592,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -9618,6 +4633,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -9655,6 +4674,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -9694,6 +4717,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -9731,6 +4758,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -9766,6 +4797,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -9803,6 +4838,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -9842,6 +4881,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -9877,6 +4920,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -9914,6 +4961,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -9951,6 +5002,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -9990,6 +5045,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -10027,6 +5086,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -10062,6 +5125,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -10099,6 +5166,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -10136,6 +5207,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -10175,6 +5250,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -10210,6 +5289,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -10247,6 +5330,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -10286,6 +5373,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -10323,6 +5414,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -10358,6 +5453,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -10395,6 +5494,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -10432,6 +5535,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -10471,6 +5578,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -10508,6 +5619,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -10543,6 +5658,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -10580,6 +5699,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -10619,6 +5742,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -10654,6 +5781,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -10691,6 +5822,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -10728,6 +5863,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -10767,6 +5906,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -10804,6 +5947,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -10839,6 +5986,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -10876,6 +6027,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -10913,6 +6068,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -10952,6 +6111,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -10987,6 +6150,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -11024,6 +6191,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -11065,42 +6236,8 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  ///////////////////////////////
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -11141,42 +6278,8 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  ///////////////////////////////
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -11217,42 +6320,8 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  ///////////////////////////////
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -11293,2485 +6362,8 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-
-  ///////////////////////////////
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -13812,42 +6404,8 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  ///////////////////////////////
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -13888,42 +6446,8 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  ///////////////////////////////
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -13964,6 +6488,2758 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -14002,2484 +9278,8 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-
-  ///////////////////////////////
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -16520,42 +9320,8 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  ///////////////////////////////
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -16596,42 +9362,8 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  ///////////////////////////////
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -16672,6 +9404,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -16710,6 +9446,52 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -16745,6 +9527,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -16784,6 +9570,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -16821,6 +9611,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -16856,6 +9650,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -16893,6 +9691,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -16930,6 +9732,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -16969,6 +9775,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -17006,6 +9816,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -17041,6 +9855,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -17078,6 +9896,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -17117,6 +9939,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -17152,6 +9978,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -17189,6 +10019,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -17226,6 +10060,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -17265,6 +10103,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -17300,6 +10142,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -17337,6 +10183,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -17376,6 +10226,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -17413,6 +10267,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -17448,6 +10306,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -17485,6 +10347,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -17524,6 +10390,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -17559,6 +10429,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -17596,6 +10470,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -17633,6 +10511,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -17672,6 +10554,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -17709,6 +10595,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -17744,6 +10634,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -17781,6 +10675,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -17818,6 +10716,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -17857,6 +10759,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -17892,6 +10798,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -17929,6 +10839,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -17968,6 +10882,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -18005,6 +10923,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -18040,6 +10962,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -18077,6 +11003,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -18116,6 +11046,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -18151,6 +11085,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -18188,6 +11126,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -18225,6 +11167,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -18264,6 +11210,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -18299,6 +11249,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -18336,6 +11290,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -18375,6 +11333,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -18412,6 +11374,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -18447,6 +11413,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -18484,6 +11454,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -18523,6 +11497,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -18558,6 +11536,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -18595,6 +11577,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -18632,6 +11618,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -18671,6 +11661,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -18706,6 +11700,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -18743,6 +11741,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -18782,6 +11784,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -18819,6 +11825,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -18854,6 +11864,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -18891,6 +11905,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -18930,6 +11948,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -18965,6 +11987,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -19002,6 +12028,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -19039,6 +12069,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -19078,6 +12112,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -19113,6 +12151,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -19150,6 +12192,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -19191,42 +12237,8 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  ///////////////////////////////
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -19267,42 +12279,8 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  ///////////////////////////////
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -19343,42 +12321,8 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  ///////////////////////////////
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -19419,6 +12363,136 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -19454,6 +12528,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -19493,6 +12571,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -19528,6 +12610,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -19567,6 +12653,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -19602,6 +12692,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -19639,6 +12733,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -19676,6 +12774,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -19713,6 +12815,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -19750,6 +12856,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -19787,6 +12897,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -19824,6 +12938,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -19861,6 +12979,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -19898,6 +13020,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -19935,6 +13061,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -19972,6 +13102,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -20009,6 +13143,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -20046,6 +13184,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -20083,6 +13225,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -20120,6 +13266,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -20157,6 +13307,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -20194,6 +13348,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -20231,6 +13389,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -20268,6 +13430,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -20305,6 +13471,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -20342,6 +13512,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -20379,6 +13553,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -20416,6 +13594,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -20453,6 +13635,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -20490,6 +13676,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -20527,6 +13717,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -20564,6 +13758,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -20601,6 +13799,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -20638,6 +13840,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -20675,6 +13881,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -20712,6 +13922,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -20749,6 +13963,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -20788,6 +14006,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -20823,6 +14045,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -20862,6 +14088,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -20897,6 +14127,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -20936,6 +14170,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -20971,6 +14209,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -21010,6 +14252,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -21045,6 +14291,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -21084,6 +14334,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -21119,6 +14373,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -21158,6 +14416,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -21193,6 +14455,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -21232,6 +14498,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -21267,6 +14537,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -21306,6 +14580,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -21341,6 +14619,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -21380,6 +14662,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -21415,6 +14701,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -21454,6 +14744,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -21489,6 +14783,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -21528,6 +14826,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -21563,6 +14865,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -21602,6 +14908,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -21637,6 +14947,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -21676,6 +14990,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -21711,6 +15029,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -21750,6 +15072,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -21785,6 +15111,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -21824,6 +15154,10 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -21859,6 +15193,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -21900,42 +15238,8 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  ///////////////////////////////
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -21976,42 +15280,8 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  ///////////////////////////////
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -22052,42 +15322,8 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-  {
-    logo: "/images/block-chain-logo.svg",
-    name: "Block Chain",
-  },
-
-  {
-    logo: "/images/sug-logo.svg",
-    name: "SUG",
-  },
-  {
-    logo: "/images/nans-logo.svg",
-    name: "NANS",
-  },
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  ///////////////////////////////
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -22128,6 +15364,9138 @@ export const sponsors = [
     name: "Cake wallet",
   },
   {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+  {
+    logo: "/images/block-chain-logo.svg",
+    name: "Block Chain",
+  },
+
+  {
+    logo: "/images/sug-logo.svg",
+    name: "SUG",
+  },
+  {
+    logo: "/images/nans-logo.svg",
+    name: "NANS",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
     logo: "/images/akash-logo.svg",
     name: "Akash",
   },
@@ -22163,6 +24531,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -22200,6 +24572,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -22237,6 +24613,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -22274,6 +24654,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -22311,6 +24695,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -22348,6 +24736,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -22385,6 +24777,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -22422,6 +24818,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -22459,6 +24859,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -22496,6 +24900,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -22533,6 +24941,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -22570,6 +24982,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -22607,6 +25023,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -22644,6 +25064,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -22681,6 +25105,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -22718,6 +25146,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -22755,6 +25187,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -22792,6 +25228,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -22829,6 +25269,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -22866,6 +25310,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -22903,6 +25351,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -22940,6 +25392,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -22977,6 +25433,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -23014,6 +25474,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -23051,6 +25515,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -23088,6 +25556,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -23125,6 +25597,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -23162,6 +25638,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -23199,6 +25679,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -23236,6 +25720,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -23273,6 +25761,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -23310,6 +25802,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -23347,6 +25843,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -23384,6 +25884,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -23421,6 +25925,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -23458,6 +25966,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -23495,6 +26007,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -23532,6 +26048,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -23569,6 +26089,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -23606,6 +26130,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -23643,6 +26171,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -23680,6 +26212,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -23717,6 +26253,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -23754,6 +26294,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -23791,6 +26335,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -23828,6 +26376,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -23865,6 +26417,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -23902,6 +26458,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -23939,6 +26499,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -23976,6 +26540,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -24013,6 +26581,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -24050,6 +26622,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -24087,6 +26663,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -24124,6 +26704,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -24161,6 +26745,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -24198,6 +26786,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -24235,6 +26827,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -24272,6 +26868,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -24309,6 +26909,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -24346,6 +26950,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -24383,6 +26991,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -24420,6 +27032,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -24457,6 +27073,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -24494,6 +27114,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
@@ -24531,6 +27155,10 @@ export const sponsors = [
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
   },
   {
     logo: "/images/akash-logo.svg",
