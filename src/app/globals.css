@@ -166,7 +166,7 @@
 
 .animate-scroll {
   display: flex;
-  animation: scroll 10s linear infinite;
+  animation: scroll 20s linear infinite;
   will-change: transform;
 }
 
@@ -181,6 +181,6 @@
 
 .animate-scroll-reverse {
   display: flex;
-  animation: scroll-reverse 10s linear infinite;
+  animation: scroll-reverse 20s linear infinite;
   will-change: transform;
 }
