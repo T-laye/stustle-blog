@@ -5,7 +5,7 @@ import Partners from "@/components/bigConference/Partners";
 import Speakers from "@/components/bigConference/Speakers";
 import WhatElse from "@/components/bigConference/WhatElse";
 import React from "react";
-import GenerateImage from "../../../../components/bigConference/GenerateImage";
+// import GenerateImage from "../../../../components/bigConference/GenerateImage";
 import Sponsors from "../../../../components/bigConference/Sponsors";
 
 export default function Page() {
@@ -13,7 +13,7 @@ export default function Page() {
     <>
       <Hero />
       <About />
-      <GenerateImage />
+      {/* <GenerateImage /> */}
       <Sponsors />
       <Speakers />
       <WhatElse />
