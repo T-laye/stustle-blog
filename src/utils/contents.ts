@@ -190,7 +190,7 @@ export const speakers = [
   },
   {
     name: "Jane Agadia",
-    role: "Co-founder & CEO Stustle",
+    role: "Teamlead Stustle",
     img: "/images/jane.jpg",
   },
 ];
