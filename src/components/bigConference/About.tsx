@@ -9,7 +9,7 @@ const About = () => {
     <section className="pt-10 sm:pt-20 lg:pt-40 px-4 sm:px-8 max-sm:pb-20">
       <div className="container min-h-[50vh]">
         <Subtitle text="About Event" />
-        <div>
+        <div className="sm:text-xl">
           The B.I.G Conference 2025 was nothing short of transformational!
           Designed to help young people start now, grow faster, and build the
           future they want, the conference brought together vibrant students,

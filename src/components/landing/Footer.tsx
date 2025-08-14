@@ -40,7 +40,9 @@ const Footer = () => {
             Join our community
           </div> */}
           <div className="w-full bg-blue300 place-self-center max-sm:order-3 max-sm:col-span-3 px-2  ">
-            <Link href="#">Join our community</Link>
+            <Link href="https://wa.me/2348115237006?text=Hi%2C%20My%20name%20is%20_______%20I%27d%20love%20to%20work%20with%20you%20guys." target="_blank">
+              Join our community
+            </Link>
           </div>
 
           <div className="bgred-300 max-sm:order-2 w-fit place-self-end max-[300px]:place-self-start gap-6 flex flex-col justify-center max-sm:gap-4 max-sm:items-center max-[300px]:items-start max-sm:col-span-2 ">
