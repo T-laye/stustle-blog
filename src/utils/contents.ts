@@ -122,6 +122,10 @@ export const faqs = [
 ];
 export const bigConferenceFaqs = [
   {
+    question: "Will the B.I.G conference happen in 2026?",
+    answer: "Yes it will",
+  },
+  {
     question: "Who can attend the BIG Conference?",
     answer:
       "The conference is open to STUDENTS and YOUNG GRADUATES from any institution who are interested in entrepreneurship, remote work, innovation, and career growth.",
@@ -184,6 +188,11 @@ export const speakers = [
     role: "WEB3 Brand Strategist",
     img: "/images/daravid.jpg",
   },
+  {
+    name: "Jane Agadia",
+    role: "Co-founder & CEO Stustle",
+    img: "/images/jane.jpg",
+  },
 ];
 
 export const sponsors = [
@@ -211,6 +220,10 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -244,6 +257,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -276,6 +293,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -308,6 +329,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -340,6 +365,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -372,6 +401,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -404,6 +437,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -436,2090 +473,14 @@ export const sponsors = [
 
 
 
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-
-  ///////////////////////////////
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
   },
-
-
-
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
   },
-  ///////////////////////////////
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
@@ -2547,43 +508,14 @@ export const sponsors = [
 
 
 
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  ///////////////////////////////
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
   },
   {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
   },
-  ///////////////////////////////
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
@@ -2611,43 +543,14 @@ export const sponsors = [
 
 
 
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  ///////////////////////////////
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
   },
-
-
-
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
   },
-  ///////////////////////////////
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
@@ -2675,39 +578,11 @@ export const sponsors = [
 
 
 
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  ///////////////////////////////
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
   },
   {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
   },
@@ -2738,37 +613,10 @@ export const sponsors = [
 
 
 
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
   },
-
-
-
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -2800,38 +648,11 @@ export const sponsors = [
 
 
 
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
   },
   {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
   },
@@ -2862,37 +683,10 @@ export const sponsors = [
 
 
 
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
   },
-
-
-
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -2924,6 +718,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -2955,6 +753,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -2986,6 +788,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -3017,6 +823,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -3048,6 +858,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -3079,6 +893,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -3110,6 +928,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -3141,6 +963,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -3172,6 +998,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -3203,6 +1033,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -3234,6 +1068,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -3265,6 +1103,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -3296,6 +1138,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -3327,6 +1173,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -3358,6 +1208,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -3389,6 +1243,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -3420,6 +1278,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -3451,6 +1313,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -3482,6 +1348,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -3513,6 +1383,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -3544,6 +1418,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -3575,6 +1453,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -3606,6 +1488,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -3637,6 +1523,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -3668,6 +1558,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -3699,6 +1593,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -3730,6 +1628,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -3761,6 +1663,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -3792,6 +1698,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -3823,6 +1733,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -3854,6 +1768,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -3885,6 +1803,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -3916,6 +1838,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -3947,6 +1873,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -3978,6 +1908,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -4009,6 +1943,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -4040,6 +1978,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -4071,6 +2013,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -4102,6 +2048,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -4133,6 +2083,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -4164,6 +2118,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -4195,6 +2153,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -4226,6 +2188,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -4257,6 +2223,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -4288,6 +2258,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -4319,6 +2293,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -4350,6 +2328,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -4381,6 +2363,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -4412,6 +2398,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -4443,6 +2433,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -4474,6 +2468,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -4505,6 +2503,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -4536,6 +2538,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -4567,6 +2573,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -4598,6 +2608,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -4629,6 +2643,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -4660,6 +2678,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -4691,6 +2713,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -4722,6 +2748,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -4753,6 +2783,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -4786,6 +2820,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -4818,6 +2856,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -4850,6 +2892,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -4882,6 +2928,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -4914,6 +2964,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -4946,6 +3000,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -4978,2089 +3036,14 @@ export const sponsors = [
 
 
 
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-
-  ///////////////////////////////
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
   },
-
-
-
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
   },
-  ///////////////////////////////
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
@@ -7088,43 +3071,14 @@ export const sponsors = [
 
 
 
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  ///////////////////////////////
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
   },
   {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
   },
-  ///////////////////////////////
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
@@ -7152,43 +3106,14 @@ export const sponsors = [
 
 
 
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  ///////////////////////////////
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
   },
-
-
-
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
   },
-  ///////////////////////////////
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
@@ -7216,39 +3141,11 @@ export const sponsors = [
 
 
 
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  ///////////////////////////////
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
   },
   {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
   },
@@ -7279,37 +3176,10 @@ export const sponsors = [
 
 
 
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
   },
-
-
-
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -7341,38 +3211,11 @@ export const sponsors = [
 
 
 
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
   },
   {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
   },
@@ -7403,37 +3246,10 @@ export const sponsors = [
 
 
 
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
   },
-
-
-
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -7465,6 +3281,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -7496,6 +3316,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -7527,6 +3351,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -7558,6 +3386,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -7589,6 +3421,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -7620,6 +3456,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -7651,6 +3491,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -7682,6 +3526,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -7713,6 +3561,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -7744,6 +3596,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -7775,6 +3631,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -7806,6 +3666,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -7837,6 +3701,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -7868,6 +3736,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -7899,6 +3771,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -7930,6 +3806,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -7961,6 +3841,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -7992,6 +3876,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -8023,6 +3911,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -8054,6 +3946,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -8085,6 +3981,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -8116,6 +4016,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -8147,6 +4051,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -8178,6 +4086,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -8209,6 +4121,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -8240,6 +4156,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -8271,6 +4191,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -8302,6 +4226,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -8333,6 +4261,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -8364,6 +4296,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -8395,6 +4331,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -8426,6 +4366,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -8457,6 +4401,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -8488,6 +4436,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -8519,6 +4471,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -8550,6 +4506,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -8581,6 +4541,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -8612,6 +4576,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -8643,6 +4611,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -8674,6 +4646,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -8705,6 +4681,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -8736,6 +4716,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -8767,6 +4751,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -8798,6 +4786,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -8829,6 +4821,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -8860,6 +4856,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -8891,6 +4891,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -8922,6 +4926,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -8953,6 +4961,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -8984,6 +4996,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -9015,6 +5031,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -9046,6 +5066,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -9077,6 +5101,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -9108,6 +5136,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -9139,6 +5171,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -9170,6 +5206,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -9201,6 +5241,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -9232,6 +5276,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -9263,6 +5311,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -9294,6 +5346,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -9327,6 +5383,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -9359,6 +5419,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -9391,6 +5455,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -9423,6 +5491,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -9455,6 +5527,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -9487,6 +5563,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -9519,2090 +5599,14 @@ export const sponsors = [
 
 
 
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-
-  ///////////////////////////////
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
   },
-
-
-
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
   },
-  ///////////////////////////////
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
@@ -11630,43 +5634,14 @@ export const sponsors = [
 
 
 
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  ///////////////////////////////
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
   },
   {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
   },
-  ///////////////////////////////
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
@@ -11694,43 +5669,14 @@ export const sponsors = [
 
 
 
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  ///////////////////////////////
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
   },
-
-
-
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
   },
-  ///////////////////////////////
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
@@ -11758,39 +5704,11 @@ export const sponsors = [
 
 
 
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  ///////////////////////////////
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
   },
   {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
   },
@@ -11821,37 +5739,10 @@ export const sponsors = [
 
 
 
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
   },
-
-
-
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -11883,38 +5774,11 @@ export const sponsors = [
 
 
 
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
   },
   {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
   },
@@ -11945,37 +5809,10 @@ export const sponsors = [
 
 
 
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
   },
-
-
-
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -12007,6 +5844,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -12038,6 +5879,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -12069,6 +5914,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -12100,6 +5949,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -12131,6 +5984,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -12162,6 +6019,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -12193,6 +6054,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -12224,6 +6089,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -12255,6 +6124,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -12286,6 +6159,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -12317,6 +6194,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -12348,6 +6229,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -12379,6 +6264,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -12410,6 +6299,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -12441,6 +6334,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -12472,6 +6369,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -12503,6 +6404,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -12534,6 +6439,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -12565,6 +6474,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -12596,6 +6509,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -12627,6 +6544,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -12658,6 +6579,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -12689,6 +6614,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -12720,6 +6649,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -12751,6 +6684,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -12782,6 +6719,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -12813,6 +6754,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -12844,6 +6789,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -12875,6 +6824,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -12906,6 +6859,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -12937,6 +6894,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -12968,6 +6929,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -12999,6 +6964,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -13030,6 +6999,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -13061,6 +7034,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -13092,6 +7069,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -13123,6 +7104,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -13154,6 +7139,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -13185,6 +7174,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -13216,6 +7209,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -13247,6 +7244,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -13278,6 +7279,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -13309,6 +7314,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -13340,6 +7349,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -13371,6 +7384,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -13402,6 +7419,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -13433,6 +7454,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -13464,6 +7489,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -13495,6 +7524,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -13526,6 +7559,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -13557,6 +7594,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -13588,6 +7629,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -13619,6 +7664,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -13650,6 +7699,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -13681,6 +7734,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -13712,6 +7769,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -13743,6 +7804,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -13774,6 +7839,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -13805,6 +7874,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -13835,6 +7908,10 @@ export const sponsors = [
   },
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -13868,6 +7945,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -13900,6 +7981,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -13932,6 +8017,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -13964,6 +8053,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -13996,6 +8089,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -14028,6 +8125,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -14060,2090 +8161,14 @@ export const sponsors = [
 
 
 
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-
-  ///////////////////////////////
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
   },
-
-
-
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
   },
-  ///////////////////////////////
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
@@ -16171,43 +8196,14 @@ export const sponsors = [
 
 
 
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  ///////////////////////////////
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
   },
   {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
   },
-  ///////////////////////////////
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
@@ -16235,43 +8231,14 @@ export const sponsors = [
 
 
 
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  ///////////////////////////////
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
   },
-
-
-
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
   },
-  ///////////////////////////////
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
@@ -16299,39 +8266,11 @@ export const sponsors = [
 
 
 
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  ///////////////////////////////
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
   },
   {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
   },
@@ -16362,37 +8301,10 @@ export const sponsors = [
 
 
 
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
   },
-
-
-
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -16424,38 +8336,11 @@ export const sponsors = [
 
 
 
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
   },
   {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
-
-
-
-  {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
   },
@@ -16486,37 +8371,10 @@ export const sponsors = [
 
 
 
-  {
-    logo: "/images/mscc-logo.svg",
-    name: "MSCC",
-  },
-  {
-    logo: "/images/cake-wallet-logo.svg",
-    name: "Cake wallet",
-  },
-  {
-    logo: "/images/skysenx-logo.svg",
-    name: "Skysenx",
-  },
-  {
-    logo: "/images/akash-logo.svg",
-    name: "Akash",
-  },
-  {
-    logo: "/images/purple-wash.jpg",
-    name: "Purple Wash",
-  },
-  {
-    logo: "/images/gdg.jpg",
-    name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
   },
-
-
-
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -16548,6 +8406,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -16579,6 +8441,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -16610,6 +8476,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -16641,6 +8511,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -16672,6 +8546,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -16703,6 +8581,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -16734,6 +8616,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -16765,6 +8651,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -16796,6 +8686,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -16827,6 +8721,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -16858,6 +8756,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -16889,6 +8791,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -16920,6 +8826,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -16951,6 +8861,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -16982,6 +8896,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -17013,6 +8931,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -17044,6 +8966,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -17075,6 +9001,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -17106,6 +9036,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -17137,6 +9071,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -17168,6 +9106,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -17199,6 +9141,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -17230,6 +9176,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -17261,6 +9211,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -17292,6 +9246,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -17323,6 +9281,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -17354,6 +9316,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -17385,6 +9351,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -17416,6 +9386,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -17447,6 +9421,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -17478,6 +9456,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -17509,6 +9491,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -17540,6 +9526,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -17571,6 +9561,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -17602,6 +9596,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -17633,6 +9631,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -17664,6 +9666,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -17695,6 +9701,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -17726,6 +9736,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -17757,6 +9771,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -17788,6 +9806,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -17819,6 +9841,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -17850,6 +9876,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -17881,6 +9911,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -17912,6 +9946,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -17943,6 +9981,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -17974,6 +10016,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -18005,6 +10051,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -18036,6 +10086,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -18067,6 +10121,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -18098,6 +10156,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -18129,6 +10191,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -18160,6 +10226,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -18191,6 +10261,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -18222,6 +10296,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -18253,6 +10331,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -18284,6 +10366,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -18315,6 +10401,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -18346,6 +10436,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -18377,6 +10471,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -18410,6 +10508,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -18442,6 +10544,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -18474,6 +10580,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -18506,6 +10616,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -18538,6 +10652,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -18570,6 +10688,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -18602,10 +10724,10230 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  ///////////////////////////////
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+
+
+
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
   },
+  ///////////////////////////////
   {
     logo: "/images/cake-wallet-logo.svg",
     name: "Cake wallet",
@@ -18633,6 +20975,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -18664,6 +21010,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -18695,6 +21045,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -18726,6 +21080,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -18757,6 +21115,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -18788,6 +21150,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -18819,6 +21185,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -18850,6 +21220,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -18881,6 +21255,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -18912,6 +21290,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -18943,6 +21325,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -18974,6 +21360,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -19005,6 +21395,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -19036,6 +21430,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -19067,6 +21465,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -19098,6 +21500,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -19129,6 +21535,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -19160,6 +21570,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -19191,6 +21605,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -19222,6 +21640,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -19253,6 +21675,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -19284,6 +21710,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -19315,6 +21745,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -19346,6 +21780,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -19377,6 +21815,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -19408,6 +21850,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -19439,6 +21885,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -19470,6 +21920,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -19501,6 +21955,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -19532,6 +21990,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -19563,6 +22025,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -19594,6 +22060,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -19625,6 +22095,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -19656,6 +22130,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -19687,6 +22165,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -19718,6 +22200,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -19749,6 +22235,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -19780,6 +22270,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -19811,6 +22305,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -19842,6 +22340,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -19873,6 +22375,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -19904,6 +22410,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -19935,6 +22445,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -19966,6 +22480,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -19997,6 +22515,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -20028,6 +22550,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -20059,6 +22585,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -20090,6 +22620,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -20121,6 +22655,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -20152,6 +22690,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -20183,6 +22725,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -20214,6 +22760,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -20245,6 +22795,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -20276,6 +22830,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -20307,6 +22865,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -20338,6 +22900,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -20369,6 +22935,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -20400,6 +22970,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -20431,6 +23005,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -20462,6 +23040,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -20493,6 +23075,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -20524,6 +23110,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -20555,6 +23145,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -20586,6 +23180,10 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
@@ -20617,6 +23215,42 @@ export const sponsors = [
 
 
 
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
+  {
+    logo: "/images/mscc-logo.svg",
+    name: "MSCC",
+  },
+  {
+    logo: "/images/cake-wallet-logo.svg",
+    name: "Cake wallet",
+  },
+  {
+    logo: "/images/skysenx-logo.svg",
+    name: "Skysenx",
+  },
+  {
+    logo: "/images/akash-logo.svg",
+    name: "Akash",
+  },
+  {
+    logo: "/images/purple-wash.jpg",
+    name: "Purple Wash",
+  },
+  {
+    logo: "/images/gdg.jpg",
+    name: "Google Developers Group Fupre",
+  },
+  {
+    logo: "/images/south-circle-logo.svg",
+    name: "South Circle",
+  },
+   {
+    logo: "/images/avura.jpg",
+    name: "Avura Care",
+  },
   {
     logo: "/images/mscc-logo.svg",
     name: "MSCC",
