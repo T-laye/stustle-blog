@@ -70,10 +70,10 @@ const Overview = () => {
           "WEB DEVELOPMENT",
           "Product Design (UI/UX)",
           "WRITING",
+          "WRITING",
           "CLEANING",
           "VIRTUAL ASSISTANCE",
           "GRAPHICS DESIGN",
-          "WRITING",
         ].map((s, i) => (
           <p
             key={i}
