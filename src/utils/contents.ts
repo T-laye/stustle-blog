@@ -1,3 +1,12 @@
+export const serviceCategories = [
+  { title: "Web Development", value: "web" },
+  { title: "UI/UX Design", value: "design" },
+  { title: "Writing", value: "writing" },
+  { title: "Graphics Design", value: "graphics" },
+  { title: "Cleaning", value: "cleaning" },
+  { title: "Virtual Assistance", value: "virtual" },
+];
+
 export const about = [
   "Stustle (Students Hustle) creates an opportunity for students to get part time jobs online and offline.",
   "Stustle provides skilled talents to business owners and professionals.",
@@ -220,7 +229,7 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -255,9 +264,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -291,9 +298,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -327,9 +332,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -363,9 +366,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -399,9 +400,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -435,9 +434,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -471,9 +468,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -506,9 +501,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -541,9 +534,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -576,9 +567,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -611,9 +600,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -646,9 +633,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -681,9 +666,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -716,9 +699,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -750,10 +731,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -785,10 +764,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -820,10 +797,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -855,10 +830,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -890,10 +863,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -925,10 +896,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -960,10 +929,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -995,10 +962,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -1030,10 +995,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -1065,10 +1028,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -1100,10 +1061,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -1135,10 +1094,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -1170,10 +1127,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -1205,10 +1160,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -1240,10 +1193,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -1275,10 +1226,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -1310,10 +1259,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -1346,9 +1293,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -1381,9 +1326,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -1416,9 +1359,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -1451,9 +1392,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -1486,9 +1425,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -1521,9 +1458,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -1556,9 +1491,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -1591,9 +1524,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -1625,10 +1556,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -1660,10 +1589,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -1695,10 +1622,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -1730,10 +1655,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -1765,10 +1688,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -1800,10 +1721,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -1835,10 +1754,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -1870,10 +1787,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -1905,10 +1820,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -1940,10 +1853,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -1975,10 +1886,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -2010,10 +1919,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -2045,10 +1952,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -2080,10 +1985,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -2115,10 +2018,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -2150,10 +2051,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -2185,10 +2084,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -2221,9 +2118,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -2256,9 +2151,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -2291,9 +2184,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -2326,9 +2217,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -2361,9 +2250,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -2396,9 +2283,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -2431,9 +2316,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -2466,9 +2349,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -2500,10 +2381,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -2535,10 +2414,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -2570,10 +2447,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -2605,10 +2480,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -2640,10 +2513,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -2675,10 +2546,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -2710,10 +2579,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -2745,10 +2612,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -2780,10 +2645,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -2818,9 +2681,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -2854,9 +2715,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -2890,9 +2749,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -2926,9 +2783,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -2962,9 +2817,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -2998,9 +2851,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -3034,9 +2885,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -3069,9 +2918,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -3104,9 +2951,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -3139,9 +2984,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -3174,9 +3017,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -3209,9 +3050,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -3244,9 +3083,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -3279,9 +3116,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -3313,10 +3148,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -3348,10 +3181,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -3383,10 +3214,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -3418,10 +3247,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -3453,10 +3280,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -3488,10 +3313,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -3523,10 +3346,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -3558,10 +3379,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -3593,10 +3412,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -3628,10 +3445,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -3663,10 +3478,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -3698,10 +3511,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -3733,10 +3544,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -3768,10 +3577,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -3803,10 +3610,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -3838,10 +3643,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -3873,10 +3676,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -3909,9 +3710,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -3944,9 +3743,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -3979,9 +3776,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -4014,9 +3809,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -4049,9 +3842,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -4084,9 +3875,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -4119,9 +3908,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -4154,9 +3941,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -4188,10 +3973,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -4223,10 +4006,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -4258,10 +4039,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -4293,10 +4072,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -4328,10 +4105,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -4363,10 +4138,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -4398,10 +4171,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -4433,10 +4204,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -4468,10 +4237,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -4503,10 +4270,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -4538,10 +4303,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -4573,10 +4336,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -4608,10 +4369,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -4643,10 +4402,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -4678,10 +4435,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -4713,10 +4468,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -4748,10 +4501,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -4784,9 +4535,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -4819,9 +4568,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -4854,9 +4601,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -4889,9 +4634,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -4924,9 +4667,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -4959,9 +4700,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -4994,9 +4733,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -5029,9 +4766,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -5063,10 +4798,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -5098,10 +4831,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -5133,10 +4864,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -5168,10 +4897,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -5203,10 +4930,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -5238,10 +4963,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -5273,10 +4996,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -5308,10 +5029,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -5343,10 +5062,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -5381,9 +5098,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -5417,9 +5132,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -5453,9 +5166,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -5489,9 +5200,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -5525,9 +5234,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -5561,9 +5268,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -5597,9 +5302,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -5632,9 +5335,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -5667,9 +5368,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -5702,9 +5401,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -5737,9 +5434,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -5772,9 +5467,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -5807,9 +5500,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -5842,9 +5533,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -5876,10 +5565,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -5911,10 +5598,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -5946,10 +5631,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -5981,10 +5664,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -6016,10 +5697,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -6051,10 +5730,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -6086,10 +5763,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -6121,10 +5796,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -6156,10 +5829,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -6191,10 +5862,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -6226,10 +5895,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -6261,10 +5928,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -6296,10 +5961,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -6331,10 +5994,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -6366,10 +6027,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -6401,10 +6060,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -6436,10 +6093,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -6472,9 +6127,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -6507,9 +6160,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -6542,9 +6193,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -6577,9 +6226,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -6612,9 +6259,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -6647,9 +6292,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -6682,9 +6325,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -6717,9 +6358,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -6751,10 +6390,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -6786,10 +6423,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -6821,10 +6456,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -6856,10 +6489,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -6891,10 +6522,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -6926,10 +6555,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -6961,10 +6588,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -6996,10 +6621,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -7031,10 +6654,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -7066,10 +6687,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -7101,10 +6720,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -7136,10 +6753,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -7171,10 +6786,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -7206,10 +6819,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -7241,10 +6852,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -7276,10 +6885,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -7311,10 +6918,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -7347,9 +6952,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -7382,9 +6985,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -7417,9 +7018,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -7452,9 +7051,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -7487,9 +7084,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -7522,9 +7117,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -7557,9 +7150,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -7592,9 +7183,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -7626,10 +7215,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -7661,10 +7248,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -7696,10 +7281,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -7731,10 +7314,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -7766,10 +7347,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -7801,10 +7380,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -7836,10 +7413,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -7871,10 +7446,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -7907,8 +7480,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -7943,9 +7515,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -7979,9 +7549,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -8015,9 +7583,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -8051,9 +7617,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -8087,9 +7651,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -8123,9 +7685,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -8159,9 +7719,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -8194,9 +7752,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -8229,9 +7785,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -8264,9 +7818,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -8299,9 +7851,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -8334,9 +7884,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -8369,9 +7917,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -8404,9 +7950,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -8438,10 +7982,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -8473,10 +8015,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -8508,10 +8048,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -8543,10 +8081,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -8578,10 +8114,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -8613,10 +8147,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -8648,10 +8180,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -8683,10 +8213,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -8718,10 +8246,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -8753,10 +8279,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -8788,10 +8312,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -8823,10 +8345,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -8858,10 +8378,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -8893,10 +8411,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -8928,10 +8444,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -8963,10 +8477,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -8998,10 +8510,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -9034,9 +8544,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -9069,9 +8577,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -9104,9 +8610,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -9139,9 +8643,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -9174,9 +8676,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -9209,9 +8709,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -9244,9 +8742,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -9279,9 +8775,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -9313,10 +8807,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -9348,10 +8840,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -9383,10 +8873,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -9418,10 +8906,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -9453,10 +8939,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -9488,10 +8972,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -9523,10 +9005,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -9558,10 +9038,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -9593,10 +9071,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -9628,10 +9104,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -9663,10 +9137,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -9698,10 +9170,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -9733,10 +9203,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -9768,10 +9236,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -9803,10 +9269,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -9838,10 +9302,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -9873,10 +9335,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -9909,9 +9369,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -9944,9 +9402,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -9979,9 +9435,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -10014,9 +9468,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -10049,9 +9501,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -10084,9 +9534,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -10119,9 +9567,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -10154,9 +9600,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -10188,10 +9632,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -10223,10 +9665,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -10258,10 +9698,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -10293,10 +9731,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -10328,10 +9764,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -10363,10 +9797,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -10398,10 +9830,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -10433,10 +9863,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -10468,10 +9896,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -10506,9 +9932,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -10542,9 +9966,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -10578,9 +10000,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -10614,9 +10034,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -10650,9 +10068,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -10686,9 +10102,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -10722,9 +10136,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -10757,9 +10169,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -10792,9 +10202,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -10827,9 +10235,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -10862,9 +10268,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -10897,9 +10301,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -10932,9 +10334,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -10967,9 +10367,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -11001,10 +10399,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -11036,10 +10432,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -11071,10 +10465,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -11106,10 +10498,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -11141,10 +10531,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -11176,10 +10564,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -11211,10 +10597,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -11246,10 +10630,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -11281,10 +10663,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -11316,10 +10696,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -11351,10 +10729,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -11386,10 +10762,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -11421,10 +10795,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -11456,10 +10828,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -11491,10 +10861,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -11526,10 +10894,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -11561,10 +10927,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -11597,9 +10961,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -11632,9 +10994,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -11667,9 +11027,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -11702,9 +11060,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -11737,9 +11093,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -11772,9 +11126,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -11807,9 +11159,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -11842,9 +11192,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -11876,10 +11224,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -11911,10 +11257,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -11946,10 +11290,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -11981,10 +11323,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -12016,10 +11356,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -12051,10 +11389,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -12086,10 +11422,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -12121,10 +11455,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -12156,10 +11488,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -12191,10 +11521,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -12226,10 +11554,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -12261,10 +11587,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -12296,10 +11620,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -12331,10 +11653,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -12366,10 +11686,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -12401,10 +11719,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -12436,10 +11752,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -12472,9 +11786,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -12507,9 +11819,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -12542,9 +11852,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -12577,9 +11885,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -12612,9 +11918,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -12647,9 +11951,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -12682,9 +11984,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -12717,9 +12017,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -12751,10 +12049,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -12786,10 +12082,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -12821,10 +12115,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -12856,10 +12148,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -12891,10 +12181,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -12926,10 +12214,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -12961,10 +12247,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -12996,10 +12280,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -13031,10 +12313,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -13069,9 +12349,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -13105,9 +12383,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -13141,9 +12417,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -13177,9 +12451,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -13213,9 +12485,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -13249,9 +12519,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -13285,9 +12553,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -13320,9 +12586,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -13355,9 +12619,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -13390,9 +12652,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -13425,9 +12685,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -13460,9 +12718,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -13495,9 +12751,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -13530,9 +12784,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -13564,10 +12816,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -13599,10 +12849,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -13634,10 +12882,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -13669,10 +12915,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -13704,10 +12948,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -13739,10 +12981,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -13774,10 +13014,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -13809,10 +13047,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -13844,10 +13080,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -13879,10 +13113,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -13914,10 +13146,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -13949,10 +13179,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -13984,10 +13212,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -14019,10 +13245,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -14054,10 +13278,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -14089,10 +13311,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -14124,10 +13344,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -14160,9 +13378,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -14195,9 +13411,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -14230,9 +13444,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -14265,9 +13477,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -14300,9 +13510,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -14335,9 +13543,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -14370,9 +13576,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -14405,9 +13609,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -14439,10 +13641,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -14474,10 +13674,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -14509,10 +13707,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -14544,10 +13740,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -14579,10 +13773,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -14614,10 +13806,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -14649,10 +13839,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -14684,10 +13872,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -14719,10 +13905,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -14754,10 +13938,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -14789,10 +13971,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -14824,10 +14004,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -14859,10 +14037,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -14894,10 +14070,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -14929,10 +14103,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -14964,10 +14136,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -14999,10 +14169,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -15035,9 +14203,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -15070,9 +14236,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -15105,9 +14269,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -15140,9 +14302,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -15175,9 +14335,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -15210,9 +14368,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -15245,9 +14401,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -15280,9 +14434,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -15314,10 +14466,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -15349,10 +14499,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -15384,10 +14532,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -15419,10 +14565,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -15454,10 +14598,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -15489,10 +14631,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -15524,10 +14664,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -15559,10 +14697,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -15595,8 +14731,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -15631,9 +14766,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -15667,9 +14800,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -15703,9 +14834,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -15739,9 +14868,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -15775,9 +14902,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -15811,9 +14936,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -15847,9 +14970,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -15882,9 +15003,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -15917,9 +15036,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -15952,9 +15069,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -15987,9 +15102,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -16022,9 +15135,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -16057,9 +15168,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -16092,9 +15201,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -16126,10 +15233,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -16161,10 +15266,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -16196,10 +15299,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -16231,10 +15332,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -16266,10 +15365,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -16301,10 +15398,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -16336,10 +15431,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -16371,10 +15464,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -16406,10 +15497,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -16441,10 +15530,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -16476,10 +15563,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -16511,10 +15596,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -16546,10 +15629,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -16581,10 +15662,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -16616,10 +15695,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -16651,10 +15728,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -16686,10 +15761,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -16722,9 +15795,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -16757,9 +15828,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -16792,9 +15861,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -16827,9 +15894,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -16862,9 +15927,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -16897,9 +15960,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -16932,9 +15993,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -16967,9 +16026,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -17001,10 +16058,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -17036,10 +16091,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -17071,10 +16124,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -17106,10 +16157,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -17141,10 +16190,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -17176,10 +16223,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -17211,10 +16256,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -17246,10 +16289,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -17281,10 +16322,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -17316,10 +16355,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -17351,10 +16388,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -17386,10 +16421,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -17421,10 +16454,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -17456,10 +16487,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -17491,10 +16520,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -17526,10 +16553,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -17561,10 +16586,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -17597,9 +16620,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -17632,9 +16653,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -17667,9 +16686,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -17702,9 +16719,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -17737,9 +16752,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -17772,9 +16785,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -17807,9 +16818,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -17842,9 +16851,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -17876,10 +16883,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -17911,10 +16916,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -17946,10 +16949,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -17981,10 +16982,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -18016,10 +17015,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -18051,10 +17048,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -18086,10 +17081,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -18121,10 +17114,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -18156,10 +17147,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -18194,9 +17183,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -18230,9 +17217,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -18266,9 +17251,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -18302,9 +17285,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -18338,9 +17319,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -18374,9 +17353,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -18410,9 +17387,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -18445,9 +17420,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -18480,9 +17453,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -18515,9 +17486,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -18550,9 +17519,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -18585,9 +17552,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -18620,9 +17585,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -18655,9 +17618,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -18689,10 +17650,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -18724,10 +17683,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -18759,10 +17716,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -18794,10 +17749,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -18829,10 +17782,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -18864,10 +17815,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -18899,10 +17848,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -18934,10 +17881,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -18969,10 +17914,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -19004,10 +17947,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -19039,10 +17980,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -19074,10 +18013,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -19109,10 +18046,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -19144,10 +18079,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -19179,10 +18112,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -19214,10 +18145,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -19249,10 +18178,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -19285,9 +18212,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -19320,9 +18245,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -19355,9 +18278,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -19390,9 +18311,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -19425,9 +18344,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -19460,9 +18377,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -19495,9 +18410,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -19530,9 +18443,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -19564,10 +18475,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -19599,10 +18508,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -19634,10 +18541,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -19669,10 +18574,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -19704,10 +18607,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -19739,10 +18640,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -19774,10 +18673,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -19809,10 +18706,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -19844,10 +18739,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -19879,10 +18772,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -19914,10 +18805,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -19949,10 +18838,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -19984,10 +18871,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -20019,10 +18904,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -20054,10 +18937,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -20089,10 +18970,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -20124,10 +19003,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -20160,9 +19037,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -20195,9 +19070,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -20230,9 +19103,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -20265,9 +19136,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -20300,9 +19169,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -20335,9 +19202,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -20370,9 +19235,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -20405,9 +19268,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -20439,10 +19300,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -20474,10 +19333,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -20509,10 +19366,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -20544,10 +19399,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -20579,10 +19432,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -20614,10 +19465,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -20649,10 +19498,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -20684,10 +19531,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -20719,10 +19564,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -20757,9 +19600,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -20793,9 +19634,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -20829,9 +19668,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -20865,9 +19702,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -20901,9 +19736,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -20937,9 +19770,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -20973,9 +19804,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -21008,9 +19837,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -21043,9 +19870,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -21078,9 +19903,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -21113,9 +19936,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -21148,9 +19969,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -21183,9 +20002,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -21218,9 +20035,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -21253,9 +20068,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -21288,9 +20101,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -21323,9 +20134,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -21358,9 +20167,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -21393,9 +20200,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -21428,9 +20233,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -21463,9 +20266,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -21498,9 +20299,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -21532,10 +20331,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -21567,10 +20364,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -21602,10 +20397,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -21637,10 +20430,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -21672,10 +20463,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -21707,10 +20496,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -21742,10 +20529,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -21777,10 +20562,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -21812,10 +20595,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -21847,10 +20628,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -21882,10 +20661,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -21917,10 +20694,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -21952,10 +20727,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -21987,10 +20760,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -22022,10 +20793,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -22057,10 +20826,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -22092,10 +20859,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -22127,10 +20892,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -22162,10 +20925,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -22197,10 +20958,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -22232,10 +20991,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -22267,10 +21024,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -22302,10 +21057,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -22337,10 +21090,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -22372,10 +21123,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -22407,10 +21156,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -22442,10 +21189,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -22477,10 +21222,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -22512,10 +21255,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -22547,10 +21288,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -22582,10 +21321,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -22617,10 +21354,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
-
 
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -22652,10 +21387,8 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-
 
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -22688,9 +21421,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -22723,9 +21454,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -22758,9 +21487,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -22793,9 +21520,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -22828,9 +21553,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -22863,9 +21586,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -22898,9 +21619,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -22933,9 +21652,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -22968,9 +21685,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -23003,9 +21718,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -23038,9 +21751,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -23073,9 +21784,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -23108,9 +21817,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -23143,9 +21850,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -23178,9 +21883,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -23213,9 +21916,7 @@ export const sponsors = [
     name: "South Circle",
   },
 
-
-
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },
@@ -23247,7 +21948,7 @@ export const sponsors = [
     logo: "/images/south-circle-logo.svg",
     name: "South Circle",
   },
-   {
+  {
     logo: "/images/avura.jpg",
     name: "Avura Care",
   },

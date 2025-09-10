@@ -70,7 +70,6 @@ const Overview = () => {
           "WEB DEVELOPMENT",
           "Product Design (UI/UX)",
           "WRITING",
-          "WRITING",
           "CLEANING",
           "VIRTUAL ASSISTANCE",
           "GRAPHICS DESIGN",
