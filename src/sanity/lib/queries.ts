@@ -81,3 +81,47 @@ export const REVIEWS_QUERY =
   role,
   _createdAt, 
   }`);
+
+  
+// Events Query ///////////////////////////
+export const PROJECTS_BY_CATEGORY_QUERY = defineQuery(`
+  *[_type == "project" && defined(slug.current) && ($category == "All" || category == $category)] 
+  | order(_createdAt desc) {
+    _id, 
+    title,
+    slug, 
+    category,
+    image,
+    description, 
+    link,
+    publishedAt,
+    _createdAt
+  }
+`);
+
+
+export const PROJECTS_QUERY =
+  defineQuery(`*[_type == "project" && defined(slug.current)] | order(_createdAt desc) {
+  _id, 
+  title,
+  slug, 
+  category,
+  image,
+  description, 
+  link,
+  publishedAt,
+  _createdAt, 
+  }`);
+  
+  export const PROJECT_QUERY =
+    defineQuery(`*[_type == "project" && slug.current == $slug][0] {
+    _id, 
+  title,
+  slug, 
+  category,
+  image,
+  description, 
+  link,
+  publishedAt,
+  _createdAt, 
+}`);

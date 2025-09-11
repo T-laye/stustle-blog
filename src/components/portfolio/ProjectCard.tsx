@@ -1,14 +1,25 @@
 "use client";
 import Image from "next/image";
 import { useRouter } from "next/navigation";
-import React from "react";
+import React, { FC } from "react";
+import { Project } from "../../../types/sanityTypes";
+import { urlFor } from "../../sanity/lib/image";
+import { serviceCategories } from "../../utils/contents";
 
-const ProjectCard = () => {
+interface ProjectCardProps {
+  project: Project;
+}
+
+const ProjectCard: FC<ProjectCardProps> = ({ project }) => {
   const router = useRouter();
 
   const gotoProject = () => {
-    router.push(`/portfolio/slug`);
+    router.push(`/portfolio/${project?.slug?.current}`);
   };
+
+  const categoryLabel =
+    serviceCategories.find((c) => c.value === project?.category)?.title ||
+    project?.category;
 
   return (
     <div
@@ -18,15 +29,19 @@ const ProjectCard = () => {
       <div className="w-full overflow-hidden h-[300px] rounded-[5px] lg:h-[250px]">
         <Image
           className="w-full h-full object-cover hover:scale-110 duration-150"
-          alt="name"
-          src="/images/designer.jpg"
-          height={500}
-          width={500}
+          alt={project?.title || "project image"}
+          src={
+            project?.image
+              ? urlFor(project.image).width(800).height(600).url()
+              : "/images/designer.jpg"
+          }
+          width={800}
+          height={600}
         />
       </div>
-      <div className="text-2xl flex flex-col gap-[5px] mt-[10px] ">
-        <h5 className="line-clamp-1">Events</h5>
-        <h4 className="font-semibold line-clamp-1">BIG Conference</h4>
+      <div className="text-2xl flex flex-col gap-[5px] mt-[10px]">
+        <h5 className="line-clamp-1">{categoryLabel}</h5>
+        <h4 className="font-semibold line-clamp-1">{project?.title}</h4>
       </div>
     </div>
   );

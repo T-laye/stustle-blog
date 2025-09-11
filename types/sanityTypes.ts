@@ -50,3 +50,23 @@ export interface Event {
   _createdAt: string; // ISO format creation date
   _updatedAt?: string; // Optional: ISO format update date
 }
+export interface Project {
+  _id: string;
+  category: string;
+  publishedAt: string;
+  title: string;
+  slug: { current: string }; // Slug object with current value
+  description: string;
+  link: string; // URL to the event
+  image: {
+    asset: { _ref: string; _type: string }; // Image reference in Sanity
+    hotspot?: {
+      x: number;
+      y: number;
+      height: number;
+      width: number;
+    }; // Optional for cropping
+  };
+  _createdAt: string; // ISO format creation date
+  _updatedAt?: string; // Optional: ISO format update date
+}

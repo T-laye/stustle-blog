@@ -76,7 +76,7 @@ const Overview = () => {
         ].map((s, i) => (
           <p
             key={i}
-            className="hover:text-primary duration-150 text-2xl md:text-[32px]"
+            className="hover:text-primary duration-150 text-xl md:text-2xl"
           >{`"${s.toUpperCase()}"`}</p>
         ))}
       </section>
