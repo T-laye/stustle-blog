@@ -10,7 +10,8 @@ export default function Projects() {
           <div className="">
             <div className="rounded-md bg-primary w-[110px] h-[3px] md:h-[7px] mb-3"></div>
             <h2 className="text-2xl font-medium mb-1 lg:text-[40px] leading-[100%]">
-              Latest <br className="max-lg:hidden" /> Projects
+              {/* Latest <br className="max-lg:hidden" />  */}
+              Projects
             </h2>
           </div>
         </div>

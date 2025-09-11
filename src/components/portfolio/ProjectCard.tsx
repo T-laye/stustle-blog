@@ -1,9 +1,20 @@
+"use client";
 import Image from "next/image";
+import { useRouter } from "next/navigation";
 import React from "react";
 
 const ProjectCard = () => {
+  const router = useRouter();
+
+  const gotoProject = () => {
+    router.push(`/portfolio/slug`);
+  };
+
   return (
-    <div className="hover:text-primary duration-150 cursor-pointer">
+    <div
+      onClick={gotoProject}
+      className="hover:text-primary duration-150 cursor-pointer"
+    >
       <div className="w-full overflow-hidden h-[300px] rounded-[5px] lg:h-[250px]">
         <Image
           className="w-full h-full object-cover hover:scale-110 duration-150"
