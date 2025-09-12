@@ -21,7 +21,7 @@ const BigCard = () => {
         <Image
           height={400}
           width={400}
-          src="/images/eventCardImage.png" // Fallback image
+          src="/images/big-event-image.jpg" // Fallback image
           alt="event image"
           className="object-cover object-center h-full w-full hover:scale-105 duration-150"
         />

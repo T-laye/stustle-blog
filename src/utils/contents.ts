@@ -225,10 +225,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
   {
     logo: "/images/avura.jpg",
     name: "Avura Care",
@@ -259,10 +256,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -293,10 +287,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -327,10 +318,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -361,10 +349,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -395,10 +380,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -429,10 +411,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -463,10 +442,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -495,11 +471,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -529,10 +502,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -561,11 +531,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -595,10 +562,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -627,11 +591,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -661,10 +622,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -693,11 +651,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -727,10 +682,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -759,11 +711,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -793,10 +742,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -825,11 +771,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -859,10 +802,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -891,11 +831,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -925,10 +862,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -958,10 +892,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -990,11 +921,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -1023,11 +951,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -1056,11 +981,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -1089,11 +1011,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -1122,11 +1041,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -1155,11 +1071,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -1188,11 +1101,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -1221,11 +1131,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -1254,11 +1161,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -1288,10 +1192,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -1320,11 +1221,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -1354,10 +1252,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -1386,11 +1281,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -1420,10 +1312,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -1452,11 +1341,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -1486,10 +1372,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -1519,10 +1402,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -1551,11 +1431,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -1584,11 +1461,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -1617,11 +1491,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -1650,11 +1521,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -1683,11 +1551,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -1716,11 +1581,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -1749,11 +1611,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -1782,11 +1641,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -1815,11 +1671,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -1848,11 +1701,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -1881,11 +1731,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -1914,11 +1761,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -1947,11 +1791,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -1980,11 +1821,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -2013,11 +1851,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -2046,11 +1881,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -2079,11 +1911,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -2113,10 +1942,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -2145,11 +1971,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -2179,10 +2002,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -2211,11 +2031,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -2245,10 +2062,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -2277,11 +2091,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -2311,10 +2122,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -2344,10 +2152,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -2376,11 +2181,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -2409,11 +2211,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -2442,11 +2241,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -2475,11 +2271,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -2508,11 +2301,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -2541,11 +2331,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -2574,11 +2361,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -2607,11 +2391,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -2640,11 +2421,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -2676,10 +2454,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -2710,10 +2485,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -2744,10 +2516,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -2778,10 +2547,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -2812,10 +2578,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -2846,10 +2609,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -2880,10 +2640,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -2912,11 +2669,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -2946,10 +2700,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -2978,11 +2729,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -3012,10 +2760,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -3044,11 +2789,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -3078,10 +2820,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -3110,11 +2849,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -3144,10 +2880,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -3176,11 +2909,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -3210,10 +2940,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -3242,11 +2969,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -3276,10 +3000,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -3308,11 +3029,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -3342,10 +3060,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -3375,10 +3090,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -3407,11 +3119,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -3440,11 +3149,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -3473,11 +3179,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -3506,11 +3209,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -3539,11 +3239,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -3572,11 +3269,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -3605,11 +3299,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -3638,11 +3329,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -3671,11 +3359,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -3705,10 +3390,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -3737,11 +3419,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -3771,10 +3450,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -3803,11 +3479,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -3837,10 +3510,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -3869,11 +3539,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -3903,10 +3570,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -3936,10 +3600,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -3968,11 +3629,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -4001,11 +3659,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -4034,11 +3689,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -4067,11 +3719,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -4100,11 +3749,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -4133,11 +3779,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -4166,11 +3809,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -4199,11 +3839,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -4232,11 +3869,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -4265,11 +3899,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -4298,11 +3929,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -4331,11 +3959,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -4364,11 +3989,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -4397,11 +4019,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -4430,11 +4049,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -4463,11 +4079,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -4496,11 +4109,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -4530,10 +4140,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -4562,11 +4169,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -4596,10 +4200,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -4628,11 +4229,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -4662,10 +4260,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -4694,11 +4289,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -4728,10 +4320,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -4761,10 +4350,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -4793,11 +4379,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -4826,11 +4409,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -4859,11 +4439,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -4892,11 +4469,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -4925,11 +4499,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -4958,11 +4529,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -4991,11 +4559,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -5024,11 +4589,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -5057,11 +4619,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -5093,10 +4652,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -5127,10 +4683,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -5161,10 +4714,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -5195,10 +4745,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -5229,10 +4776,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -5263,10 +4807,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -5297,10 +4838,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -5329,11 +4867,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -5363,10 +4898,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -5395,11 +4927,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -5429,10 +4958,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -5461,11 +4987,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -5495,10 +5018,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -5527,11 +5047,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -5561,10 +5078,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -5593,11 +5107,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -5627,10 +5138,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -5659,11 +5167,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -5693,10 +5198,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -5725,11 +5227,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -5759,10 +5258,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -5792,10 +5288,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -5824,11 +5317,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -5857,11 +5347,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -5890,11 +5377,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -5923,11 +5407,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -5956,11 +5437,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -5989,11 +5467,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -6022,11 +5497,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -6055,11 +5527,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -6088,11 +5557,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -6122,10 +5588,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -6154,11 +5617,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -6188,10 +5648,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -6220,11 +5677,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -6254,10 +5708,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -6286,11 +5737,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -6320,10 +5768,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -6353,10 +5798,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -6385,11 +5827,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -6418,11 +5857,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -6451,11 +5887,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -6484,11 +5917,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -6517,11 +5947,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -6550,11 +5977,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -6583,11 +6007,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -6616,11 +6037,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -6649,11 +6067,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -6682,11 +6097,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -6715,11 +6127,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -6748,11 +6157,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -6781,11 +6187,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -6814,11 +6217,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -6847,11 +6247,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -6880,11 +6277,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -6913,11 +6307,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -6947,10 +6338,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -6979,11 +6367,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -7013,10 +6398,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -7045,11 +6427,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -7079,10 +6458,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -7111,11 +6487,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -7145,10 +6518,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -7178,10 +6548,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -7210,11 +6577,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -7243,11 +6607,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -7276,11 +6637,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -7309,11 +6667,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -7342,11 +6697,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -7375,11 +6727,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -7408,11 +6757,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -7441,11 +6787,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -7474,11 +6817,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -7510,10 +6850,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -7544,10 +6881,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -7578,10 +6912,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -7612,10 +6943,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -7646,10 +6974,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -7680,10 +7005,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -7714,10 +7036,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -7746,11 +7065,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -7780,10 +7096,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -7812,11 +7125,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -7846,10 +7156,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -7878,11 +7185,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -7912,10 +7216,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -7944,11 +7245,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -7978,10 +7276,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -8010,11 +7305,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -8044,10 +7336,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -8076,11 +7365,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -8110,10 +7396,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -8142,11 +7425,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -8176,10 +7456,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -8209,10 +7486,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -8241,11 +7515,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -8274,11 +7545,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -8307,11 +7575,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -8340,11 +7605,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -8373,11 +7635,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -8406,11 +7665,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -8439,11 +7695,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -8472,11 +7725,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -8505,11 +7755,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -8539,10 +7786,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -8571,11 +7815,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -8605,10 +7846,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -8637,11 +7875,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -8671,10 +7906,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -8703,11 +7935,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -8737,10 +7966,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -8770,10 +7996,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -8802,11 +8025,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -8835,11 +8055,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -8868,11 +8085,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -8901,11 +8115,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -8934,11 +8145,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -8967,11 +8175,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -9000,11 +8205,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -9033,11 +8235,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -9066,11 +8265,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -9099,11 +8295,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -9132,11 +8325,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -9165,11 +8355,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -9198,11 +8385,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -9231,11 +8415,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -9264,11 +8445,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -9297,11 +8475,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -9330,11 +8505,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -9364,10 +8536,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -9396,11 +8565,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -9430,10 +8596,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -9462,11 +8625,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -9496,10 +8656,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -9528,11 +8685,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -9562,10 +8716,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -9595,10 +8746,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -9627,11 +8775,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -9660,11 +8805,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -9693,11 +8835,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -9726,11 +8865,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -9759,11 +8895,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -9792,11 +8925,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -9825,11 +8955,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -9858,11 +8985,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -9891,11 +9015,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -9927,10 +9048,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -9961,10 +9079,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -9995,10 +9110,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -10029,10 +9141,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -10063,10 +9172,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -10097,10 +9203,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -10131,10 +9234,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -10163,11 +9263,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -10197,10 +9294,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -10229,11 +9323,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -10263,10 +9354,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -10295,11 +9383,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -10329,10 +9414,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -10361,11 +9443,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -10395,10 +9474,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -10427,11 +9503,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -10461,10 +9534,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -10493,11 +9563,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -10527,10 +9594,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -10559,11 +9623,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -10593,10 +9654,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -10626,10 +9684,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -10658,11 +9713,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -10691,11 +9743,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -10724,11 +9773,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -10757,11 +9803,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -10790,11 +9833,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -10823,11 +9863,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -10856,11 +9893,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -10889,11 +9923,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -10922,11 +9953,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -10956,10 +9984,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -10988,11 +10013,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -11022,10 +10044,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -11054,11 +10073,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -11088,10 +10104,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -11120,11 +10133,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -11154,10 +10164,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -11187,10 +10194,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -11219,11 +10223,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -11252,11 +10253,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -11285,11 +10283,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -11318,11 +10313,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -11351,11 +10343,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -11384,11 +10373,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -11417,11 +10403,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -11450,11 +10433,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -11483,11 +10463,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -11516,11 +10493,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -11549,11 +10523,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -11582,11 +10553,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -11615,11 +10583,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -11648,11 +10613,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -11681,11 +10643,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -11714,11 +10673,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -11747,11 +10703,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -11781,10 +10734,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -11813,11 +10763,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -11847,10 +10794,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -11879,11 +10823,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -11913,10 +10854,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -11945,11 +10883,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -11979,10 +10914,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -12012,10 +10944,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -12044,11 +10973,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -12077,11 +11003,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -12110,11 +11033,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -12143,11 +11063,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -12176,11 +11093,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -12209,11 +11123,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -12242,11 +11153,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -12275,11 +11183,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -12308,11 +11213,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -12344,10 +11246,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -12378,10 +11277,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -12412,10 +11308,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -12446,10 +11339,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -12480,10 +11370,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -12514,10 +11401,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -12548,10 +11432,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -12580,11 +11461,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -12614,10 +11492,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -12646,11 +11521,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -12680,10 +11552,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -12712,11 +11581,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -12746,10 +11612,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -12778,11 +11641,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -12812,10 +11672,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -12844,11 +11701,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -12878,10 +11732,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -12910,11 +11761,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -12944,10 +11792,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -12976,11 +11821,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -13010,10 +11852,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -13043,10 +11882,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -13075,11 +11911,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -13108,11 +11941,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -13141,11 +11971,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -13174,11 +12001,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -13207,11 +12031,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -13240,11 +12061,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -13273,11 +12091,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -13306,11 +12121,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -13339,11 +12151,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -13373,10 +12182,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -13405,11 +12211,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -13439,10 +12242,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -13471,11 +12271,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -13505,10 +12302,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -13537,11 +12331,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -13571,10 +12362,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -13604,10 +12392,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -13636,11 +12421,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -13669,11 +12451,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -13702,11 +12481,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -13735,11 +12511,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -13768,11 +12541,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -13801,11 +12571,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -13834,11 +12601,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -13867,11 +12631,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -13900,11 +12661,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -13933,11 +12691,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -13966,11 +12721,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -13999,11 +12751,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -14032,11 +12781,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -14065,11 +12811,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -14098,11 +12841,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -14131,11 +12871,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -14164,11 +12901,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -14198,10 +12932,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -14230,11 +12961,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -14264,10 +12992,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -14296,11 +13021,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -14330,10 +13052,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -14362,11 +13081,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -14396,10 +13112,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -14429,10 +13142,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -14461,11 +13171,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -14494,11 +13201,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -14527,11 +13231,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -14560,11 +13261,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -14593,11 +13291,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -14626,11 +13321,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -14659,11 +13351,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -14692,11 +13381,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -14725,11 +13411,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -14761,10 +13444,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -14795,10 +13475,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -14829,10 +13506,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -14863,10 +13537,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -14897,10 +13568,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -14931,10 +13599,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -14965,10 +13630,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -14997,11 +13659,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -15031,10 +13690,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -15063,11 +13719,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -15097,10 +13750,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -15129,11 +13779,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -15163,10 +13810,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -15195,11 +13839,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -15229,10 +13870,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -15261,11 +13899,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -15295,10 +13930,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -15327,11 +13959,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -15361,10 +13990,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -15393,11 +14019,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -15427,10 +14050,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -15460,10 +14080,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -15492,11 +14109,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -15525,11 +14139,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -15558,11 +14169,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -15591,11 +14199,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -15624,11 +14229,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -15657,11 +14259,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -15690,11 +14289,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -15723,11 +14319,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -15756,11 +14349,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -15790,10 +14380,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -15822,11 +14409,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -15856,10 +14440,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -15888,11 +14469,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -15922,10 +14500,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -15954,11 +14529,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -15988,10 +14560,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -16021,10 +14590,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -16053,11 +14619,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -16086,11 +14649,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -16119,11 +14679,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -16152,11 +14709,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -16185,11 +14739,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -16218,11 +14769,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -16251,11 +14799,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -16284,11 +14829,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -16317,11 +14859,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -16350,11 +14889,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -16383,11 +14919,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -16416,11 +14949,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -16449,11 +14979,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -16482,11 +15009,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -16515,11 +15039,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -16548,11 +15069,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -16581,11 +15099,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -16615,10 +15130,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -16647,11 +15159,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -16681,10 +15190,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -16713,11 +15219,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -16747,10 +15250,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -16779,11 +15279,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -16813,10 +15310,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -16846,10 +15340,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -16878,11 +15369,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -16911,11 +15399,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -16944,11 +15429,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -16977,11 +15459,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -17010,11 +15489,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -17043,11 +15519,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -17076,11 +15549,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -17109,11 +15579,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -17142,11 +15609,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -17178,10 +15642,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -17212,10 +15673,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -17246,10 +15704,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -17280,10 +15735,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -17314,10 +15766,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -17348,10 +15797,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -17382,10 +15828,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -17414,11 +15857,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -17448,10 +15888,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -17480,11 +15917,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -17514,10 +15948,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -17546,11 +15977,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -17580,10 +16008,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -17612,11 +16037,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -17646,10 +16068,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -17678,11 +16097,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -17712,10 +16128,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -17744,11 +16157,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -17778,10 +16188,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -17810,11 +16217,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -17844,10 +16248,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -17877,10 +16278,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -17909,11 +16307,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -17942,11 +16337,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -17975,11 +16367,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -18008,11 +16397,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -18041,11 +16427,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -18074,11 +16457,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -18107,11 +16487,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -18140,11 +16517,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -18173,11 +16547,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -18207,10 +16578,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -18239,11 +16607,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -18273,10 +16638,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -18305,11 +16667,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -18339,10 +16698,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -18371,11 +16727,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -18405,10 +16758,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -18438,10 +16788,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -18470,11 +16817,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -18503,11 +16847,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -18536,11 +16877,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -18569,11 +16907,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -18602,11 +16937,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -18635,11 +16967,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -18668,11 +16997,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -18701,11 +17027,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -18734,11 +17057,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -18767,11 +17087,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -18800,11 +17117,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -18833,11 +17147,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -18866,11 +17177,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -18899,11 +17207,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -18932,11 +17237,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -18965,11 +17267,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -18998,11 +17297,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -19032,10 +17328,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -19064,11 +17357,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -19098,10 +17388,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -19130,11 +17417,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -19164,10 +17448,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -19196,11 +17477,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -19230,10 +17508,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -19263,10 +17538,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -19295,11 +17567,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -19328,11 +17597,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -19361,11 +17627,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -19394,11 +17657,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -19427,11 +17687,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -19460,11 +17717,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -19493,11 +17747,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -19526,11 +17777,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -19559,11 +17807,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -19595,10 +17840,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -19629,10 +17871,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -19663,10 +17902,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -19697,10 +17933,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -19731,10 +17964,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -19765,10 +17995,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -19799,10 +18026,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -19831,11 +18055,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -19865,10 +18086,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -19897,11 +18115,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -19931,10 +18146,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -19963,11 +18175,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -19997,10 +18206,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -20029,11 +18235,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -20063,10 +18266,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -20095,11 +18295,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -20129,10 +18326,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -20161,11 +18355,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -20195,10 +18386,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -20227,11 +18415,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -20261,10 +18446,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -20294,10 +18476,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -20326,11 +18505,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -20359,11 +18535,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -20392,11 +18565,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -20425,11 +18595,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -20458,11 +18625,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -20491,11 +18655,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -20524,11 +18685,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -20557,11 +18715,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -20590,11 +18745,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -20623,11 +18775,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -20656,11 +18805,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -20689,11 +18835,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -20722,11 +18865,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -20755,11 +18895,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -20788,11 +18925,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -20821,11 +18955,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -20854,11 +18985,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -20888,10 +19016,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -20920,11 +19045,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -20954,10 +19076,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -20986,11 +19105,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -21020,10 +19136,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -21052,11 +19165,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -21086,10 +19196,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -21118,11 +19225,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -21152,10 +19256,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -21184,11 +19285,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -21218,10 +19316,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -21250,11 +19345,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -21284,10 +19376,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -21316,11 +19405,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -21350,10 +19436,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -21383,10 +19466,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
-  },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -21415,11 +19495,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -21448,11 +19525,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -21481,11 +19555,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -21514,11 +19585,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -21547,11 +19615,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -21580,11 +19645,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -21613,11 +19675,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -21646,11 +19705,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -21679,11 +19735,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -21712,11 +19765,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -21745,11 +19795,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -21778,11 +19825,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -21811,11 +19855,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -21844,11 +19885,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -21877,11 +19915,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -21910,11 +19945,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
 
   {
     logo: "/images/avura.jpg",
@@ -21943,11 +19975,8 @@ export const sponsors = [
   {
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
-  },
-  {
-    logo: "/images/south-circle-logo.svg",
-    name: "South Circle",
   },
+ 
   {
     logo: "/images/avura.jpg",
     name: "Avura Care",
