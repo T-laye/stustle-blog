@@ -62,6 +62,10 @@ export default function CommunityHero() {
             >
               Join Community
             </button>
+
+            {/* <Button style="primary" type="button">
+              Join Community
+            </Button> */}
           </div>
         </div>
       </div>

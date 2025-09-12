@@ -83,6 +83,17 @@ export const REVIEWS_QUERY =
   }`);
 
   
+export const STUSTLERS_REVIEWS_QUERY =
+  defineQuery(`*[_type == "review" && role == "stustler"] | order(_createdAt desc) {
+  _id, 
+  name,
+  comment, 
+  image,
+  role,
+  _createdAt, 
+}`);
+
+  
 // Events Query ///////////////////////////
 export const PROJECTS_BY_CATEGORY_QUERY = defineQuery(`
   *[_type == "project" && defined(slug.current) && ($category == "All" || category == $category)] 
