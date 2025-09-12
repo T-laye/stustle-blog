@@ -37,7 +37,7 @@ export default function Roadmaps() {
               <li
                 key={item.value}
                 onClick={() => setActive(item.value)}
-                className={`cursor-pointer border-[2px] md:border-[3px] whitespace-nowrap font-semibold rounded-[8px] md:rounded-[20px] px-6 py-2 md:px-[30px] md:py-4 text-[22px] duration-150  ${
+                className={`cursor-pointer border-[2px] md:border-[3px] whitespace-nowrap font-semibold rounded-[8px] md:rounded-[20px] px-6 py-2 md:px-[30px] md:py-4 text-sm md:text-2xl duration-150  ${
                   active === item.value
                     ? "bg-primary text-white border-primary"
                     : "text-primary border-primary"
