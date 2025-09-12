@@ -23,7 +23,7 @@ export default function CommunityHero() {
         backgroundPositionX: "center",
         backgroundPositionY: "top",
       }}
-      className="min-h-screen pb-40 md:min-h-[50vh] px-4 pt-12 md:pt-24 lg:pt-32 md:pb-[327px]"
+      className=" pb-40 min-h-[70vh] px-4 pt-12 md:pt-24 lg:pt-32 md:pb-[327px]"
     >
       <div className="container">
         <div className="max-w-[977px] mx-auto">
