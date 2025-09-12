@@ -30,6 +30,12 @@ export function middleware(req: NextRequest) {
     return NextResponse.rewrite(url);
   }
 
+  // Rewrite community.stustle.com/ → /community
+  if (hostname === "community.stustle.com" && url.pathname === "/") {
+    url.pathname = "/community";
+    return NextResponse.rewrite(url);
+  }
+
   return NextResponse.next();
 }
 
