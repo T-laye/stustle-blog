@@ -55,16 +55,16 @@ export default function Roadmaps() {
         </h5>
 
         {/* ROADMAP CONTENT */}
-        <div className="mt-10 space-y-8">
+        <div className="mt-10 max-lg:space-y-8 flex flex-col">
           {currentRoadmap.map((step, i) => (
             <div
               key={i}
-              className="border border-[#909090] bg-white rounded-[5px]"
+              className={` ${i % 2 === 0 ? "" : "place-self-end"} border border-[#909090] bg-white rounded-[5px]  w-full md:w-1/2 lg:w-5/12 shadow`}
             >
-              <h6 className="text-xl bg-primary text-white text-center py-[14px]">
-                {step.title}
+              <h6 className="text-lg bg-primary text-white  py-[14px] sm:px-[30px] px-4">
+                {i + 1}. {step.title}
               </h6>
-              <ul className="list-disc ml-7 mb-3 text-sm flex flex-col gap-3 py-5">
+              <ul className="list-disc ml-[20px] px-4 sm:px-[30px] mb-3 text-base flex flex-col gap-3 py-5">
                 {step.outline.map((point, j) => (
                   <li key={j}>{point.toUpperCase()}</li>
                 ))}
