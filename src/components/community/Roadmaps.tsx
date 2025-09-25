@@ -1,31 +1,13 @@
 "use client";
 import React, { useState } from "react";
-import {
-  roadMapNavs,
-  frontendWebDevelopment,
-  uiUxDesign,
-  graphicsDesign,
-  socialMediaManagement,
-  dataAnalysis,
-  writing,
-  virtualAssistance,
-} from "../../utils/roadmaps";
+import { roadMaps } from "../../utils/roadmaps";
 
 export default function Roadmaps() {
   const [active, setActive] = useState<string>("frontendWebDevelopment");
 
-  // Map roadmap value -> data
-  const roadmapData: Record<string, { title: string; outline: string[] }[]> = {
-    frontendWebDevelopment,
-    uiUxDesign,
-    graphicsDesign,
-    socialMediaManagement,
-    dataAnalysis,
-    writing,
-    virtualAssistance,
-  };
-
-  const currentRoadmap = roadmapData[active] || [];
+  // Get current roadmap by active value
+  const currentRoadmap =
+    roadMaps.find((item) => item.value === active)?.steps || [];
 
   return (
     <section className="px-4 pt-[60px] md:pt-[120px] pb-40">
@@ -33,7 +15,7 @@ export default function Roadmaps() {
         {/* NAVIGATION */}
         <nav>
           <ul className="flex md:flex-wrap gap-[16px] max-md:overflow-auto md:gap-[30px] ">
-            {roadMapNavs.map((item) => (
+            {roadMaps.map((item) => (
               <li
                 key={item.value}
                 onClick={() => setActive(item.value)}
@@ -51,7 +33,7 @@ export default function Roadmaps() {
 
         {/* HEADING */}
         <h5 className="mt-[60px] md:mt-[70px] font-medium text-xl md:text-3xl">
-          Roadmap for {roadMapNavs.find((item) => item.value === active)?.title}
+          Roadmap for {roadMaps.find((item) => item.value === active)?.title}
         </h5>
 
         {/* ROADMAP CONTENT */}
@@ -59,14 +41,16 @@ export default function Roadmaps() {
           {currentRoadmap.map((step, i) => (
             <div
               key={i}
-              className={` ${i % 2 === 0 ? "" : "place-self-end"} border border-[#909090] bg-white rounded-[5px]  w-full md:w-1/2 lg:w-5/12 shadow`}
+              className={` ${
+                i % 2 === 0 ? "" : "place-self-end"
+              } border border-[#909090] bg-white rounded-[5px]  w-full md:w-1/2 lg:w-5/12 shadow`}
             >
               <h6 className="text-lg bg-primary text-white  py-[14px] sm:px-[30px] px-4">
-                {i + 1}. {step.title}
+                {step.title}
               </h6>
               <ul className="list-disc ml-[20px] px-4 sm:px-[30px] mb-3 text-base flex flex-col gap-3 py-5">
                 {step.outline.map((point, j) => (
-                  <li key={j}>{point.toUpperCase()}</li>
+                  <li key={j}>{point}</li>
                 ))}
               </ul>
             </div>

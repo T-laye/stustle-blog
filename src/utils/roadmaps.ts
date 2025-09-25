@@ -1,137 +1,293 @@
-export const roadMapNavs = [
+export const roadMaps = [
   {
     title: "Frontend Web Development",
     value: "frontendWebDevelopment",
+    resources: "#",
+    steps: [
+      {
+        title: "Beginner",
+        outline: [
+          "HTML & CSS Basics",
+          "JavaScript Fundamentals",
+          "Responsive Layouts & Flexbox/Grid",
+          "Version Control (Git/GitHub)",
+          "Basic Website Deployment",
+        ],
+      },
+      {
+        title: "Intermediate",
+        outline: [
+          "DOM Manipulation",
+          "APIs & Data Fetching",
+          "Frontend Frameworks (React, Vue, or Angular)",
+          "Routing & Navigation",
+          "State Management (Redux, Zustand, or Context API)",
+          "Authentication & Authorization",
+        ],
+      },
+      {
+        title: "Advanced",
+        outline: [
+          "Performance Optimization",
+          "Progressive Web Apps (PWA)",
+          "Server-Side Rendering (Next.js/Nuxt.js)",
+          "Testing (Jest, Cypress)",
+          "CI/CD & Deployment",
+          "Web Security Best Practices",
+        ],
+      },
+    ],
+  },
+  {
+    title: "Backend Web Development",
+    value: "backendWebDevelopment",
+    resources: "#",
+    steps: [
+      {
+        title: "Beginner",
+        outline: [
+          "Introduction to the Web (HTTP, Client-Server Model)",
+          "Basic Programming (JavaScript, Python, or Node.js)",
+          "Version Control (Git/GitHub)",
+          "Databases Basics (Relational vs NoSQL)",
+          "APIs Fundamentals (REST)",
+        ],
+      },
+      {
+        title: "Intermediate",
+        outline: [
+          "Server-Side Frameworks (Express.js, Django, Flask, etc.)",
+          "Database Design & Relationships",
+          "Authentication & Authorization",
+          "File Uploads & Handling",
+          "Caching & Performance Basics",
+          "API Testing (Postman, Swagger)",
+        ],
+      },
+      {
+        title: "Advanced",
+        outline: [
+          "Advanced APIs (GraphQL, gRPC, WebSockets)",
+          "Microservices Architecture",
+          "Scalability & Load Balancing",
+          "Security Best Practices (OWASP, JWT, OAuth)",
+          "Containerization & Deployment (Docker, Kubernetes)",
+          "CI/CD Pipelines & DevOps Basics",
+          "Monitoring & Logging (Prometheus, ELK Stack)",
+        ],
+      },
+    ],
   },
   {
     title: "UI/UX Design",
     value: "uiUxDesign",
+    resources: "#",
+    steps: [
+      {
+        title: "Beginner",
+        outline: [
+          "Design Principles & Visual Hierarchy",
+          "Color Theory & Typography",
+          "Layout & Grids",
+          "Figma/Sketch/Adobe XD Basics",
+        ],
+      },
+      {
+        title: "Intermediate",
+        outline: [
+          "Wireframing & Low-Fidelity Prototypes",
+          "High-Fidelity Prototyping",
+          "User Flows & Journey Mapping",
+          "Usability Testing",
+          "Designing for Mobile & Web",
+        ],
+      },
+      {
+        title: "Advanced",
+        outline: [
+          "Design Systems & Component Libraries",
+          "Accessibility (WCAG Standards)",
+          "Advanced Interaction Design",
+          "Collaboration with Developers",
+          "Research & Data-Driven Design",
+        ],
+      },
+    ],
   },
   {
     title: "Graphics Design",
     value: "graphicsDesign",
+    resources: "#",
+    steps: [
+      {
+        title: "Beginner",
+        outline: [
+          "Basic Design Tools (Canva, Photoshop, Illustrator)",
+          "Color Theory",
+          "Typography",
+          "Composition & Layout",
+        ],
+      },
+      {
+        title: "Intermediate",
+        outline: [
+          "Logo Design",
+          "Branding & Identity",
+          "Vector Graphics & Illustration",
+          "Photo Manipulation & Editing",
+        ],
+      },
+      {
+        title: "Advanced",
+        outline: [
+          "3D Design & Modeling",
+          "Motion Graphics & Animation",
+          "Packaging Design",
+          "Advanced Illustration Techniques",
+        ],
+      },
+    ],
   },
   {
     title: "Social Media Management",
     value: "socialMediaManagement",
+    resources: "#",
+    steps: [
+      {
+        title: "Beginner",
+        outline: [
+          "Content Creation Basics",
+          "Hashtags & Captions",
+          "Scheduling Posts",
+          "Basic Analytics & Insights",
+        ],
+      },
+      {
+        title: "Intermediate",
+        outline: [
+          "Engagement Strategies",
+          "Social Media Tools (Buffer, Hootsuite)",
+          "Campaign Management",
+          "Community Building",
+          "Influencer Collaboration",
+        ],
+      },
+      {
+        title: "Advanced",
+        outline: [
+          "Paid Advertising (Facebook Ads, Google Ads)",
+          "Brand Partnerships",
+          "Advanced Analytics & A/B Testing",
+          "Crisis Management",
+          "Multi-Channel Strategy",
+        ],
+      },
+    ],
   },
   {
     title: "Data Analysis",
     value: "dataAnalysis",
+    resources: "#",
+    steps: [
+      {
+        title: "Beginner",
+        outline: [
+          "Excel/Google Sheets Basics",
+          "Data Cleaning & Preprocessing",
+          "Basic Charts & Graphs",
+          "Introduction to Databases",
+        ],
+      },
+      {
+        title: "Intermediate",
+        outline: [
+          "SQL for Data Queries",
+          "Statistical Analysis",
+          "Data Visualization (Tableau, Power BI)",
+          "Exploratory Data Analysis (EDA)",
+          "Python/R Basics for Data",
+        ],
+      },
+      {
+        title: "Advanced",
+        outline: [
+          "Machine Learning Fundamentals",
+          "Predictive Analytics",
+          "Big Data Tools (Hadoop, Spark)",
+          "Data Engineering Concepts",
+          "Cloud Platforms (AWS, GCP, Azure)",
+        ],
+      },
+    ],
   },
   {
     title: "Writing",
     value: "writing",
+    resources: "#",
+    steps: [
+      {
+        title: "Beginner",
+        outline: [
+          "Content Writing Basics",
+          "Blogging Platforms",
+          "Copywriting Essentials",
+          "Grammar & Editing",
+        ],
+      },
+      {
+        title: "Intermediate",
+        outline: [
+          "Technical Writing",
+          "SEO Writing",
+          "Creative Writing Techniques",
+          "Storytelling Basics",
+          "Social Media Writing",
+        ],
+      },
+      {
+        title: "Advanced",
+        outline: [
+          "Content Strategy Development",
+          "Brand Voice & Storytelling",
+          "Persuasive Writing",
+          "Publishing & Freelancing",
+          "Advanced Editing & Proofreading",
+        ],
+      },
+    ],
   },
   {
     title: "Virtual Assistance",
     value: "virtualAssistance",
-  },
-];
-
-// Roadmap details
-
-export const frontendWebDevelopment = [
-  {
-    title: "HTML & CSS",
-    outline: ["HTML basics", "CSS styling", "Responsive design"],
-  },
-  {
-    title: "JavaScript",
-    outline: ["Variables & Functions", "DOM Manipulation", "Events"],
-  },
-  {
-    title: "Frameworks",
-    outline: ["React basics", "Next.js intro", "Project building"],
-  },
-];
-
-export const uiUxDesign = [
-  {
-    title: "Design Fundamentals",
-    outline: ["Color theory", "Typography", "Layout & spacing"],
-  },
-  {
-    title: "Wireframing",
-    outline: ["Low-fidelity wireframes", "User flows", "Feedback loops"],
-  },
-  {
-    title: "Prototyping",
-    outline: ["Figma", "Interactive prototypes", "Usability testing"],
-  },
-];
-
-export const graphicsDesign = [
-  {
-    title: "Design Tools",
-    outline: ["Photoshop", "Illustrator", "Canva basics"],
-  },
-  {
-    title: "Branding",
-    outline: ["Logos", "Brand colors", "Templates"],
-  },
-  {
-    title: "Creative Projects",
-    outline: ["Social media posts", "Flyers", "Mockups"],
-  },
-];
-
-export const socialMediaManagement = [
-  {
-    title: "Content Creation",
-    outline: ["Captions", "Graphics", "Video snippets"],
-  },
-  {
-    title: "Scheduling",
-    outline: ["Using tools", "Content calendars", "Engagement timing"],
-  },
-  {
-    title: "Analytics",
-    outline: ["Insights", "Growth tracking", "Reporting"],
-  },
-];
-
-export const dataAnalysis = [
-  {
-    title: "Excel Basics",
-    outline: ["Formulas", "Charts", "Pivot tables"],
-  },
-  {
-    title: "SQL",
-    outline: ["Queries", "Filtering data", "Joins"],
-  },
-  {
-    title: "Visualization",
-    outline: ["Power BI", "Tableau", "Reports"],
-  },
-];
-
-export const writing = [
-  {
-    title: "Content Writing",
-    outline: ["Blog posts", "Articles", "SEO writing"],
-  },
-  {
-    title: "Technical Writing",
-    outline: ["Documentation", "Reports", "Case studies"],
-  },
-  {
-    title: "Creative Writing",
-    outline: ["Stories", "Scripts", "Poems"],
-  },
-];
-
-export const virtualAssistance = [
-  {
-    title: "Admin Tasks",
-    outline: ["Email management", "Scheduling", "Data entry"],
-  },
-  {
-    title: "Customer Support",
-    outline: ["Live chat", "Email responses", "CRM usage"],
-  },
-  {
-    title: "Tools",
-    outline: ["Google Workspace", "Trello/Asana", "Slack/Zoom"],
+    resources: "#",
+    steps: [
+      {
+        title: "Beginner",
+        outline: [
+          "Email Management",
+          "Scheduling & Calendar Management",
+          "Data Entry",
+          "Basic Office Tools (Word, Excel, Docs)",
+        ],
+      },
+      {
+        title: "Intermediate",
+        outline: [
+          "Customer Support (Chat/Email)",
+          "CRM Tools",
+          "Project Coordination",
+          "Online Research",
+        ],
+      },
+      {
+        title: "Advanced",
+        outline: [
+          "Process Automation (Zapier, Make)",
+          "Advanced Research",
+          "Client Relationship Management",
+          "Business Support & Strategy",
+        ],
+      },
+    ],
   },
 ];

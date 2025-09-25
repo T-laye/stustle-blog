@@ -38,12 +38,13 @@ export default function GrowthPath() {
         </div>
 
         <div className="flex flex-col mt-[60px] md:mt-[120px] gap-[30px] max-sm:w-1/2 mx-auto sm:flex-row md:gap-[129px]">
-          <button
+          <a
+            href="/community/roadmaps"
             className="btn hover:bg-primary border  hover:text-white border-primary text-primary btns whitespace-nowrap h-[50px] md:h-[100px] md:text-[32px]"
             type="button"
           >
             Learn
-          </button>
+          </a>
 
           <button
             className="btn border hover:bg-primary  hover:text-white border-primary text-primary btns whitespace-nowrap h-[50px] md:h-[100px] md:text-[32px]"

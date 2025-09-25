@@ -10,10 +10,10 @@ export default function RoadmapOverview() {
         backgroundPositionX: "center",
         backgroundPositionY: "top",
       }}
-      className="pb-20 lg:pb-40 min-h-[50vh] px-4 pt-32 lg:pt-40"
+      className="pb-20 lg:pb-40 md:min-h-[90vh] px-4 pt-32 lg:pt-40"
     >
-      <div className="container">
-        <div className="max-w-[977px] mx-auto">
+      <div className="container ">
+        <div className="max-w-[977px] mx-auto mt-[5%]">
           <h1 className="text-center text-[32px] font-semibold leading-[120%] md:text-[54px] lg:text-[64px]">
             Learn your fav skill with guide from the roadmaps and resources
             delicately sourced by us.
