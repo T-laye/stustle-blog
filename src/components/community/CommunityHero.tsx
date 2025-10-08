@@ -30,11 +30,11 @@ export default function CommunityHero() {
           <h1 className="text-center text-[44px] font-semibold leading-[120%] md:text-[54px] lg:text-[64px]">
             Grow Your Skills To Advance Your Career Path.
           </h1>
-          <p className="text-center text-xl mt-[16px] md:text-2xl lg:text-3xl lg:mt-[32px]">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta,
-            distinctio magnam! Ad hic aut amet ipsum natus saepe cupiditate
-            fugit voluptates nostrum quisquam rem, illum in et libero! Eos,
-            aliquid.
+          <p className="text-center text-lg mt-[16px] md:text-2xl lg:text-3xl lg:mt-[32px]">
+            Welcome to Stustle Talent Community, a vibrant platform where
+            student creativity, innovation, and inner potentials are cultured
+            for the right audience. We offer a golden platform ready
+            to let you shine.
           </p>
           <p className="font-semibold text-xl text-center mt-[20px] lg:text-[32px] lg:mt-[40px]">
             365+ Stustled Students
