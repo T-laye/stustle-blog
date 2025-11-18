@@ -53,7 +53,7 @@ export default function Page() {
       </h2>
 
       {/* Stustler cards will go here */}
-      <div className="min-h-[50vh] grid min-[510px]:grid-cols-2 md:grid-cols-3 px-4  gap-[50px] lg:gap-[95px]  mx-auto pt-[37px] lg:pt-[60px]">
+      <div className="min-h-[50vh] grid min-[550px]:grid-cols-2 md:grid-cols-3 px-4  gap-[50px] lg:gap-[95px]  mx-auto pt-[37px] lg:pt-[60px]">
         <StustlersCard />
         <StustlersCard />
         <StustlersCard />

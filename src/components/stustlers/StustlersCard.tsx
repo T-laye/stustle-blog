@@ -1,9 +1,20 @@
+"use client";
 import Image from "next/image";
+import { useRouter } from "next/navigation";
 import React from "react";
 
 const StustlersCard = () => {
+  const router = useRouter();
+
+  const handleCardClick = () => {
+    router.push("/stustlers/jane-doe"); // Navigate to the stustler's profile page
+  };
+
   return (
-    <div className="bgred-400 w-fit place-self-center">
+    <div
+      className="bgred-400 w-fit place-self-center cursor-pointer hover:bg-primary-light p-2 md:p-4 rounded-[15px] duration-150"
+      onClick={handleCardClick}
+    >
       <div className="bg-[#FFF1DC] min-w-[250px] min-h-[250px] w-[250px] h-[250px] xl:h-[300px] xl:w-[300px] rounded-full overflow-hidden flex items-center justify-center">
         <Image
           height={500}
