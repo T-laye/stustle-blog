@@ -2,6 +2,7 @@
 import React, { useState } from "react";
 import { serviceCategories } from "../../utils/contents";
 import { GoSearch } from "react-icons/go";
+import StustlersCard from "../../components/stustlers/StustlersCard";
 
 export default function Page() {
   const [selectedCategory, setSelectedCategory] = useState<string>("All");
@@ -50,6 +51,11 @@ export default function Page() {
       <h2 className="text-sm font-medium mt-[30px] md:mt-[50px] lg:mt-[70px] md:text-2xl">
         Featured Stustlers
       </h2>
+
+      {/* Stustler cards will go here */}
+      <div>
+        <StustlersCard />
+      </div>
     </div>
   );
 }
