@@ -1,3 +1,11 @@
+export const stustlerCategories = [
+  { title: "Software Developer", value: "software_developer" },
+  { title: "Designer", value: "designer" },
+  { title: "Writer", value: "writer" },
+  { title: "Virtual Assistant", value: "virtual_assistant" },
+  { title: "Data Analyst", value: "data_analyst" },
+  { title: "Social Media Manager", value: "social_media_manager" },
+];
 export const serviceCategories = [
   { title: "Web Development", value: "web" },
   { title: "UI/UX Design", value: "design" },

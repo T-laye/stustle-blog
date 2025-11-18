@@ -1,6 +1,6 @@
 "use client";
 import React, { useState } from "react";
-import { serviceCategories } from "../../utils/contents";
+import {  stustlerCategories } from "../../utils/contents";
 import { GoSearch } from "react-icons/go";
 import StustlersCard from "../../components/stustlers/StustlersCard";
 
@@ -19,7 +19,7 @@ export default function Page() {
         >
           All
         </div>
-        {serviceCategories
+        {stustlerCategories
           .filter((c) => c.value !== "cleaning")
           .map((c, i) => (
             <div
