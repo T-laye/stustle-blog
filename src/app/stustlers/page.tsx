@@ -48,12 +48,18 @@ export default function Page() {
       </div>
 
       {/* Featured stustler */}
-      <h2 className="text-sm font-medium mt-[30px] md:mt-[50px] lg:mt-[70px] md:text-2xl">
+      <h2 className="text-sm font-medium mt-[30px]  sm:mt-[50px] lg:mt-[70px] sm:text-xl md:text-2xl">
         Featured Stustlers
       </h2>
 
       {/* Stustler cards will go here */}
-      <div>
+      <div className="min-h-[50vh] grid min-[510px]:grid-cols-2 md:grid-cols-3 px-4  gap-[50px] lg:gap-[95px]  mx-auto pt-[37px] lg:pt-[60px]">
+        <StustlersCard />
+        <StustlersCard />
+        <StustlersCard />
+        <StustlersCard />
+        <StustlersCard />
+        <StustlersCard />
         <StustlersCard />
       </div>
     </div>
