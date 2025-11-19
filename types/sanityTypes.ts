@@ -70,3 +70,45 @@ export interface Project {
   _createdAt: string; // ISO format creation date
   _updatedAt?: string; // Optional: ISO format update date
 }
+
+export interface Stustler {
+  _id: string;
+  _type: "stustler";
+  _createdAt?: string;
+  _updatedAt?: string;
+
+  name: string;
+
+  slug: {
+    _type: "slug";
+    current: string;
+  };
+
+  bio: string;
+
+  link?: string;
+
+  profileImage: {
+    _type: "image";
+    asset: {
+      _type: "reference";
+      _ref: string;
+    };
+  };
+
+  category:
+    | "software_developer"
+    | "designer"
+    | "writer"
+    | "social_media_manager"
+    | "virtual_assistant"
+    | "data_analyst";
+
+  subCategory: string;
+
+  toolsUsed: string;
+
+  priceRange: string;
+
+  experienceLevel: "beginner" | "intermediate" | "advanced";
+}
