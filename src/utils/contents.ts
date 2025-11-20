@@ -1,6 +1,6 @@
 export const stustlerCategories = [
-  { title: "Software Developer", value: "software_developer" },
   { title: "Designer", value: "designer" },
+  { title: "Software Developer", value: "software_developer" },
   { title: "Writer", value: "writer" },
   { title: "Virtual Assistant", value: "virtual_assistant" },
   { title: "Data Analyst", value: "data_analyst" },
@@ -233,7 +233,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
+
   {
     logo: "/images/avura.jpg",
     name: "Avura Care",
@@ -264,7 +264,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -295,7 +294,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -326,7 +324,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -357,7 +354,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -388,7 +384,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -419,7 +414,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -450,7 +444,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -480,7 +473,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -510,7 +502,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -540,7 +531,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -570,7 +560,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -600,7 +589,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -630,7 +618,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -660,7 +647,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -690,7 +676,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -720,7 +705,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -750,7 +734,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -780,7 +763,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -810,7 +792,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -840,7 +821,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -870,7 +850,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -900,7 +879,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -930,7 +908,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -960,7 +937,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -990,7 +966,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -1020,7 +995,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -1050,7 +1024,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -1080,7 +1053,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -1110,7 +1082,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -1140,7 +1111,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -1170,7 +1140,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -1200,7 +1169,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -1230,7 +1198,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -1260,7 +1227,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -1290,7 +1256,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -1320,7 +1285,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -1350,7 +1314,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -1380,7 +1343,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -1410,7 +1372,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -1440,7 +1401,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -1470,7 +1430,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -1500,7 +1459,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -1530,7 +1488,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -1560,7 +1517,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -1590,7 +1546,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -1620,7 +1575,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -1650,7 +1604,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -1680,7 +1633,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -1710,7 +1662,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -1740,7 +1691,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -1770,7 +1720,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -1800,7 +1749,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -1830,7 +1778,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -1860,7 +1807,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -1890,7 +1836,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -1920,7 +1865,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -1950,7 +1894,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -1980,7 +1923,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -2010,7 +1952,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -2040,7 +1981,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -2070,7 +2010,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -2100,7 +2039,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -2130,7 +2068,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -2160,7 +2097,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -2190,7 +2126,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -2220,7 +2155,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -2250,7 +2184,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -2280,7 +2213,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -2310,7 +2242,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -2340,7 +2271,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -2370,7 +2300,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -2400,7 +2329,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -2430,7 +2358,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -2462,7 +2389,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -2493,7 +2419,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -2524,7 +2449,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -2555,7 +2479,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -2586,7 +2509,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -2617,7 +2539,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -2648,7 +2569,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -2678,7 +2598,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -2708,7 +2627,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -2738,7 +2656,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -2768,7 +2685,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -2798,7 +2714,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -2828,7 +2743,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -2858,7 +2772,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -2888,7 +2801,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -2918,7 +2830,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -2948,7 +2859,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -2978,7 +2888,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -3008,7 +2917,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -3038,7 +2946,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -3068,7 +2975,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -3098,7 +3004,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -3128,7 +3033,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -3158,7 +3062,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -3188,7 +3091,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -3218,7 +3120,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -3248,7 +3149,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -3278,7 +3178,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -3308,7 +3207,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -3338,7 +3236,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -3368,7 +3265,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -3398,7 +3294,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -3428,7 +3323,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -3458,7 +3352,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -3488,7 +3381,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -3518,7 +3410,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -3548,7 +3439,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -3578,7 +3468,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -3608,7 +3497,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -3638,7 +3526,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -3668,7 +3555,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -3698,7 +3584,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -3728,7 +3613,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -3758,7 +3642,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -3788,7 +3671,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -3818,7 +3700,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -3848,7 +3729,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -3878,7 +3758,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -3908,7 +3787,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -3938,7 +3816,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -3968,7 +3845,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -3998,7 +3874,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -4028,7 +3903,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -4058,7 +3932,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -4088,7 +3961,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -4118,7 +3990,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -4148,7 +4019,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -4178,7 +4048,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -4208,7 +4077,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -4238,7 +4106,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -4268,7 +4135,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -4298,7 +4164,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -4328,7 +4193,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -4358,7 +4222,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -4388,7 +4251,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -4418,7 +4280,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -4448,7 +4309,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -4478,7 +4338,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -4508,7 +4367,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -4538,7 +4396,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -4568,7 +4425,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -4598,7 +4454,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -4628,7 +4483,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -4660,7 +4514,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -4691,7 +4544,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -4722,7 +4574,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -4753,7 +4604,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -4784,7 +4634,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -4815,7 +4664,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -4846,7 +4694,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -4876,7 +4723,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -4906,7 +4752,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -4936,7 +4781,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -4966,7 +4810,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -4996,7 +4839,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -5026,7 +4868,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -5056,7 +4897,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -5086,7 +4926,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -5116,7 +4955,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -5146,7 +4984,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -5176,7 +5013,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -5206,7 +5042,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -5236,7 +5071,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -5266,7 +5100,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -5296,7 +5129,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -5326,7 +5158,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -5356,7 +5187,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -5386,7 +5216,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -5416,7 +5245,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -5446,7 +5274,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -5476,7 +5303,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -5506,7 +5332,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -5536,7 +5361,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -5566,7 +5390,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -5596,7 +5419,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -5626,7 +5448,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -5656,7 +5477,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -5686,7 +5506,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -5716,7 +5535,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -5746,7 +5564,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -5776,7 +5593,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -5806,7 +5622,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -5836,7 +5651,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -5866,7 +5680,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -5896,7 +5709,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -5926,7 +5738,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -5956,7 +5767,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -5986,7 +5796,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -6016,7 +5825,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -6046,7 +5854,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -6076,7 +5883,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -6106,7 +5912,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -6136,7 +5941,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -6166,7 +5970,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -6196,7 +5999,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -6226,7 +6028,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -6256,7 +6057,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -6286,7 +6086,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -6316,7 +6115,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -6346,7 +6144,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -6376,7 +6173,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -6406,7 +6202,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -6436,7 +6231,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -6466,7 +6260,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -6496,7 +6289,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -6526,7 +6318,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -6556,7 +6347,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -6586,7 +6376,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -6616,7 +6405,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -6646,7 +6434,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -6676,7 +6463,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -6706,7 +6492,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -6736,7 +6521,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -6766,7 +6550,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -6796,7 +6579,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -6826,7 +6608,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -6858,7 +6639,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -6889,7 +6669,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -6920,7 +6699,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -6951,7 +6729,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -6982,7 +6759,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -7013,7 +6789,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -7044,7 +6819,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -7074,7 +6848,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -7104,7 +6877,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -7134,7 +6906,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -7164,7 +6935,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -7194,7 +6964,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -7224,7 +6993,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -7254,7 +7022,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -7284,7 +7051,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -7314,7 +7080,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -7344,7 +7109,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -7374,7 +7138,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -7404,7 +7167,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -7434,7 +7196,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -7464,7 +7225,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -7494,7 +7254,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -7524,7 +7283,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -7554,7 +7312,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -7584,7 +7341,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -7614,7 +7370,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -7644,7 +7399,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -7674,7 +7428,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -7704,7 +7457,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -7734,7 +7486,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -7764,7 +7515,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -7794,7 +7544,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -7824,7 +7573,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -7854,7 +7602,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -7884,7 +7631,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -7914,7 +7660,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -7944,7 +7689,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -7974,7 +7718,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -8004,7 +7747,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -8034,7 +7776,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -8064,7 +7805,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -8094,7 +7834,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -8124,7 +7863,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -8154,7 +7892,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -8184,7 +7921,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -8214,7 +7950,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -8244,7 +7979,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -8274,7 +8008,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -8304,7 +8037,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -8334,7 +8066,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -8364,7 +8095,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -8394,7 +8124,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -8424,7 +8153,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -8454,7 +8182,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -8484,7 +8211,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -8514,7 +8240,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -8544,7 +8269,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -8574,7 +8298,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -8604,7 +8327,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -8634,7 +8356,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -8664,7 +8385,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -8694,7 +8414,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -8724,7 +8443,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -8754,7 +8472,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -8784,7 +8501,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -8814,7 +8530,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -8844,7 +8559,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -8874,7 +8588,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -8904,7 +8617,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -8934,7 +8646,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -8964,7 +8675,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -8994,7 +8704,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -9024,7 +8733,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -9056,7 +8764,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -9087,7 +8794,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -9118,7 +8824,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -9149,7 +8854,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -9180,7 +8884,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -9211,7 +8914,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -9242,7 +8944,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -9272,7 +8973,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -9302,7 +9002,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -9332,7 +9031,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -9362,7 +9060,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -9392,7 +9089,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -9422,7 +9118,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -9452,7 +9147,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -9482,7 +9176,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -9512,7 +9205,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -9542,7 +9234,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -9572,7 +9263,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -9602,7 +9292,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -9632,7 +9321,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -9662,7 +9350,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -9692,7 +9379,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -9722,7 +9408,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -9752,7 +9437,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -9782,7 +9466,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -9812,7 +9495,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -9842,7 +9524,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -9872,7 +9553,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -9902,7 +9582,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -9932,7 +9611,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -9962,7 +9640,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -9992,7 +9669,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -10022,7 +9698,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -10052,7 +9727,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -10082,7 +9756,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -10112,7 +9785,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -10142,7 +9814,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -10172,7 +9843,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -10202,7 +9872,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -10232,7 +9901,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -10262,7 +9930,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -10292,7 +9959,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -10322,7 +9988,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -10352,7 +10017,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -10382,7 +10046,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -10412,7 +10075,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -10442,7 +10104,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -10472,7 +10133,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -10502,7 +10162,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -10532,7 +10191,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -10562,7 +10220,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -10592,7 +10249,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -10622,7 +10278,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -10652,7 +10307,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -10682,7 +10336,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -10712,7 +10365,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -10742,7 +10394,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -10772,7 +10423,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -10802,7 +10452,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -10832,7 +10481,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -10862,7 +10510,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -10892,7 +10539,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -10922,7 +10568,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -10952,7 +10597,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -10982,7 +10626,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -11012,7 +10655,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -11042,7 +10684,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -11072,7 +10713,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -11102,7 +10742,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -11132,7 +10771,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -11162,7 +10800,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -11192,7 +10829,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -11222,7 +10858,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -11254,7 +10889,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -11285,7 +10919,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -11316,7 +10949,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -11347,7 +10979,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -11378,7 +11009,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -11409,7 +11039,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -11440,7 +11069,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -11470,7 +11098,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -11500,7 +11127,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -11530,7 +11156,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -11560,7 +11185,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -11590,7 +11214,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -11620,7 +11243,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -11650,7 +11272,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -11680,7 +11301,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -11710,7 +11330,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -11740,7 +11359,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -11770,7 +11388,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -11800,7 +11417,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -11830,7 +11446,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -11860,7 +11475,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -11890,7 +11504,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -11920,7 +11533,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -11950,7 +11562,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -11980,7 +11591,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -12010,7 +11620,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -12040,7 +11649,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -12070,7 +11678,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -12100,7 +11707,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -12130,7 +11736,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -12160,7 +11765,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -12190,7 +11794,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -12220,7 +11823,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -12250,7 +11852,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -12280,7 +11881,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -12310,7 +11910,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -12340,7 +11939,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -12370,7 +11968,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -12400,7 +11997,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -12430,7 +12026,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -12460,7 +12055,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -12490,7 +12084,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -12520,7 +12113,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -12550,7 +12142,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -12580,7 +12171,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -12610,7 +12200,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -12640,7 +12229,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -12670,7 +12258,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -12700,7 +12287,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -12730,7 +12316,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -12760,7 +12345,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -12790,7 +12374,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -12820,7 +12403,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -12850,7 +12432,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -12880,7 +12461,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -12910,7 +12490,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -12940,7 +12519,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -12970,7 +12548,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -13000,7 +12577,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -13030,7 +12606,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -13060,7 +12635,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -13090,7 +12664,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -13120,7 +12693,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -13150,7 +12722,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -13180,7 +12751,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -13210,7 +12780,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -13240,7 +12809,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -13270,7 +12838,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -13300,7 +12867,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -13330,7 +12896,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -13360,7 +12925,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -13390,7 +12954,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -13420,7 +12983,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -13452,7 +13014,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -13483,7 +13044,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -13514,7 +13074,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -13545,7 +13104,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -13576,7 +13134,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -13607,7 +13164,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -13638,7 +13194,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -13668,7 +13223,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -13698,7 +13252,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -13728,7 +13281,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -13758,7 +13310,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -13788,7 +13339,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -13818,7 +13368,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -13848,7 +13397,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -13878,7 +13426,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -13908,7 +13455,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -13938,7 +13484,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -13968,7 +13513,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -13998,7 +13542,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -14028,7 +13571,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -14058,7 +13600,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -14088,7 +13629,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -14118,7 +13658,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -14148,7 +13687,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -14178,7 +13716,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -14208,7 +13745,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -14238,7 +13774,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -14268,7 +13803,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -14298,7 +13832,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -14328,7 +13861,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -14358,7 +13890,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -14388,7 +13919,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -14418,7 +13948,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -14448,7 +13977,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -14478,7 +14006,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -14508,7 +14035,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -14538,7 +14064,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -14568,7 +14093,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -14598,7 +14122,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -14628,7 +14151,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -14658,7 +14180,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -14688,7 +14209,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -14718,7 +14238,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -14748,7 +14267,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -14778,7 +14296,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -14808,7 +14325,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -14838,7 +14354,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -14868,7 +14383,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -14898,7 +14412,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -14928,7 +14441,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -14958,7 +14470,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -14988,7 +14499,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -15018,7 +14528,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -15048,7 +14557,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -15078,7 +14586,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -15108,7 +14615,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -15138,7 +14644,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -15168,7 +14673,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -15198,7 +14702,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -15228,7 +14731,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -15258,7 +14760,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -15288,7 +14789,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -15318,7 +14818,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -15348,7 +14847,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -15378,7 +14876,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -15408,7 +14905,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -15438,7 +14934,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -15468,7 +14963,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -15498,7 +14992,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -15528,7 +15021,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -15558,7 +15050,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -15588,7 +15079,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -15618,7 +15108,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -15650,7 +15139,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -15681,7 +15169,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -15712,7 +15199,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -15743,7 +15229,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -15774,7 +15259,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -15805,7 +15289,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -15836,7 +15319,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -15866,7 +15348,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -15896,7 +15377,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -15926,7 +15406,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -15956,7 +15435,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -15986,7 +15464,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -16016,7 +15493,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -16046,7 +15522,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -16076,7 +15551,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -16106,7 +15580,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -16136,7 +15609,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -16166,7 +15638,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -16196,7 +15667,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -16226,7 +15696,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -16256,7 +15725,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -16286,7 +15754,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -16316,7 +15783,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -16346,7 +15812,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -16376,7 +15841,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -16406,7 +15870,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -16436,7 +15899,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -16466,7 +15928,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -16496,7 +15957,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -16526,7 +15986,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -16556,7 +16015,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -16586,7 +16044,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -16616,7 +16073,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -16646,7 +16102,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -16676,7 +16131,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -16706,7 +16160,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -16736,7 +16189,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -16766,7 +16218,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -16796,7 +16247,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -16826,7 +16276,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -16856,7 +16305,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -16886,7 +16334,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -16916,7 +16363,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -16946,7 +16392,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -16976,7 +16421,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -17006,7 +16450,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -17036,7 +16479,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -17066,7 +16508,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -17096,7 +16537,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -17126,7 +16566,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -17156,7 +16595,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -17186,7 +16624,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -17216,7 +16653,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -17246,7 +16682,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -17276,7 +16711,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -17306,7 +16740,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -17336,7 +16769,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -17366,7 +16798,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -17396,7 +16827,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -17426,7 +16856,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -17456,7 +16885,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -17486,7 +16914,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -17516,7 +16943,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -17546,7 +16972,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -17576,7 +17001,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -17606,7 +17030,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -17636,7 +17059,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -17666,7 +17088,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -17696,7 +17117,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -17726,7 +17146,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -17756,7 +17175,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -17786,7 +17204,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -17816,7 +17233,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -17848,7 +17264,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -17879,7 +17294,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -17910,7 +17324,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -17941,7 +17354,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -17972,7 +17384,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -18003,7 +17414,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -18034,7 +17444,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -18064,7 +17473,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -18094,7 +17502,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -18124,7 +17531,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -18154,7 +17560,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -18184,7 +17589,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -18214,7 +17618,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -18244,7 +17647,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -18274,7 +17676,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -18304,7 +17705,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -18334,7 +17734,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -18364,7 +17763,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -18394,7 +17792,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -18424,7 +17821,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -18454,7 +17850,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -18484,7 +17879,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -18514,7 +17908,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -18544,7 +17937,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -18574,7 +17966,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -18604,7 +17995,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -18634,7 +18024,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -18664,7 +18053,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -18694,7 +18082,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -18724,7 +18111,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -18754,7 +18140,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -18784,7 +18169,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -18814,7 +18198,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -18844,7 +18227,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -18874,7 +18256,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -18904,7 +18285,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -18934,7 +18314,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -18964,7 +18343,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -18994,7 +18372,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -19024,7 +18401,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -19054,7 +18430,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -19084,7 +18459,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -19114,7 +18488,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -19144,7 +18517,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -19174,7 +18546,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -19204,7 +18575,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -19234,7 +18604,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -19264,7 +18633,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -19294,7 +18662,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -19324,7 +18691,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -19354,7 +18720,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -19384,7 +18749,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -19414,7 +18778,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -19444,7 +18807,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -19474,7 +18836,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -19504,7 +18865,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -19534,7 +18894,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -19564,7 +18923,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -19594,7 +18952,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -19624,7 +18981,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -19654,7 +19010,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -19684,7 +19039,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -19714,7 +19068,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -19744,7 +19097,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -19774,7 +19126,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -19804,7 +19155,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -19834,7 +19184,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -19864,7 +19213,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -19894,7 +19242,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -19924,7 +19271,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -19954,7 +19300,6 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
 
   {
     logo: "/images/avura.jpg",
@@ -19984,7 +19329,7 @@ export const sponsors = [
     logo: "/images/gdg.jpg",
     name: "Google Developers Group Fupre",
   },
- 
+
   {
     logo: "/images/avura.jpg",
     name: "Avura Care",

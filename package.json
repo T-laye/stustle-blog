@@ -22,6 +22,7 @@
     "axios": "^1.7.8",
     "dayjs": "^1.11.13",
     "formik": "^2.4.6",
+    "fuse.js": "^7.1.0",
     "gsap": "^3.12.5",
     "html2canvas": "^1.4.1",
     "markdown-it": "^14.1.0",
