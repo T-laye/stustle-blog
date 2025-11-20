@@ -4,10 +4,19 @@ import React from "react";
 import { BiArrowBack } from "react-icons/bi";
 import { GoShareAndroid } from "react-icons/go";
 import Button from "../../../components/ui/Button";
-import { useRouter } from "next/navigation";
+import { useParams, useRouter } from "next/navigation";
+import { mockStustlers } from "../../../utils/mockStustlers";
+import { capitalizeWords } from "../../../utils/helpers";
 
 export default function Page() {
   const router = useRouter();
+  const { stustler } = useParams();
+
+  const stustlerDetails = mockStustlers.find(
+    (s) => s.slug.current === stustler
+  );
+
+//   console.log("Stustler Details:", stustlerDetails);
   // share function: uses Web Share API when available, falls back to clipboard/prompt
   const shareProfile = async () => {
     const url = typeof window !== "undefined" ? window.location.href : "";
@@ -47,69 +56,70 @@ export default function Page() {
           <GoShareAndroid />
         </button>
       </div>
+      {stustlerDetails && (
+        <>
+          <div className="bg-[#FFF1DC] min-w-[270px] min-h-[270px] w-[270px] h-[270px] md:h-[400px] md:w-[400px] rounded-full overflow-hidden flex items-center justify-center mx-auto mt-[30px]">
+            <Image
+              height={500}
+              width={500}
+              src="/images/obaro.jpeg"
+              alt="stustler"
+              className="h-full w-full object-cover object-center"
+            />
+          </div>
 
-      <div className="bg-[#FFF1DC] min-w-[270px] min-h-[270px] w-[270px] h-[270px] md:h-[400px] md:w-[400px] rounded-full overflow-hidden flex items-center justify-center mx-auto mt-[30px]">
-        <Image
-          height={500}
-          width={500}
-          src="/images/obaro.jpeg"
-          alt="stustler"
-          className="h-full w-full object-cover object-center"
-        />
-      </div>
+          <div className="flex flex-col justify-center items-center mt-[18px] md:mt-[10px] space-y-[10px] md:space-y-[10px] mb-[30px] lg:mb-[60px]">
+            <div className="text-xl lg:text-2xl font-medium line-clamp-1">
+              {capitalizeWords(stustlerDetails.name || "")}
+            </div>
+            <div className=" rounded-[20px] lg:text-lg line-clamp-1 text-primary bg-primary/10 text-sm px-5 py-1 font-medium">
+              {capitalizeWords(stustlerDetails.subCategory)}
+            </div>
+            <div className="text-xs md:text-base font-medium text-[#5b5b5b] line-clamp-1">
+              {capitalizeWords(stustlerDetails.category)}
+            </div>
+          </div>
 
-      <div className="flex flex-col justify-center items-center mt-[18px] md:mt-[10px] space-y-[10px] md:space-y-[10px] mb-[30px] lg:mb-[60px]">
-        <div className="text-xl lg:text-2xl font-medium">Jane Doe</div>
-        <div className=" rounded-[20px] lg:text-lg text-primary bg-primary/10 text-sm px-5 py-1 font-medium">
-          UI/UX Designer
-        </div>
-        <div className="text-xs md:text-base font-medium text-[#5b5b5b]">
-          Web & UI/UX Design
-        </div>
-      </div>
+          <div className="max-w-[250px] mx-auto md:max-w-[460px]">
+            <Button style="primary" type="button">
+              Hire this Stustler
+            </Button>
+          </div>
 
-      <div className="max-w-[250px] mx-auto md:max-w-[460px]">
-        <Button style="primary" type="button">
-          Hire this Stustler
-        </Button>
-      </div>
+          <div className="text-sm md:text-[20px] lg:text-[24px] mt-[60px] space-y-[50px] lg:space-y-[120px] md:leading-[30px] lg:leading-[45px]">
+            <p>
+              <span className="font-semibold">Bio:</span> {stustlerDetails.bio}
+            </p>
 
-      <div className="text-sm md:text-[20px] lg:text-[24px] mt-[60px] space-y-[50px] lg:space-y-[120px] md:leading-[30px] lg:leading-[45px]">
-        <p>
-          <span className="font-semibold">Bio:</span> Lorem ipsum dolor sit amet
-          consectetur adipisicing elit. Dicta dolorem exercitationem veniam
-          animi quo culpa porro aspernatur nam pariatur. Culpa eius itaque
-          reiciendis eveniet autem est animi mollitia facilis enim facere
-          veritatis quae minima eaque ea quisquam dicta repudiandae nisi, nam
-          accusantium porro laudantium nesciunt. Ratione consequatur harum ipsum
-          odit!
-        </p>
+            <p>
+              <span className="font-semibold">View Jobs/Portfolio:</span>{" "}
+              <a href={stustlerDetails.link} className="text-[#0082DF]">
+                Click to view
+              </a>
+            </p>
 
-        <p>
-          <span className="font-semibold">View Jobs/Portfolio:</span>{" "}
-          <a href="#" className="text-[#0082DF]">
-            Click to view
-          </a>
-        </p>
+            <p>
+              <span className="font-semibold">Tools Used:</span>{" "}
+              {stustlerDetails.toolsUsed}
+            </p>
 
-        <p>
-          <span className="font-semibold">Tools Used:</span> Figma, Adobe XD,
-          Sketch, InVision
-        </p>
+            <p>
+              <span className="font-semibold">Experience Level:</span>{" "}
+              {stustlerDetails.experienceLevel}
+            </p>
 
-        <p>
-          <span className="font-semibold">Experience Level:</span> Beginner
-        </p>
+            <p>
+              <span className="font-semibold">Price Range:</span>{" "}
+              {stustlerDetails.priceRange}
+            </p>
 
-        <p>
-          <span className="font-semibold">Price Range:</span> N5,000 - N20,000
-        </p>
-
-        <p>
-          <span className="font-semibold">Status:</span>{" "}
-          <span className={`text-[#1FAF38]`}>Available</span>
-        </p>
-      </div>
+            <p>
+              <span className="font-semibold">Status:</span>{" "}
+              <span className={`text-[#1FAF38]`}>Available</span>
+            </p>
+          </div>
+        </>
+      )}
     </div>
   );
 }

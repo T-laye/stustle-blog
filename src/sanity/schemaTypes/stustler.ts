@@ -96,5 +96,17 @@ export const stustler = defineType({
       },
       validation: (Rule) => Rule.required(),
     }),
+    defineField({
+      name: "status",
+      type: "string",
+      title: "Status",
+      options: {
+        list: [
+          { title: "Available", value: "available" },
+          { title: "Unavailable", value: "unavailable" },
+        ], // Add more options as needed
+      },
+      validation: (Rule) => Rule.required(),
+    }),
   ],
 });
