@@ -250,10 +250,12 @@ export default function Page() {
       {/* ITEMS */}
       {!loading && isClientReady && filtered.length > 0 && (
         <>
-          <div className="grid min-[550px]:grid-cols-2 md:grid-cols-3 gap-[50px] pt-[37px]">
-            {visibleItems.map((s) => (
-              <StustlersCard key={s._id} stustler={s} />
-            ))}
+          <div className="grid min-[550px]:grid-cols-2 lg:grid-cols-3 gap-[50px] pt-[37px]">
+            {visibleItems
+              .sort(() => Math.random() - 0.5)
+              .map((s) => (
+                <StustlersCard key={s._id} stustler={s} />
+              ))}
 
             {/* Loading placeholders */}
             {isLoadingMore &&
