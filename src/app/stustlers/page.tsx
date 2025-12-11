@@ -9,9 +9,7 @@ import React, {
 } from "react";
 import { GoSearch } from "react-icons/go";
 import Fuse from "fuse.js";
-
 import StustlersCard from "../../components/stustlers/StustlersCard";
-import { mockStustlers } from "../../utils/mockStustlers";
 import { stustlerCategories } from "../../utils/contents";
 import { client } from "../../sanity/lib/client";
 import { STUSTLERS_QUERY } from "../../sanity/lib/queries";
@@ -70,9 +68,9 @@ export default function Page() {
     setIsClientReady(true);
 
     // use Sanity if available, otherwise fallback to mock
-    const source = stustlers.length > 0 ? stustlers : mockStustlers;
+    // const source = stustlers;
 
-    const shuffledCopy = [...source].sort(() => Math.random() - 0.5);
+    const shuffledCopy = [...stustlers].sort(() => Math.random() - 0.5);
     setShuffled(shuffledCopy);
 
     setVisibleCount(ITEMS_PER_LOAD);
@@ -251,11 +249,9 @@ export default function Page() {
       {!loading && isClientReady && filtered.length > 0 && (
         <>
           <div className="grid min-[550px]:grid-cols-2 lg:grid-cols-3 gap-[50px] pt-[37px]">
-            {visibleItems
-              .sort(() => Math.random() - 0.5)
-              .map((s) => (
-                <StustlersCard key={s._id} stustler={s} />
-              ))}
+            {visibleItems.map((s) => (
+              <StustlersCard key={s._id} stustler={s} />
+            ))}
 
             {/* Loading placeholders */}
             {isLoadingMore &&
