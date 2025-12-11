@@ -25,6 +25,10 @@ export default function Page() {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
 
+  const relatedFiltered = related?.filter(
+    (s) => s._id !== data?._id && s.category === data?.category
+  ); // remove current stustler
+
   // -------------------------------
   // 🔥 FETCH MAIN STUSTLER + RELATED
   // -------------------------------
@@ -88,7 +92,7 @@ export default function Page() {
   // -------------------------------
   if (loading) {
     return (
-      <div className="mt-36 w-screen flex justify-center">
+      <div className="mt-60 w-screen flex justify-center">
         <Loader />
       </div>
     );
@@ -187,15 +191,14 @@ export default function Page() {
         </p>
       </div>
 
-      {related.length > 1 && (
-        <div className="mt-20">
-          <h3 className="mb-10 text-start text-sm font-medium lg:text-[40px]">
+      {relatedFiltered.length > 1 && (
+        <div className="mt-20 md:mt-32">
+          <h3 className="mb-10 text-start text-sm font-medium lg:text-[20px] ">
             Similar Stustlers
           </h3>
 
-          <div className="flex gap-10 overflow-auto pb-10">
-            {related
-              .filter((s) => s._id !== data._id) // remove current stustler
+          <div className="flex gap-10 overflow-auto pb-10 max-sm:justify-center">
+            {relatedFiltered
               .sort(() => Math.random() - 0.5) // shuffle
               .slice(0, 6) // pick first 6
               .map((s) => (
