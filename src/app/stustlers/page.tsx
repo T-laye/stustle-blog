@@ -9,273 +9,270 @@ import React, {
 } from "react";
 import { GoSearch } from "react-icons/go";
 import Fuse from "fuse.js";
+
 import StustlersCard from "../../components/stustlers/StustlersCard";
 import { mockStustlers } from "../../utils/mockStustlers";
 import { stustlerCategories } from "../../utils/contents";
+import { client } from "../../sanity/lib/client";
+import { STUSTLERS_QUERY } from "../../sanity/lib/queries";
+import { Stustler } from "../../../types/sanityTypes";
 
-/**
- * Infinite scroll configuration
- */
+/** Infinite scroll config */
 const ITEMS_PER_LOAD = 9;
-const SKELETON_COUNT = ITEMS_PER_LOAD; // how many skeleton cards to show initially
+const SKELETON_COUNT = ITEMS_PER_LOAD;
 
 export default function Page() {
-  // filters & search
+  // Filters
   const [selectedCategory, setSelectedCategory] = useState<string>("All");
   const [searchTerm, setSearchTerm] = useState<string>("");
 
-  // shuffled list is set on client only to avoid SSR randomness/hydration mismatch
-  const [shuffled, setShuffled] = useState<typeof mockStustlers>([]);
-  const [isClientReady, setIsClientReady] = useState(false);
+  // Sanity data
+  const [stustlers, setStustlers] = useState<Stustler[]>([]);
+  const [loading, setLoading] = useState<boolean>(true);
+  // const [error, setError] = useState<string | null>(null);
 
-  // infinite scroll state
+  // Client hydration
+  const [isClientReady, setIsClientReady] = useState<boolean>(false);
+
+  // Shuffle & display
+  const [shuffled, setShuffled] = useState<Stustler[]>([]);
+
+  // Infinite scroll
   const [visibleCount, setVisibleCount] = useState<number>(ITEMS_PER_LOAD);
-  const [isLoadingMore, setIsLoadingMore] = useState(false);
-
+  const [isLoadingMore, setIsLoadingMore] = useState<boolean>(false);
   const sentinelRef = useRef<HTMLDivElement | null>(null);
 
-  // -------------------------
-  // Client-only initialization
-  // -------------------------
+  /**
+   * FETCH SANITY DATA
+   */
   useEffect(() => {
-    // run only on client after hydration
-    setIsClientReady(true);
+    const fetchStustlers = async () => {
+      try {
+        const data: Stustler[] = await client.fetch(STUSTLERS_QUERY);
+        setStustlers(data);
+      } catch (err) {
+        console.error("Error fetching stustlers:", err);
+        // setError("Failed to fetch stustlers");
+      } finally {
+        setLoading(false);
+      }
+    };
 
-    // shuffle mockStustlers on client only
-    const shuffledCopy = [...mockStustlers].sort(() => Math.random() - 0.5);
-    setShuffled(shuffledCopy);
-
-    // reset visible count (in case user navigated back)
-    setVisibleCount(ITEMS_PER_LOAD);
+    fetchStustlers();
   }, []);
 
-  // -------------------------
-  // Fuse (fuzzy search) setup
-  // -------------------------
+  /**
+   * CLIENT-ONLY SETUP (handles shuffle + hydration safety)
+   */
+  useEffect(() => {
+    if (loading) return;
+
+    setIsClientReady(true);
+
+    // use Sanity if available, otherwise fallback to mock
+    const source = stustlers.length > 0 ? stustlers : mockStustlers;
+
+    const shuffledCopy = [...source].sort(() => Math.random() - 0.5);
+    setShuffled(shuffledCopy);
+
+    setVisibleCount(ITEMS_PER_LOAD);
+  }, [loading, stustlers]);
+
+  /**
+   * FUSE SEARCH
+   */
   const fuse = useMemo(() => {
     if (!shuffled.length) return null;
 
     return new Fuse(shuffled, {
-      keys: ["name", "subCategory", "bio", "toolsUsed", "category"],
-      threshold: 0.35, // tweak sensitivity (0 = exact, 1 = fuzzy)
-      distance: 100,
-      minMatchCharLength: 1,
+      keys: ["name", "bio", "subCategory", "toolsUsed", "category"],
+      threshold: 0.35,
       ignoreLocation: true,
     });
   }, [shuffled]);
 
-  // -------------------------
-  // Derived filtered list
-  // -------------------------
-  const filtered = useMemo(() => {
-    // While client isn't ready, return empty array so SSR and initial client render match (skeletons shown)
+  /**
+   * FILTER + SEARCH
+   */
+  const filtered: Stustler[] = useMemo(() => {
     if (!isClientReady) return [];
 
-    // start from shuffled (client-randomized)
     let base = shuffled;
 
-    // category filter
+    // Category filter
     if (selectedCategory !== "All") {
       base = base.filter((s) => s.category === selectedCategory);
     }
 
-    // search — if there's a query and fuse is ready, use fuzzy search
+    // Search
     const q = searchTerm.trim();
     if (q.length > 0 && fuse) {
-      const results = fuse.search(q);
-      // map to items
-      base = results.map((r) => r.item);
+      const results = fuse.search(q).map((r) => r.item);
 
-      // if after fuse we still want category filtering ensure it's applied (fuse searches across all)
+      // Preserve category filter post-search
       if (selectedCategory !== "All") {
-        base = base.filter((s) => s.category === selectedCategory);
+        return results.filter((s) => s.category === selectedCategory);
       }
+
+      return results;
     }
 
     return base;
   }, [isClientReady, shuffled, selectedCategory, searchTerm, fuse]);
 
-  // -------------------------
-  // Show more (infinite load)
-  // -------------------------
+  /**
+   * INFINITE SCROLL
+   */
   const hasMore = visibleCount < filtered.length;
 
   const loadMore = useCallback(() => {
     if (!hasMore) return;
+
     setIsLoadingMore(true);
-    // small simulated delay to show loading UX
     setTimeout(() => {
-      setVisibleCount((c) => Math.min(c + ITEMS_PER_LOAD, filtered.length));
+      setVisibleCount((prev) =>
+        Math.min(prev + ITEMS_PER_LOAD, filtered.length)
+      );
       setIsLoadingMore(false);
     }, 400);
   }, [hasMore, filtered.length]);
 
-  // IntersectionObserver to detect when the sentinel is visible
+  // intersection observer
   useEffect(() => {
+    if (!isClientReady) return;
+
     const sentinel = sentinelRef.current;
-    if (!sentinel || !isClientReady) return;
+    if (!sentinel) return;
 
     const observer = new IntersectionObserver(
       (entries) => {
-        entries.forEach((entry) => {
-          if (entry.isIntersecting && hasMore && !isLoadingMore) {
-            loadMore();
-          }
-        });
+        if (entries[0].isIntersecting && hasMore && !isLoadingMore) {
+          loadMore();
+        }
       },
-      {
-        root: null,
-        rootMargin: "200px",
-        threshold: 0.1,
-      }
+      { rootMargin: "200px" }
     );
 
     observer.observe(sentinel);
+    return () => observer.disconnect();
+  }, [isClientReady, sentinelRef, hasMore, isLoadingMore, loadMore]);
 
-    return () => {
-      observer.disconnect();
-    };
-  }, [sentinelRef, hasMore, isLoadingMore, isClientReady, loadMore]);
-
-  // reset visibleCount & scroll to top when category or search changes
+  // Reset scroll on filter/search change
   useEffect(() => {
     if (!isClientReady) return;
+
     setVisibleCount(ITEMS_PER_LOAD);
-    // smooth scroll to top of list
-    window.scrollTo({
-      top: -100,
-      behavior: "smooth",
-    });
+    window.scrollTo({ top: 0, behavior: "smooth" });
   }, [selectedCategory, searchTerm, isClientReady]);
 
-  // displayed items for current infinite scroll viewport
   const visibleItems = filtered.slice(0, visibleCount);
 
-  // -------------------------
-  // Helpers / UI
-  // -------------------------
-//   const clearFilters = () => {
-//     setSelectedCategory("All");
-//     setSearchTerm("");
-//   };
-
-  // Skeleton card component (simple placeholder)
+  /**
+   * SKELETON COMPONENT
+   */
   const SkeletonCard = () => (
-    <div className="w-fit place-self-center p-2 md:p-4 rounded-[15px]">
-      <div className="bg-[#FFF1DC] min-w-[250px] min-h-[250px] w-[250px] h-[250px] xl:h-[300px] xl:w-[300px] rounded-full overflow-hidden flex items-center justify-center animate-pulse" />
-      <div className="flex flex-col justify-center items-center mt-[10px] space-y-[8px]">
-        <div className="h-5 w-40 rounded-md bg-gray-200 animate-pulse" />
-        <div className="h-6 w-28 rounded-full bg-gray-200 animate-pulse" />
-        <div className="h-3 w-20 rounded-md bg-gray-200 animate-pulse" />
+    <div className="w-fit place-self-center p-2 md:p-4 rounded-[15px] animate-pulse">
+      <div className="bg-[#FFF1DC] w-[250px] h-[250px] md:w-[300px] md:h-[300px] rounded-full" />
+      <div className="flex flex-col items-center mt-3 space-y-2">
+        <div className="h-5 w-40 bg-gray-200 rounded-md" />
+        <div className="h-6 w-28 bg-gray-200 rounded-full" />
+        <div className="h-3 w-20 bg-gray-200 rounded-md" />
       </div>
     </div>
   );
 
   return (
     <div className="pt-[90px] md:pt-[120px] lg:pt-[150px] pb-20 container px-4">
-      {/* Category tabs */}
+      {/* CATEGORY TABS */}
       <div className="flex gap-5 overflow-auto items-center text-lg lg:text-2xl">
-        <div
-          role="button"
-          tabIndex={0}
+        <button
           onClick={() => setSelectedCategory("All")}
-          className={`cursor-pointer border-[2px] md:border-[3px] whitespace-nowrap font-semibold rounded-[8px] md:rounded-[20px] px-6 py-2 md:px-[30px] md:py-4 text-sm md:text-xl duration-150 ${
+          className={`cursor-pointer border-2 rounded-[12px] px-6 py-2
+          ${
             selectedCategory === "All"
               ? "bg-primary text-white border-primary"
               : "text-primary border-primary"
           }`}
         >
           All
-        </div>
+        </button>
 
         {stustlerCategories.map((c) => (
-          <div
+          <button
             key={c.value}
             onClick={() => setSelectedCategory(c.value)}
-            className={`cursor-pointer border-[2px] md:border-[3px] whitespace-nowrap font-semibold rounded-[8px] md:rounded-[20px] px-6 py-2 md:px-[30px] md:py-4 text-sm md:text-xl duration-150  ${
+            className={`cursor-pointer border-2 rounded-[12px] px-6 py-2 whitespace-nowrap
+            ${
               selectedCategory === c.value
                 ? "bg-primary text-white border-primary"
                 : "text-primary border-primary"
             }`}
           >
             {c.title}
-          </div>
+          </button>
         ))}
       </div>
 
-      {/* Search + Clear */}
-      <div className="mt-6 md:mt-8 lg:mt-10 flex flex-col md:flex-row items-start md:items-center gap-3 md:gap-6">
+      {/* SEARCH */}
+      <div className="mt-6 md:mt-8 flex flex-col md:flex-row gap-3">
         <div className="relative w-full md:max-w-xl">
-          <GoSearch className="absolute top-[50%] left-[10px] translate-y-[-50%] md:left-[16px] md:text-2xl text-[#aaa]/50 text-xl" />
+          <GoSearch className="absolute left-3 top-1/2 -translate-y-1/2 text-xl text-[#aaa]/50" />
           <input
             type="text"
             value={searchTerm}
             onChange={(e) => setSearchTerm(e.target.value)}
-            className="h-[45px] md:h-[60px] pl-[35px] md:pl-[50px] pr-[10px] py-[10px] rounded-[10px] bg-transparent border outline-none w-full border-primary/50 text-xs md:text-lg placeholder:text-[#aaa]/50 caret-primary"
-            placeholder="Search by name, category or skill (fuzzy search enabled)"
+            className="h-[45px] md:h-[60px] pl-[40px] border border-primary/50 rounded-[10px] w-full bg-transparent"
+            placeholder="Search by name, category or skill..."
           />
         </div>
-
-        {/* <div className="flex items-center gap-3">
-          <button
-            onClick={clearFilters}
-            className="px-4 py-2 border rounded bg-white text-sm md:text-base"
-          >
-            Clear
-          </button>
-        </div> */}
       </div>
 
-      {/* Header */}
-      <h2 className="text-sm font-medium mt-[30px] sm:mt-[50px] lg:mt-[70px] sm:text-xl md:text-2xl">
+      <h2 className="text-sm font-medium mt-[30px] md:text-2xl">
         Featured Stustlers
       </h2>
 
-      {/* Empty / Skeleton handling */}
-      {!isClientReady && (
-        <div className="min-h-[50vh] grid min-[550px]:grid-cols-2 md:grid-cols-3 px-4 gap-[50px] lg:gap-[95px] mx-auto pt-[37px] lg:pt-[60px]">
+      {/* SKELETON (LOADING OR NOT READY) */}
+      {(loading || !isClientReady) && (
+        <div className="grid min-[550px]:grid-cols-2 md:grid-cols-3 gap-[50px] pt-[37px]">
           {Array.from({ length: SKELETON_COUNT }).map((_, i) => (
-            <SkeletonCard key={`sk-${i}`} />
+            <SkeletonCard key={i} />
           ))}
         </div>
       )}
 
-      {isClientReady && filtered.length === 0 && (
-        <div className="text-center py-40 text-gray-500 text-lg">
-          No stustler found. Try adjusting your search or filters.
+      {/* EMPTY STATE */}
+      {!loading && isClientReady && filtered.length === 0 && (
+        <div className="text-center py-40 text-gray-500">
+          No stustler found.
         </div>
       )}
 
-      {/* Grid of cards */}
-      {isClientReady && filtered.length > 0 && (
+      {/* ITEMS */}
+      {!loading && isClientReady && filtered.length > 0 && (
         <>
-          <div className="min-h-[50vh] grid min-[550px]:grid-cols-2 md:grid-cols-3 px-4 gap-[50px] lg:gap-[95px] mx-auto pt-[37px] lg:pt-[60px]">
-            {visibleItems.map((stustler) => (
-              <StustlersCard key={stustler._id} stustler={stustler} />
+          <div className="grid min-[550px]:grid-cols-2 md:grid-cols-3 gap-[50px] pt-[37px]">
+            {visibleItems.map((s) => (
+              <StustlersCard key={s._id} stustler={s} />
             ))}
 
-            {/* If still loading more, show skeleton placeholders at the end */}
+            {/* Loading placeholders */}
             {isLoadingMore &&
               Array.from({
                 length: Math.min(
                   ITEMS_PER_LOAD,
                   filtered.length - visibleItems.length
                 ),
-              }).map((_, i) => <SkeletonCard key={`load-sk-${i}`} />)}
+              }).map((_, i) => <SkeletonCard key={`load-${i}`} />)}
           </div>
 
-          {/* Sentinel for infinite scroll */}
           <div ref={sentinelRef} />
 
-          {/* Load indicator */}
-          <div className="flex items-center justify-center gap-3 mt-10">
-            {isLoadingMore ? (
-              <div className="text-gray-600">Loading more...</div>
-            ) : hasMore ? (
-              <div className="text-gray-600">Scroll to load more</div>
-            ) : (
-              <div className="text-gray-600">You have reached the end</div>
-            )}
+          <div className="flex justify-center mt-10 text-gray-600">
+            {isLoadingMore
+              ? "Loading more..."
+              : hasMore
+                ? "Scroll to load more"
+                : "You reached the end"}
           </div>
         </>
       )}

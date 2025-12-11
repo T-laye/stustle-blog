@@ -136,3 +136,21 @@ export const PROJECTS_QUERY =
   publishedAt,
   _createdAt, 
 }`);
+
+export const STUSTLERS_QUERY =
+  defineQuery(`*[_type == "stustler"] | order(_createdAt desc) {
+  _id, 
+  name,
+  slug, 
+  _createdAt, 
+  bio,
+  imageLink,
+  link, 
+  category,
+  subCategory,
+  toolsUsed,
+  priceRange,
+  experienceLevel,
+  status
+  }`);
+

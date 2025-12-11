@@ -21,6 +21,8 @@ export const about = [
   "A platform where students can get basic services at their comfort.",
 ];
 
+// hub@skysenx.com
+
 export const services = [
   {
     title: "Web Development",

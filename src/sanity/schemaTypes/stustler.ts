@@ -39,14 +39,21 @@ export const stustler = defineType({
         Rule.uri({ scheme: ["http", "https"] }).error("Valid URL is required."),
     }),
     defineField({
-      name: "profileImage",
-      title: "Profile Image",
-      type: "image", // For file uploads
-      options: {
-        hotspot: true, // Enable image hotspot for better cropping
-      },
-      validation: (Rule) => Rule.required().error("Profile Image is required."),
+      name: "imageLink",
+      title: "Image Link",
+      type: "url",
+      validation: (Rule) =>
+        Rule.uri({ scheme: ["http", "https"] }).error("Valid URL is required."),
     }),
+    // defineField({
+    //   name: "profileImage",
+    //   title: "Profile Image",
+    //   type: "image", // For file uploads
+    //   options: {
+    //     hotspot: true, // Enable image hotspot for better cropping
+    //   },
+    //   // validation: (Rule) => Rule.required().error("Profile Image is required."),
+    // }),
 
     defineField({
       name: "category",

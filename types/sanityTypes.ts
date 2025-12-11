@@ -88,6 +88,8 @@ export interface Stustler {
 
   link?: string;
 
+  imageLink?: string;
+
   profileImage: {
     _type: "image";
     asset: {
