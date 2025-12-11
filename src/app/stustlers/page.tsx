@@ -185,7 +185,7 @@ export default function Page() {
       <div className="flex gap-5 overflow-auto items-center text-lg lg:text-2xl">
         <button
           onClick={() => setSelectedCategory("All")}
-          className={`cursor-pointer border-2 rounded-[12px] px-6 py-2
+          className={`cursor-pointer border-[2px] whitespace-nowrap font-semibold rounded-[8px] md:rounded-[20px] px-6 py-2 md:px-[30px] md:py-4 text-sm md:text-xl duration-150
           ${
             selectedCategory === "All"
               ? "bg-primary text-white border-primary"
@@ -219,7 +219,7 @@ export default function Page() {
             type="text"
             value={searchTerm}
             onChange={(e) => setSearchTerm(e.target.value)}
-            className="h-[45px] md:h-[60px] pl-[40px] border border-primary/50 rounded-[10px] w-full bg-transparent"
+            className="h-[45px] md:h-[60px] pl-[40px] border focus:border-2 border-primary/50 focus:border-primary/50 rounded-[10px] w-full bg-transparent duration-150 outline-none px-4 md:text-lg"
             placeholder="Search by name, category or skill..."
           />
         </div>
