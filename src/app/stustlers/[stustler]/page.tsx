@@ -13,6 +13,7 @@ import { STUSTLER_QUERY, STUSTLERS_QUERY } from "../../../sanity/lib/queries";
 import { Stustler } from "../../../../types/sanityTypes";
 import { stustlerCategories } from "../../../utils/contents";
 import StustlersCard from "../../../components/stustlers/StustlersCard";
+import Loader from "../../../components/ui/Loader";
 
 export default function Page() {
   const router = useRouter();
@@ -87,7 +88,9 @@ export default function Page() {
   // -------------------------------
   if (loading) {
     return (
-      <div className="pt-[120px] text-center text-gray-500">Loading...</div>
+      <div className="mt-36 w-screen flex justify-center">
+        <Loader />
+      </div>
     );
   }
 
@@ -190,11 +193,13 @@ export default function Page() {
             Similar Stustlers
           </h3>
 
-          <div>
+          <div className="flex gap-10 overflow-auto pb-10">
             {related
-              .filter((s) => s._id !== data._id)
-              .map((s, i) => (
-                <StustlersCard key={i} stustler={s} />
+              .filter((s) => s._id !== data._id) // remove current stustler
+              .sort(() => Math.random() - 0.5) // shuffle
+              .slice(0, 6) // pick first 6
+              .map((s) => (
+                <StustlersCard key={s._id} stustler={s} />
               ))}
           </div>
         </div>
