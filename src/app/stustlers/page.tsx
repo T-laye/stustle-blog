@@ -185,7 +185,7 @@ export default function Page() {
       <div className="flex gap-5 overflow-auto items-center text-lg lg:text-2xl">
         <button
           onClick={() => setSelectedCategory("All")}
-          className={`cursor-pointer border-[2px] whitespace-nowrap font-semibold rounded-[8px] md:rounded-[20px] px-6 py-2 md:px-[30px] md:py-4 text-sm md:text-xl duration-150
+          className={`cursor-pointer border-2 rounded-[12px] px-6 py-2 whitespace-nowrap duration-150
           ${
             selectedCategory === "All"
               ? "bg-primary text-white border-primary"
@@ -199,7 +199,7 @@ export default function Page() {
           <button
             key={c.value}
             onClick={() => setSelectedCategory(c.value)}
-            className={`cursor-pointer border-2 rounded-[12px] px-6 py-2 whitespace-nowrap
+            className={`cursor-pointer border-2 rounded-[12px] px-6 py-2 whitespace-nowrap duration-150
             ${
               selectedCategory === c.value
                 ? "bg-primary text-white border-primary"
