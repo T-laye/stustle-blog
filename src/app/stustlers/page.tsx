@@ -219,7 +219,7 @@ export default function Page() {
             type="text"
             value={searchTerm}
             onChange={(e) => setSearchTerm(e.target.value)}
-            className="h-[45px] md:h-[60px] pl-[40px] border focus:border-2 border-primary/50 focus:border-primary/50 rounded-[10px] w-full bg-transparent duration-150 outline-none px-4 md:text-lg"
+            className="h-[45px] md:h-[60px] pl-[40px] border focus:border-2 border-primary/50 focus:border-primary/50 rounded-[10px] w-full bg-transparent duration-150 outline-none px-4 md:text-lg placeholder:text-gray-300"
             placeholder="Search by name, category or skill..."
           />
         </div>
