@@ -52,8 +52,8 @@ export const EVENTS_QUERY =
   status,
   _createdAt, 
   }`);
-  
-  export const EVENT_QUERY =
+
+export const EVENT_QUERY =
   defineQuery(`*[_type == "event" && slug.current == $slug][0] {
     _id, 
     theme,
@@ -82,7 +82,6 @@ export const REVIEWS_QUERY =
   _createdAt, 
   }`);
 
-  
 export const STUSTLERS_REVIEWS_QUERY =
   defineQuery(`*[_type == "review" && role == "stustler"] | order(_createdAt desc) {
   _id, 
@@ -93,7 +92,6 @@ export const STUSTLERS_REVIEWS_QUERY =
   _createdAt, 
 }`);
 
-  
 // Events Query ///////////////////////////
 export const PROJECTS_BY_CATEGORY_QUERY = defineQuery(`
   *[_type == "project" && defined(slug.current) && ($category == "All" || category == $category)] 
@@ -110,7 +108,6 @@ export const PROJECTS_BY_CATEGORY_QUERY = defineQuery(`
   }
 `);
 
-
 export const PROJECTS_QUERY =
   defineQuery(`*[_type == "project" && defined(slug.current)] | order(_createdAt desc) {
   _id, 
@@ -123,9 +120,9 @@ export const PROJECTS_QUERY =
   publishedAt,
   _createdAt, 
   }`);
-  
-  export const PROJECT_QUERY =
-    defineQuery(`*[_type == "project" && slug.current == $slug][0] {
+
+export const PROJECT_QUERY =
+  defineQuery(`*[_type == "project" && slug.current == $slug][0] {
     _id, 
   title,
   slug, 
@@ -141,6 +138,20 @@ export const STUSTLERS_QUERY =
   defineQuery(`*[_type == "stustler"] | order(_createdAt desc) {
   _id, 
   name,
+  slug,
+  _createdAt, 
+  imageLink,
+  category,
+  subCategory,
+  toolsUsed,
+  experienceLevel,
+  status
+  }`);
+
+export const STUSTLER_QUERY =
+  defineQuery(`*[_type == "stustler" && slug.current == $slug][0] {
+  _id, 
+  name,
   slug, 
   _createdAt, 
   bio,
@@ -153,4 +164,3 @@ export const STUSTLERS_QUERY =
   experienceLevel,
   status
   }`);
-

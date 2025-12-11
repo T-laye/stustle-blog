@@ -37,7 +37,7 @@ const StustlersCard: React.FC<{ stustler: Stustler }> = ({ stustler }) => {
   return (
     <div
       ref={cardRef}
-      onClick={() => router.push(`/stustlers/${stustler.slug.current}`)}
+      onClick={() => router.push(`/stustlers/${stustler?.slug?.current}`)}
       className="w-fit place-self-center cursor-pointer hover:bg-primary-light p-2 md:p-4 rounded-[15px] duration-150"
     >
       {/* IMAGE */}
