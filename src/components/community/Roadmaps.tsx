@@ -1,6 +1,7 @@
 "use client";
 import React, { useState } from "react";
 import { roadMaps } from "../../utils/roadmaps";
+import Link from "next/link";
 
 export default function Roadmaps() {
   const [active, setActive] = useState<string>("frontendWebDevelopment");
@@ -8,6 +9,8 @@ export default function Roadmaps() {
   // Get current roadmap by active value
   const currentRoadmap =
     roadMaps.find((item) => item.value === active)?.steps || [];
+
+    console.log(currentRoadmap);
 
   return (
     <section className="px-4 pt-24 lg:pt-40 pb-40">
@@ -57,12 +60,13 @@ export default function Roadmaps() {
           ))}
         </div>
 
-        <button
+        <Link
+        href={roadMaps.find((item) => item.value === active)?.resources || "#"}
           className="btn max-w-[800px] mx-auto border bg-primary text-white btns whitespace-nowrap h-[50px] md:h-[100px] md:text-[32px] mt-[120px] lg:mt-[250px]"
           type="button"
         >
           Get Resources
-        </button>
+        </Link>
       </div>
     </section>
   );
