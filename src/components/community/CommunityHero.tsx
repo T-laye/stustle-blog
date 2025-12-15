@@ -1,4 +1,5 @@
 /* eslint-disable @next/next/no-img-element */
+import Link from "next/link";
 import React from "react";
 
 export default function CommunityHero() {
@@ -56,12 +57,13 @@ export default function CommunityHero() {
           </div>
 
           <div className="flex justify-center max-w-[800px] mx-auto">
-            <button
+            <Link
               className="btn bg-primary text-white btns whitespace-nowrap h-[50px] md:h-[100px] md:text-[32px]"
-              type="button"
+              href="https://chat.whatsapp.com/Cv5qhSB4kE0BoH7PLqJWvM"
+              target="_blank"
             >
               Join Community
-            </button>
+            </Link>
 
             {/* <Button style="primary" type="button">
               Join Community
