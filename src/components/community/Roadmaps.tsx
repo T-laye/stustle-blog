@@ -10,7 +10,7 @@ export default function Roadmaps() {
     roadMaps.find((item) => item.value === active)?.steps || [];
 
   return (
-    <section className="px-4 pt-[60px] md:pt-[120px] pb-40">
+    <section className="px-4 pt-24 lg:pt-40 pb-40">
       <div className="container">
         {/* NAVIGATION */}
         <nav>
@@ -32,7 +32,7 @@ export default function Roadmaps() {
         </nav>
 
         {/* HEADING */}
-        <h5 className="mt-[60px] md:mt-[70px] font-medium text-xl md:text-3xl">
+        <h5 className="mt-[40px] md:mt-[70px] font-medium text-xl md:text-3xl">
           Roadmap for {roadMaps.find((item) => item.value === active)?.title}
         </h5>
 
