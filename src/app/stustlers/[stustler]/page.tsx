@@ -181,7 +181,7 @@ export default function Page() {
 
         <p>
           <span className="font-semibold">View Jobs/Portfolio:</span>{" "}
-          <a href={data.link ?? "#"} className="text-[#0082DF]">
+          <a href={data.link ?? "#"} target="_blank" className="text-[#0082DF]">
             Click to view
           </a>
         </p>
