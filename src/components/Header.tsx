@@ -69,21 +69,21 @@ const Header = () => {
             <Link href="/">
               <li className="mobile li">Home</li>
             </Link>
-            <Link href="/#about" className="">
-              <li className="mobile li">About us</li>
+            <Link href="/blog">
+              <li className="mobile li">Blog</li>
             </Link>
-            <Link href="/#services">
-              <li className="mobile li">Services</li>
+            <Link href="/community" className="">
+              <li className="mobile li">Community</li>
+            </Link>
+            <Link href="/stustlers">
+              <li className="mobile li">Stustlers</li>
             </Link>
             <Link href="/events">
               <li className="mobile li">Events</li>
             </Link>
-            <Link href="/blog">
-              <li className="mobile li">Blog</li>
-            </Link>
-            <Link className="max-lg:hidde" href="/#contact">
+            {/* <Link className="max-lg:hidde" href="/#contact">
               <li className="mobile li">Contact</li>
-            </Link>
+            </Link> */}
           </ul>
           <div className="lg:hidden mobile li mt-10">
             <Button style="primary" type="button" fn={requestAService}>

@@ -10,7 +10,7 @@ export default function Roadmaps() {
   const currentRoadmap =
     roadMaps.find((item) => item.value === active)?.steps || [];
 
-    console.log(currentRoadmap);
+    // console.log(currentRoadmap);
 
   return (
     <section className="px-4 pt-24 lg:pt-40 pb-40">
