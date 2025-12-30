@@ -154,10 +154,24 @@ export default function Page() {
 
       {/* BUTTON */}
       <div className="max-w-[250px] mx-auto md:max-w-[460px]">
+        <a
+          href={`https://wa.me/2348115237006?text=${encodeURIComponent(
+            `Hi, I found ${data.name} on Stustle and I'd like to hire.`
+          )}`}
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <Button style="primary" type="button">
+            Hire this Stustler
+          </Button>
+        </a>
+      </div>
+
+      {/* <div className="max-w-[250px] mx-auto md:max-w-[460px]">
         <Button style="primary" type="button">
           Hire this Stustler
         </Button>
-      </div>
+      </div> */}
 
       {/* DETAILS */}
       <div className="text-sm md:text-[20px] lg:text-[24px] mt-[60px] space-y-[50px] lg:space-y-[120px] md:leading-[30px] lg:leading-[45px]">
