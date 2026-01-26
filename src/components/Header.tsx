@@ -73,6 +73,9 @@ const Header = () => {
               <li className="mobile li">Blog</li>
             </Link>
             <Link href="/community" className="">
+              <li className="mobile li">Portfolio</li>
+            </Link>
+            <Link href="/community" className="">
               <li className="mobile li">Community</li>
             </Link>
             <Link href="/stustlers">
