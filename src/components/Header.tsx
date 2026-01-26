@@ -72,7 +72,7 @@ const Header = () => {
             <Link href="/blog">
               <li className="mobile li">Blog</li>
             </Link>
-            <Link href="/community" className="">
+            <Link href="/portfolio" className="">
               <li className="mobile li">Portfolio</li>
             </Link>
             <Link href="/community" className="">
