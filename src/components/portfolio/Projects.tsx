@@ -33,7 +33,7 @@ export default function Projects() {
   }, [selectedCategory]);
 
   return (
-    <div className="mt-[60px] lg:mt-[120px]">
+    <div className="mt[60px] lg:mt-[120px]">
       {/* Header */}
       <div className="flex flex-col gap-6 md:flex-row md:justify-between lg:gap-[200px]">
         <div>
