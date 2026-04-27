@@ -71,7 +71,7 @@ const Faq = () => {
             />
           </div>
 
-          <ul className="list-none max-w-[1000px] mx-auto mt-7 space-y-4">
+          <ul className="list-none max-w-[614px] mx-auto mt-7 space-y-4">
             {bigConferenceFaqs.map((faq, index) => (
               <FaqList
                 key={index} // Replace with `faq.id` if your data has unique IDs

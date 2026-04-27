@@ -48,7 +48,7 @@ export default function WhatElse() {
   ];
 
   return (
-    <section className="px-4 sm:px-8 pt20 pb-20">
+    <section className="px-4 sm:px-8 pt-20 pb-20">
       <div className="container">
         <div className="flex flex-col items-center justify-center mb-[72px]">
           <Subtitle
@@ -57,7 +57,7 @@ export default function WhatElse() {
           />
         </div>
 
-        <div className="flex justify-evenly max-sm:flex-col items-center sm:items-end mt-16 flex-wrap gap-4">
+        <div className="flex justify-evenly max-sm:flex-col items-center sm:items-end mt-16 flex-wrap gap-16">
           {contents.map((content, index) => (
             <Content key={index} icon={content.icon} text={content.text} />
           ))}
