@@ -7,7 +7,7 @@ const InstaPost = () => {
   const { name, previewUrl } = useImageStore();
 
   return (
-    <div className="h-auto max-w-[350px] flex justify-center relative mx-auto lg:scale-150">
+    <div className="h-auto max-w-[360px] flex justify-center relative mx-auto lg:scale-150">
       {/* Background Instagram Post */}
       <div
         className="w-full max-w-[500px] aspect-square relative"

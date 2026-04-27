@@ -59,19 +59,19 @@ const Faq = () => {
     <section
       ref={sectionRef}
       id="faq"
-      className="flex flex-col lg:flex-row pb-20 pt-10 sm:pt-20"
+      className="flex flex-col lg:flex-row pb-20 pt-20"
     >
       {/* FAQ List Section */}
       <div className="flex-1 px-4 sm:px-8">
-        <div className="mt-8">
-          <div className="flex flex-col items-center justify-center mb-[72px]">
+        <div className="mt8">
+          <div className="flex flex-col items-center justify-center">
             <Subtitle
               text="Questions you might have"
               style="flex flex-col items-center "
             />
           </div>
 
-          <ul className="list-none max-w-[1000px] mx-auto mt-7 space-y-4">
+          <ul className="list-none max-w-[1000px] mx-auto space-y-4">
             {bigConferenceFaqs.map((faq, index) => (
               <FaqList
                 key={index} // Replace with `faq.id` if your data has unique IDs

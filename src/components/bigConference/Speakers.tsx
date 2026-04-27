@@ -11,9 +11,9 @@ const Speakers = () => {
           <Subtitle text="Our Speakers" style="flex flex-col items-center " />
         </div>
 
-        <p className="text-center text-[18px] sm:text-[20px] max-w-[800px]  mt-4 font-medium mx-auto mb-[72px]">
+        {/* <p className="text-center text-[18px] sm:text-[20px] max-w-[800px]  mt-4 font-medium mx-auto mb-[72px]">
           Thank you to our amazing speakers.
-        </p>
+        </p> */}
 
         <div className="flex justify-center gap-12 flex-wrap">
           {speakers.map((s, i) => (

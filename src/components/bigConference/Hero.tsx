@@ -32,7 +32,7 @@ export default function Hero() {
 				shape="polygon"
 				className="sm:hidden left-[48%] top-[30%] max-sm:top-[14%]"
 			/>
-			<div className="min-h-[90vh] lg:max-hscreen flex max-lg:flex-col gap-20">
+			<div className="min-h-[90vh] lg:max-hscreen flex max-lg:flex-col max-lg:gap-20">
 				<div className="relative flex-1 flexg justify-center items-center max-sm:m-10 sm:px-8">
 					<div className="mt-[15%]">
 						<div className="lg:w-9/12">
@@ -44,20 +44,20 @@ export default function Hero() {
 								className="object-contain w-full h-full max-[300px]:max-h-[100px] max-[350px]:max-h-[120px]"
 							/>
 						</div>
-						<p className="max-lg:text-center text-lg md:text-2xl font-normal mt-4 sm:mt14 max-w-2xl">
+						<p className="max-lg:text-center max-lg:mx-auto text-lg md:text-2xl font-normal mt-4 sm:mt14 max-w-2xl">
 							If you&apos;re a student or young graduate with big dreams, this
 							is where you need to be.
 						</p>
 						<Decors
-							shape="rec"
+							shape="ellipse"
 							className="-left-[90%] -scale-x-100 -bottom-[90%] max-sm:hidden"
 						/>
 						<div className="relative flex gap-4 mt-8 sm:mt-14 max-lg:justify-center max-sm:flex-wrap lg:w-1/2">
 							<Decors
 								shape="dots"
-								className="-scale-100 -right-[145%] -bottom-[50%] max-sm:hidden"
+								className="-scale-100 -right-[140%] -bottom-[50%] max-sm:hidden"
 							/>
-							<Decors shape="ellipse" className="-left-[5%] bottom-[200%] " />
+							{/* <Decors shape="ellipse" className="-left-[5%] bottom-[200%] " /> */}
 							<Button style="primary" type="button" fn={gotoGallery}>
 								<div className="flex items-center gap-2">
 									<span>Secure your Ticket</span>
