@@ -6,6 +6,7 @@ import Sponsors from "../../../../components/bigConference/Sponsors";
 import Faq from "../../../../components/bigConference/Faq";
 import CountDown from "../../../../components/bigConference/CountDown";
 import GenerateImage from "../../../../components/bigConference/GenerateImage";
+import Partners from "../../../../components/bigConference/Partners";
 
 export default function Page() {
 	return (
@@ -17,7 +18,7 @@ export default function Page() {
 			<Speakers />
 			<Sponsors />
 			<GenerateImage />
-			{/* <Partners /> */}
+			<Partners />
 			<Faq />
 		</>
 	);

@@ -88,6 +88,12 @@
 		@apply text-xl sm:text-3xl lg:text-5xl text-white font-medium;
 	}
 
+	.sponsor_bg {
+		background-image: url("/bigConf/big-watermark.png");
+		background-repeat: no-repeat;
+		background-size: contain;
+		background-position: center;
+	}
 	.count_bg {
 		background-image: url("/bigConf/timer-img.png");
 		background-repeat: no-repeat;

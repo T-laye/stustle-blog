@@ -98,11 +98,11 @@ const GenerateImage = () => {
 
 	return (
 		<section className="pt-10 sm:pt-20 lg:pt-40 sm:px-8">
-			<div className="container mx-auto flex flex-col-reverse justify-center rounded-[20px] bg-black overflow-hidden generate_bg">
+			<div className="max-w-[800px] mx-auto flex flex-col-reverse sm:flex-row-reverse items-center justify-center rounded-[20px] bg-black overflow-hidden generate_bg">
 				<div className="w-full mx-auto">
 					<InstaPost />
 				</div>
-				<div className="w-full px-5 py-[30px] ">
+				<div className="w-full px-5 max-sm:py-[30px] py-5 ">
 					<div className="bg-primary/25 border border-primary/10 backdrop-blur-[10px] rounded-tl-[10px] rounded-tr-[10px] text-white py-[30px] px-4">
 						<h2 className="text-xl font-medium text-center mb-7 ">
 							Generate your Attendees DP here
