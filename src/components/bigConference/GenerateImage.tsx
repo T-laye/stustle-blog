@@ -97,7 +97,7 @@ const GenerateImage = () => {
 	};
 
 	return (
-		<section className="pt-10 sm:pt-20 lg:pt-40 sm:px-8">
+		<section className="pt-10 pb-20 sm:pt-20 lg:pt-40 sm:px-8">
 			<div className="max-w-[800px] mx-auto flex flex-col-reverse sm:flex-row-reverse items-center justify-center rounded-[20px] bg-black overflow-hidden generate_bg">
 				<div className="w-full mx-auto">
 					<InstaPost />

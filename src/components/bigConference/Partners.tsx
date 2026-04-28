@@ -17,9 +17,9 @@ const Partners = () => {
 	return (
 		<section
 			id="contact"
-			className="sm:mt-10 pt-10 px-4 relative z-10 min-h-[50vh] overflow-hidden flex items-center sponsor_bg"
+			className="sm:mt-10 pt-10 pb-10 px-4 relative z-10 min-h-[50vh] overflow-hidden flex items-center sponsor_bg"
 		>
-			<div className="container py-10 mx-autom flex flex-col sm:flex-row items-center gap-10">
+			<div className="container py-10 mx-auto justify-between flex flex-col sm:flex-row items-center gap-10">
 				<div>
 					<div className="overflow-hidden w-[300px] h-[300px] lg:w-[350px] lg:h-[350px] rounded-full bg-[#fff]">
 						<Image
@@ -39,7 +39,7 @@ const Partners = () => {
 						/>
 					</div>
 
-					<div className="mt-5">
+					<div className="">
 						<p className="text-center  mx-auto max-w-2xl sm:text-lg">
 							Collaborate with us to provide meaningful job opportunities,
 							empowering students to gain valuable experience and contribute to
