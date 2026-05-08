@@ -3,13 +3,12 @@ import Subtitle from "./Subtitle";
 import Image from "next/image";
 import { sponsors } from "../../utils/contents";
 
-
 export default function Sponsors() {
 	return (
 		<section className="px-4 sm:px-8 pt-20 pb-20 md:pt-40">
 			<div className="container">
 				<div className="flex flex-col items-center justify-center">
-					<Subtitle text="Partners" style="flex flex-col items-center " />
+					<Subtitle text="Past Partners" style="flex flex-col items-center " />
 				</div>
 
 				<div className="flex justify-evenly items-center sm:items-end gap-20 animate-scroll">

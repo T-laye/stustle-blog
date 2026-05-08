@@ -16,43 +16,47 @@ const CountDown = () => {
 				</div>
 				<div className="flex-1 md:w-1/2 px-8 py-[40px] bg-[#E29507]/10">
 					<p className="text-base md:text-lg">
-						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu
-						turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus
-						nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum
-						tellus elit sed risus. Maecenas eget condimentum velit, sit amet
-						feugiat lectus. Class aptent taciti sociosqu ad litora torquent per
-						conubia{" "}
+						A high-impact experience bringing together ambitious young people
+						and forward-thinking founders, CEOs, and industry leaders, designed
+						to connect talent to real work opportunities.
+						<br />
+						<br />
+						<strong>Key Stats :</strong>
+						<br />
+						<br />
+						<strong>800+</strong> In-Person Attendees
+						<br />
+						<strong>1,200+</strong> Virtual Participants
+						<br />
+						<strong>500K+</strong> In Prizes
 					</p>
-					<div className="max-sm:w-2/3 w-1/2 mt-6">
+					<div className="mt-5 sm:mt-5">
+						{/* <h2 className="font-semibold text-lg sm:text-xl">Other Details</h2> */}
+
+						<div className="flex gap-2 mt-4 items-center">
+							<SlLocationPin className="text-[20px] text-primary sm:text-2xl min-w-5" />
+							<span className="sm:text-[18px]">Delta State, Nigeria.</span>
+						</div>
+						<div className="flex gap-2 mt-4">
+							<IoCalendarOutline className="text-[20px] sm:text-2xl text-primary" />
+							<span className="sm:text-[18px]">9th August, 2025.</span>
+						</div>
+						<div className="flex gap-2 mt-4">
+							<GoClock className="text-[20px] sm:text-2xl text-primary" />
+							<span className="sm:text-[18px]">10:00 am</span>
+						</div>
+					</div>
+					<div className="max-sm:w-full md:w-4/5 sm:w-1/2 mt-6 max-w-[260px]">
 						<Button
 							style="primary"
 							type="button"
 							// fn={gotoGallery}
 						>
 							<div className="flex items-center gap-2">
-								<span>Secure your Ticket</span>
+								<span>Secure Attendee Ticket</span>
 								<FaRegArrowAltCircleRight />
 							</div>
 						</Button>
-					</div>
-
-					<div className="mt-5 sm:mt-10">
-						<h2 className="font-semibold text-lg sm:text-xl">Other Details</h2>
-
-						<div className="flex gap-2 mt-4 items-center">
-							<SlLocationPin className="text-[20px] sm:text-2xl min-w-5" />
-							<span className="sm:text-[18px]">
-								Effurun, Delta State, Nigeria | | Live Stream.
-							</span>
-						</div>
-						<div className="flex gap-2 mt-4">
-							<IoCalendarOutline className="text-[20px] sm:text-2xl" />
-							<span className="sm:text-[18px]">9th August, 2025.</span>
-						</div>
-						<div className="flex gap-2 mt-4">
-							<GoClock className="text-[20px] sm:text-2xl" />
-							<span className="sm:text-[18px]">10:00 am</span>
-						</div>
 					</div>
 				</div>
 			</div>

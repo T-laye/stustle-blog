@@ -10,29 +10,40 @@ const About = () => {
 			<div className="container min-h-[50vh]">
 				<Subtitle text="About Event" />
 				<div className="sm:text-lg text-justify">
-					The B.I.G Conference 2025 was nothing short of transformational!
-					Designed to help young people start now, grow faster, and build the
-					future they want, the conference brought together vibrant students,
-					graduates, and young professionals who are ready to innovate and lead.
+					The B.I.G (Begin, Innovate, Grow) Conference is an annual initiative
+					by Stustle, created to equip students and young graduates with the
+					skills, mindset, and access they need to thrive. Since launching in
+					2025, the conference has impacted over 500 young people across Delta
+					State, connecting them to industry insights, growth opportunities, and
+					practical pathways to earning. This year&apos;s theme,{" "}
+					<strong>Kaizen</strong>, centers on continuous improvement,
+					discipline, and building sustainable success over time.
 					<br />
 					<br />
-					This year&apos;s theme, “Fostering Sustainable Talent Growth Among
-					Young People,” came alive as we inspired and equipped attendees with
-					the mindset, skills, and networks needed to thrive in today&apos;s
-					fast-changing world.
+					We&apos;re scaling to 2,000+ participants and intentionally creating a
+					space where:
+					<br />
+					<ul className="list-disc ml-10">
+						<li>young people gain clarity, skills, and visibility</li>
+						<li>
+							founders, CEOs, and organizations access emerging talent and
+							future workforce
+						</li>
+					</ul>
 					<br />
 					<br />
-					We had over 200 in-person participants and 300+ virtual attendees from
-					across Nigeria. The day was packed with powerful keynote sessions,
-					thought-provoking panel discussions, a fireside chat, an electrifying
-					student pitch competition, a hackathon, and unforgettable networking
-					moments. Winners left with cash prizes, valuable gifts, and mentorship
-					opportunities.
+					<strong>WHAT TO EXPECT</strong>
 					<br />
-					<br />
-					{/* <p>
-            <Link href="#">Watch the Replay Here (insert link)</Link>
-          </p> */}
+					<ul className="list-disc ml-10">
+						<li>Keynote sessions</li>
+						<li>
+							Practical sessions on entrepreneurship, tech (Web2, Web3, AI), and
+							personal growth
+						</li>
+						<li>Access to curated opportunities and industry exposure</li>
+						<li>Networking & Opportunity Hackathon</li>
+						<li>Student entrepreneurs Pitch</li>
+					</ul>
 				</div>
 
 				{/* <div className="mt-8 mb-10 rounded-[9px] max-w-[1000px] mx-auto overflow-hidden w-full h-[200px] sm:h-[300px] md:h-[537px]">

@@ -34,26 +34,49 @@ const Partners = () => {
 				<div className="sm:w-1/2 mx-auto">
 					<div className="flex flex-col items-center justify-center">
 						<Subtitle
-							text="CALL FOR PARTNERS, MENTORS & SPONSORS"
+							text="CALL FOR PARTNERS & INDUSTRY LEADERS"
 							style="flex flex-col items-center "
 						/>
 					</div>
 
 					<div className="">
 						<p className="text-center  mx-auto max-w-2xl sm:text-lg">
-							Collaborate with us to provide meaningful job opportunities,
-							empowering students to gain valuable experience and contribute to
-							their futures. We also look forward to training our student
-							hustlers, providing monthly financial aids and empowering them
-							with digital skills. We&apos;re open for partnerships and
-							collaborations to make these work. Kindly contact us
+							We&apos;re inviting founders, CEOs, organizations, and ecosystem
+							leaders to be part of B.I.G Conference 2026, not just as sponsors,
+							but as active participants in shaping the next generation of
+							talent.
+							<br />
+							<strong>Why Participate:</strong>
+							<br />
+							<ul className="list-disc">
+								<li>Gain early access to a pipeline of emerging talent</li>
+								<li>Identify and engage potential hires or collaborators</li>
+								<li>
+									Position your brand within a high-impact youth ecosystem
+								</li>
+								<li>Contribute to building sustainable workforce pathways</li>
+							</ul>
+							<br />
+							<strong>Ways to Get Involved:</strong>
+							<br />
+							<ul className="list-disc">
+								<li>Talent Partner (recruitment & access)</li>
+								<li>Sponsor (brand visibility & engagement)</li>
+								<li>Speaker / Contributor</li>
+								<li>Opportunity Provider (jobs, internships, projects)</li>
+							</ul>
+							<br />
+							To partner/sponsor, kindly send an email to:{" "}
+							<a className="underline" href="mailto:jane@stustle.com">
+								jane@stustle.com
+							</a>
 						</p>
 					</div>
 
 					<div className="flex flex-col gap-5 sm:flex-row sm:gap-10 mt-10 justify-center">
 						<Button style="primary" type="button">
 							<div className="flex items-center gap-2">
-								<span>Reach out to us</span>
+								<span>Send us a Message</span>
 								<FaRegArrowAltCircleRight />
 							</div>
 						</Button>

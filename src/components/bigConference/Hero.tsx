@@ -44,9 +44,9 @@ export default function Hero() {
 								className="object-contain w-full h-full max-[300px]:max-h-[100px] max-[350px]:max-h-[120px]"
 							/>
 						</div>
-						<p className="max-lg:text-center max-lg:mx-auto text-lg md:text-2xl font-normal mt-4 sm:mt14 max-w-2xl">
-							If you&apos;re a student or young graduate with big dreams, this
-							is where you need to be.
+						<p className="flex flex-col gap-3.75 max-lg:text-center max-lg:mx-auto text-lg md:text-2xl font-normal mt-4 sm:mt14 max-w-2xl">
+							<span>Small Steps, Steady Growth</span>
+							<span>August 2026 | Delta State, Nigeria | FREE Entry</span>
 						</p>
 						<Decors
 							shape="ellipse"
@@ -80,14 +80,14 @@ export default function Hero() {
 					<div className=" w-full h[50vh] lg:h-full">
 						<Image
 							alt="Stustlers"
-							src="/bigConf/hero-img.png"
+							src="/bigConf/timer-img.png"
 							height={1000}
 							width={1000}
 							className="object-cover object-top lg:object-top w-full h-full max-lg:hidden"
 						/>
 						<Image
 							alt="Stustlers"
-							src="/bigConf/hero-img.png"
+							src="/bigConf/timer-img.png"
 							height={1000}
 							width={1000}
 							className="object-contain object-top lg:object-top w-full lg:hidden "
