@@ -170,7 +170,7 @@ export default function Hero() {
 							ref={themeRef}
 							className="hero-theme mt-4 flex items-center gap-2"
 						>
-							<span className="inline-block w-5 h-[2px] bg-primary rounded-full" />
+							{/* <span className="inline-block w-5 h-[2px] bg-primary rounded-full" /> */}
 							Kaizen: Small Steps, Steady Growth
 						</p>
 
