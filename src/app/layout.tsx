@@ -108,7 +108,7 @@ export default function RootLayout({
       <body
         className={`${rubik.variable} ${rubik.variable} ${digitNumbers.variable} antialiased bg-white-background`}
       >
-        <Header />
+        {/* <Header /> */}
         <NextTopLoader
           color="#E29507"
           initialPosition={0.08}

@@ -1,93 +1,119 @@
 "use client";
 import React from "react";
 import Subtitle from "./Subtitle";
-import Image from "next/image";
-import { FaRegArrowAltCircleRight } from "react-icons/fa";
 import Button from "../ui/Button";
-// import Button from "../ui/Button";
 
 const Partners = () => {
-	// const joinStustle = () => {
-	//   window.open(
-	//     "https://wa.me/2348115237006?text=Hi%2C%20My%20name%20is%20_______%20I%27d%20love%20to%20work%20with%20you%20guys.",
-	//     "_blank" // Opens the link in a new tab
-	//   );
-	// };
-
 	return (
 		<section
 			id="contact"
-			className="sm:mt-10 pt-10 pb-10 px-4 relative z-10 min-h-[50vh] overflow-hidden flex items-center sponsor_bg"
+			className="bg-[#3b2a0e] text-white sm:mt-10 pt-10 pb-10 px-4 relative z-10 min-h-[50vh] overflow-hidden flex items-center sponsorbg"
 		>
-			<div className="container py-10 mx-auto justify-between flex flex-col sm:flex-row items-center gap-10">
-				<div>
-					<div className="overflow-hidden w-[300px] h-[300px] lg:w-[350px] lg:h-[350px] rounded-full bg-[#fff]">
-						<Image
-							alt="Image"
-							src="/bigConf/sponsors-img.png"
-							className="h-full w-full object-cover object-top"
-							height={500}
-							width={500}
-						/>
-					</div>
-				</div>
-				<div className="sm:w-1/2 mx-auto">
-					<div className="flex flex-col items-center justify-center">
+			<div className="w-full max-w-6xl py-10 mx-auto">
+				<section id="partners">
+					{/* Header */}
+					<div className="flex flex-col items-center justify-center mb-8">
 						<Subtitle
-							text="CALL FOR PARTNERS & INDUSTRY LEADERS"
-							style="flex flex-col items-center "
+							text="Call For Partners"
+							style="flex flex-col items-center"
 						/>
 					</div>
 
-					<div className="">
-						<p className="text-center  mx-auto max-w-2xl sm:text-lg">
-							We&apos;re inviting founders, CEOs, organizations, and ecosystem
-							leaders to be part of B.I.G Conference 2026, not just as sponsors,
-							but as active participants in shaping the next generation of
-							talent.
-							<br />
-							<strong>Why Participate:</strong>
-							<br />
-							<ul className="list-disc">
-								<li>Gain early access to a pipeline of emerging talent</li>
-								<li>Identify and engage potential hires or collaborators</li>
-								<li>
-									Position your brand within a high-impact youth ecosystem
-								</li>
-								<li>Contribute to building sustainable workforce pathways</li>
-							</ul>
-							<br />
-							<strong>Ways to Get Involved:</strong>
-							<br />
-							<ul className="list-disc">
-								<li>Talent Partner (recruitment & access)</li>
-								<li>Sponsor (brand visibility & engagement)</li>
-								<li>Speaker / Contributor</li>
-								<li>Opportunity Provider (jobs, internships, projects)</li>
-							</ul>
-							<br />
-							To partner/sponsor, kindly send an email to:{" "}
-							<a className="underline" href="mailto:jane@stustle.com">
-								jane@stustle.com
-							</a>
-						</p>
-					</div>
+					{/* Divider */}
+					<div className="w-full h-px bg-[#c9a84c] opacity-40 mb-8" />
 
-					<div className="flex flex-col gap-5 sm:flex-row sm:gap-10 mt-10 justify-center">
-						<Button style="primary" type="button">
-							<div className="flex items-center gap-2">
-								<span>Send us a Message</span>
-								<FaRegArrowAltCircleRight />
+					{/* Two-column layout: stacks on mobile, side-by-side on lg+ */}
+					<div className="flex flex-col lg:flex-row gap-10 lg:gap-16">
+						{/* Left column */}
+						<div className="flex-1">
+							<p className="text-sm sm:text-base leading-relaxed text-white/80 mb-8">
+								We&apos;re inviting founders, CEOs, organisations, and ecosystem
+								leaders to be part of B.I.G Conference 2026 — not just as
+								sponsors, but as active participants in shaping the next
+								generation of talent.
+							</p>
+
+							{/* Why Grid — 2 cols on sm+, 1 col on mobile */}
+							<div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+								{[
+									{
+										title: "Talent Pipeline",
+										text: "Early access to 2,000+ emerging professionals across disciplines",
+									},
+									{
+										title: "Hire & Collaborate",
+										text: "Identify potential hires, collaborators, and innovators",
+									},
+									{
+										title: "Brand Visibility",
+										text: "Position your brand within a high-impact youth ecosystem",
+									},
+									{
+										title: "Social Impact",
+										text: "Contribute to building sustainable workforce pathways in Nigeria",
+									},
+								].map(({ title, text }) => (
+									<div
+										key={title}
+										className="bg-white/5 border border-white/10 rounded-lg p-4 hover:bg-white/10 transition-colors"
+									>
+										<p className="text-[#c9a84c] font-semibold text-sm mb-1">
+											{title}
+										</p>
+										<p className="text-white/70 text-sm leading-snug">{text}</p>
+									</div>
+								))}
 							</div>
-						</Button>
-						<Button style="primary" type="button">
-							<div className="flex items-center gap-2">
-								<span>View Sponsors Deck</span>
-								<FaRegArrowAltCircleRight />
+						</div>
+
+						{/* Right column */}
+						<div className="flex-1 flex flex-col gap-6">
+							{/* Ways to get involved */}
+							<div>
+								<p className="text-[0.72rem] font-semibold tracking-widest uppercase text-[#c9a84c] mb-3">
+									Ways to Get Involved
+								</p>
+								<ul className="flex flex-col gap-2">
+									{[
+										"Talent Partner — recruitment & access",
+										"Sponsor — brand visibility & engagement",
+										"Speaker / Contributor",
+										"Opportunity Provider — jobs, internships, projects",
+									].map((item) => (
+										<li
+											key={item}
+											className="flex items-start gap-2 text-sm text-white/80"
+										>
+											<span className="mt-1.5 w-2 h-2 rounded-full bg-[#c9a84c] shrink-0" />
+											{item}
+										</li>
+									))}
+								</ul>
 							</div>
-						</Button>
+
+							{/* Email CTA */}
+							<div className="bg-white/5 border border-[#c9a84c]/30 rounded-lg p-4 text-sm text-white/80 leading-relaxed">
+								To partner or sponsor, email us at:
+								<br />
+								<a
+									href="mailto:jane@stustle.com"
+									className="text-[#c9a84c] font-semibold hover:underline break-all"
+								>
+									jane@stustle.com
+								</a>
+							</div>
+
+							{/* Download button */}
+							{/* <button className="w-full sm:w-auto self-start flex items-center justify-center gap-2 bg-[#c9a84c] hover:bg-[#b8943e] active:bg-[#a07830] text-[#3b2a0e] font-bold text-sm tracking-wide px-6 py-3 rounded-lg transition-colors duration-200"> */}
+							<div className="self-start flex items-center justify-center gap-2">
+								<Button type="button" style="primary">
+									<span className="mr-2">↓</span>
+									<span>Download Sponsors/Partners Deck</span>
+								</Button>
+							</div>
+						</div>
 					</div>
-				</div>
+				</section>
 			</div>
 		</section>
 	);

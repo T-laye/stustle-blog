@@ -5,7 +5,7 @@ import { sponsors } from "../../utils/contents";
 
 export default function Sponsors() {
 	return (
-		<section className="px-4 sm:px-8 pt-20 pb-20 md:pt-40">
+		<section id="big-sponsors" className="px-4 sm:px-8 pt-20 pb-20 md:pt-40">
 			<div className="container">
 				<div className="flex flex-col items-center justify-center">
 					<Subtitle text="Past Partners" style="flex flex-col items-center " />

@@ -58,7 +58,7 @@ const Faq = () => {
   return (
     <section
       ref={sectionRef}
-      id="faq"
+      id="big-faq"
       className="flex flex-col lg:flex-row pb-20 pt-20"
     >
       {/* FAQ List Section */}

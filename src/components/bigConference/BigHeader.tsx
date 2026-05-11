@@ -1,23 +1,20 @@
 "use client";
 import Link from "next/link";
-import Button from "./ui/Button";
-import Logo from "./ui/Logo";
 import { MdMenu } from "react-icons/md";
-import { useNavStore } from "../store/variables";
-import { usePathname } from "next/navigation";
+import { usePathname, useRouter } from "next/navigation";
 import { useEffect } from "react";
 import gsap from "gsap";
+import { useNavStore } from "../../store/variables";
+import Logo from "../ui/Logo";
+import Button from "../ui/Button";
 
-const Header = ({ show = true }: { show?: boolean }) => {
+const BigHeader = ({ show = true }: { show?: boolean }) => {
 	const { closeNav, isNavOpen, openNav } = useNavStore();
 	const pathname = usePathname();
-	// const router = useRouter();
+	const router = useRouter();
 
-	const requestAService = () => {
-		window.open(
-			"https://wa.me/2348115237006?text=Hi%2C%20I%27m%20interested%20in%20your%20service.%20(Please%20specify%20the%20service)",
-			"_blank", // Opens the link in a new tab
-		);
+	const registerNow = () => {
+		router.push("#big-tickets");
 	};
 
 	useEffect(() => {
@@ -39,6 +36,17 @@ const Header = ({ show = true }: { show?: boolean }) => {
 			},
 		);
 	}, []);
+
+	const navLinks = [
+		{ name: "Home", href: "#big-hero" },
+		{ name: "About", href: "#big-about" },
+		{ name: "Speakers", href: "#big-speakers" },
+		{ name: "Tickets", href: "#big-tickets" },
+		{ name: "Sponsors", href: "#big-sponsors" },
+		// { name: "Partners", href: "#big-partners" },
+		{ name: "FAQ", href: "#big-faq" },
+	];
+
 	return (
 		show && (
 			<header
@@ -69,14 +77,16 @@ const Header = ({ show = true }: { show?: boolean }) => {
 									: "max-lg:-translate-x-[200%]"
 							}  flex max-lg:px-5 max-lg:text-lg gap-6  lg:gap-12 lg:text-white max-lg:flex-col duration-300 `}
 						>
-							<Link href="/">
-								<li className="mobile li">Home</li>
-							</Link>
-							<Link href="/blog">
-								<li className="mobile li">Blog</li>
+							{navLinks.map((link) => (
+								<Link href={link.href} key={link.name}>
+									<li className="mobile li">{link.name}</li>
+								</Link>
+							))}
+							{/* <Link href="/blog">
+								<li className="mobile li">About</li>
 							</Link>
 							<Link href="/portfolio" className="">
-								<li className="mobile li">Portfolio</li>
+								<li className="mobile li">Speakers</li>
 							</Link>
 							<Link href="/community" className="">
 								<li className="mobile li">Community</li>
@@ -86,21 +96,21 @@ const Header = ({ show = true }: { show?: boolean }) => {
 							</Link>
 							<Link href="/events">
 								<li className="mobile li">Events</li>
-							</Link>
+							</Link> */}
 							{/* <Link className="max-lg:hidde" href="/#contact">
               <li className="mobile li">Contact</li>
             </Link> */}
 						</ul>
 						<div className="lg:hidden mobile li mt-10">
-							<Button style="primary" type="button" fn={requestAService}>
-								Request A Service
+							<Button style="primary" type="button" fn={registerNow}>
+								Register Now
 							</Button>
 						</div>
 					</nav>
 					<div>
 						<div className="hidden lg:block">
-							<Button style="reverse" type="button" fn={requestAService}>
-								Request A Service
+							<Button style="reverse" type="button" fn={registerNow}>
+								Register Now
 							</Button>
 						</div>
 						<MdMenu
@@ -115,4 +125,4 @@ const Header = ({ show = true }: { show?: boolean }) => {
 	);
 };
 
-export default Header;
+export default BigHeader;

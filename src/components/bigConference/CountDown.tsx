@@ -6,8 +6,18 @@ import { FaRegArrowAltCircleRight } from "react-icons/fa";
 import { IoCalendarOutline, IoHourglassOutline } from "react-icons/io5";
 import { SlLocationPin } from "react-icons/sl";
 import { GoClock } from "react-icons/go";
+import { useRouter } from "next/navigation";
 
 const CountDown = () => {
+	const router = useRouter();
+
+	const registerNow = () => {
+		router.push("#big-tickets");
+	};
+	const watchHighlights = () => {
+		window.open("https://youtu.be/iYcssUbNYYI?si=nFuXIg3Fj77plSgl", "_blank");
+	};
+
 	return (
 		<div className="pt-20 md:px-5">
 			<div className="container rounded-[20px] overflow-hidden flex flex-col md:flex-row justify-between">
@@ -46,15 +56,18 @@ const CountDown = () => {
 							<span className="sm:text-[18px]">10:00 am</span>
 						</div>
 					</div>
-					<div className="max-sm:w-full md:w-4/5 sm:w-1/2 mt-6 max-w-[260px]">
-						<Button
-							style="primary"
-							type="button"
-							// fn={gotoGallery}
-						>
+					{/* <div className="max-sm:w-full md:w-4/5 sm:w-1/2 mt-6 max-w-[260px]"> */}
+					<div className="flex max-xl:flex-col gap-4 mt-6 max-sm:w-full md:w-4/5 sm:w-1/2 max-w-[260px]">
+						<Button style="primary" type="button" fn={registerNow}>
 							<div className="flex items-center gap-2">
 								<span>Secure Attendee Ticket</span>
 								<FaRegArrowAltCircleRight />
+							</div>
+						</Button>
+						<Button style="secondary" type="button" fn={watchHighlights}>
+							<div className="flex items-center gap-2">
+								<span>Watch 2025 Highlights</span>
+								{/* <FaRegArrowAltCircleRight /> */}
 							</div>
 						</Button>
 					</div>

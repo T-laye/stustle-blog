@@ -9,6 +9,7 @@ import Loader from "@/components/ui/Loader";
 import { urlFor } from "@/sanity/lib/image";
 import EventCard from "@/components/ui/EventCard";
 import BigCard from "@/components/bigConference/BigCard";
+import Header from "../../../components/Header";
 // import EventRegisterModal from "@/components/EventRegisterModal";
 
 const Page = () => {
@@ -69,45 +70,46 @@ const Page = () => {
   const renderEvents = events?.map((e) => <EventCard key={e._id} event={e} />);
 
   return (
-    <div className="pt-[90px] pb-20">
-      {/* Header Section */}
-      {events && (
-        <div
-          className="h-[20vh] sm:h-[35vh] duration-150 transition-all ease-in-out"
-          style={{
-            backgroundImage: getBackgroundImage(0), // Use the random index for background
-            backgroundRepeat: "no-repeat",
-            backgroundPosition: "center",
-            backgroundSize: "cover",
-            display: "flex",
-            justifyContent: "center",
-            alignItems: "center",
-          }}
-        >
-          <h1 className="blog-header text-center duration-150 transition-all ease-in-out">
-            {capitalizeWords(getTitle(0))}{" "}
-            {/* Display the title of the random post */}
-          </h1>
-        </div>
-      )}
+		<div className="pt-[90px] pb-20">
+			<Header />
+			{/* Header Section */}
+			{events && (
+				<div
+					className="h-[20vh] sm:h-[35vh] duration-150 transition-all ease-in-out"
+					style={{
+						backgroundImage: getBackgroundImage(0), // Use the random index for background
+						backgroundRepeat: "no-repeat",
+						backgroundPosition: "center",
+						backgroundSize: "cover",
+						display: "flex",
+						justifyContent: "center",
+						alignItems: "center",
+					}}
+				>
+					<h1 className="blog-header text-center duration-150 transition-all ease-in-out">
+						{capitalizeWords(getTitle(0))}{" "}
+						{/* Display the title of the random post */}
+					</h1>
+				</div>
+			)}
 
-      {/* Posts Section */}
-      {loading ? (
-        <div className="mt-36 w-full mx-auto flex justify-center">
-          <Loader />
-        </div> // Loading state
-      ) : error ? (
-        <div className="container">{error}</div> // Error state
-      ) : events?.length === 0 ? (
-        <div className="text-center w-full container ">No Events Available</div>
-      ) : (
-        <div className="min-h-[50vh] grid min-[510px]:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-10 px-4 md:px-8 pt-10 container  mx-auto ">
-          <BigCard />
-          {renderEvents}
-        </div>
-      )}
-    </div>
-  );
+			{/* Posts Section */}
+			{loading ? (
+				<div className="mt-36 w-full mx-auto flex justify-center">
+					<Loader />
+				</div> // Loading state
+			) : error ? (
+				<div className="container">{error}</div> // Error state
+			) : events?.length === 0 ? (
+				<div className="text-center w-full container ">No Events Available</div>
+			) : (
+				<div className="min-h-[50vh] grid min-[510px]:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-10 px-4 md:px-8 pt-10 container  mx-auto ">
+					<BigCard />
+					{renderEvents}
+				</div>
+			)}
+		</div>
+	);
 };
 
 export default Page;

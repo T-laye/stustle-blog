@@ -100,7 +100,7 @@ const Review: React.FC = () => {
 
 	return (
 		<section
-			id="review"
+			id="big-reviews"
 			className="pb-20 pt-16 px-4 container mx-auto min-h-[50vh]"
 		>
 			<Subtitle text="Review & Testimonials from BIG Conference 2025" />
