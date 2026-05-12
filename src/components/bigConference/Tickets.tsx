@@ -76,8 +76,16 @@ export default function Tickets() {
 		return () => ctx.revert();
 	}, []);
 
+	const supportEvent = () => {
+		window.open("https://selar.com/81dsr7rc81", "_blank");
+	};
+
 	return (
-		<section id="big-tickets" ref={sectionRef} className="px-4 sm:px-8 pt-20 pb-20">
+		<section
+			id="big-tickets"
+			ref={sectionRef}
+			className="px-4 sm:px-8 pt-20 pb-20"
+		>
 			<div className="container">
 				<div
 					ref={subtitleRef}
@@ -140,7 +148,7 @@ export default function Tickets() {
 							* You may purchase multiple support tickets to contribute more
 						</p>
 						<div className="mt-auto">
-							<Button style="primary" type="button">
+							<Button fn={supportEvent} style="primary" type="button">
 								Support the Event →
 							</Button>
 						</div>
