@@ -5,10 +5,18 @@ import { FaRegArrowAltCircleRight } from "react-icons/fa";
 import { IoIosArrowRoundBack, IoIosArrowRoundForward } from "react-icons/io";
 import Image from "next/image";
 
-const IMAGES = Array.from({ length: 34 }, (_, i) => ({
-	src: `/bigConf/gallery/big-${i + 1}.jpeg`,
-	alt: `BIG Conference 2026 Image ${i + 1}`,
-}));
+const IMAGES = [
+	{ src: "/bigConf/timer-img.png", alt: "Conference keynote" },
+	{ src: "/bigConf/timer-img.png", alt: "Audience at conference" },
+	{ src: "/bigConf/timer-img.png", alt: "Speaker at podium" },
+	{ src: "/bigConf/timer-img.png", alt: "Panel discussion" },
+	{ src: "/bigConf/timer-img.png", alt: "Networking event" },
+	{ src: "/bigConf/timer-img.png", alt: "Conference exhibition" },
+	{ src: "/bigConf/timer-img.png", alt: "Workshop session" },
+	{ src: "/bigConf/timer-img.png", alt: "Conference hall" },
+	{ src: "/bigConf/timer-img.png", alt: "Attendees gathering" },
+	{ src: "/bigConf/timer-img.png", alt: "Team collaboration" },
+];
 
 // Triple the images for infinite looping
 const ALL_IMAGES = [...IMAGES, ...IMAGES, ...IMAGES];
@@ -25,7 +33,7 @@ function getCardSize(wrapperWidth: number) {
 
 const AUTOPLAY_INTERVAL = 3000;
 
-const Gallery = () => {
+const Mesh = () => {
 	const trackRef = useRef<HTMLDivElement>(null);
 	const wrapperRef = useRef<HTMLDivElement>(null);
 	const [currentIndex, setCurrentIndex] = useState(TOTAL);
@@ -264,4 +272,4 @@ const Gallery = () => {
 	);
 };
 
-export default Gallery;
+export default Mesh;

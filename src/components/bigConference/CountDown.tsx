@@ -5,7 +5,6 @@ import Button from "../ui/Button";
 import { FaRegArrowAltCircleRight } from "react-icons/fa";
 import { IoCalendarOutline, IoHourglassOutline } from "react-icons/io5";
 import { SlLocationPin } from "react-icons/sl";
-import { GoClock } from "react-icons/go";
 import { useRouter } from "next/navigation";
 
 const CountDown = () => {
@@ -49,12 +48,12 @@ const CountDown = () => {
 						</div>
 						<div className="flex gap-2 mt-4">
 							<IoCalendarOutline className="text-[20px] sm:text-2xl text-primary" />
-							<span className="sm:text-[18px]">9th August, 2025.</span>
+							<span className="sm:text-[18px]">August, 2026.</span>
 						</div>
-						<div className="flex gap-2 mt-4">
+						{/* <div className="flex gap-2 mt-4">
 							<GoClock className="text-[20px] sm:text-2xl text-primary" />
 							<span className="sm:text-[18px]">10:00 am</span>
-						</div>
+						</div> */}
 					</div>
 					{/* <div className="max-sm:w-full md:w-4/5 sm:w-1/2 mt-6 max-w-[260px]"> */}
 					<div className="flex max-xl:flex-col gap-4 mt-6 max-sm:w-full md:w-4/5 sm:w-1/2 max-w-[260px]">
@@ -93,7 +92,7 @@ function Timer() {
 	useEffect(() => {
 		const calculateTimeLeft = () => {
 			const now = new Date();
-			const targetDate = new Date(now.getFullYear(), 7, 9, 23, 59, 59); // Aug 8th, 11:59:59 PM
+			const targetDate = new Date(now.getFullYear(), 7, 22, 23, 59, 59); // Aug 8th, 11:59:59 PM
 			const difference = targetDate.getTime() - now.getTime();
 
 			if (difference <= 0) {

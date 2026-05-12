@@ -150,7 +150,8 @@ export default function Hero() {
 								<span className="relative inline-flex rounded-full h-2.5 w-2.5 bg-primary" />
 							</span>
 							<span className="text-primary font-medium text-sm tracking-wide">
-								August 2026 · Delta State, Nigeria
+								{/* August 2026 · Delta State, Nigeria */}
+								Delta State, Nigeria
 							</span>
 						</div>
 
@@ -166,16 +167,15 @@ export default function Hero() {
 						</h1>
 
 						{/* Theme */}
-						<p
+						{/* <p
 							ref={themeRef}
 							className="hero-theme mt-4 flex items-center gap-2"
 						>
-							{/* <span className="inline-block w-5 h-[2px] bg-primary rounded-full" /> */}
 							Kaizen: Small Steps, Steady Growth
-						</p>
+						</p> */}
 
 						{/* Meta */}
-						<p
+						{/* <p
 							ref={metaRef}
 							className="hero-meta mt-2 flex flex-wrap gap-2 items-center text-sm text-foreground/60"
 						>
@@ -184,7 +184,7 @@ export default function Hero() {
 							<span>Delta State, Nigeria</span>
 							<span className="text-primary">·</span>
 							<span className="font-semibold text-primary">FREE Entry</span>
-						</p>
+						</p> */}
 
 						<Decors
 							shape="ellipse"

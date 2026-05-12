@@ -11,6 +11,7 @@ import Gallery from "../../../../components/bigConference/Gallery";
 import Review from "../../../../components/bigConference/Review";
 import Tickets from "../../../../components/bigConference/Tickets";
 import BigHeader from "../../../../components/bigConference/BigHeader";
+// import Mesh from "../../../../components/bigConference/Mesh";
 
 export default function Page() {
 	return (
@@ -28,6 +29,7 @@ export default function Page() {
 			<Faq />
 			<Gallery />
 			<Review />
+			{/* <Mesh /> */}
 		</>
 	);
 }

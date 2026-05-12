@@ -106,7 +106,7 @@ export default function Tickets() {
 					<div className="ticket-card rounded-lg flex-col flex justify-between">
 						<div>
 							<span className="ticket-badge">Free Entry</span>
-							<div className="ticket-price">₦0.00</div>
+							<div className="ticket-price">₦0</div>
 							<p className="ticket-price-note">Always free. No hidden cost.</p>
 							<p className="ticket-name">General Ticket</p>
 							<ul className="ticket-perks">
@@ -125,7 +125,7 @@ export default function Tickets() {
 					</div>
 					<div className="ticket-card featured">
 						<span className="ticket-badge">Support the Event</span>
-						<div className="ticket-price">₦5,000.00</div>
+						<div className="ticket-price">₦5,000</div>
 						<p className="ticket-price-note">
 							Per support ticket &nbsp;·&nbsp; Buy as many as you&apos;d like
 						</p>

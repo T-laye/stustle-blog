@@ -2,6 +2,7 @@
 import React from "react";
 import Subtitle from "./Subtitle";
 import Button from "../ui/Button";
+import { FaRegArrowAltCircleRight } from "react-icons/fa";
 
 const Partners = () => {
 	return (
@@ -107,8 +108,10 @@ const Partners = () => {
 							{/* <button className="w-full sm:w-auto self-start flex items-center justify-center gap-2 bg-[#c9a84c] hover:bg-[#b8943e] active:bg-[#a07830] text-[#3b2a0e] font-bold text-sm tracking-wide px-6 py-3 rounded-lg transition-colors duration-200"> */}
 							<div className="self-start flex items-center justify-center gap-2">
 								<Button type="button" style="primary">
-									<span className="mr-2">↓</span>
-									<span>Download Sponsors/Partners Deck</span>
+									<div className="flex items-center gap-2">
+										<span>View Sponsors/Partners Deck</span>
+										<FaRegArrowAltCircleRight />
+									</div>
 								</Button>
 							</div>
 						</div>
