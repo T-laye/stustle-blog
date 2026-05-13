@@ -141,7 +141,7 @@ export default function Hero() {
 				<div className="relative flex-1 flex justify-center items-center max-sm:mt-10 px-4 sm:px-8 sm:mt-20">
 					<div className="w-full">
 						{/* Badge */}
-						<div
+						{/* <div
 							ref={badgeRef}
 							className="hero-badge inline-flex items-center gap-2 mb-4"
 						>
@@ -150,10 +150,10 @@ export default function Hero() {
 								<span className="relative inline-flex rounded-full h-2.5 w-2.5 bg-primary" />
 							</span>
 							<span className="text-primary font-medium text-sm tracking-wide">
-								{/* August 2026 · Delta State, Nigeria */}
+								August 2026 · Delta State, Nigeria 
 								Delta State, Nigeria
 							</span>
-						</div>
+						</div> */}
 
 						{/* Title */}
 						<h1 ref={titleRef} className="hero-title leading-60">
@@ -175,7 +175,7 @@ export default function Hero() {
 						</p> */}
 
 						{/* Meta */}
-						{/* <p
+						<p
 							ref={metaRef}
 							className="hero-meta mt-2 flex flex-wrap gap-2 items-center text-sm text-foreground/60"
 						>
@@ -184,7 +184,7 @@ export default function Hero() {
 							<span>Delta State, Nigeria</span>
 							<span className="text-primary">·</span>
 							<span className="font-semibold text-primary">FREE Entry</span>
-						</p> */}
+						</p>
 
 						<Decors
 							shape="ellipse"
