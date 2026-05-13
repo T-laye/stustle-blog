@@ -114,7 +114,6 @@ export default function Tickets() {
 								<li>All keynote & workshop sessions</li>
 								<li>Networking access</li>
 								<li>Session recordings (within 48hrs)</li>
-								<li>Certificate of attendance</li>
 							</ul>
 						</div>
 						<div className="mt-auto">
