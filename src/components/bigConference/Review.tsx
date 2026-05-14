@@ -52,7 +52,7 @@ const testimonials = [
 const ReviewCard = ({ comment, name }: { comment: string; name: string }) => {
 	return (
 		<div className="min-w-[310px] lg:min-w-[528px] h-[290px] rounded-lg p-4 bg-primary-light shadow-md flex flex-col justify-between">
-			<div className="flex">
+			<div className="flex gap-2">
 				<div className="h-12 min-w-12 w-12">
 					<BsQuote className="text-5xl text-primary" />
 				</div>
