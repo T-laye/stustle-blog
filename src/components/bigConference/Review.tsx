@@ -57,7 +57,7 @@ const ReviewCard = ({ comment, name }: { comment: string; name: string }) => {
 					<BsQuote className="text-5xl text-primary" />
 				</div>
 				<div>
-					<p className="text- line-clamp-[9]">{comment}</p>
+					<p className="text-sm line-clamp-[11]">{comment}</p>
 				</div>
 			</div>
 			<div>
