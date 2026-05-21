@@ -242,12 +242,12 @@ export default function Hero() {
 							className="absolute -bottom-4 -left-4 sm:-left-8 bg-background border border-primary/30 rounded-xl px-4 py-3 shadow-xl shadow-black/20 backdrop-blur-sm"
 						>
 							{/* <p className="text-xs text-foreground/50 font-medium tracking-widest uppercase"> */}
-							<p className="text-xs text-primary-100 font-medium tracking-widest uppercase">
+							{/* <p className="text-xs text-primary-100 font-medium tracking-widest uppercase">
 								Theme
 							</p>
 							<p className="text-sm font-bold text-primary mt-0.5">
 								Kaizen 改善
-							</p>
+							</p> */}
 						</div>
 
 						{/* Top-right badge */}

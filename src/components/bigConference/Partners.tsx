@@ -108,10 +108,14 @@ const Partners = () => {
 							{/* <button className="w-full sm:w-auto self-start flex items-center justify-center gap-2 bg-[#c9a84c] hover:bg-[#b8943e] active:bg-[#a07830] text-[#3b2a0e] font-bold text-sm tracking-wide px-6 py-3 rounded-lg transition-colors duration-200"> */}
 							<div className="self-start flex items-center justify-center gap-2">
 								<Button type="button" style="primary">
-									<div className="flex items-center gap-2">
+									<a
+										href="https://drive.google.com/file/d/1PIW5-nXeccyf7YoYGW7LKzOqtMuUKR_C/view?usp=drive_link"
+										target="_blank"
+										className="flex items-center gap-2"
+									>
 										<span>View Sponsors/Partners Deck</span>
 										<FaRegArrowAltCircleRight />
-									</div>
+									</a>
 								</Button>
 							</div>
 						</div>
