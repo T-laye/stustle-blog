@@ -38,13 +38,13 @@ const BigHeader = ({ show = true }: { show?: boolean }) => {
 	}, []);
 
 	const navLinks = [
-		{ name: "Home", href: "#big-hero" },
-		{ name: "About", href: "#big-about" },
-		{ name: "Speakers", href: "#big-speakers" },
-		{ name: "Tickets", href: "#big-tickets" },
-		{ name: "Sponsors", href: "#big-sponsors" },
-		// { name: "Partners", href: "#big-partners" },
-		{ name: "FAQ", href: "#big-faq" },
+		{ name: "Home", href: "/events/big-conference#big-hero" },
+		{ name: "About", href: "/events/big-conference#big-about" },
+		{ name: "Speakers", href: "/events/big-conference#big-speakers" },
+		{ name: "Tickets", href: "/events/big-conference#big-tickets" },
+		{ name: "Sponsors", href: "/events/big-conference#big-sponsors" },
+		// { name: "Partners", href: "/events/big-conference#big-partners" },
+		{ name: "FAQ", href: "/events/big-conference#big-faq" },
 	];
 
 	return (

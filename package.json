@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev --turbopack",
+    "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
@@ -21,8 +21,10 @@
     "@vercel/analytics": "^1.4.1",
     "axios": "^1.7.8",
     "dayjs": "^1.11.13",
+    "dom-to-image-more": "^3.8.0",
     "formik": "^2.4.6",
     "fuse.js": "^7.1.0",
+    "googleapis": "^173.0.0",
     "gsap": "^3.12.5",
     "html2canvas": "^1.4.1",
     "markdown-it": "^14.1.0",
@@ -33,6 +35,7 @@
     "react": "19.0.0-rc-66855b96-20241106",
     "react-dom": "19.0.0-rc-66855b96-20241106",
     "react-icons": "^5.3.0",
+    "resend": "^6.12.4",
     "sanity": "^3.64.2",
     "sanity-plugin-markdown": "^5.0.0",
     "server-only": "^0.0.1",

@@ -1,162 +1,105 @@
-export const downloadInstagramPost = async (name: string, imageFile: File) => {
-  try {
-    const canvas = document.createElement("canvas");
-    const ctx = canvas.getContext("2d");
+import html2canvas from "html2canvas";
 
-    if (!ctx) {
-      throw new Error("Could not get canvas context");
-    }
+async function waitForFonts() {
+	if ("fonts" in document) {
+		await document.fonts.ready;
+	}
+}
 
-    // Canvas size for Instagram
-    canvas.width = 1080;
-    canvas.height = 1080;
+async function waitForImages(node: HTMLElement) {
+	const images = Array.from(node.querySelectorAll("img"));
 
-    // Load background image
-    const backgroundImage = new Image();
-    backgroundImage.crossOrigin = "anonymous";
-    backgroundImage.src = "/images/i_attending_intagram_post.svg";
-    await new Promise<void>((resolve, reject) => {
-      backgroundImage.onload = () => resolve();
-      backgroundImage.onerror = () =>
-        reject(new Error("Failed to load background image"));
-    });
+	await Promise.all(
+		images.map(
+			(image) =>
+				new Promise<void>((resolve) => {
+					if (image.complete && image.naturalWidth > 0) {
+						resolve();
+						return;
+					}
 
-    // Draw background
-    ctx.drawImage(backgroundImage, 0, 0, 1080, 1080);
+					image.onload = () => resolve();
+					image.onerror = () => resolve();
+				}),
+		),
+	);
+}
 
-    // Load profile image
-    const profileImage = new Image();
-    profileImage.crossOrigin = "anonymous";
-    const imageUrl = URL.createObjectURL(imageFile);
-    profileImage.src = imageUrl;
-    await new Promise<void>((resolve, reject) => {
-      profileImage.onload = () => resolve();
-      profileImage.onerror = () =>
-        reject(new Error("Failed to load profile image"));
-    });
+function getSafeFileName(name: string) {
+	return name.trim().replace(/\s+/g, "-") || "Volunteer";
+}
 
-    // Profile image positioning
-    const profileSize = 350;
-    const profileX = (1080 - profileSize) / 2;
-    const profileY = 210;
+function adjustClonedExportNode(documentClone: Document, elementId: string) {
+	if (elementId !== "volunteer-instagram-post-preview") {
+		return;
+	}
 
-    // Circular clip for profile
-    ctx.save();
-    ctx.beginPath();
-    ctx.arc(
-      profileX + profileSize / 2,
-      profileY + profileSize / 2,
-      profileSize / 2,
-      0,
-      Math.PI * 2
-    );
-    ctx.clip();
+	const nameBox = documentClone.querySelector<HTMLElement>(
+		"[data-export-name-box]",
+	);
+	const nameText = documentClone.querySelector<HTMLElement>(
+		"[data-export-name-text]",
+	);
 
-    // === Object-cover logic ===
-    const imageAspectRatio = profileImage.width / profileImage.height;
-    let sx = 0,
-      sy = 0,
-      sw = profileImage.width,
-      sh = profileImage.height;
+	if (nameBox) {
+		nameBox.style.transform = "translateY(0px)";
+		nameBox.style.alignItems = "center";
+	}
 
-    if (imageAspectRatio > 1) {
-      // Landscape: crop sides
-      sw = profileImage.height;
-      sx = (profileImage.width - sw) / 2;
-    } else {
-      // Portrait: crop top/bottom
-      sh = profileImage.width;
-      sy = (profileImage.height - sh) / 2;
-    }
+	if (nameText) {
+		nameText.style.transform = "translateY(-5px)";
+		nameText.style.display = "block";
+		nameText.style.lineHeight = "10px";
+		nameText.style.height = "100%";
+		nameText.style.paddingBottom = "10px";
+		// nameText.style.overflow = "hidden";
+		// nameText.style.backgroundColor = "red";
+	}
+}
 
-    ctx.drawImage(
-      profileImage,
-      sx,
-      sy,
-      sw,
-      sh,
-      profileX,
-      profileY,
-      profileSize,
-      profileSize
-    );
-    ctx.restore();
+export async function downloadInstagramPost(
+	name: string,
+	_photoFile: File,
+	elementId = "instagram-post-preview",
+): Promise<void> {
+	const node = document.getElementById(elementId);
 
-    // Draw circular border
-    ctx.strokeStyle = "#5C2B00";
-    ctx.lineWidth = 8;
-    ctx.beginPath();
-    ctx.arc(
-      profileX + profileSize / 2,
-      profileY + profileSize / 2,
-      profileSize / 2 + 4,
-      0,
-      Math.PI * 2
-    );
-    ctx.stroke();
+	if (!node) {
+		throw new Error(`Preview node #${elementId} not found`);
+	}
 
-    // Load name background
-    const nameBackgroundImage = new Image();
-    nameBackgroundImage.crossOrigin = "anonymous";
-    nameBackgroundImage.src = "/images/name_bg.png";
-    await new Promise<void>((resolve, reject) => {
-      nameBackgroundImage.onload = () => resolve();
-      nameBackgroundImage.onerror = () =>
-        reject(new Error("Failed to load name background"));
-    });
+	await waitForFonts();
+	await waitForImages(node);
 
-    // Draw name background
-    const nameBackgroundWidth = 370;
-    const nameBackgroundHeight = 77;
-    const nameBackgroundX = (1080 - nameBackgroundWidth) / 2;
-    const nameBackgroundY = 490;
+	const canvas = await html2canvas(node, {
+		backgroundColor: null,
+		logging: false,
+		scale: 3,
+		useCORS: true,
+		windowHeight: document.documentElement.scrollHeight,
+		windowWidth: document.documentElement.scrollWidth,
+		onclone: (documentClone: Document) => {
+			adjustClonedExportNode(documentClone, elementId);
+		},
+	} as unknown as Parameters<typeof html2canvas>[1]);
 
-    ctx.drawImage(
-      nameBackgroundImage,
-      nameBackgroundX,
-      nameBackgroundY,
-      nameBackgroundWidth,
-      nameBackgroundHeight
-    );
+	const blob = await new Promise<Blob>((resolve, reject) => {
+		canvas.toBlob((value) => {
+			if (value) {
+				resolve(value);
+				return;
+			}
 
-    // Draw name text
-    ctx.fillStyle = "white";
-    ctx.textAlign = "center";
-    ctx.textBaseline = "middle";
+			reject(new Error("Failed to create image blob"));
+		}, "image/png");
+	});
 
-    let fontSize = 32;
-    const maxWidth = nameBackgroundWidth - 40;
-    ctx.font = `bold ${fontSize}px Arial, sans-serif`;
-
-    while (ctx.measureText(name).width > maxWidth && fontSize > 20) {
-      fontSize -= 2;
-      ctx.font = `bold ${fontSize}px Arial, sans-serif`;
-    }
-
-    ctx.fillText(name, 540, nameBackgroundY + nameBackgroundHeight / 2);
-
-    // Clean up
-    URL.revokeObjectURL(imageUrl);
-
-    // Download the image
-    canvas.toBlob(
-      (blob) => {
-        if (blob) {
-          const url = URL.createObjectURL(blob);
-          const link = document.createElement("a");
-          link.href = url;
-          link.download = `${name || "instagram-post"}_1080x1080.png`;
-          document.body.appendChild(link);
-          link.click();
-          document.body.removeChild(link);
-          URL.revokeObjectURL(url);
-        }
-      },
-      "image/png",
-      1
-    );
-  } catch (error) {
-    console.error("Error generating image:", error);
-    throw error;
-  }
-};
+	const url = URL.createObjectURL(blob);
+	const link = document.createElement("a");
+	link.href = url;
+	link.download = `BIG-Conference-${getSafeFileName(name)}.png`;
+	document.body.appendChild(link);
+	link.click();
+	document.body.removeChild(link);
+	URL.revokeObjectURL(url);
+}
