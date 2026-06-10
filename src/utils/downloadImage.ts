@@ -29,6 +29,13 @@ function getSafeFileName(name: string) {
 	return name.trim().replace(/\s+/g, "-") || "Volunteer";
 }
 
+function getExportScale(node: HTMLElement) {
+	const width = node.getBoundingClientRect().width || node.offsetWidth;
+	const targetWidth = 1500;
+
+	return Math.max(4, targetWidth / width);
+}
+
 function adjustClonedExportNode(documentClone: Document, elementId: string) {
 	if (elementId !== "volunteer-instagram-post-preview") {
 		return;
@@ -71,10 +78,12 @@ export async function downloadInstagramPost(
 	await waitForFonts();
 	await waitForImages(node);
 
+	const scale = getExportScale(node);
+
 	const canvas = await html2canvas(node, {
 		backgroundColor: null,
 		logging: false,
-		scale: 3,
+		scale,
 		useCORS: true,
 		windowHeight: document.documentElement.scrollHeight,
 		windowWidth: document.documentElement.scrollWidth,
@@ -97,7 +106,7 @@ export async function downloadInstagramPost(
 	const url = URL.createObjectURL(blob);
 	const link = document.createElement("a");
 	link.href = url;
-	link.download = `BIG-Conference-${getSafeFileName(name)}.png`;
+	link.download = `BIG-Volunteer-${getSafeFileName(name)}.png`;
 	document.body.appendChild(link);
 	link.click();
 	document.body.removeChild(link);

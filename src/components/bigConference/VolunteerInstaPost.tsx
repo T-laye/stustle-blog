@@ -41,14 +41,27 @@ const VolunteerInstaPost = () => {
 					</div>
 				</div>
 				<div
-					className="absolute z-30 top-[43%] right-[18%] mt-[0.5px] flex h-[30px] w-[78px] items-center justify-center bg-white pl-2 text-[10px] font-medium "
+					className="absolute z-30 top-[43%] right-[18%] mt-[0.5px] flex h-[30px] w-[78px] items-center justify-center bg-white pl-2 text-[10px]"
 					data-export-name-box
 				>
 					<span
-						className="line-clamp-2 max-h-[24px] w-full whitespace-normal break-words leading-[11px] text-black"
+						className="line-clamp-2 max-h-[24px] w-full whitespace-normal break-words leading-[11px] text-[#6c3303]"
 						data-export-name-text
 					>
-						{name || "Enter Your Name"}
+						{!name
+							? 'Enter Your Name'
+							: name
+									.split(" ")
+									.filter(Boolean)
+									.slice(0, 2)
+									.map((part, index) => (
+										<span
+											key={index}
+											className={`block ${index === 0 && "font-bold"} `}
+										>
+											{part}
+										</span>
+									))}
 					</span>
 				</div>
 			</div>
