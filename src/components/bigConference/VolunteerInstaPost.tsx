@@ -27,7 +27,7 @@ const VolunteerInstaPost = () => {
 								{previewUrl ? (
 									<div
 										aria-label="Selected profile"
-										className="absolute inset-0 bg-cover bg-center"
+										className="absolute inset-0 bg-cover bg-top"
 										role="img"
 										style={{
 											backgroundImage: `url("${previewUrl}")`,
