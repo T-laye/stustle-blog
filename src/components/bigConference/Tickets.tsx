@@ -117,7 +117,11 @@ export default function Tickets() {
 							</ul>
 						</div>
 						<div className="mt-auto">
-							<Button style="primary" type="button">
+							<Button
+								fn={() => alert("Registration Yet to Start")}
+								style="primary"
+								type="button"
+							>
 								Register for Free →
 							</Button>
 						</div>
