@@ -1,22 +1,14 @@
 import { google } from "googleapis";
 import { NextResponse } from "next/server";
 import { Resend } from "resend";
+import {
+	registrationSchema,
+	type RegistrationSchema,
+} from "@/lib/validations/registration";
 
 export const runtime = "nodejs";
 
-type RegistrationPayload = {
-	fullName?: unknown;
-	email?: unknown;
-	phone?: unknown;
-	school?: unknown;
-};
-
-type RegistrationData = {
-	fullName: string;
-	email: string;
-	phone: string;
-	school: string;
-};
+type RegistrationData = RegistrationSchema;
 
 type ConfirmationEmailResult = {
 	emailId: string;
@@ -40,10 +32,6 @@ function normalizePrivateKey(privateKey: string) {
 	return privateKey.replace(/\\n/g, "\n");
 }
 
-function getString(value: unknown) {
-	return typeof value === "string" ? value.trim() : "";
-}
-
 function escapeHtml(value: string) {
 	return value
 		.replace(/&/g, "&amp;")
@@ -53,25 +41,34 @@ function escapeHtml(value: string) {
 		.replace(/'/g, "&#39;");
 }
 
-function validateRegistrationPayload(body: RegistrationPayload): RegistrationData {
-	const fullName = getString(body.fullName);
-	const email = getString(body.email).toLowerCase();
-	const phone = getString(body.phone);
-	const school = getString(body.school);
+function formatTextList(values: string[]) {
+	return values.length ? values.join(", ") : "Not selected";
+}
 
-	if (!fullName || !email || !phone) {
-		throw new Error("Full name, email, and phone are required.");
+function formatHtmlList(values: string[]) {
+	if (!values.length) {
+		return "<span style=\"color:#7a5c2e;\">Not selected</span>";
 	}
 
-	if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
-		throw new Error("A valid email address is required.");
+	return values
+		.map((value) => `<span>${escapeHtml(value)}</span>`)
+		.join("<span style=\"color:#e29507; padding:0 6px;\">&bull;</span>");
+}
+
+function validateRegistrationPayload(body: unknown): RegistrationData {
+	const result = registrationSchema.safeParse(body);
+
+	if (!result.success) {
+		const message =
+			result.error.issues[0]?.message || "Please complete required fields.";
+		const error = new Error(message);
+		error.name = "ValidationError";
+		throw error;
 	}
 
 	return {
-		fullName,
-		email,
-		phone,
-		school,
+		...result.data,
+		email: result.data.email.trim().toLowerCase(),
 	};
 }
 
@@ -79,7 +76,7 @@ function getSheetRange() {
 	const sheetName = process.env.GOOGLE_SHEETS_TAB_NAME?.trim() || "Sheet1";
 	const escapedSheetName = sheetName.replace(/'/g, "''");
 
-	return `'${escapedSheetName}'!A:F`;
+	return `'${escapedSheetName}'!A:Z`;
 }
 
 function getSheetsClient() {
@@ -115,7 +112,26 @@ async function appendRegistrationToSheet(
 					data.fullName,
 					data.email,
 					data.phone,
+					data.gender,
+					data.ageRange,
+					data.city,
 					data.school,
+					data.profession,
+					data.attendeeProfile,
+					formatTextList(data.attendanceReasons),
+					data.currentStage,
+					data.industry,
+					data.skillLevel,
+					formatTextList(data.skills),
+					formatTextList(data.opportunities),
+					data.receiveOpportunities,
+					data.businessName,
+					data.ownsBusiness,
+					formatTextList(data.businessSupport),
+					data.joinTalentNetwork,
+					data.joinCommunity,
+					data.portfolio,
+					formatTextList(data.futurePrograms),
 					new Date().toISOString(),
 				],
 			],
@@ -134,6 +150,8 @@ async function sendConfirmationEmail(
 	);
 	const escapedFullName = escapeHtml(data.fullName);
 	const escapedRegistrationId = escapeHtml(registrationId);
+	const escapedAttendeeProfile = escapeHtml(data.attendeeProfile);
+	const escapedCurrentStage = escapeHtml(data.currentStage);
 
 	const result = await resend.emails.send({
 		from,
@@ -145,26 +163,83 @@ Thank you for registering for B.I.G Conference 2026.
 
 Registration ID: ${registrationId}
 
+Event: B.I.G Conference 2026
+Date: August 2026
+Location: Delta State, Nigeria
+
+Your interests: ${formatTextList(data.futurePrograms)}
+
 Keep this ID safe. More event information will be sent to you soon.
 
-See you at B.I.G Conference 2026!`,
+See you at B.I.G Conference 2026!
+
+The Stustle Team`,
 		html: `
-			<h2>Hello ${escapedFullName},</h2>
+			<div style="margin:0; padding:0; background:#fffaf0; font-family:Arial, Helvetica, sans-serif; color:#191000;">
+				<table role="presentation" width="100%" cellspacing="0" cellpadding="0" style="background:#fffaf0; padding:32px 16px;">
+					<tr>
+						<td align="center">
+							<table role="presentation" width="100%" cellspacing="0" cellpadding="0" style="max-width:620px; overflow:hidden; border-radius:24px; background:#ffffff; border:1px solid #f2e6c0;">
+								<tr>
+									<td style="background:linear-gradient(135deg,#e29507,#f5be4a); padding:34px 28px; color:#191000;">
+										<p style="margin:0 0 12px; font-size:12px; font-weight:700; letter-spacing:0.18em; text-transform:uppercase;">Registration confirmed</p>
+										<h1 style="margin:0; font-size:30px; line-height:1.15;">B.I.G Conference 2026</h1>
+										<p style="margin:12px 0 0; font-size:15px; line-height:1.6;">Begin &bull; Innovate &bull; Grow with Stustle.</p>
+									</td>
+								</tr>
+								<tr>
+									<td style="padding:30px 28px;">
+										<h2 style="margin:0 0 12px; font-size:22px; color:#191000;">Hello ${escapedFullName},</h2>
+										<p style="margin:0 0 20px; color:#5c4019; font-size:15px; line-height:1.7;">
+											Your registration has been received. We are excited to have you join us for B.I.G Conference 2026.
+										</p>
 
-			<p>Thank you for registering for B.I.G Conference 2026.</p>
+										<div style="margin:24px 0; border-radius:18px; background:#fff6e6; border:1px solid rgba(226,149,7,0.32); padding:20px;">
+											<p style="margin:0 0 8px; color:#7a5c2e; font-size:12px; font-weight:700; letter-spacing:0.12em; text-transform:uppercase;">Registration ID</p>
+											<p style="margin:0; color:#191000; font-size:26px; font-weight:800; letter-spacing:0.04em;">${escapedRegistrationId}</p>
+										</div>
 
-			<p>
-				<strong>Registration ID:</strong>
-				${escapedRegistrationId}
-			</p>
+										<table role="presentation" width="100%" cellspacing="0" cellpadding="0" style="margin:0 0 22px;">
+											<tr>
+												<td style="padding:12px 0; border-bottom:1px solid #f2e6c0; color:#7a5c2e; font-size:13px;">Date</td>
+												<td align="right" style="padding:12px 0; border-bottom:1px solid #f2e6c0; color:#191000; font-size:14px; font-weight:700;">August 2026</td>
+											</tr>
+											<tr>
+												<td style="padding:12px 0; border-bottom:1px solid #f2e6c0; color:#7a5c2e; font-size:13px;">Location</td>
+												<td align="right" style="padding:12px 0; border-bottom:1px solid #f2e6c0; color:#191000; font-size:14px; font-weight:700;">Delta State, Nigeria</td>
+											</tr>
+											<tr>
+												<td style="padding:12px 0; border-bottom:1px solid #f2e6c0; color:#7a5c2e; font-size:13px;">Profile</td>
+												<td align="right" style="padding:12px 0; border-bottom:1px solid #f2e6c0; color:#191000; font-size:14px; font-weight:700;">${escapedAttendeeProfile}</td>
+											</tr>
+											<tr>
+												<td style="padding:12px 0; color:#7a5c2e; font-size:13px;">Current stage</td>
+												<td align="right" style="padding:12px 0; color:#191000; font-size:14px; font-weight:700;">${escapedCurrentStage}</td>
+											</tr>
+										</table>
 
-			<p>
-				Keep this ID safe. More event information will be sent to you soon.
-			</p>
+										<div style="margin:0 0 24px;">
+											<p style="margin:0 0 8px; color:#7a5c2e; font-size:13px; font-weight:700;">Programs you are interested in</p>
+											<p style="margin:0; color:#191000; font-size:14px; line-height:1.7;">${formatHtmlList(data.futurePrograms)}</p>
+										</div>
 
-			<br />
+										<p style="margin:0 0 18px; color:#5c4019; font-size:15px; line-height:1.7;">
+											Keep your registration ID safe. We will send more event updates and attendance details to this email.
+										</p>
 
-			<p>See you at B.I.G Conference 2026!</p>
+										<p style="margin:0; color:#191000; font-size:15px; font-weight:700;">See you at B.I.G Conference 2026!</p>
+									</td>
+								</tr>
+								<tr>
+									<td style="padding:20px 28px; background:#191000; color:#fdf3dc; font-size:12px; line-height:1.6;">
+										<p style="margin:0;">Sent by Stustle &bull; Student hustle, talent, and opportunity ecosystem.</p>
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+				</table>
+			</div>
 		`,
 	});
 
@@ -189,7 +264,7 @@ See you at B.I.G Conference 2026!`,
 
 export async function POST(req: Request) {
 	try {
-		const body = (await req.json()) as RegistrationPayload;
+		const body = await req.json();
 		const data = validateRegistrationPayload(body);
 		const registrationId = `BIG-${Date.now().toString().slice(-6)}`;
 
@@ -209,7 +284,7 @@ export async function POST(req: Request) {
 				? error.message
 				: "Unable to complete registration.";
 		const status =
-			message.includes("required") || message.includes("valid email") ? 400 : 500;
+			error instanceof Error && error.name === "ValidationError" ? 400 : 500;
 
 		return NextResponse.json(
 			{
