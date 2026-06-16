@@ -2,6 +2,7 @@
 "use client";
 
 import { useState } from "react";
+import { useRouter } from "next/navigation";
 import { useForm, FormProvider, type SubmitHandler } from "react-hook-form";
 import { zodResolver } from "@hookform/resolvers/zod";
 import { toast } from "sonner";
@@ -53,6 +54,7 @@ const stepFields: Array<(keyof RegistrationSchema)[]> = [
 ];
 
 export default function RegistrationForm() {
+	const router = useRouter();
 	const [step, setStep] = useState(0);
 	const [validationNotice, setValidationNotice] = useState("");
 	const CurrentStep = steps[step];
@@ -143,7 +145,11 @@ export default function RegistrationForm() {
 			toast.dismiss();
 			toast.success("Registration successful!");
 
-			console.log("Success:", result);
+			router.push(
+				`/events/big-conference/register/success?registrationId=${encodeURIComponent(
+					result.registrationId,
+				)}`,
+			);
 		} catch (err: any) {
 			toast.dismiss();
 			toast.error(err?.message || "Something went wrong");

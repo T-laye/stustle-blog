@@ -4,15 +4,21 @@ import Subtitle from "./Subtitle";
 import Button from "../ui/Button";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
+import { useRouter } from "next/navigation";
 
 gsap.registerPlugin(ScrollTrigger);
 
 export default function Tickets() {
+	const router = useRouter();
 	const sectionRef = useRef<HTMLElement>(null);
 	const subtitleRef = useRef<HTMLDivElement>(null);
 	const descRef = useRef<HTMLDivElement>(null);
 	const cardsRef = useRef<HTMLDivElement>(null);
 	const footerRef = useRef<HTMLParagraphElement>(null);
+
+	const registerNow = () => {
+		router.push("/events/big-conference/register");
+	};
 
 	useEffect(() => {
 		const ctx = gsap.context(() => {
@@ -117,11 +123,7 @@ export default function Tickets() {
 							</ul>
 						</div>
 						<div className="mt-auto">
-							<Button
-								fn={() => alert("Registration Yet to Start")}
-								style="primary"
-								type="button"
-							>
+							<Button fn={registerNow} style="primary" type="button">
 								Register for Free →
 							</Button>
 						</div>

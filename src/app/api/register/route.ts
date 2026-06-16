@@ -76,7 +76,7 @@ function getSheetRange() {
 	const sheetName = process.env.GOOGLE_SHEETS_TAB_NAME?.trim() || "Sheet1";
 	const escapedSheetName = sheetName.replace(/'/g, "''");
 
-	return `'${escapedSheetName}'!A:Z`;
+	return `'${escapedSheetName}'!A:AZ`;
 }
 
 function getSheetsClient() {
@@ -132,6 +132,8 @@ async function appendRegistrationToSheet(
 					data.joinCommunity,
 					data.portfolio,
 					formatTextList(data.futurePrograms),
+					formatTextList(data.communityRoles),
+					formatTextList(data.conversionInterests),
 					new Date().toISOString(),
 				],
 			],

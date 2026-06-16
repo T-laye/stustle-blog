@@ -22,9 +22,9 @@ export default function Hero() {
 	const registerNow = () => {
 		router.push("#big-tickets");
 	};
-	const volunteer = () => {
-		// window.open("https://youtu.be/iYcssUbNYYI?si=nFuXIg3Fj77plSgl", "_blank");
-	};
+	// const volunteer = () => {
+	// 	// window.open("https://youtu.be/iYcssUbNYYI?si=nFuXIg3Fj77plSgl", "_blank");
+	// };
 
 	useEffect(() => {
 		const ctx = gsap.context(() => {
@@ -167,12 +167,12 @@ export default function Hero() {
 						</h1>
 
 						{/* Theme */}
-						{/* <p
+						<p
 							ref={themeRef}
 							className="hero-theme mt-4 flex items-center gap-2"
 						>
 							Kaizen: Small Steps, Steady Growth
-						</p> */}
+						</p>
 
 						{/* Meta */}
 						<p
@@ -206,9 +206,9 @@ export default function Hero() {
 									<FaRegArrowAltCircleRight />
 								</div>
 							</Button>
-							<Button style="secondary" type="button" fn={volunteer}>
+							<Button style="secondary" type="button" fn={registerNow}>
 								<div className="flex items-center gap-2">
-									<span>Apply to Volunteer</span>
+									<span>Support the Event</span>
 									<FaRegArrowAltCircleRight />
 								</div>
 							</Button>
@@ -242,12 +242,12 @@ export default function Hero() {
 							className="absolute -bottom-4 -left-4 sm:-left-8 bg-background border border-primary/30 rounded-xl px-4 py-3 shadow-xl shadow-black/20 backdrop-blur-sm"
 						>
 							{/* <p className="text-xs text-foreground/50 font-medium tracking-widest uppercase"> */}
-							{/* <p className="text-xs text-primary-100 font-medium tracking-widest uppercase">
+							<p className="text-xs text-primary-100 font-medium tracking-widest uppercase">
 								Theme
 							</p>
 							<p className="text-sm font-bold text-primary mt-0.5">
 								Kaizen 改善
-							</p> */}
+							</p>
 						</div>
 
 						{/* Top-right badge */}

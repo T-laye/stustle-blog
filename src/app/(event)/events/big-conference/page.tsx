@@ -5,7 +5,7 @@ import WhatElse from "../../../../components/bigConference/WhatElse";
 import Sponsors from "../../../../components/bigConference/Sponsors";
 import Faq from "../../../../components/bigConference/Faq";
 import CountDown from "../../../../components/bigConference/CountDown";
-import GenerateImage from "../../../../components/bigConference/GenerateImage";
+// import GenerateImage from "../../../../components/bigConference/GenerateImage";
 import Partners from "../../../../components/bigConference/Partners";
 import Gallery from "../../../../components/bigConference/Gallery";
 import Review from "../../../../components/bigConference/Review";
@@ -24,7 +24,7 @@ export default function Page() {
 			{/* <Speakers /> */}
 			<Tickets />
 			<Sponsors />
-			<GenerateImage />
+			{/* <GenerateImage /> */}
 			<Partners />
 			<Faq />
 			<Gallery />
