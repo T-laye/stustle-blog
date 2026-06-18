@@ -14,6 +14,9 @@ type ConfirmationEmailResult = {
 	emailId: string;
 };
 
+const WHATSAPP_CHANNEL_URL =
+	"https://chat.whatsapp.com/Cv5qhSB4kE0BoH7PLqJWvM";
+
 function getRequiredEnv(name: string) {
 	const value = process.env[name]?.trim();
 
@@ -41,18 +44,20 @@ function escapeHtml(value: string) {
 		.replace(/'/g, "&#39;");
 }
 
+function formatTextValue(value: string) {
+	return value || "Not selected";
+}
+
 function formatTextList(values: string[]) {
 	return values.length ? values.join(", ") : "Not selected";
 }
 
-function formatHtmlList(values: string[]) {
-	if (!values.length) {
+function formatHtmlValue(value: string) {
+	if (!value) {
 		return "<span style=\"color:#7a5c2e;\">Not selected</span>";
 	}
 
-	return values
-		.map((value) => `<span>${escapeHtml(value)}</span>`)
-		.join("<span style=\"color:#e29507; padding:0 6px;\">&bull;</span>");
+	return `<span>${escapeHtml(value)}</span>`;
 }
 
 function validateRegistrationPayload(body: unknown): RegistrationData {
@@ -118,22 +123,22 @@ async function appendRegistrationToSheet(
 					data.school,
 					data.profession,
 					data.attendeeProfile,
-					formatTextList(data.attendanceReasons),
+					formatTextValue(data.attendanceReasons),
 					data.currentStage,
 					data.industry,
 					data.skillLevel,
-					formatTextList(data.skills),
-					formatTextList(data.opportunities),
+					formatTextValue(data.skills),
+					formatTextValue(data.opportunities),
 					data.receiveOpportunities,
 					data.businessName,
 					data.ownsBusiness,
-					formatTextList(data.businessSupport),
-					data.joinTalentNetwork,
+					formatTextValue(data.businessSupport),
 					data.joinCommunity,
-					data.portfolio,
-					formatTextList(data.futurePrograms),
+					data.howDidYouHear,
+					formatTextValue(data.futurePrograms),
 					formatTextList(data.communityRoles),
 					formatTextList(data.conversionInterests),
+					data.consentToUpdates ? "Yes" : "No",
 					new Date().toISOString(),
 				],
 			],
@@ -169,7 +174,9 @@ Event: The B.I.G Conference 2026
 Date: August 2026
 Location: Delta State, Nigeria
 
-Your interests: ${formatTextList(data.futurePrograms)}
+Your program interest: ${formatTextValue(data.futurePrograms)}
+
+Join our WhatsApp channel for updates: ${WHATSAPP_CHANNEL_URL}
 
 Keep this ID safe. More event information will be sent to you soon.
 
@@ -222,7 +229,13 @@ The Stustle Team`,
 
 										<div style="margin:0 0 24px;">
 											<p style="margin:0 0 8px; color:#7a5c2e; font-size:13px; font-weight:700;">Programs you are interested in</p>
-											<p style="margin:0; color:#191000; font-size:14px; line-height:1.7;">${formatHtmlList(data.futurePrograms)}</p>
+											<p style="margin:0; color:#191000; font-size:14px; line-height:1.7;">${formatHtmlValue(data.futurePrograms)}</p>
+										</div>
+
+										<div style="margin:0 0 24px; border-radius:18px; background:#fff6e6; border:1px solid rgba(226,149,7,0.32); padding:18px;">
+											<p style="margin:0 0 8px; color:#7a5c2e; font-size:13px; font-weight:700;">Join our WhatsApp channel</p>
+											<p style="margin:0 0 12px; color:#5c4019; font-size:14px; line-height:1.7;">Get conference updates, reminders, and post-event information directly on WhatsApp.</p>
+											<a href="${WHATSAPP_CHANNEL_URL}" style="display:inline-block; border-radius:999px; background:#e29507; color:#ffffff; font-size:14px; font-weight:700; padding:11px 18px; text-decoration:none;">Join WhatsApp channel</a>
 										</div>
 
 										<p style="margin:0 0 18px; color:#5c4019; font-size:15px; line-height:1.7;">

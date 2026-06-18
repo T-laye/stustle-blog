@@ -4,7 +4,11 @@ import FormInput from "../FormInput";
 import FormRadioGroup from "../FormRadioGroup";
 import FormSelect from "../FormSelect";
 import FormSection from "../FormSection";
-import { ageRanges, genders } from "../../../../lib/constants/registration-options";
+import {
+	ageRanges,
+	attendeeProfiles,
+	genders,
+} from "../../../../lib/constants/registration-options";
 
 
 export default function PersonalInformation() {
@@ -23,6 +27,12 @@ export default function PersonalInformation() {
 			/>
 
 			<FormInput name="phone" label="WhatsApp Number" placeholder="+234..." />
+
+			<FormSelect
+				name="attendeeProfile"
+				label="Which best describes you?"
+				options={attendeeProfiles}
+			/>
 
 			<FormRadioGroup name="gender" label="Gender" options={genders} />
 

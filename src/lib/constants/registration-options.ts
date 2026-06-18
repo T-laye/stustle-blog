@@ -115,6 +115,19 @@ export const futurePrograms = [
 	"Networking Events",
 ] as const;
 
+export const conferenceSources = [
+	"WhatsApp",
+	"Instagram",
+	"Facebook",
+	"LinkedIn",
+	"X / Twitter",
+	"Friend or colleague",
+	"School or campus community",
+	"Stustle community",
+	"Speaker or partner",
+	"Other",
+] as const;
+
 export const communityRoles = [
 	"Campus Ambassador",
 	"Community Volunteer",

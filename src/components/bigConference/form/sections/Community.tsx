@@ -1,20 +1,15 @@
 "use client";
 
+import { conferenceSources } from "../../../../lib/constants/registration-options";
 import FormSection from "../FormSection";
 import FormSelect from "../FormSelect";
 
 export default function Community() {
 	return (
 		<FormSection
-			title="Community & Talent Network"
-			description="Join the Stustle ecosystem."
+			title="Community & Discovery"
+			description="Help us keep you connected and understand where you found us."
 		>
-			<FormSelect
-				name="joinTalentNetwork"
-				label="Would you like to join the Talent Network?"
-				options={["Yes", "No", "I'd like to learn more"]}
-			/>
-
 			<FormSelect
 				name="joinCommunity"
 				label="Would you like to join the Stustle Community?"
@@ -22,9 +17,9 @@ export default function Community() {
 			/>
 
 			<FormSelect
-				name="portfolio"
-				label="Do you have a portfolio / LinkedIn / website?"
-				options={["Yes", "No"]}
+				name="howDidYouHear"
+				label="How did you hear about the conference?"
+				options={conferenceSources}
 			/>
 		</FormSection>
 	);

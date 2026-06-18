@@ -1,7 +1,6 @@
 "use client";
 
 import { opportunities } from "../../../../lib/constants/registration-options";
-import FormCheckboxGroup from "../FormCheckBoxGroup";
 import FormSection from "../FormSection";
 import FormSelect from "../FormSelect";
 
@@ -12,9 +11,9 @@ export default function Opportunities() {
 			title="Opportunities"
 			description="Tell us what you're currently looking for."
 		>
-			<FormCheckboxGroup
+			<FormSelect
 				name="opportunities"
-				label="Which opportunities are you currently looking for?"
+				label="Which opportunity are you currently looking for?"
 				options={opportunities}
 			/>
 

@@ -11,7 +11,6 @@ import { registrationSchema } from "@/lib/validations/registration";
 import type { RegistrationSchema } from "@/lib/validations/registration";
 
 import PersonalInformation from "./sections/PersonalInformation";
-import AttendeeProfile from "./sections/AttendeeProfile";
 import Goals from "./sections/Goals";
 import CareerSkills from "./sections/CareerSkills";
 import Opportunities from "./sections/Opportunities";
@@ -23,14 +22,10 @@ import FormProgress from "./FormProgress";
 import FormNavigation from "./FormNavigation";
 
 const steps = [
-	PersonalInformation,
-	AttendeeProfile,
-	Goals,
-	CareerSkills,
-	Opportunities,
-	Business,
-	Community,
-	Programs,
+	[PersonalInformation],
+	[Goals, CareerSkills],
+	[Opportunities, Business],
+	[Community, Programs],
 ];
 
 const stepFields: Array<(keyof RegistrationSchema)[]> = [
@@ -43,21 +38,24 @@ const stepFields: Array<(keyof RegistrationSchema)[]> = [
 		"city",
 		"school",
 		"profession",
+		"attendeeProfile",
 	],
-	["attendeeProfile"],
-	["attendanceReasons", "currentStage"],
-	["industry", "skillLevel", "skills"],
-	["opportunities", "receiveOpportunities"],
-	["businessName", "ownsBusiness", "businessSupport"],
-	["joinTalentNetwork", "joinCommunity", "portfolio"],
-	["futurePrograms"],
+	["attendanceReasons", "currentStage", "industry", "skillLevel", "skills"],
+	[
+		"opportunities",
+		"receiveOpportunities",
+		"businessName",
+		"ownsBusiness",
+		"businessSupport",
+	],
+	["joinCommunity", "howDidYouHear", "futurePrograms", "consentToUpdates"],
 ];
 
 export default function RegistrationForm() {
 	const router = useRouter();
 	const [step, setStep] = useState(0);
 	const [validationNotice, setValidationNotice] = useState("");
-	const CurrentStep = steps[step];
+	const CurrentStepSections = steps[step];
 
 	const methods = useForm<RegistrationSchema>({
 		resolver: zodResolver(registrationSchema) as any,
@@ -72,22 +70,22 @@ export default function RegistrationForm() {
 			school: "",
 			profession: "",
 			attendeeProfile: "",
-			attendanceReasons: [],
+			attendanceReasons: "",
 			currentStage: "",
 			industry: "",
 			skillLevel: "",
-			skills: [],
-			opportunities: [],
+			skills: "",
+			opportunities: "",
 			receiveOpportunities: "",
 			businessName: "",
 			ownsBusiness: "",
-			businessSupport: [],
-			joinTalentNetwork: "",
+			businessSupport: "",
+			howDidYouHear: "",
 			joinCommunity: "",
-			portfolio: "",
-			futurePrograms: [],
+			futurePrograms: "",
 			communityRoles: [],
 			conversionInterests: [],
+			consentToUpdates: false,
 		},
 	});
 
@@ -181,7 +179,9 @@ export default function RegistrationForm() {
 
 				{/* Current Step */}
 				<div className="space-y-6">
-					<CurrentStep />
+					{CurrentStepSections.map((Section) => (
+						<Section key={Section.name} />
+					))}
 				</div>
 
 				{/* Navigation */}

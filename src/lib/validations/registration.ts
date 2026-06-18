@@ -23,41 +23,39 @@ export const registrationSchema = z.object({
 
 	attendeeProfile: z.string().min(1, "Select your current status"),
 
-	// Placeholder validations
-	attendanceReasons: z.array(z.string()).default([]),
+	attendanceReasons: z.string().min(1, "Select your primary reason"),
 
 	industry: z.string(),
 
 	skillLevel: z.string(),
 
-	skills: z.array(z.string()).default([]),
+	skills: z.string().min(1, "Select your strongest skill"),
 
-	opportunities: z.array(z.string()).default([]),
+	opportunities: z.string().min(1, "Select the opportunity you want most"),
 
 	businessName: z.string(),
 
 	ownsBusiness: z.string(),
 
-	businessSupport: z.array(z.string()).default([]),
+	businessSupport: z.string(),
 
-	joinTalentNetwork: z.string(),
+	howDidYouHear: z.string().min(1, "Select how you heard about the conference"),
 
 	receiveOpportunities: z.string(),
-
-	portfolio: z.string(),
 
 	joinCommunity: z.string(),
 
 	communityRoles: z.array(z.string()).default([]),
 
-	futurePrograms: z
-		.array(z.string())
-		.min(1, "Select at least one program")
-		.default([]),
+	futurePrograms: z.string().min(1, "Select a program"),
 
 	conversionInterests: z.array(z.string()).default([]),
 
 	currentStage: z.string(),
+
+	consentToUpdates: z
+		.boolean()
+		.refine((value) => value, "You must consent before submitting"),
 });
 
 export type RegistrationSchema = z.infer<typeof registrationSchema>;

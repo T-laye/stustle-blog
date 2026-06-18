@@ -1,5 +1,8 @@
 import Link from "next/link";
 
+const WHATSAPP_CHANNEL_URL =
+	"https://chat.whatsapp.com/Cv5qhSB4kE0BoH7PLqJWvM";
+
 type SuccessPageProps = {
 	searchParams: Promise<{
 		registrationId?: string;
@@ -29,6 +32,21 @@ export default async function Page({ searchParams }: SuccessPageProps) {
 						Your registration was submitted successfully. You will receive a
 						confirmation email with your event details shortly.
 					</p>
+
+					<div className="mx-auto mt-6 max-w-lg rounded-2xl border border-primary-active bg-primary-activeCard px-5 py-4">
+						<p className="text-sm font-semibold text-black">
+							Join our WhatsApp channel for conference updates, reminders, and
+							post-event information.
+						</p>
+						<a
+							href={WHATSAPP_CHANNEL_URL}
+							target="_blank"
+							rel="noreferrer"
+							className="mt-4 inline-flex rounded-full bg-primary px-5 py-3 text-sm font-semibold text-white transition hover:brightness-110"
+						>
+							Join WhatsApp channel
+						</a>
+					</div>
 
 					{registrationId && (
 						<div className="mx-auto mt-8 max-w-sm rounded-2xl border border-primary-active bg-primary-activeCard px-5 py-4">

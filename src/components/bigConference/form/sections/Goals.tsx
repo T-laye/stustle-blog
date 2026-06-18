@@ -1,7 +1,6 @@
 "use client";
 
 import { attendanceReasons } from "../../../../lib/constants/registration-options";
-import FormCheckboxGroup from "../FormCheckBoxGroup";
 import FormSection from "../FormSection";
 import FormSelect from "../FormSelect";
 
@@ -12,9 +11,9 @@ export default function Goals() {
 			title="Your Goals"
 			description="Tell us what you want to achieve from the conference."
 		>
-			<FormCheckboxGroup
+			<FormSelect
 				name="attendanceReasons"
-				label="What is your primary reason for attending? (Select up to 3)"
+				label="What is your primary reason for attending?"
 				options={attendanceReasons}
 			/>
 

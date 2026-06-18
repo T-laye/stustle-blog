@@ -3,7 +3,6 @@
 import FormSection from "../FormSection";
 import FormSelect from "../FormSelect";
 import FormInput from "../FormInput";
-import FormCheckboxGroup from "../FormCheckBoxGroup";
 import { businessSupport } from "../../../../lib/constants/registration-options";
 
 
@@ -21,9 +20,9 @@ export default function Business() {
 				options={["Yes", "No"]}
 			/>
 
-			<FormCheckboxGroup
+			<FormSelect
 				name="businessSupport"
-				label="What kind of support do you need?"
+				label="What kind of support do you need most?"
 				options={businessSupport}
 			/>
 		</FormSection>

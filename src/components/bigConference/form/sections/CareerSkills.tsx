@@ -1,7 +1,6 @@
 "use client";
 
 import { industries, skillLevels, skills } from "../../../../lib/constants/registration-options";
-import FormCheckboxGroup from "../FormCheckBoxGroup";
 import FormSection from "../FormSection";
 import FormSelect from "../FormSelect";
 
@@ -23,9 +22,9 @@ export default function CareerSkills() {
 				options={skillLevels}
 			/>
 
-			<FormCheckboxGroup
+			<FormSelect
 				name="skills"
-				label="Which skills do you have?"
+				label="What is your strongest skill?"
 				options={skills}
 			/>
 		</FormSection>
