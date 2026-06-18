@@ -22,7 +22,7 @@ export default async function Page({ searchParams }: SuccessPageProps) {
 					</p>
 
 					<h1 className="text-3xl font-extrabold text-black sm:text-4xl">
-						You&apos;re registered for B.I.G Conference 2026
+						You&apos;re registered for The B.I.G Conference 2026
 					</h1>
 
 					<p className="mx-auto mt-4 max-w-lg text-base leading-7 text-gray-300">

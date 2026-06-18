@@ -148,7 +148,7 @@ async function sendConfirmationEmail(
 	const resend = new Resend(getRequiredEnv("RESEND_API_KEY"));
 	const from = getOptionalEnv(
 		"RESEND_FROM_EMAIL",
-		"B.I.G Conference <onboarding@resend.dev>",
+		"The B.I.G Conference <onboarding@resend.dev>",
 	);
 	const escapedFullName = escapeHtml(data.fullName);
 	const escapedRegistrationId = escapeHtml(registrationId);
@@ -158,14 +158,14 @@ async function sendConfirmationEmail(
 	const result = await resend.emails.send({
 		from,
 		to: data.email,
-		subject: "Registration Confirmed - B.I.G Conference 2026",
+		subject: "Registration Confirmed - The B.I.G Conference 2026",
 		text: `Hello ${data.fullName},
 
-Thank you for registering for B.I.G Conference 2026.
+Thank you for registering for The B.I.G Conference 2026.
 
 Registration ID: ${registrationId}
 
-Event: B.I.G Conference 2026
+Event: The B.I.G Conference 2026
 Date: August 2026
 Location: Delta State, Nigeria
 
@@ -173,7 +173,7 @@ Your interests: ${formatTextList(data.futurePrograms)}
 
 Keep this ID safe. More event information will be sent to you soon.
 
-See you at B.I.G Conference 2026!
+See you at The B.I.G Conference 2026!
 
 The Stustle Team`,
 		html: `
@@ -229,7 +229,7 @@ The Stustle Team`,
 											Keep your registration ID safe. We will send more event updates and attendance details to this email.
 										</p>
 
-										<p style="margin:0; color:#191000; font-size:15px; font-weight:700;">See you at B.I.G Conference 2026!</p>
+										<p style="margin:0; color:#191000; font-size:15px; font-weight:700;">See you at The B.I.G Conference 2026!</p>
 									</td>
 								</tr>
 								<tr>
