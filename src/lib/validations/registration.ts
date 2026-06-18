@@ -41,8 +41,6 @@ export const registrationSchema = z.object({
 
 	howDidYouHear: z.string().min(1, "Select how you heard about the conference"),
 
-	receiveOpportunities: z.string(),
-
 	joinCommunity: z.string(),
 
 	communityRoles: z.array(z.string()).default([]),
@@ -50,8 +48,6 @@ export const registrationSchema = z.object({
 	futurePrograms: z.string().min(1, "Select a program"),
 
 	conversionInterests: z.array(z.string()).default([]),
-
-	currentStage: z.string(),
 
 	consentToUpdates: z
 		.boolean()

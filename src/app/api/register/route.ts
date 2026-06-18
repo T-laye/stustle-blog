@@ -124,12 +124,10 @@ async function appendRegistrationToSheet(
 					data.profession,
 					data.attendeeProfile,
 					formatTextValue(data.attendanceReasons),
-					data.currentStage,
 					data.industry,
 					data.skillLevel,
 					formatTextValue(data.skills),
 					formatTextValue(data.opportunities),
-					data.receiveOpportunities,
 					data.businessName,
 					data.ownsBusiness,
 					formatTextValue(data.businessSupport),
@@ -158,8 +156,6 @@ async function sendConfirmationEmail(
 	const escapedFullName = escapeHtml(data.fullName);
 	const escapedRegistrationId = escapeHtml(registrationId);
 	const escapedAttendeeProfile = escapeHtml(data.attendeeProfile);
-	const escapedCurrentStage = escapeHtml(data.currentStage);
-
 	const result = await resend.emails.send({
 		from,
 		to: data.email,
@@ -220,10 +216,6 @@ The Stustle Team`,
 											<tr>
 												<td style="padding:12px 0; border-bottom:1px solid #f2e6c0; color:#7a5c2e; font-size:13px;">Profile</td>
 												<td align="right" style="padding:12px 0; border-bottom:1px solid #f2e6c0; color:#191000; font-size:14px; font-weight:700;">${escapedAttendeeProfile}</td>
-											</tr>
-											<tr>
-												<td style="padding:12px 0; color:#7a5c2e; font-size:13px;">Current stage</td>
-												<td align="right" style="padding:12px 0; color:#191000; font-size:14px; font-weight:700;">${escapedCurrentStage}</td>
 											</tr>
 										</table>
 

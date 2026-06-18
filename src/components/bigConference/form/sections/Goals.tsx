@@ -1,6 +1,9 @@
 "use client";
 
-import { attendanceReasons } from "../../../../lib/constants/registration-options";
+import {
+	attendanceReasons,
+	opportunities,
+} from "../../../../lib/constants/registration-options";
 import FormSection from "../FormSection";
 import FormSelect from "../FormSelect";
 
@@ -8,7 +11,7 @@ import FormSelect from "../FormSelect";
 export default function Goals() {
 	return (
 		<FormSection
-			title="Your Goals"
+			title="Goals & Opportunities"
 			description="Tell us what you want to achieve from the conference."
 		>
 			<FormSelect
@@ -18,17 +21,9 @@ export default function Goals() {
 			/>
 
 			<FormSelect
-				name="currentStage"
-				label="Where do you currently see yourself?"
-				options={[
-					"I need direction",
-					"I am learning skills",
-					"I am building experience",
-					"I am looking for opportunities",
-					"I am ready to work",
-					"I am growing a business",
-					"I am looking to hire talent",
-				]}
+				name="opportunities"
+				label="Which opportunity are you currently looking for?"
+				options={opportunities}
 			/>
 		</FormSection>
 	);

@@ -13,7 +13,6 @@ import type { RegistrationSchema } from "@/lib/validations/registration";
 import PersonalInformation from "./sections/PersonalInformation";
 import Goals from "./sections/Goals";
 import CareerSkills from "./sections/CareerSkills";
-import Opportunities from "./sections/Opportunities";
 import Business from "./sections/Business";
 import Community from "./sections/Community";
 import Programs from "./sections/Programs";
@@ -24,7 +23,7 @@ import FormNavigation from "./FormNavigation";
 const steps = [
 	[PersonalInformation],
 	[Goals, CareerSkills],
-	[Opportunities, Business],
+	[Business],
 	[Community, Programs],
 ];
 
@@ -40,14 +39,8 @@ const stepFields: Array<(keyof RegistrationSchema)[]> = [
 		"profession",
 		"attendeeProfile",
 	],
-	["attendanceReasons", "currentStage", "industry", "skillLevel", "skills"],
-	[
-		"opportunities",
-		"receiveOpportunities",
-		"businessName",
-		"ownsBusiness",
-		"businessSupport",
-	],
+	["attendanceReasons", "opportunities", "industry", "skillLevel", "skills"],
+	["businessName", "ownsBusiness", "businessSupport"],
 	["joinCommunity", "howDidYouHear", "futurePrograms", "consentToUpdates"],
 ];
 
@@ -71,12 +64,10 @@ export default function RegistrationForm() {
 			profession: "",
 			attendeeProfile: "",
 			attendanceReasons: "",
-			currentStage: "",
 			industry: "",
 			skillLevel: "",
 			skills: "",
 			opportunities: "",
-			receiveOpportunities: "",
 			businessName: "",
 			ownsBusiness: "",
 			businessSupport: "",
