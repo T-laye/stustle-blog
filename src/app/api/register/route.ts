@@ -200,7 +200,7 @@ The Stustle Team`,
 									<td style="padding:30px 28px;">
 										<h2 style="margin:0 0 12px; font-size:22px; color:#191000;">Hello ${escapedFullName},</h2>
 										<p style="margin:0 0 20px; color:#5c4019; font-size:15px; line-height:1.7;">
-											Your registration has been received. We are excited to have you join us for B.I.G Conference 2026.
+											Your registration has been received. We are excited to have you join us for The B.I.G Conference 2026.
 										</p>
 
 										<div style="margin:24px 0; border-radius:18px; background:#fff6e6; border:1px solid rgba(226,149,7,0.32); padding:20px;">
