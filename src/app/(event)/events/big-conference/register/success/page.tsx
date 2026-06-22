@@ -1,7 +1,7 @@
 import Link from "next/link";
 
 const WHATSAPP_CHANNEL_URL =
-	"https://chat.whatsapp.com/Cv5qhSB4kE0BoH7PLqJWvM";
+	"https://whatsapp.com/channel/0029VbBqgKVDTkK9XBAYk23J";
 
 type SuccessPageProps = {
 	searchParams: Promise<{

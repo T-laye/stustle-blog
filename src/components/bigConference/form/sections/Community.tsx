@@ -7,13 +7,13 @@ import FormSelect from "../FormSelect";
 export default function Community() {
 	return (
 		<FormSection
-			title="Community & Discovery"
-			description="Help us keep you connected and understand where you found us."
+			title="Attendance & Discovery"
+			description="Tell us how you plan to attend and where you found us."
 		>
 			<FormSelect
-				name="joinCommunity"
-				label="Would you like to join the Stustle Community?"
-				options={["Yes", "No"]}
+				name="attendanceMode"
+				label="Will you be joining the conference virtually, or in-person? (In-person is in Delta State; venue details will be communicated soon.)"
+				options={["Virtual", "In-person"]}
 			/>
 
 			<FormSelect

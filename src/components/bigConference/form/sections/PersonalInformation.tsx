@@ -40,7 +40,7 @@ export default function PersonalInformation() {
 
 			<FormInput name="city" label="City / State" />
 
-			<FormInput name="school" label="School / Institution" />
+			<FormInput name="school" label="School / Institution (If you're a student)" />
 
 			<FormInput
 				name="profession"

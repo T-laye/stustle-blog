@@ -15,7 +15,7 @@ type ConfirmationEmailResult = {
 };
 
 const WHATSAPP_CHANNEL_URL =
-	"https://chat.whatsapp.com/Cv5qhSB4kE0BoH7PLqJWvM";
+	"https://whatsapp.com/channel/0029VbBqgKVDTkK9XBAYk23J";
 
 function getRequiredEnv(name: string) {
 	const value = process.env[name]?.trim();
@@ -131,7 +131,7 @@ async function appendRegistrationToSheet(
 					data.businessName,
 					data.ownsBusiness,
 					formatTextValue(data.businessSupport),
-					data.joinCommunity,
+					data.attendanceMode,
 					data.howDidYouHear,
 					formatTextValue(data.futurePrograms),
 					formatTextList(data.communityRoles),
