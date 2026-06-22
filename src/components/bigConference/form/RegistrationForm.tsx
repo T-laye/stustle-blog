@@ -74,8 +74,6 @@ export default function RegistrationForm() {
 			howDidYouHear: "",
 			attendanceMode: "",
 			futurePrograms: "",
-			communityRoles: [],
-			conversionInterests: [],
 			consentToUpdates: false,
 		},
 	});

@@ -43,11 +43,7 @@ export const registrationSchema = z.object({
 
 	attendanceMode: z.string().min(1, "Select how you will attend"),
 
-	communityRoles: z.array(z.string()).default([]),
-
 	futurePrograms: z.string().min(1, "Select a program"),
-
-	conversionInterests: z.array(z.string()).default([]),
 
 	consentToUpdates: z
 		.boolean()

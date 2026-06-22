@@ -48,13 +48,13 @@ function formatTextValue(value: string) {
 	return value || "Not selected";
 }
 
-function formatTextList(values: string[]) {
-	return values.length ? values.join(", ") : "Not selected";
-}
+// function formatTextList(values: string[]) {
+// 	return values.length ? values.join(", ") : "Not selected";
+// }
 
 function formatHtmlValue(value: string) {
 	if (!value) {
-		return "<span style=\"color:#7a5c2e;\">Not selected</span>";
+		return '<span style="color:#7a5c2e;">Not selected</span>';
 	}
 
 	return `<span>${escapeHtml(value)}</span>`;
@@ -103,45 +103,57 @@ async function appendRegistrationToSheet(
 	registrationId: string,
 	data: RegistrationData,
 ) {
-	const sheets = getSheetsClient();
+	try {
+		const sheets = getSheetsClient();
 
-	await sheets.spreadsheets.values.append({
-		spreadsheetId: getRequiredEnv("GOOGLE_SHEETS_SPREADSHEET_ID"),
-		range: getSheetRange(),
-		valueInputOption: "RAW",
-		insertDataOption: "INSERT_ROWS",
-		requestBody: {
-			values: [
-				[
-					registrationId,
-					data.fullName,
-					data.email,
-					data.phone,
-					data.gender,
-					data.ageRange,
-					data.city,
-					data.school,
-					data.profession,
-					data.attendeeProfile,
-					formatTextValue(data.attendanceReasons),
-					data.industry,
-					data.skillLevel,
-					formatTextValue(data.skills),
-					formatTextValue(data.opportunities),
-					data.businessName,
-					data.ownsBusiness,
-					formatTextValue(data.businessSupport),
-					data.attendanceMode,
-					data.howDidYouHear,
-					formatTextValue(data.futurePrograms),
-					formatTextList(data.communityRoles),
-					formatTextList(data.conversionInterests),
-					data.consentToUpdates ? "Yes" : "No",
-					new Date().toISOString(),
+		console.log("Appending to Google Sheets:", {
+			spreadsheetId: getRequiredEnv("GOOGLE_SHEETS_SPREADSHEET_ID"),
+			range: getSheetRange(),
+			registrationId,
+			email: data.email,
+		});
+
+		await sheets.spreadsheets.values.append({
+			spreadsheetId: getRequiredEnv("GOOGLE_SHEETS_SPREADSHEET_ID"),
+			range: getSheetRange(),
+			valueInputOption: "RAW",
+			insertDataOption: "INSERT_ROWS",
+			requestBody: {
+				values: [
+					[
+						registrationId,
+						data.fullName,
+						data.email,
+						data.phone,
+						data.gender,
+						data.ageRange,
+						data.city,
+						data.school,
+						data.profession,
+						data.attendeeProfile,
+						formatTextValue(data.attendanceReasons),
+						data.industry,
+						data.skillLevel,
+						formatTextValue(data.skills),
+						formatTextValue(data.opportunities),
+						data.businessName,
+						data.ownsBusiness,
+						formatTextValue(data.businessSupport),
+						data.attendanceMode,
+						data.howDidYouHear,
+						formatTextValue(data.futurePrograms),
+						data.consentToUpdates ? "Yes" : "No",
+						new Date().toISOString(),
+					],
 				],
-			],
-		},
-	});
+			},
+		});
+
+		console.log("Successfully appended to Google Sheets:", registrationId);
+	} catch (error) {
+		console.error("Failed to append to Google Sheets:", error);
+		throw error;
+	}
 }
 
 async function sendConfirmationEmail(
