@@ -106,7 +106,7 @@ export default function Tickets() {
 					className="tickets-grid grid grid-cols-1 gap-10 sm:grid-cols-2 mx-auto bgred-300"
 				>
 					<div className="ticket-card rounded-lg flex-col flex justify-between">
-						<div>
+						<div id="free-tickets">
 							<span className="ticket-badge">Free Entry</span>
 							<div className="ticket-price">₦0</div>
 							<p className="ticket-price-note">Always free. No hidden cost.</p>
@@ -118,7 +118,7 @@ export default function Tickets() {
 								<li>Session recordings (within 48hrs)</li>
 							</ul>
 						</div>
-						<div id="free-tickets" className="mt-auto">
+						<div className="mt-auto">
 							<Button fn={registerNow} style="primary" type="button">
 								Register for Free →
 							</Button>
@@ -130,7 +130,9 @@ export default function Tickets() {
 						<p className="ticket-price-note">
 							Per support ticket &nbsp;·&nbsp; Buy as many as you&apos;d like
 						</p>
-						<p className="ticket-name">Support Ticket</p>
+						<p id="support-tickets" className="ticket-name">
+							Support Ticket
+						</p>
 						<div className="ticket-note">
 							This ticket is{" "}
 							<strong style={{ color: "var(--gold-light)" }}>
@@ -148,7 +150,7 @@ export default function Tickets() {
 						<p className="ticket-multi-note">
 							* You may purchase multiple support tickets to contribute more
 						</p>
-						<div id="support-tickets" className="mt-auto">
+						<div className="mt-auto">
 							<Button fn={supportEvent} style="primary" type="button">
 								Support the Event →
 							</Button>
