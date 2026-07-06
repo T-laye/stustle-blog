@@ -87,11 +87,7 @@ export default function Tickets() {
 	};
 
 	return (
-		<section
-			id="big-tickets"
-			ref={sectionRef}
-			className="px-4 sm:px-8 pt-20 pb-20"
-		>
+		<section ref={sectionRef} className="px-4 sm:px-8 pt-20 pb-20">
 			<div className="container">
 				<div
 					ref={subtitleRef}
@@ -122,7 +118,7 @@ export default function Tickets() {
 								<li>Session recordings (within 48hrs)</li>
 							</ul>
 						</div>
-						<div className="mt-auto">
+						<div id="free-tickets" className="mt-auto">
 							<Button fn={registerNow} style="primary" type="button">
 								Register for Free →
 							</Button>
@@ -152,7 +148,7 @@ export default function Tickets() {
 						<p className="ticket-multi-note">
 							* You may purchase multiple support tickets to contribute more
 						</p>
-						<div className="mt-auto">
+						<div id="support-tickets" className="mt-auto">
 							<Button fn={supportEvent} style="primary" type="button">
 								Support the Event →
 							</Button>
@@ -174,6 +170,10 @@ export default function Tickets() {
 						style={{ color: "var(--gold-deep)" }}
 					>
 						jane@stustle.com
+					</a>
+					<span> or </span>
+					<a href="tel:+2348115237006" style={{ color: "var(--gold-deep)" }}>
+						+234 811 523 7006
 					</a>
 				</p>
 			</div>

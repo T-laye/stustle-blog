@@ -19,8 +19,8 @@ export default function Hero() {
 	const pulseRingRef = useRef<HTMLDivElement>(null);
 	const router = useRouter();
 
-	const registerNow = () => {
-		router.push("#big-tickets");
+	const registerNow = (type: string) => {
+		router.push(type);
 	};
 	// const volunteer = () => {
 	// 	// window.open("https://youtu.be/iYcssUbNYYI?si=nFuXIg3Fj77plSgl", "_blank");
@@ -200,13 +200,21 @@ export default function Hero() {
 								shape="dots"
 								className="-scale-100 -right-[180%] -bottom-[50%] max-sm:hidden"
 							/>
-							<Button style="primary" type="button" fn={registerNow}>
+							<Button
+								style="primary"
+								type="button"
+								fn={() => registerNow("#free-tickets")}
+							>
 								<div className="flex items-center gap-2">
 									<span>Register Now</span>
 									<FaRegArrowAltCircleRight />
 								</div>
 							</Button>
-							<Button style="secondary" type="button" fn={registerNow}>
+							<Button
+								style="secondary"
+								type="button"
+								fn={() => registerNow("#support-tickets")}
+							>
 								<div className="flex items-center gap-2">
 									<span>Support the Event</span>
 									<FaRegArrowAltCircleRight />
