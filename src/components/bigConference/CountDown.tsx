@@ -48,7 +48,7 @@ const CountDown = () => {
 						</div>
 						<div className="flex gap-2 mt-4">
 							<IoCalendarOutline className="text-[20px] sm:text-2xl text-primary" />
-							<span className="sm:text-[18px]">August, 2026.</span>
+							<span className="sm:text-[18px]">21st - 22nd August, 2026.</span>
 						</div>
 						{/* <div className="flex gap-2 mt-4">
 							<GoClock className="text-[20px] sm:text-2xl text-primary" />
@@ -92,7 +92,7 @@ function Timer() {
 	useEffect(() => {
 		const calculateTimeLeft = () => {
 			const now = new Date();
-			const targetDate = new Date(now.getFullYear(), 7, 22, 23, 59, 59); // Aug 8th, 11:59:59 PM
+			const targetDate = new Date(now.getFullYear(), 7, 22, 23, 59, 59); 
 			const difference = targetDate.getTime() - now.getTime();
 
 			if (difference <= 0) {

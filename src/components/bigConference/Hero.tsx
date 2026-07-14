@@ -150,7 +150,7 @@ export default function Hero() {
 								<span className="relative inline-flex rounded-full h-2.5 w-2.5 bg-primary" />
 							</span>
 							<span className="text-primary font-medium text-sm tracking-wide">
-								August 2026 · Delta State, Nigeria 
+								21st - 22nd August 2026 · Delta State, Nigeria 
 								Delta State, Nigeria
 							</span>
 						</div> */}
@@ -179,7 +179,7 @@ export default function Hero() {
 							ref={metaRef}
 							className="hero-meta mt-2 flex flex-wrap gap-2 items-center text-sm text-foreground/60"
 						>
-							<span>August, 2026</span>
+							<span>21st - 22nd August, 2026</span>
 							<span className="text-primary">·</span>
 							<span>Delta State, Nigeria</span>
 							<span className="text-primary">·</span>

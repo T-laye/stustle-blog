@@ -20,7 +20,8 @@ const HeroInfoTab = () => {
   useEffect(() => {
     const calculateTimeLeft = () => {
       const now = new Date();
-      const targetDate = new Date(now.getFullYear(), 4, 31, 23, 59, 59); // May 31st, 11:59:59 PM
+      // const targetDate = new Date(now.getFullYear(), 4, 31, 23, 59, 59); // May 31st, 11:59:59 PM
+      const targetDate = new Date(now.getFullYear(), 7, 22, 23, 59, 59);
       const difference = targetDate.getTime() - now.getTime();
 
       if (difference <= 0) {
