@@ -17,21 +17,21 @@ export const registrationSchema = z.object({
 
 	school: z.string(),
 
-	profession: z.string(),
+	// profession: z.string(),
 
 	// SECTION 2
 
 	attendeeProfile: z.string().min(1, "Select your current status"),
 
-	attendanceReasons: z.string().min(1, "Select your primary reason"),
+	// attendanceReasons: z.string().min(1, "Select your primary reason"),
 
-	industry: z.string(),
+	// industry: z.string(),
 
-	skillLevel: z.string(),
+	// skillLevel: z.string(),
 
-	skills: z.string().min(1, "Select your strongest skill"),
+	// skills: z.string().min(1, "Select your strongest skill"),
 
-	opportunities: z.string().min(1, "Select the opportunity you want most"),
+	// opportunities: z.string().min(1, "Select the opportunity you want most"),
 
 	businessName: z.string(),
 

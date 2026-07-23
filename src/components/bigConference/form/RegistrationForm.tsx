@@ -11,8 +11,8 @@ import { registrationSchema } from "@/lib/validations/registration";
 import type { RegistrationSchema } from "@/lib/validations/registration";
 
 import PersonalInformation from "./sections/PersonalInformation";
-import Goals from "./sections/Goals";
-import CareerSkills from "./sections/CareerSkills";
+// import Goals from "./sections/Goals";
+// import CareerSkills from "./sections/CareerSkills";
 import Business from "./sections/Business";
 import Community from "./sections/Community";
 import Programs from "./sections/Programs";
@@ -22,7 +22,7 @@ import FormNavigation from "./FormNavigation";
 
 const steps = [
 	[PersonalInformation],
-	[Goals, CareerSkills],
+	// [Goals, CareerSkills],
 	[Business],
 	[Community, Programs],
 ];
@@ -36,10 +36,12 @@ const stepFields: Array<(keyof RegistrationSchema)[]> = [
 		"ageRange",
 		"city",
 		"school",
-		"profession",
+		// "profession",
 		"attendeeProfile",
 	],
-	["attendanceReasons", "opportunities", "industry", "skillLevel", "skills"],
+	// ["attendanceReasons", "opportunities", 
+		// "industry", "skillLevel", "skills"
+	// ],
 	["businessName", "ownsBusiness", "businessSupport"],
 	["attendanceMode", "howDidYouHear", "futurePrograms", "consentToUpdates"],
 ];
@@ -61,13 +63,13 @@ export default function RegistrationForm() {
 			ageRange: "",
 			city: "",
 			school: "",
-			profession: "",
+			// profession: "",
 			attendeeProfile: "",
-			attendanceReasons: "",
-			industry: "",
-			skillLevel: "",
-			skills: "",
-			opportunities: "",
+			// attendanceReasons: "",
+			// industry: "",
+			// skillLevel: "",
+			// skills: "",
+			// opportunities: "",
 			businessName: "",
 			ownsBusiness: "",
 			businessSupport: "",

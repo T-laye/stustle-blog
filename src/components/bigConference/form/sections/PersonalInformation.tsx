@@ -42,11 +42,11 @@ export default function PersonalInformation() {
 
 			<FormInput name="school" label="School / Institution (If you're a student)" />
 
-			<FormInput
+			{/* <FormInput
 				name="profession"
 				label="Course of Study / Profession"
 				placeholder="Optional"
-			/>
+			/> */}
 		</FormSection>
 	);
 }
