@@ -39,11 +39,17 @@ const stepFields: Array<(keyof RegistrationSchema)[]> = [
 		// "profession",
 		"attendeeProfile",
 	],
-	// ["attendanceReasons", "opportunities", 
-		// "industry", "skillLevel", "skills"
+	// ["attendanceReasons", "opportunities",
+	// "industry", "skillLevel", "skills"
 	// ],
 	["businessName", "ownsBusiness", "businessSupport"],
-	["attendanceMode", "howDidYouHear", "futurePrograms", "consentToUpdates"],
+	[
+		"attendanceMode",
+		"howDidYouHear",
+		"nameOfReferrer",
+		"futurePrograms",
+		"consentToUpdates",
+	],
 ];
 
 export default function RegistrationForm() {
@@ -74,6 +80,7 @@ export default function RegistrationForm() {
 			ownsBusiness: "",
 			businessSupport: "",
 			howDidYouHear: "",
+			nameOfReferrer: "",
 			attendanceMode: "",
 			futurePrograms: "",
 			consentToUpdates: false,

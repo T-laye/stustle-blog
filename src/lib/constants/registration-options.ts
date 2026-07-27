@@ -116,12 +116,13 @@ export const futurePrograms = [
 ] as const;
 
 export const conferenceSources = [
+	"Referred by a Friend",
 	"WhatsApp",
 	"Instagram",
 	"Facebook",
 	"LinkedIn",
 	"X / Twitter",
-	"Friend or colleague",
+	// "Friend or colleague",
 	"School or campus community",
 	"Stustle community",
 	"Speaker or partner",

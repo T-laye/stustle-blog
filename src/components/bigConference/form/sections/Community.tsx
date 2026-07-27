@@ -1,6 +1,7 @@
 "use client";
 
 import { conferenceSources } from "../../../../lib/constants/registration-options";
+import FormInput from "../FormInput";
 import FormSection from "../FormSection";
 import FormSelect from "../FormSelect";
 
@@ -20,6 +21,11 @@ export default function Community() {
 				name="howDidYouHear"
 				label="How did you hear about the conference?"
 				options={conferenceSources}
+			/>
+			<FormInput
+				name="nameOfReferrer"
+				label="Referrer by (optional)?"
+				// options={conferenceSources}
 			/>
 		</FormSection>
 	);

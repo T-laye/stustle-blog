@@ -41,6 +41,8 @@ export const registrationSchema = z.object({
 
 	howDidYouHear: z.string().min(1, "Select how you heard about the conference"),
 
+	nameOfReferrer: z.string(),
+
 	attendanceMode: z.string().min(1, "Select how you will attend"),
 
 	futurePrograms: z.string().min(1, "Select a program"),
