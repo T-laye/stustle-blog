@@ -139,6 +139,7 @@ export const faqs = [
 			"Yes. The platform has various activities for you to engage in, so if you feel like you're capable at handling more than hustle or activity, you are free to.",
 	},
 ];
+
 export const bigConferenceFaqs = [
 	{
 		question: "Is the B.I.G Conference really free?",
@@ -180,44 +181,60 @@ export const bigConferenceFaqs = [
 
 export const speakers = [
 	{
+		name: "Joy Alabi - Hundeyin",
+		role: "ACIPM, ACIOD, SPHRi, SHRM-SCP",
+		img: "/bigConf/speakers/joy.webp",
+	},
+	{
 		name: "Great Owete",
 		role: "Talent & Leadership Consultant",
 		img: "/images/great.jpeg",
 	},
 	{
-		name: "Norman Osaruyi",
-		role: "Co-founder & CTO SkysenxHub",
-		img: "/images/norman.jpg",
+		name: "Oputa Ebipade Okoh-Vida",
+		role: "Content Creator",
+		img: "/bigConf/speakers/kokome.JPG",
 	},
 	{
-		name: "Obaro Uti",
-		role: "CEO Elvis Solutions",
-		img: "/images/obaro.jpeg",
+		name: "Victory Ighelogbog",
+		role: "CEO, Lifeedge Consulting Limited",
+		img: "/bigConf/speakers/victory.jpg",
 	},
 	{
-		name: "Timothy Ovie",
-		role: "Programs & Community Manager",
-		img: "/images/timothy.jpg",
+		name: "Oghenegare Abokwara",
+		role: "Lead Coordinator at Brad E Events",
+		img: "/bigConf/speakers/gare.jpeg",
 	},
 	{
-		name: "Chidera Nwanyemike",
-		role: "CEO South Circle",
-		img: "/images/chidera.jpg",
+		name: "Osazee Samson Festus",
+		role: "CEO, Amplity Limited, Dyen",
+		img: "/bigConf/speakers/samson.png",
 	},
 	{
-		name: "Becky Ogheneakporobo",
-		role: "Administrative Manager, CBC Blockchain Services",
-		img: "/images/becky.jpg",
+		name: "Chigozie N. Solomon",
+		role: "Director of Gozie Clothing Limited",
+		img: "/bigConf/speakers/chigozie.jpg",
 	},
 	{
-		name: "David Arawore",
-		role: "WEB3 Brand Strategist",
-		img: "/images/daravid.jpg",
+		name: "UCHE OSITA JAMES",
+		role: "Managing Partner, BlackCrest",
+		img: "/bigConf/speakers/osita.jpg",
 	},
+	{
+		name: "Gift BestJnr",
+		role: "CEO of Own Your Brand (OYB)",
+		img: "/bigConf/speakers/gift.jpg",
+	},
+	{
+		name: "Moses Johnson Oghenemaega",
+		role: "Founder Futlink Hardwares",
+		img: "/bigConf/speakers/mj.jpg",
+	},
+
 	{
 		name: "Jane Agadia",
 		role: "Teamlead Stustle",
-		img: "/images/jane.jpg",
+		img: "/bigConf/speakers/jane.jpg",
 	},
 ];
 

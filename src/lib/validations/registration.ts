@@ -33,11 +33,11 @@ export const registrationSchema = z.object({
 
 	// opportunities: z.string().min(1, "Select the opportunity you want most"),
 
-	businessName: z.string(),
+	// businessName: z.string(),
 
-	ownsBusiness: z.string(),
+	// ownsBusiness: z.string(),
 
-	businessSupport: z.string(),
+	// businessSupport: z.string(),
 
 	howDidYouHear: z.string().min(1, "Select how you heard about the conference"),
 
@@ -45,7 +45,7 @@ export const registrationSchema = z.object({
 
 	attendanceMode: z.string().min(1, "Select how you will attend"),
 
-	futurePrograms: z.string().min(1, "Select a program"),
+	// futurePrograms: z.string().min(1, "Select a program"),
 
 	consentToUpdates: z
 		.boolean()

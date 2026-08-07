@@ -44,21 +44,21 @@ function escapeHtml(value: string) {
 		.replace(/'/g, "&#39;");
 }
 
-function formatTextValue(value: string) {
-	return value || "Not selected";
-}
+// function formatTextValue(value: string) {
+// 	return value || "Not selected";
+// }
 
 // function formatTextList(values: string[]) {
 // 	return values.length ? values.join(", ") : "Not selected";
 // }
 
-function formatHtmlValue(value: string) {
-	if (!value) {
-		return '<span style="color:#7a5c2e;">Not selected</span>';
-	}
+// function formatHtmlValue(value: string) {
+// 	if (!value) {
+// 		return '<span style="color:#7a5c2e;">Not selected</span>';
+// 	}
 
-	return `<span>${escapeHtml(value)}</span>`;
-}
+// 	return `<span>${escapeHtml(value)}</span>`;
+// }
 
 function validateRegistrationPayload(body: unknown): RegistrationData {
 	const result = registrationSchema.safeParse(body);
@@ -142,12 +142,16 @@ async function appendRegistrationToSheet(
 						"",
 						"",
 						"",
-						data.businessName,
-						data.ownsBusiness,
-						formatTextValue(data.businessSupport),
+						"",
+						"",
+						"",
+						// data.businessName,
+						// data.ownsBusiness,
+						// formatTextValue(data.businessSupport),
 						data.attendanceMode,
 						data.howDidYouHear,
-						formatTextValue(data.futurePrograms),
+						// formatTextValue(data.futurePrograms),
+						"",
 						data.consentToUpdates ? "Yes" : "No",
 						new Date().toISOString(),
 						data.nameOfReferrer,
@@ -188,8 +192,6 @@ Registration ID: ${registrationId}
 Event: The B.I.G Conference 2026
 Date: August 2026
 Location: Delta State, Nigeria
-
-Your program interest: ${formatTextValue(data.futurePrograms)}
 
 Join our WhatsApp channel for updates: ${WHATSAPP_CHANNEL_URL}
 
@@ -237,11 +239,6 @@ The Stustle Team`,
 												<td align="right" style="padding:12px 0; border-bottom:1px solid #f2e6c0; color:#191000; font-size:14px; font-weight:700;">${escapedAttendeeProfile}</td>
 											</tr>
 										</table>
-
-										<div style="margin:0 0 24px;">
-											<p style="margin:0 0 8px; color:#7a5c2e; font-size:13px; font-weight:700;">Programs you are interested in</p>
-											<p style="margin:0; color:#191000; font-size:14px; line-height:1.7;">${formatHtmlValue(data.futurePrograms)}</p>
-										</div>
 
 										<div style="margin:0 0 24px; border-radius:18px; background:#fff6e6; border:1px solid rgba(226,149,7,0.32); padding:18px;">
 											<p style="margin:0 0 8px; color:#7a5c2e; font-size:13px; font-weight:700;">Join our WhatsApp channel</p>

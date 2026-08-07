@@ -106,6 +106,7 @@ export default function RootLayout({
       </Head>
       <body
         className={`${rubik.variable} ${rubik.variable} ${digitNumbers.variable} antialiased bg-white-background`}
+        suppressHydrationWarning
       >
         {/* <Header /> */}
         <NextTopLoader
