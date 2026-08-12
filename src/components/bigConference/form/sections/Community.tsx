@@ -29,7 +29,7 @@ export default function Community() {
 				label="How did you hear about the conference?"
 				options={conferenceSources}
 			/>
-			<FormInput name="nameOfReferrer" label="Referrer by (optional)?" />
+			<FormInput name="nameOfReferrer" label="Referred by (optional)?" />
 
 			<div className="space-y-2">
 				<label className="flex cursor-pointer items-start gap-3 rounded-2xl border border-primary-active bg-white-background/70 px-4 py-3 text-sm leading-6 text-black transition hover:border-primary hover:bg-primary-activeCard">
