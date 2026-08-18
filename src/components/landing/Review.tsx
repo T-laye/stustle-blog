@@ -48,7 +48,10 @@ const Review: React.FC = () => {
       // console.log("Fetched Posts:", JSON.stringify(posts, null, 2));
       setReviews(posts); // Set posts as raw data
     } catch (error) {
-      console.error("Error fetching reviews:", error);
+      console.error(
+        "Error fetching reviews:",
+        error instanceof Error ? error.message : error,
+      );
       setError("Reviews Unavailable");
     } finally {
       setLoading(false);

@@ -1,6 +1,5 @@
 "use client";
 import { faqs } from "@/utils/contents";
-import Image from "next/image";
 import React, { useEffect, useRef } from "react";
 import { RiQuestionFill } from "react-icons/ri";
 import { FaqList } from "../ui/FaqList";
@@ -43,7 +42,7 @@ const Faq = () => {
           // scale: 1,
           rotateX: 0,
           // backgroundColor: "#00ff00", // Final color (green)
-          stagger: 0.3,
+          stagger: 0.1,
           ease: "elastic.out(1.2, 0.5)",
           duration: 1.2,
           scrollTrigger: {
@@ -59,39 +58,27 @@ const Faq = () => {
     <section
       ref={sectionRef}
       id="faq"
-      className="flex flex-col lg:flex-row min-h-[852px] mb-10 sm:mb-40"
+      className="pt-10 pb-20 px-4 sm:px-8 relative overflow-hidden"
     >
-      {/* FAQ Image Section */}
-      <div className="bg-[#e2950720] flex-1 flex items-center p-4">
-        <div className="sm:max-w-[300px] lg:max-w-[523.66px] mx-auto">
-          <Image
-            height={600}
-            width={600}
-            src="/images/faq.png"
-            alt="faq"
-            className="w-full h-full object-contain"
-          />
-        </div>
-      </div>
+      {/* Background accents, matching other sections */}
+      <div className="pointer-events-none absolute -top-20 -left-40 w-[400px] h-[400px] rounded-full bg-primary/5 blur-3xl" />
+      <div className="pointer-events-none absolute bottom-0 -right-20 w-[300px] h-[300px] rounded-full bg-primary/5 blur-2xl" />
 
-      {/* FAQ List Section */}
-      <div className="flex-1 px-4 sm:px-8">
-        <div className="mt-8">
-          <h3 className="flex items-center gap-2 sm:gap-4 text-primary justify-center text-xl sm:text-2xl font-semibold">
-            <RiQuestionFill size={28} />
-            <span>FREQUENTLY ASKED QUESTIONS (FAQ)</span>
-          </h3>
+      <div className="container mx-auto relative">
+        <h3 className="flex items-center gap-2 sm:gap-4 text-primary justify-center text-xl sm:text-2xl font-semibold">
+          <RiQuestionFill size={28} />
+          <span>FREQUENTLY ASKED QUESTIONS (FAQ)</span>
+        </h3>
 
-          <ul className="list-none max-w-[614px] mx-auto mt-10 space-y-4">
-            {faqs.map((faq, index) => (
-              <FaqList
-                key={index} // Replace with `faq.id` if your data has unique IDs
-                question={faq.question}
-                answer={faq.answer}
-              />
-            ))}
-          </ul>
-        </div>
+        <ul className="list-none grid grid-cols-1 lg:grid-cols-2 gap-x-10 gap-y-2 max-w-5xl mx-auto mt-10">
+          {faqs.map((faq, index) => (
+            <FaqList
+              key={index} // Replace with `faq.id` if your data has unique IDs
+              question={faq.question}
+              answer={faq.answer}
+            />
+          ))}
+        </ul>
       </div>
     </section>
   );

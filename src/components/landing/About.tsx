@@ -113,7 +113,7 @@ const About = () => {
             <span>ABOUT STUSTLE</span>
           </h3>
           <h2 className="max-sm:text-center  text-primary mt-4">
-            A TEAM OF DEDICATED AND FOCUS DRIVEN INDIVIDUALS
+            A COMMUNITY, TALENT & MEDIA ECOSYSTEM FOR YOUNG PEOPLE
           </h2>
 
           <ul className="list-disc pl-4 text-base md:text-xl flex flex-col gap-3 mt-3">

@@ -16,127 +16,100 @@ export const serviceCategories = [
 ];
 
 export const about = [
-	"Stustle (Students Hustle) creates an opportunity for students to get part time jobs online and offline.",
-	"Stustle provides skilled talents to business owners and professionals.",
-	"A platform where students can get basic services at their comfort.",
+	"Stustle is a growing community, talent and media ecosystem for students and young graduates.",
+	"We help young people develop in-demand skills and discover real opportunities.",
+	"We connect that growth to earning potential and visibility for the work you do.",
 ];
 
 // hub@skysenx.com
 
 export const services = [
 	{
-		title: "Web Development",
-		image: "/images/web_dev.jpg",
-		color: "#D7E5FF",
-	},
-	{
-		title: "WRITING",
-		image: "/images/writing.jpg",
+		pillar: "Learn",
+		subtitle: "Free + Paid",
+		items: [
+			"Free Workshops & Webinars",
+			"Paid Masterclasses (₦2,500)",
+			"Cohort-Based Program",
+		],
 		color: "#F5E9FF",
 	},
 	{
-		title: "CLEANING",
-		image: "/images/cleaning.jpg",
-		color: "#D7E5FF",
-	},
-	{
-		title: "Design (Graphics, UI/UX, 3D)",
-		image: "/images/designer.jpg",
-		color: "#FFD7D7",
-	},
-	{
-		title: "Virtual Assitance",
-		image: "/images/virtual_assistant.jpg",
+		pillar: "Earn",
+		subtitle: "Career Coaching & Services",
+		items: [
+			"Professional Services: web development, CV optimization, career coaching, interview prep, personal branding",
+			"The Stustle Community",
+			"Campus Stories & Series",
+		],
 		color: "#FFE1D0",
-	},
-	{
-		title: "Tutoring",
-		image: "/images/tutor.jpg",
-		color: "#D0FFF9",
-	},
-	{
-		title: "Others",
-		image: "/images/others.jpg",
-		color: "#FCFFD7",
 	},
 ];
 export const steps = [
 	{
-		text: "Highlight the service you need",
-		color: "#FCFFD7",
+		track: "For Learners (Free to Start)",
+		items: [
+			{ text: "Join Free Community", color: "#FCFFD7" },
+			{ text: "Choose Your Path", color: "#F5E9FF" },
+			{ text: "Learn & Practice", color: "#FFD7D7" },
+			{ text: "Get Real Results", color: "#D7E5FF" },
+			{ text: "Celebrate & Refer", color: "#FFE1D0" },
+		],
 	},
 	{
-		text: "Contact Our Admin",
-		color: "#F5E9FF",
-	},
-	{
-		text: "Have a call/chat with expert in selected service area.",
-		color: "#FFD7D7",
-	},
-	{
-		text: "Connected to a Skilled Stustler",
-		color: "#D7E5FF",
-	},
-	{
-		text: "Job Delivered",
-		color: "#FFE1D0",
+		track: "For Career Coaching (Paid)",
+		items: [
+			{ text: "Book a Service", color: "#FCFFD7" },
+			{ text: "Schedule Your Session", color: "#F5E9FF" },
+			{ text: "Get Expert Feedback", color: "#FFD7D7" },
+			{ text: "Implement & Iterate", color: "#D7E5FF" },
+			{ text: "Land Opportunities", color: "#FFE1D0" },
+		],
 	},
 ];
 export const faqs = [
 	{
-		question: "What is Stustle all about ?",
-		answer:
-			"STUSTLE, coined from the words Student and Hustle, is a platform founded with the primary aim of providing students with access to part time remote jobs or physically engaging work, giving them an opportunity to earn money. It is a community that is student-centered, aimed at creating a student centered platform where individuals can register, engage in various tasks and receive payments relative to their input.",
+		question: "Is this a job platform?",
+		answer: "We're not a job board anymore. We're a career-building platform.",
 	},
 	{
-		question: "How can I become a Stustler ?",
+		question: "What if I'm a graduate, not a student?",
 		answer:
-			"It's easy! Just login to the Stustler website and click on join this community to register. Once you've registered, you're officially a Stustler. You could also join through referral links.",
+			"Stustle serves ages 18-30 across student, recent graduate, and early professional categories.",
 	},
 	{
-		question: "Can I join the community even if I'm not a student ?",
+		question: "I'm broke. Can I still join?",
 		answer:
-			"Yes. Stustle as a platform is open to students and non students, whether you're a student, a graduate or just someone interested in having a side hustle, or personal development alongside their education.",
+			"Free community access available with paid options starting at ₦2,500.",
 	},
 	{
-		question: " Do I need to have a skill to be a part of Stustle ?",
+		question: "What if I don't have a skill yet?",
 		answer:
-			"No. Stustle creates room for opportunities to students without any skill set. Through our programs and webinars, you can learn, explore your options, and get inspired.",
-	},
-	// {
-	//   question: "Are there networking opportunities ?",
-	//   answer:
-	//     "Of course! Stustle organizes networking sessions, webinars, and meet ups to help it's members connect with their peers, industry professionals and potential clients.",
-	// },
-	{
-		question: "Can I find clients or get gigs through the community ?",
-		answer:
-			"Yes. Stustle provides a forum for students to advertise their services and skills, and get access to potential clients who are in need of them.",
-	},
-	// {
-	//   question: "Can I collaborate with other members ?",
-	//   answer:
-	//     "Definitely! Stustle encourages collaboration with members through forums, group projects or specific tasks projects.",
-	// },
-	// {
-	//   question: "Can I get help starting my own side hustle ?",
-	//   answer:
-	//     "Yes. The community offers resources, webinars and step by step guides to help you launch your desired side hustle.",
-	// },
-	{
-		question: "What kind of hustle or activities can I explore here ?",
-		answer:
-			"Common hustles that are available include freelancing, blogging, creative writing, graphics design, cleaning and laundry services, and starting a small business.",
+			"Free workshops teach foundational skills before paid offerings.",
 	},
 	{
-		question: "How do I balance academics and my side hustles ?",
+		question: "What skills can I learn?",
 		answer:
-			"The community shares time management strategies, tips and guidelines from experienced students who have been successfully able to balance both.",
+			"Job hunting, personal branding, freelancing, interview prep, content creation, salary negotiation, and more.",
 	},
 	{
-		question: "Can I engage in more than one hustle on the platform ?",
+		question: "How much time do I need to invest?",
 		answer:
-			"Yes. The platform has various activities for you to engage in, so if you feel like you're capable at handling more than hustle or activity, you are free to.",
+			"Flexible options ranging from 1 hour weekly to 4-6 hours weekly depending on program selection.",
+	},
+	{
+		question: "Will I actually get a job/income?",
+		answer:
+			"70% of Career Accelerator graduates get job interviews within 3 months. 80% of Freelancer's Bootcamp grads earn ₦20K+/month.",
+	},
+	{
+		question: "Can I refund if I don't like it?",
+		answer: "14-day money-back guarantee applies to all programs.",
+	},
+	{
+		question: "Are there scholarships?",
+		answer:
+			"5-10 full scholarships per cohort to high-performers in the free community.",
 	},
 ];
 

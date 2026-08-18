@@ -5,9 +5,23 @@ import Button from "../ui/Button";
 
 const Partners = () => {
 
-   const joinStustle = () => {
+   const joinFreeCommunity = () => {
      window.open(
-        "https://wa.me/2348115237006?text=Hi%2C%20My%20name%20is%20_______%20I%27d%20love%20to%20work%20with%20you%20guys.",
+        "https://wa.me/2348115237006?text=Hi%2C%20I%27d%20like%20to%20join%20the%20free%20Stustle%20community.",
+       "_blank" // Opens the link in a new tab
+     );
+   };
+
+   const explorePaidPrograms = () => {
+     window.open(
+        "https://wa.me/2348115237006?text=Hi%2C%20I%27m%20interested%20in%20Stustle%27s%20paid%20programs%20(Masterclasses%2FCohort%20Program).%20Please%20share%20more%20details.",
+       "_blank" // Opens the link in a new tab
+     );
+   };
+
+   const partnerWithUs = () => {
+     window.open(
+        "https://wa.me/2348115237006?text=Hi%2C%20my%20organization%20is%20interested%20in%20partnering%20with%20Stustle%20(sponsoring%20a%20cohort%2C%20content%2C%20or%20talent%20pipeline).",
        "_blank" // Opens the link in a new tab
      );
    };
@@ -36,34 +50,59 @@ const Partners = () => {
         />
       </div>
       <div className="container mx-auto">
-        <h2 className="font-bold text-center md:mt-20">CALL FOR PARTNERS</h2>
+        <h2 className="font-bold text-center md:mt-20">
+          JOIN THE STUSTLE MOVEMENT
+        </h2>
+
+        <div className="flex justify-center gap-8 sm:gap-14 mt-5">
+          <div className="flex flex-col items-center">
+            <span className="text-xl md:text-2xl text-primary font-bold">
+              2,000+
+            </span>
+            <span className="text-base md:text-lg">Students</span>
+          </div>
+          <div className="flex flex-col items-center">
+            <span className="text-xl md:text-2xl text-primary font-bold">
+              40+
+            </span>
+            <span className="text-base md:text-lg">Careers Transformed</span>
+          </div>
+        </div>
 
         <div className="mt-5">
-          <p className="text-center  mx-auto max-w-2xl sm:text-lg">
-            Collaborate with us to provide meaningful job opportunities,
-            empowering students to gain valuable experience and contribute to
-            their futures. We also look forward to training our student
-            hustlers, providing monthly financial aids and empowering them with
-            digital skills. We&apos;re open for partnerships and collaborations
-            to make these work. Kindly contact us
-          </p>
+          <div className="mt-5 flex flex-wrap gap-4 w-fit mx-auto justify-center">
+            <Button fn={joinFreeCommunity} style="primary" type="button">
+              Join Free Community
+            </Button>
+            <Button fn={explorePaidPrograms} style="secondary" type="button">
+              Explore Paid Programs
+            </Button>
+          </div>
 
-          {/* <div className="max-w-4xl mx-auto mt-6 pr-1 sm:pr-3 rounded-xl flex items-center justify-between border-2 border-primary-active">
-            <input
-              placeholder="Email Address"
-              type="text"
-              className="w-full h-14 sm:h-16 px-3 py-6 rounded-lg placeholder:text-gray-200  bg-transparent  focus:outline-none caret-primary"
-            />
-            <div className="">
-              <Button style="primary" type="submit">
-                Join Now
+          <div className="mt-10 border-t border-primary-active pt-8 max-w-2xl mx-auto">
+            <h3 className="font-semibold text-center">
+              For Partners & Companies
+            </h3>
+            <p className="text-center mx-auto max-w-2xl sm:text-lg mt-3">
+              Organizations can sponsor cohorts, create exclusive content, and
+              build talent pipelines with us.
+            </p>
+
+            <div className="mt-5 w-fit mx-auto">
+              <Button fn={partnerWithUs} style="reverse" type="button">
+                Partner With Us
               </Button>
             </div>
-          </div> */}
-          <div className="mt-5 w-fit mx-auto">
-            <Button fn={joinStustle} style="primary" type="button">
-              Join Now
-            </Button>
+
+            <p className="text-center mt-4 text-sm sm:text-base">
+              Or reach out directly:{" "}
+              <a
+                href="mailto:partnerships@stustle.com"
+                className="text-primary font-semibold hover:underline"
+              >
+                partnerships@stustle.com
+              </a>
+            </p>
           </div>
         </div>
       </div>
