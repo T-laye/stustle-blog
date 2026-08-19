@@ -29,7 +29,7 @@ export const services = [
 		subtitle: "Free + Paid",
 		items: [
 			"Free Workshops & Webinars",
-			"Paid Masterclasses (₦2,500)",
+			"Paid Masterclasses",
 			"Cohort-Based Program",
 		],
 		color: "#F5E9FF",
