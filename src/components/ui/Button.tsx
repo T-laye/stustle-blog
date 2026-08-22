@@ -1,7 +1,11 @@
 import React from "react";
 // import Spinner from "./Spinner";
 
-interface ButtonProps {
+interface ButtonProps
+  extends Omit<
+    React.ButtonHTMLAttributes<HTMLButtonElement>,
+    "type" | "onClick" | "className" | "style"
+  > {
   children: React.ReactNode; // Correct type for children
   type: "button" | "submit" | "reset"; // Can be 'button', 'submit', or 'reset'
   fn?: () => void; // The function to be executed when the button is clicked
@@ -17,9 +21,11 @@ const Button: React.FC<ButtonProps> = ({
   loading,
   disabled,
   style,
+  ...rest
 }) => {
   return (
     <button
+      {...rest}
       onClick={fn}
       disabled={loading || disabled} // Disable the button when loading or manually disabled
       type={type}

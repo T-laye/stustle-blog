@@ -26,7 +26,7 @@ async function waitForImages(node: HTMLElement) {
 }
 
 function getSafeFileName(name: string) {
-	return name.trim().replace(/\s+/g, "-") || "Volunteer";
+	return name.trim().replace(/\s+/g, "-") || "Guest";
 }
 
 function getExportScale(node: HTMLElement) {
@@ -68,6 +68,7 @@ export async function downloadInstagramPost(
 	name: string,
 	_photoFile: File,
 	elementId = "instagram-post-preview",
+	filePrefix = "BIG-Volunteer",
 ): Promise<void> {
 	const node = document.getElementById(elementId);
 
@@ -106,7 +107,7 @@ export async function downloadInstagramPost(
 	const url = URL.createObjectURL(blob);
 	const link = document.createElement("a");
 	link.href = url;
-	link.download = `BIG-Volunteer-${getSafeFileName(name)}.png`;
+	link.download = `${filePrefix}-${getSafeFileName(name)}.png`;
 	document.body.appendChild(link);
 	link.click();
 	document.body.removeChild(link);

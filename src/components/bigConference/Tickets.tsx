@@ -4,12 +4,13 @@ import Subtitle from "./Subtitle";
 import Button from "../ui/Button";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
-import { useRouter } from "next/navigation";
+// import { useRouter } from "next/navigation";
+import { toast } from "sonner";
 
 gsap.registerPlugin(ScrollTrigger);
 
 export default function Tickets() {
-	const router = useRouter();
+	// const router = useRouter();
 	const sectionRef = useRef<HTMLElement>(null);
 	const subtitleRef = useRef<HTMLDivElement>(null);
 	const descRef = useRef<HTMLDivElement>(null);
@@ -17,7 +18,10 @@ export default function Tickets() {
 	const footerRef = useRef<HTMLParagraphElement>(null);
 
 	const registerNow = () => {
-		router.push("/events/big-conference/register");
+		// router.push("/events/big-conference/register");
+		toast.info(
+			"Registration is currently closed. Please check back later for updates.",
+		);
 	};
 
 	useEffect(() => {
