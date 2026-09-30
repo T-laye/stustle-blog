@@ -2,6 +2,7 @@
 import React, { useEffect, useRef } from "react";
 import SpeakerCard from "./SpeakerCard";
 import Subtitle from "./Subtitle";
+import { prefersReducedMotion } from "./motion";
 import { speakers } from "../../utils/contents";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
@@ -14,6 +15,7 @@ const Speakers = () => {
 	const gridRef = useRef<HTMLDivElement>(null);
 
 	useEffect(() => {
+		if (prefersReducedMotion()) return;
 		const ctx = gsap.context(() => {
 			// Subtitle
 			gsap.fromTo(

@@ -2,6 +2,7 @@ import React from "react";
 import { PiTrophy } from "react-icons/pi";
 import Subtitle from "./Subtitle";
 import PhotoSlot from "./PhotoSlot";
+import { Reveal } from "./motion";
 import { pitchWinners } from "./recap2026";
 
 export default function PitchWinners() {
@@ -16,7 +17,10 @@ export default function PitchWinners() {
 					</p>
 				</div>
 
-				<div className="grid grid-cols-1 md:grid-cols-2 gap-6 mt-10">
+				<Reveal
+					stagger={0.2}
+					className="grid grid-cols-1 md:grid-cols-2 gap-6 mt-10"
+				>
 					{pitchWinners.map((winner, i) => (
 						<div
 							key={i}
@@ -33,7 +37,9 @@ export default function PitchWinners() {
 								<span className="inline-flex w-fit items-center gap-1.5 rounded-full bg-primary text-white text-xs font-bold tracking-wide px-3 py-1">
 									<PiTrophy /> Winner
 								</span>
-								<h3 className="text-xl font-extrabold mt-4 text-left">{winner.name}</h3>
+								<h3 className="text-xl font-extrabold mt-4 text-left">
+									{winner.name}
+								</h3>
 								<p className="text-primary font-semibold">{winner.business}</p>
 								<p className="text-foreground/70 mt-3 text-sm sm:text-base">
 									{winner.blurb}
@@ -41,7 +47,7 @@ export default function PitchWinners() {
 							</div>
 						</div>
 					))}
-				</div>
+				</Reveal>
 			</div>
 		</section>
 	);

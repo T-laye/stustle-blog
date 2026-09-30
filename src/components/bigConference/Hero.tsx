@@ -1,12 +1,16 @@
 "use client";
 import React, { useEffect, useRef, useState } from "react";
 import gsap from "gsap";
+import { ScrollTrigger } from "gsap/ScrollTrigger";
 import { SlLocationPin } from "react-icons/sl";
 import { IoCalendarOutline } from "react-icons/io5";
 import CtaLink from "./CtaLink";
 import PhotoSlot from "./PhotoSlot";
+import { prefersReducedMotion } from "./motion";
 import { IMPACT_REPORT_URL, WAITLIST_URL } from "./links";
 import { heroPhotos } from "./recap2026";
+
+gsap.registerPlugin(ScrollTrigger);
 
 const SLIDE_INTERVAL = 6000;
 
@@ -17,6 +21,7 @@ export default function Hero() {
 	const themeRef = useRef<HTMLParagraphElement>(null);
 	const metaRef = useRef<HTMLParagraphElement>(null);
 	const buttonsRef = useRef<HTMLDivElement>(null);
+	const bgRef = useRef<HTMLDivElement>(null);
 	const [active, setActive] = useState(0);
 
 	// Crossfade through the hero photos
@@ -29,6 +34,7 @@ export default function Hero() {
 	}, []);
 
 	useEffect(() => {
+		if (prefersReducedMotion()) return;
 		const ctx = gsap.context(() => {
 			const tl = gsap.timeline({ defaults: { ease: "power3.out" } });
 
@@ -68,6 +74,18 @@ export default function Hero() {
 					},
 					"-=0.2",
 				);
+
+			// Photos drift slower than the page
+			gsap.to(bgRef.current, {
+				yPercent: 15,
+				ease: "none",
+				scrollTrigger: {
+					trigger: sectionRef.current,
+					start: "top top",
+					end: "bottom top",
+					scrub: true,
+				},
+			});
 		}, sectionRef);
 
 		return () => ctx.revert();
@@ -79,8 +97,8 @@ export default function Hero() {
 			id="big-hero"
 			className="relative min-h-[100svh] pt-[80px] sm:pt-[90px] flex items-end overflow-hidden bg-black text-white"
 		>
-			{/* Background photos */}
-			<div className="absolute inset-0">
+			{/* Background photos (drift slower than the page on scroll) */}
+			<div ref={bgRef} className="absolute inset-0">
 				{heroPhotos.map((photo, i) => (
 					<div
 						key={i}
@@ -166,12 +184,18 @@ export default function Hero() {
 								type="button"
 								aria-label={`Show photo ${i + 1}`}
 								onClick={() => setActive(i)}
-								className={`h-1.5 rounded-full transition-all duration-500 ${
-									i === active
-										? "w-10 bg-primary"
-										: "w-4 bg-white/40 hover:bg-white/70"
+								className={`relative h-1.5 rounded-full overflow-hidden transition-all duration-500 bg-white/40 ${
+									i === active ? "w-10" : "w-4 hover:bg-white/70"
 								}`}
-							/>
+							>
+								{/* Fills steadily until the next photo */}
+								{i === active && (
+									<span
+										className="big-slide-progress absolute inset-0 bg-primary origin-left"
+										style={{ animationDuration: `${SLIDE_INTERVAL}ms` }}
+									/>
+								)}
+							</button>
 						))}
 					</div>
 				)}

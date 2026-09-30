@@ -2,6 +2,7 @@ import React from "react";
 import { RiDoubleQuotesL } from "react-icons/ri";
 import Subtitle from "./Subtitle";
 import { testimonials } from "./recap2026";
+import { Reveal } from "./motion";
 
 export default function Voices() {
 	return (
@@ -15,7 +16,10 @@ export default function Voices() {
 				</div>
 
 				{/* Masonry columns so quotes of different lengths pack neatly */}
-				<div className="columns-1 md:columns-2 lg:columns-3 gap-6 mt-10">
+				<Reveal
+					stagger={0.08}
+					className="columns-1 md:columns-2 lg:columns-3 gap-6 mt-10"
+				>
 					{testimonials.map(({ quote, name, role }, i) => (
 						<figure
 							key={i}
@@ -29,7 +33,7 @@ export default function Voices() {
 							</figcaption>
 						</figure>
 					))}
-				</div>
+				</Reveal>
 			</div>
 		</section>
 	);

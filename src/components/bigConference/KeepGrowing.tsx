@@ -2,6 +2,7 @@ import React from "react";
 import Subtitle from "./Subtitle";
 import CtaLink from "./CtaLink";
 import { EXPLORE_STUSTLE_URL } from "./links";
+import { Reveal } from "./motion";
 
 const offerings = [
 	{
@@ -22,6 +23,9 @@ const offerings = [
 	},
 ];
 
+// Desktop: cards sit as rising steps — Learn, Earn & Grow, one small step at a time
+const stepOffsets = ["lg:mt-[72px]", "lg:mt-12", "lg:mt-6", "lg:mt-0"];
+
 export default function KeepGrowing() {
 	return (
 		<section id="big-ecosystem" className="px-4 sm:px-8 pt-10 sm:pt-20 pb-20">
@@ -39,11 +43,15 @@ export default function KeepGrowing() {
 					</p>
 				</div>
 
-				<div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 mt-10">
-					{offerings.map(({ title, text }) => (
+				<Reveal
+					stagger={0.18}
+					y={48}
+					className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 items-start gap-4 mt-10"
+				>
+					{offerings.map(({ title, text }, i) => (
 						<div
 							key={title}
-							className="rounded-[10px] bg-[#E2950710] border border-primary/10 p-5"
+							className={`rounded-[10px] bg-[#E2950710] border border-primary/10 p-5 ${stepOffsets[i]}`}
 						>
 							<h3 className="text-base sm:text-lg font-bold text-primary uppercase tracking-wide text-left">
 								{title}
@@ -53,7 +61,7 @@ export default function KeepGrowing() {
 							</p>
 						</div>
 					))}
-				</div>
+				</Reveal>
 
 				<div className="mt-10 max-w-xs mx-auto">
 					<CtaLink href={EXPLORE_STUSTLE_URL}>Explore Stustle</CtaLink>

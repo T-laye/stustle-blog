@@ -4,6 +4,7 @@ import Subtitle from "./Subtitle";
 import CtaLink from "./CtaLink";
 import { PARTNERSHIP_EMAIL } from "./links";
 import { partners } from "./recap2026";
+import { Reveal } from "./motion";
 
 export default function Partners2026() {
 	return (
@@ -12,13 +13,17 @@ export default function Partners2026() {
 				<div className="text-center max-w-2xl mx-auto">
 					<Subtitle text="Our 2026 Partners" />
 					<p className="sm:text-lg text-foreground/70">
-						B.I.G. 2026 was made possible by organisations who believe in
-						young people.
+						B.I.G. 2026 was made possible by organisations who believe in young
+						people.
 					</p>
 				</div>
 
 				{/* Flex so a short last row stays centred */}
-				<div className="flex flex-wrap justify-center gap-4 mt-10">
+				<Reveal
+					stagger={0.04}
+					y={20}
+					className="flex flex-wrap justify-center gap-4 mt-10"
+				>
 					{partners.map(({ name, logo, bg, url }, i) => {
 						const tile = (
 							<div
@@ -61,10 +66,12 @@ export default function Partners2026() {
 							</div>
 						);
 					})}
-				</div>
+				</Reveal>
 
 				<div className="text-center mt-12">
-					<p className="font-semibold text-lg">Want to partner on B.I.G. 2027?</p>
+					<p className="font-semibold text-lg">
+						Want to partner on B.I.G. 2027?
+					</p>
 					<div className="mt-4 max-w-xs mx-auto">
 						<CtaLink href={PARTNERSHIP_EMAIL} style="secondary">
 							Become a Partner

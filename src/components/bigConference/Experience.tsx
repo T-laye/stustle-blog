@@ -4,6 +4,7 @@ import { RxTriangleRight } from "react-icons/rx";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 import Subtitle from "./Subtitle";
+import { prefersReducedMotion } from "./motion";
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -41,6 +42,7 @@ export default function Experience() {
 	const gridRef = useRef<HTMLDivElement>(null);
 
 	useEffect(() => {
+		if (prefersReducedMotion()) return;
 		const ctx = gsap.context(() => {
 			gsap.fromTo(
 				subtitleRef.current,

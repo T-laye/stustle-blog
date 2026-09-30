@@ -6,6 +6,7 @@ import { ScrollTrigger } from "gsap/ScrollTrigger";
 import { IoClose } from "react-icons/io5";
 import { IoIosArrowRoundBack, IoIosArrowRoundForward } from "react-icons/io";
 import Subtitle from "./Subtitle";
+import { prefersReducedMotion } from "./motion";
 import CtaLink from "./CtaLink";
 import PhotoSlot from "./PhotoSlot";
 import { FULL_GALLERY_URL, HIGHLIGHTS_VIDEO_URL } from "./links";
@@ -60,6 +61,7 @@ export default function Highlights() {
 	}, [open, step]);
 
 	useEffect(() => {
+		if (prefersReducedMotion()) return;
 		const ctx = gsap.context(() => {
 			if (gridRef.current) {
 				gsap.fromTo(

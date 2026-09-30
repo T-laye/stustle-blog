@@ -2,6 +2,7 @@ import React from "react";
 import Subtitle from "./Subtitle";
 import CtaLink from "./CtaLink";
 import { GROWTH_LAB_URL } from "./links";
+import { Reveal } from "./motion";
 
 export default function AfterBig() {
 	return (
@@ -22,7 +23,7 @@ export default function AfterBig() {
 					</p>
 				</div>
 
-				<div className="mt-10 rounded-2xl border border-primary/30 bg-primary/5 px-6 py-8">
+				<Reveal className="mt-10 rounded-2xl border border-primary/30 bg-primary/5 px-6 py-8">
 					<h3 className="text-xl sm:text-2xl font-extrabold text-primary">
 						Stustle Growth Lab
 					</h3>
@@ -34,7 +35,7 @@ export default function AfterBig() {
 					<div className="mt-6 max-w-xs mx-auto">
 						<CtaLink href={GROWTH_LAB_URL}>Register for Growth Lab</CtaLink>
 					</div>
-				</div>
+				</Reveal>
 			</div>
 		</section>
 	);

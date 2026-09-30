@@ -559,3 +559,23 @@
 section[id^="big-"] {
 	scroll-margin-top: 90px;
 }
+
+/* B.I.G. hero: active slide indicator fills over the slide's duration */
+.big-slide-progress {
+	animation-name: big-slide-progress;
+	animation-timing-function: linear;
+	animation-fill-mode: forwards;
+}
+@keyframes big-slide-progress {
+	from {
+		transform: scaleX(0);
+	}
+	to {
+		transform: scaleX(1);
+	}
+}
+@media (prefers-reduced-motion: reduce) {
+	.big-slide-progress {
+		animation: none;
+	}
+}

@@ -2,11 +2,12 @@ import React from "react";
 import Subtitle from "./Subtitle";
 import CtaLink from "./CtaLink";
 import { IMPACT_REPORT_URL } from "./links";
+import { Reveal } from "./motion";
 
 export default function Impact() {
 	return (
 		<section id="big-impact" className="px-4 sm:px-8 pt-10 sm:pt-20 pb-20">
-			<div className="container max-w-4xl mx-auto rounded-[20px] bg-[#E29507]/10 px-6 sm:px-12 py-12 text-center">
+			<Reveal className="container max-w-4xl mx-auto rounded-[20px] bg-[#E29507]/10 px-6 sm:px-12 py-12 text-center">
 				<Subtitle text="The Impact" />
 
 				<div className="sm:text-lg leading-relaxed">
@@ -26,13 +27,13 @@ export default function Impact() {
 					</p>
 				</div>
 
-				<p className="mt-8 font-semibold text-lg">
-					Want to see what happened?
-				</p>
+				<p className="mt-8 font-semibold text-lg">Want to see what happened?</p>
 				<div className="mt-4 max-w-xs mx-auto">
-					<CtaLink href={IMPACT_REPORT_URL}>View the 2026 Impact Report</CtaLink>
+					<CtaLink href={IMPACT_REPORT_URL}>
+						View the 2026 Impact Report
+					</CtaLink>
 				</div>
-			</div>
+			</Reveal>
 		</section>
 	);
 }

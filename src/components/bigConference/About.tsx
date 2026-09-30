@@ -1,6 +1,7 @@
 "use client";
 import React, { useEffect, useRef } from "react";
 import Subtitle from "./Subtitle";
+import { CountUp, prefersReducedMotion } from "./motion";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 
@@ -21,8 +22,10 @@ const About = () => {
 	const statsRef = useRef<HTMLDivElement>(null);
 	const listRef = useRef<HTMLUListElement>(null);
 	const decorLineRef = useRef<HTMLDivElement>(null);
+	const kaizenRef = useRef<HTMLParagraphElement>(null);
 
 	useEffect(() => {
+		if (prefersReducedMotion()) return;
 		const ctx = gsap.context(() => {
 			// Decorative line draw
 			gsap.fromTo(
@@ -110,6 +113,21 @@ const About = () => {
 					},
 				);
 			}
+
+			if (kaizenRef.current) {
+				gsap.fromTo(
+					kaizenRef.current.children,
+					{ yPercent: 110, opacity: 0 },
+					{
+						yPercent: 0,
+						opacity: 1,
+						duration: 0.5,
+						stagger: 0.12,
+						ease: "back.out(2)",
+						scrollTrigger: { trigger: kaizenRef.current, start: "top 88%" },
+					},
+				);
+			}
 		}, sectionRef);
 
 		return () => ctx.revert();
@@ -153,8 +171,17 @@ const About = () => {
 						<p className="text-sm text-foreground/60 tracking-wide">
 							This year&apos;s theme was:
 						</p>
-						<p className="text-3xl sm:text-4xl font-extrabold text-primary mt-2">
-							KAIZEN
+						{/* Letters rise one small step at a time */}
+						<p
+							ref={kaizenRef}
+							aria-label="KAIZEN"
+							className="text-3xl sm:text-4xl font-extrabold text-primary mt-2 overflow-hidden"
+						>
+							{"KAIZEN".split("").map((letter, i) => (
+								<span key={i} aria-hidden className="inline-block">
+									{letter}
+								</span>
+							))}
 						</p>
 						<p className="font-medium mt-1">Small Steps. Steady Growth.</p>
 					</li>
@@ -177,7 +204,7 @@ const About = () => {
 							{/* shimmer on hover */}
 							<div className="absolute inset-0 translate-x-[-100%] group-hover:translate-x-[100%] transition-transform duration-700 bg-gradient-to-r from-transparent via-primary/10 to-transparent skew-x-12" />
 							<p className="text-2xl sm:text-3xl font-extrabold text-primary leading-none">
-								{value}
+								<CountUp value={value} />
 							</p>
 							<p className="text-xs sm:text-sm text-foreground/60 mt-1 font-medium tracking-wide">
 								{label}
