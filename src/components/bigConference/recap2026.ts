@@ -91,8 +91,7 @@ const LOGOS = "/bigConf/2026/partners";
 export const partners: Partner[] = [
 	{ name: "19 Internationals", logo: `${LOGOS}/19-internationals.webp` },
 	{ name: "Bito Naturals", logo: `${LOGOS}/bito-naturals.webp` },
-	// TODO: save the Charissa logo as `${LOGOS}/charissa.png` and set it here
-	{ name: "Charissa", logo: "" },
+	{ name: "Charissa", logo: `${LOGOS}/charissa.webp` },
 	{ name: "Discover Delta", logo: `${LOGOS}/discover-delta.webp` },
 	{
 		name: "Dubri Timiyan Foundation",
@@ -103,17 +102,39 @@ export const partners: Partner[] = [
 		logo: `${LOGOS}/futlink-hardwares.webp`,
 		bg: "#1a1a1a",
 	},
+	{ name: "House of Amaezan", logo: `${LOGOS}/house-of-amaezan.webp` },
 	{ name: "Ingather", logo: `${LOGOS}/ingather.webp`, bg: "#000000" },
+	{
+		name: "JCI Nigeria FUPRE",
+		logo: `${LOGOS}/jci-nigeria-fupre.webp`,
+		bg: "#140f2d",
+	},
 	{ name: "Josefshots Photography", logo: `${LOGOS}/josefshots.webp` },
+	{ name: "La-Yedi Stores", logo: `${LOGOS}/la-yedi-stores.webp` },
 	{ name: "LVIS Solutions", logo: `${LOGOS}/lvis-solutions.webp` },
 	{ name: "MOD Education", logo: `${LOGOS}/mod-education.webp` },
+	{
+		name: "National Union of Izon-Ibe Students (NUIS)",
+		logo: `${LOGOS}/nuis-izonkenewenemo.webp`,
+		bg: "#010101",
+	},
+	{
+		name: "OOU Web3 Community",
+		logo: `${LOGOS}/oou-web3-community.webp`,
+		bg: "#6f00fc",
+	},
 	{ name: "Rume Visuals", logo: `${LOGOS}/rume-visuals.webp`, bg: "#000000" },
 	{ name: "Skysenx Hub", logo: "/images/skysenx-logo.svg" },
 	{ name: "Supa Records", logo: `${LOGOS}/supa-records.webp`, bg: "#030303" },
-	// TODO: use the navy horizontal variation (mark + wordmark), saved as `${LOGOS}/tonet.png`
-	{ name: "TONET", logo: "" },
+	{
+		name: "The Knowledgeable Ladies Network",
+		logo: `${LOGOS}/knowledgeable-ladies-network.webp`,
+		bg: "#250d3d",
+	},
+	{ name: "The Reset Community", logo: `${LOGOS}/the-reset-community.webp` },
 	{ name: "Tri-P Tech", logo: `${LOGOS}/tri-p-tech.webp` },
 	{ name: "Weefa", logo: `${LOGOS}/weefa.webp`, bg: "#1a1a1a" },
+	{ name: "YEFoN", logo: `${LOGOS}/yefon.webp` },
 ];
 
 export const pitchWinners: Winner[] = [
