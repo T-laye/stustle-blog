@@ -1,11 +1,14 @@
 "use client";
-import Image from "next/image";
-import React, { useEffect, useRef } from "react";
-import Button from "../ui/Button";
-import { FaRegArrowAltCircleRight } from "react-icons/fa";
-import Decors from "../ui/Decors";
+import React, { useEffect, useRef, useState } from "react";
 import gsap from "gsap";
-import { useRouter } from "next/navigation";
+import { SlLocationPin } from "react-icons/sl";
+import { IoCalendarOutline } from "react-icons/io5";
+import CtaLink from "./CtaLink";
+import PhotoSlot from "./PhotoSlot";
+import { IMPACT_REPORT_URL, WAITLIST_URL } from "./links";
+import { heroPhotos } from "./recap2026";
+
+const SLIDE_INTERVAL = 6000;
 
 export default function Hero() {
 	const sectionRef = useRef<HTMLElement>(null);
@@ -14,50 +17,44 @@ export default function Hero() {
 	const themeRef = useRef<HTMLParagraphElement>(null);
 	const metaRef = useRef<HTMLParagraphElement>(null);
 	const buttonsRef = useRef<HTMLDivElement>(null);
-	const imageRef = useRef<HTMLDivElement>(null);
-	const floatingTagRef = useRef<HTMLDivElement>(null);
-	const pulseRingRef = useRef<HTMLDivElement>(null);
-	const router = useRouter();
+	const [active, setActive] = useState(0);
 
-	const registerNow = (type: string) => {
-		router.push(type);
-	};
-	// const volunteer = () => {
-	// 	// window.open("https://youtu.be/iYcssUbNYYI?si=nFuXIg3Fj77plSgl", "_blank");
-	// };
+	// Crossfade through the hero photos
+	useEffect(() => {
+		if (heroPhotos.length < 2) return;
+		const timer = setInterval(() => {
+			setActive((i) => (i + 1) % heroPhotos.length);
+		}, SLIDE_INTERVAL);
+		return () => clearInterval(timer);
+	}, []);
 
 	useEffect(() => {
 		const ctx = gsap.context(() => {
 			const tl = gsap.timeline({ defaults: { ease: "power3.out" } });
 
-			// Badge pop in
 			tl.fromTo(
 				badgeRef.current,
-				{ opacity: 0, scale: 0.7, y: -10 },
-				{ opacity: 1, scale: 1, y: 0, duration: 0.55, ease: "back.out(1.7)" },
+				{ opacity: 0, y: -10 },
+				{ opacity: 1, y: 0, duration: 0.55 },
 			)
-				// Title words stagger
 				.fromTo(
 					titleRef.current,
 					{ opacity: 0, y: 60, skewY: 4 },
 					{ opacity: 1, y: 0, skewY: 0, duration: 0.85 },
 					"-=0.2",
 				)
-				// Theme line
 				.fromTo(
 					themeRef.current,
 					{ opacity: 0, x: -30 },
 					{ opacity: 1, x: 0, duration: 0.6 },
 					"-=0.4",
 				)
-				// Meta
 				.fromTo(
 					metaRef.current,
 					{ opacity: 0, y: 16 },
 					{ opacity: 1, y: 0, duration: 0.5 },
 					"-=0.3",
 				)
-				// Buttons stagger
 				.fromTo(
 					buttonsRef.current!.children,
 					{ opacity: 0, y: 24, scale: 0.95 },
@@ -70,50 +67,7 @@ export default function Hero() {
 						ease: "back.out(1.4)",
 					},
 					"-=0.2",
-				)
-				// Image slide in from right
-				.fromTo(
-					imageRef.current,
-					{ opacity: 0, x: 60, scale: 0.96 },
-					{ opacity: 1, x: 0, scale: 1, duration: 1, ease: "expo.out" },
-					"-=0.9",
-				)
-				// Floating tag
-				.fromTo(
-					floatingTagRef.current,
-					{ opacity: 0, y: 20, scale: 0.8 },
-					{ opacity: 1, y: 0, scale: 1, duration: 0.55, ease: "back.out(2)" },
-					"-=0.3",
 				);
-
-			// Infinite float on image
-			gsap.to(imageRef.current, {
-				y: -14,
-				duration: 3.2,
-				ease: "sine.inOut",
-				yoyo: true,
-				repeat: -1,
-			});
-
-			// Pulse ring expand
-			gsap.to(pulseRingRef.current, {
-				scale: 1.18,
-				opacity: 0,
-				duration: 1.8,
-				ease: "sine.inOut",
-				yoyo: true,
-				repeat: -1,
-			});
-
-			// Floating tag bob
-			gsap.to(floatingTagRef.current, {
-				y: -8,
-				duration: 2.4,
-				ease: "sine.inOut",
-				yoyo: true,
-				repeat: -1,
-				delay: 0.5,
-			});
 		}, sectionRef);
 
 		return () => ctx.revert();
@@ -123,147 +77,104 @@ export default function Hero() {
 		<section
 			ref={sectionRef}
 			id="big-hero"
-			className="pt-[80px] herobg max-md:hero_bgconference relative pb-20 overflow-hidden"
+			className="relative min-h-[100svh] pt-[80px] sm:pt-[90px] flex items-end overflow-hidden bg-black text-white"
 		>
-			{/* Background glow accents */}
-			<div className="pointer-events-none absolute top-1/4 left-0 w-[400px] h-[400px] rounded-full bg-primary/10 blur-[100px]" />
-			<div className="pointer-events-none absolute bottom-0 right-0 w-[500px] h-[300px] rounded-full bg-primary/8 blur-[120px]" />
-
-			<Decors shape="dots" className="-left-32 top-[15%] max-sm:hidden" />
-			{/* <Decors shape="polygon" className="left-[24%] top-[20%] max-sm:hidden" /> */}
-			<Decors
-				shape="rec"
-				className="left-[48%] top-[30%] max-sm:top-[10%] max-sm:hidden"
-			/>
-
-			<div className="container min-h-[90vh] lg:max-h-screen flex items-center gap-10 sm:gap-20 max-lg:flex-col lg:pb-20">
-				{/* LEFT: Copy */}
-				<div className="relative flex-1 flex justify-center items-center max-sm:mt-10 px-4 sm:px-8 sm:mt-20">
-					<div className="w-full">
-						{/* Badge */}
-						{/* <div
-							ref={badgeRef}
-							className="hero-badge inline-flex items-center gap-2 mb-4"
-						>
-							<span className="hero-badgedot relative flex h-2.5 w-2.5">
-								<span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-primary opacity-75" />
-								<span className="relative inline-flex rounded-full h-2.5 w-2.5 bg-primary" />
-							</span>
-							<span className="text-primary font-medium text-sm tracking-wide">
-								21st - 22nd August 2026 · Delta State, Nigeria 
-								Delta State, Nigeria
-							</span>
-						</div> */}
-
-						{/* Title */}
-						<h1 ref={titleRef} className="hero-title leading-60">
-							B.I.G <br />
-							<span className="highlight relative inline-block">
-								Conference
-								{/* Underline accent */}
-								{/* <span className="absolute -bottom-1 left-0 w-full h-[3px] bg-primary rounded-full" /> */}
-							</span>{" "}
-							2026
-						</h1>
-
-						{/* Theme */}
-						<p
-							ref={themeRef}
-							className="hero-theme mt-4 flex items-center gap-2"
-						>
-							Kaizen: Small Steps, Steady Growth
-						</p>
-
-						{/* Meta */}
-						<p
-							ref={metaRef}
-							className="hero-meta mt-2 flex flex-wrap gap-2 items-center text-sm text-foreground/60"
-						>
-							<span>21st - 22nd August, 2026</span>
-							<span className="text-primary">·</span>
-							<span>Delta State, Nigeria</span>
-							<span className="text-primary">·</span>
-							<span className="font-semibold text-primary">FREE Entry</span>
-						</p>
-
-						<Decors
-							shape="ellipse"
-							className="-left-[100%] -scale-x-100 -bottom-[100%] max-sm:hidden"
-						/>
-
-						{/* Buttons */}
-						<div
-							ref={buttonsRef}
-							className="relative flex gap-4 mt-8 sm:mt-14 max-lg:justify-center max-sm:flex-col"
-						>
-							<Decors
-								shape="dots"
-								className="-scale-100 -right-[180%] -bottom-[50%] max-sm:hidden"
-							/>
-							<Button
-								style="primary"
-								type="button"
-								fn={() => registerNow("#free-tickets")}
-							>
-								<div className="flex items-center gap-2">
-									<span>Register Now</span>
-									<FaRegArrowAltCircleRight />
-								</div>
-							</Button>
-							<Button
-								style="secondary"
-								type="button"
-								fn={() => registerNow("#support-tickets")}
-							>
-								<div className="flex items-center gap-2">
-									<span>Support the Event</span>
-									<FaRegArrowAltCircleRight />
-								</div>
-							</Button>
-						</div>
-					</div>
-				</div>
-
-				{/* RIGHT: Image */}
-				<div className="lg:flex-1 flex justify-center items-center relative px-4 w-full max-w-[500px] lg:max-w-none">
-					{/* Pulse ring behind image */}
+			{/* Background photos */}
+			<div className="absolute inset-0">
+				{heroPhotos.map((photo, i) => (
 					<div
-						ref={pulseRingRef}
-						className="absolute inset-8 rounded-full border-2 border-primary/20 pointer-events-none"
-					/>
-
-					<div ref={imageRef} className="relative w-full">
-						<div className="w-full rounded-2xl overflow-hidden shadow-2xl shadow-primary/10">
-							<Image
-								alt="Stustlers"
-								src="/bigConf/timer-img.png"
-								height={1000}
-								width={1000}
-								className="object-contain object-top w-full"
-								priority
+						key={i}
+						aria-hidden={i !== active}
+						className={`absolute inset-0 transition-opacity ease-in-out ${
+							i === active ? "opacity-100" : "opacity-0"
+						}`}
+						style={{ transitionDuration: "1500ms" }}
+					>
+						{/* Slow zoom on the active photo */}
+						<div
+							className={`absolute inset-0 motion-safe:transition-transform ease-linear ${
+								i === active ? "scale-110" : "scale-100"
+							}`}
+							style={{ transitionDuration: "7000ms" }}
+						>
+							<PhotoSlot
+								src={photo.src}
+								alt={photo.alt}
+								sizes="100vw"
+								priority={i === 0}
+								dark
 							/>
 						</div>
+					</div>
+				))}
+				{/* Readability overlays */}
+				<div className="absolute inset-0 bg-gradient-to-t from-black via-black/60 to-black/20" />
+				<div className="absolute inset-0 bg-gradient-to-r from-black/70 via-black/20 to-transparent" />
+			</div>
 
-						{/* Floating info tag */}
-						<div
-							ref={floatingTagRef}
-							className="absolute -bottom-4 -left-4 sm:-left-8 bg-background border border-primary/30 rounded-xl px-4 py-3 shadow-xl shadow-black/20 backdrop-blur-sm"
-						>
-							{/* <p className="text-xs text-foreground/50 font-medium tracking-widest uppercase"> */}
-							<p className="text-xs text-primary-100 font-medium tracking-widest uppercase">
-								Theme
-							</p>
-							<p className="text-sm font-bold text-primary mt-0.5">
-								Kaizen 改善
-							</p>
-						</div>
+			<div className="container relative w-full px-4 sm:px-8 pb-16 sm:pb-24 pt-24">
+				<div className="max-w-3xl">
+					<div
+						ref={badgeRef}
+						className="inline-flex flex-wrap items-center gap-x-4 gap-y-1 rounded-full border border-white/20 bg-white/10 backdrop-blur-sm px-4 py-2 text-xs sm:text-sm text-white/80 mb-6"
+					>
+						<span className="flex items-center gap-1.5">
+							<IoCalendarOutline className="text-primary" />
+							21–22 August 2026
+						</span>
+						<span className="flex items-center gap-1.5">
+							<SlLocationPin className="text-primary" />
+							Virtual + Effurun, Delta State
+						</span>
+					</div>
 
-						{/* Top-right badge */}
-						<div className="absolute -top-4 -right-2 sm:-right-6 bg-primary text-white rounded-xl px-3 py-2 shadow-lg shadow-primary/30 text-xs font-bold tracking-wide rotate-3">
-							FREE ENTRY
-						</div>
+					<h1 ref={titleRef} className="hero-title">
+						B.I.G.
+						<span className="highlight">Conference 2026</span>
+					</h1>
+
+					<p ref={themeRef} className="hero-theme mt-4">
+						Kaizen · Small Steps. Steady Growth.
+					</p>
+
+					<p
+						ref={metaRef}
+						className="hero-meta mt-2 sm:text-lg text-white/80 max-w-xl"
+					>
+						The B.I.G. Conference 2026 is over, but the journey continues.
+					</p>
+
+					<div
+						ref={buttonsRef}
+						className="flex gap-4 max-sm:flex-col sm:max-w-xl"
+					>
+						<CtaLink href={IMPACT_REPORT_URL}>
+							View the 2026 Impact Report
+						</CtaLink>
+						<CtaLink href={WAITLIST_URL} style="reverse">
+							Join the 2027 Waitlist
+						</CtaLink>
 					</div>
 				</div>
+
+				{/* Slide indicators */}
+				{heroPhotos.length > 1 && (
+					<div className="flex gap-2 mt-12">
+						{heroPhotos.map((_, i) => (
+							<button
+								key={i}
+								type="button"
+								aria-label={`Show photo ${i + 1}`}
+								onClick={() => setActive(i)}
+								className={`h-1.5 rounded-full transition-all duration-500 ${
+									i === active
+										? "w-10 bg-primary"
+										: "w-4 bg-white/40 hover:bg-white/70"
+								}`}
+							/>
+						))}
+					</div>
+				)}
 			</div>
 		</section>
 	);

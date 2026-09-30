@@ -554,3 +554,8 @@
 	animation: scroll-reverse 20s linear infinite;
 	will-change: transform;
 }
+
+/* Keep B.I.G. section titles clear of the fixed header on anchor jumps */
+section[id^="big-"] {
+	scroll-margin-top: 90px;
+}

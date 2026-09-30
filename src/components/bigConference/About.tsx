@@ -1,17 +1,17 @@
 "use client";
 import React, { useEffect, useRef } from "react";
 import Subtitle from "./Subtitle";
-import { RxTriangleRight } from "react-icons/rx";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 
 gsap.registerPlugin(ScrollTrigger);
 
 const stats = [
-	{ value: "500+", label: "Young People Impacted" },
-	{ value: "2026", label: "Year" },
-	{ value: "2,000+", label: "Target Participants" },
-	{ value: "FREE", label: "Entry" },
+	{ value: "1,090", label: "Registrations" },
+	{ value: "11", label: "Speakers & facilitators" },
+	{ value: "75", label: "Volunteers" },
+	{ value: "₦300,000", label: "Awarded to two pitch competition winners" },
+	{ value: "2", label: "Days of learning, connection and action" },
 ];
 
 const About = () => {
@@ -119,7 +119,7 @@ const About = () => {
 		<section
 			id="big-about"
 			ref={sectionRef}
-			className="pt-10 sm:pt-20 lg:pt-40 px-4 sm:px-8 pb-20 relative overflow-hidden"
+			className="pt-16 sm:pt-20 lg:pt-28 px-4 sm:px-8 pb-20 relative overflow-hidden"
 		>
 			{/* Background accent */}
 			<div className="pointer-events-none absolute -top-20 -right-40 w-[500px] h-[500px] rounded-full bg-primary/5 blur-3xl" />
@@ -127,18 +127,52 @@ const About = () => {
 
 			<div className="container min-h-[50vh] relative">
 				<div ref={subtitleRef}>
-					<Subtitle text="About Event" />
+					<Subtitle text="About B.I.G." />
 				</div>
+
+				<div ref={bodyRef} className="sm:text-lg max-w-4xl mx-auto text-center">
+					<strong>B.I.G. (Begin, Innovate, Grow)</strong> is a youth-focused
+					conference by <strong>Stustle</strong> created to help students, young
+					graduates, entrepreneurs and emerging leaders gain the knowledge,
+					exposure, connections and opportunities they need to move forward.
+					<br />
+					<br />
+					On 21–22 August 2026, over 1,000 young people registered to be part of
+					B.I.G. 2026 as we explored what it means to grow intentionally,
+					embrace the process and take meaningful steps towards the future we
+					want.
+					<br />
+					<br />
+					<strong>
+						We gathered. We learned. We connected. We took the next step.
+					</strong>
+				</div>
+
+				<ul ref={listRef} className="max-w-md mx-auto mt-10 text-center">
+					<li className="border border-primary/20 rounded-xl px-6 py-5 bg-primary/5">
+						<p className="text-sm text-foreground/60 tracking-wide">
+							This year&apos;s theme was:
+						</p>
+						<p className="text-3xl sm:text-4xl font-extrabold text-primary mt-2">
+							KAIZEN
+						</p>
+						<p className="font-medium mt-1">Small Steps. Steady Growth.</p>
+					</li>
+				</ul>
+
+				<h3 className="text-xl sm:text-2xl font-bold text-center uppercase mt-16">
+					B.I.G. 2026 by the numbers
+				</h3>
 
 				{/* Stats row */}
 				<div
 					ref={statsRef}
-					className="grid grid-cols-2 sm:grid-cols-4 gap-4 my-10"
+					className="grid grid-cols-2 lg:grid-cols-5 gap-4 mt-8"
 				>
 					{stats.map(({ value, label }) => (
 						<div
 							key={label}
-							className="group relative border border-primary/20 rounded-xl p-4 text-center bg-primary/5 hover:bg-primary/10 hover:border-primary/50 transition-all duration-300 cursor-default overflow-hidden"
+							className="group relative border border-primary/20 rounded-xl p-4 text-center max-lg:last:col-span-2 bg-primary/5 hover:bg-primary/10 hover:border-primary/50 transition-all duration-300 cursor-default overflow-hidden"
 						>
 							{/* shimmer on hover */}
 							<div className="absolute inset-0 translate-x-[-100%] group-hover:translate-x-[100%] transition-transform duration-700 bg-gradient-to-r from-transparent via-primary/10 to-transparent skew-x-12" />
@@ -151,41 +185,6 @@ const About = () => {
 						</div>
 					))}
 				</div>
-
-				<div ref={bodyRef} className="sm:text-lg text-justify max-w-7xl">
-					The B.I.G (Begin, Innovate, Grow) Conference is an annual initiative
-					by <strong>Stustle</strong>, created to equip students and young
-					graduates with the skills, mindset, and access they need to thrive.
-					<br />
-					<br />
-					Since launching in 2025, the conference has impacted over 500 young
-					people across Delta State, connecting them to industry insights,
-					growth opportunities, and practical pathways to earning. This
-					year&apos;s theme, <strong>Kaizen</strong>, centers on continuous
-					improvement, discipline, and building sustainable success over time.
-					<br />
-					<br />
-					We&apos;re scaling to <strong>2,000+ participants</strong> and
-					intentionally creating a space where:
-				</div>
-
-				<ul ref={listRef} className="space-y-3 pt-5 max-w-3xl mt-5">
-					{[
-						"young people gain clarity, skills, and visibility",
-						"founders, CEOs, and organizations access emerging talent and future workforce",
-					].map((item) => (
-						<li
-							key={item}
-							className="group flex items-start gap-3 bg-primary/5 hover:bg-primary/10 border border-primary/10 hover:border-primary/30 rounded-lg px-4 py-3 transition-all duration-300"
-						>
-							<RxTriangleRight
-								className="text-primary mt-0.5 shrink-0 group-hover:translate-x-1 transition-transform duration-300"
-								size={22}
-							/>
-							<span className="text-base sm:text-lg leading-snug">{item}</span>
-						</li>
-					))}
-				</ul>
 			</div>
 		</section>
 	);

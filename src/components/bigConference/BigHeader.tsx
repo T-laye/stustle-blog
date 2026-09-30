@@ -7,14 +7,15 @@ import gsap from "gsap";
 import { useNavStore } from "../../store/variables";
 import Logo from "../ui/Logo";
 import Button from "../ui/Button";
+import { WAITLIST_URL } from "./links";
 
 const BigHeader = ({ show = true }: { show?: boolean }) => {
 	const { closeNav, isNavOpen, openNav } = useNavStore();
 	const pathname = usePathname();
 	const router = useRouter();
 
-	const registerNow = () => {
-		router.push("#big-tickets");
+	const joinWaitlist = () => {
+		router.push(WAITLIST_URL);
 	};
 
 	useEffect(() => {
@@ -38,13 +39,13 @@ const BigHeader = ({ show = true }: { show?: boolean }) => {
 	}, []);
 
 	const navLinks = [
-		{ name: "Home", href: "/events/big-conference#big-hero" },
 		{ name: "About", href: "/events/big-conference#big-about" },
+		{ name: "Highlights", href: "/events/big-conference#big-highlights" },
+		{ name: "Impact", href: "/events/big-conference#big-impact" },
 		{ name: "Speakers", href: "/events/big-conference#big-speakers" },
-		{ name: "Tickets", href: "/events/big-conference#big-tickets" },
-		{ name: "Sponsors", href: "/events/big-conference#big-sponsors" },
-		// { name: "Partners", href: "/events/big-conference#big-partners" },
-		{ name: "FAQ", href: "/events/big-conference#big-faq" },
+		{ name: "Partners", href: "/events/big-conference#big-partners" },
+		{ name: "Growth Lab", href: "/events/big-conference#big-growth-lab" },
+		{ name: "2027", href: "/events/big-conference#big-2027" },
 	];
 
 	return (
@@ -102,15 +103,15 @@ const BigHeader = ({ show = true }: { show?: boolean }) => {
             </Link> */}
 						</ul>
 						<div className="lg:hidden mobile li mt-10">
-							<Button style="primary" type="button" fn={registerNow}>
-								Register Now
+							<Button style="primary" type="button" fn={joinWaitlist}>
+								Join the Waitlist
 							</Button>
 						</div>
 					</nav>
 					<div>
 						<div className="hidden lg:block">
-							<Button style="reverse" type="button" fn={registerNow}>
-								Register Now
+							<Button style="reverse" type="button" fn={joinWaitlist}>
+								Join the Waitlist
 							</Button>
 						</div>
 						<MdMenu
