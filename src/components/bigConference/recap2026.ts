@@ -91,6 +91,8 @@ const LOGOS = "/bigConf/2026/partners";
 export const partners: Partner[] = [
 	{ name: "19 Internationals", logo: `${LOGOS}/19-internationals.webp` },
 	{ name: "Bito Naturals", logo: `${LOGOS}/bito-naturals.webp` },
+	// TODO: save the Charissa logo as `${LOGOS}/charissa.png` and set it here
+	{ name: "Charissa", logo: "" },
 	{ name: "Discover Delta", logo: `${LOGOS}/discover-delta.webp` },
 	{
 		name: "Dubri Timiyan Foundation",
@@ -108,6 +110,8 @@ export const partners: Partner[] = [
 	{ name: "Rume Visuals", logo: `${LOGOS}/rume-visuals.webp`, bg: "#000000" },
 	{ name: "Skysenx Hub", logo: "/images/skysenx-logo.svg" },
 	{ name: "Supa Records", logo: `${LOGOS}/supa-records.webp`, bg: "#030303" },
+	// TODO: use the navy horizontal variation (mark + wordmark), saved as `${LOGOS}/tonet.png`
+	{ name: "TONET", logo: "" },
 	{ name: "Tri-P Tech", logo: `${LOGOS}/tri-p-tech.webp` },
 	{ name: "Weefa", logo: `${LOGOS}/weefa.webp`, bg: "#1a1a1a" },
 ];
@@ -127,20 +131,59 @@ export const pitchWinners: Winner[] = [
 	},
 ];
 
+// Shortened excerpts from the B.I.G. Testimonials doc — wording kept, only trimmed
 export const testimonials: Testimonial[] = [
 	{
-		quote: "[Quote from the 2026 feedback form]",
-		name: "[Name]",
-		role: "[Student, school / role]",
+		quote:
+			"It was my first ever business conference and it was really worth it. It has changed my life. Please do this again and again.",
+		name: "Azoke-William Marvellous",
+		role: "B.I.G. 2026 attendee",
 	},
 	{
-		quote: "[Quote from the 2026 feedback form]",
-		name: "[Name]",
-		role: "[Student, school / role]",
+		quote:
+			"The theme, KAIZEN – Small Steps. Steady Growth, truly came alive throughout the sessions. I didn’t just attend the conference; I came away with lessons and perspectives that I know I will carry with me beyond the event.",
+		name: "Peace Oyewo",
+		role: "Attended virtually",
 	},
 	{
-		quote: "[Quote from the 2026 feedback form]",
-		name: "[Name]",
-		role: "[Student, school / role]",
+		quote:
+			"I’ve been holding back from posting my work because I keep feeling like everything has to be perfect first… every session kept making me realize that if I keep waiting for perfection, I may never start. So yes, I’m taking my small steps now.",
+		name: "Trust Omelime",
+		role: "Attended in person",
+	},
+	{
+		quote:
+			"The sessions were absolutely value packed, the speakers were amazing. The statement made by Osita James, “Our lives should be optimized for impact and not for profit”, is something I’ll be running my life by.",
+		name: "Ele-Abinya Faithful Onwanyi",
+		role: "B.I.G. 2026 attendee",
+	},
+	{
+		quote: "I got a mind shift in this conference. I’m super elated!",
+		name: "Hephzibah",
+		role: "B.I.G. 2026 attendee",
+	},
+	{
+		quote:
+			"A really refreshing experience… a space where young people can learn, connect, and feel encouraged to do more. Being part of the media team gave me the opportunity to contribute behind the scenes and be part of something meaningful.",
+		name: "Abejoye Janet Iyanuoluwa",
+		role: "Media team volunteer",
+	},
+	{
+		quote:
+			"The access to hear from speakers with such depth, pouring out their all, for free is just amazing. Let’s do more.",
+		name: "David Bassey",
+		role: "B.I.G. 2026 attendee",
+	},
+	{
+		quote:
+			"You guys are building something big with impact. Helping the young is really good, I am a proof of that.",
+		name: "Unique Ogheneogaga",
+		role: "B.I.G. 2026 attendee",
+	},
+	{
+		quote:
+			"The whole process right from the check-in was excellent. Choice of speakers superb… In all it was an educative, memorable experience.",
+		name: "Ama-Okoko Chukwuebuka Andrew",
+		role: "B.I.G. 2026 attendee",
 	},
 ];

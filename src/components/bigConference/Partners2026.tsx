@@ -30,7 +30,7 @@ export default function Partners2026() {
 										src={logo}
 										alt={name}
 										fill
-										sizes="(min-width: 1024px) 20vw, (min-width: 640px) 33vw, 50vw"
+										sizes="(min-width: 1024px) 25vw, (min-width: 640px) 33vw, 50vw"
 										className="object-contain p-5 sm:p-6"
 									/>
 								) : (
@@ -42,7 +42,7 @@ export default function Partners2026() {
 						);
 
 						const width =
-							"w-[calc(50%-8px)] sm:w-[calc(33.333%-10.667px)] lg:w-[calc(20%-12.8px)]";
+							"w-[calc(50%-8px)] sm:w-[calc(33.333%-10.667px)] lg:w-[calc(25%-12px)]";
 
 						return url ? (
 							<a

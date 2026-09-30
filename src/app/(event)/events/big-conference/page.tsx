@@ -1,3 +1,4 @@
+import type { Metadata } from "next";
 import Hero from "@/components/bigConference/Hero";
 import About from "../../../../components/bigConference/About";
 import Experience from "../../../../components/bigConference/Experience";
@@ -22,6 +23,39 @@ import BigHeader from "../../../../components/bigConference/BigHeader";
 // 2025 sections, replaced by Highlights and Partners2026
 // import Gallery from "../../../../components/bigConference/Gallery";
 // import Sponsors from "../../../../components/bigConference/Sponsors";
+
+const title = "B.I.G. Conference 2026 · Small Steps. Steady Growth.";
+const description =
+	"B.I.G. 2026 is over, but the journey continues. See the highlights, read the 2026 Impact Report and join the waitlist for B.I.G. 2027.";
+// www.stustle.com/events/big-conference redirects here (see middleware.ts)
+const pageUrl = "https://big.stustle.com";
+// Absolute so crawlers always fetch it from the main domain
+const ogImage = {
+	url: "https://www.stustle.com/bigConf/2026/og-image.jpg",
+	width: 1200,
+	height: 630,
+	alt: "A speaker on the B.I.G. Conference 2026 stage in front of the Kaizen screen",
+};
+
+export const metadata: Metadata = {
+	title: { absolute: title },
+	description,
+	alternates: { canonical: pageUrl },
+	openGraph: {
+		type: "website",
+		siteName: "Stustle",
+		url: pageUrl,
+		title,
+		description,
+		images: [ogImage],
+	},
+	twitter: {
+		card: "summary_large_image",
+		title,
+		description,
+		images: [ogImage],
+	},
+};
 
 export default function Page() {
 	return (
