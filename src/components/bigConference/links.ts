@@ -1,6 +1,7 @@
 // TODO: placeholder links from the copy doc — replace "#" with the real URLs.
 export const IMPACT_REPORT_URL = "https://canva.link/e28o6c87b9c2290";
-export const WAITLIST_URL = "#";
+// The waitlist form lives in the B.I.G. 2027 section of the page
+export const WAITLIST_URL = "#big-waitlist";
 export const GROWTH_LAB_URL = "#";
 
 export const FULL_GALLERY_URL =

@@ -14,8 +14,11 @@ const BigHeader = ({ show = true }: { show?: boolean }) => {
 	const pathname = usePathname();
 	const router = useRouter();
 
+	// Scroll to the form on the main page; from sub-pages, go to it
 	const joinWaitlist = () => {
-		router.push(WAITLIST_URL);
+		const form = document.querySelector(WAITLIST_URL);
+		if (form) form.scrollIntoView({ behavior: "smooth" });
+		else router.push(`/events/big-conference${WAITLIST_URL}`);
 	};
 
 	useEffect(() => {

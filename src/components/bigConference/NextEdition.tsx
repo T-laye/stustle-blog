@@ -1,8 +1,8 @@
 import React from "react";
 import { FaInstagram, FaLinkedin, FaWhatsapp, FaYoutube } from "react-icons/fa";
 import Subtitle from "./Subtitle";
-import CtaLink from "./CtaLink";
-import { SOCIAL_LINKS, WAITLIST_URL } from "./links";
+import WaitlistForm from "./WaitlistForm";
+import { SOCIAL_LINKS } from "./links";
 import { Reveal } from "./motion";
 
 const socials = [
@@ -25,11 +25,17 @@ export default function NextEdition() {
 						The next edition will build on what we learned, improve what can be
 						better and create an even stronger experience for young people.
 					</p>
-					<p className="font-semibold text-lg mt-8">
-						Want to be the first to know when B.I.G. 2027 opens?
-					</p>
-					<div className="mt-4 max-w-xs mx-auto">
-						<CtaLink href={WAITLIST_URL}>Join the 2027 Waitlist</CtaLink>
+					<div
+						id="big-waitlist"
+						className="scroll-mt-[100px] mt-10 rounded-3xl border border-primary/20 bg-primary/5 px-5 py-8 sm:px-10"
+					>
+						<p className="font-semibold text-lg">
+							Want to be the first to know when B.I.G. 2027 opens?
+						</p>
+						<p className="text-sm text-foreground/60 mt-1 mb-6">
+							Join the waitlist. It takes less than a minute.
+						</p>
+						<WaitlistForm />
 					</div>
 				</Reveal>
 
