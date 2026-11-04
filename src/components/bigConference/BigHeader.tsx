@@ -44,6 +44,7 @@ const BigHeader = ({ show = true }: { show?: boolean }) => {
 	const navLinks = [
 		{ name: "About", href: "/events/big-conference#big-about" },
 		{ name: "Highlights", href: "/events/big-conference#big-highlights" },
+		{ name: "Watch", href: "/events/big-conference#big-watch" },
 		{ name: "Impact", href: "/events/big-conference#big-impact" },
 		{ name: "Speakers", href: "/events/big-conference#big-speakers" },
 		{ name: "Partners", href: "/events/big-conference#big-partners" },
@@ -79,7 +80,7 @@ const BigHeader = ({ show = true }: { show?: boolean }) => {
 								isNavOpen
 									? "max-lg:translate-x-0"
 									: "max-lg:-translate-x-[200%]"
-							}  flex max-lg:px-5 max-lg:text-lg gap-6  lg:gap-12 lg:text-white max-lg:flex-col duration-300 `}
+							}  flex max-lg:px-5 max-lg:text-lg gap-6 lg:gap-8 lg:text-white max-lg:flex-col duration-300 `}
 						>
 							{navLinks.map((link) => (
 								<Link href={link.href} key={link.name}>

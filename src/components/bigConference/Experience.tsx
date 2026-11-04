@@ -1,10 +1,12 @@
 "use client";
 import React, { useEffect, useRef } from "react";
+import { FaYoutube } from "react-icons/fa";
 import { RxTriangleRight } from "react-icons/rx";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 import Subtitle from "./Subtitle";
 import { prefersReducedMotion } from "./motion";
+import { DAY_1_REPLAY_URL, DAY_2_REPLAY_URL } from "./links";
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -115,6 +117,15 @@ export default function Experience() {
 								</li>
 							))}
 						</ul>
+						<a
+							href={DAY_1_REPLAY_URL}
+							target="_blank"
+							rel="noopener noreferrer"
+							className="mt-6 flex items-center gap-2 text-primary font-semibold hover:underline"
+						>
+							<FaYoutube size={20} />
+							Watch the Day 1 replay
+						</a>
 					</div>
 
 					<div className="border border-primary/20 rounded-2xl p-6 bg-primary/5">
@@ -136,6 +147,15 @@ export default function Experience() {
 								</div>
 							))}
 						</div>
+						<a
+							href={DAY_2_REPLAY_URL}
+							target="_blank"
+							rel="noopener noreferrer"
+							className="mt-6 flex items-center gap-2 text-primary font-semibold hover:underline"
+						>
+							<FaYoutube size={20} />
+							Watch the Day 2 replay
+						</a>
 					</div>
 				</div>
 			</div>

@@ -3,7 +3,7 @@ import Hero from "@/components/bigConference/Hero";
 import About from "../../../../components/bigConference/About";
 import Experience from "../../../../components/bigConference/Experience";
 import Highlights from "../../../../components/bigConference/Highlights";
-import PitchWinners from "../../../../components/bigConference/PitchWinners";
+import WatchBack from "../../../../components/bigConference/WatchBack";
 import Impact from "../../../../components/bigConference/Impact";
 import Voices from "../../../../components/bigConference/Voices";
 import Speakers from "../../../../components/bigConference/Speakers";
@@ -65,7 +65,7 @@ export default function Page() {
 			<About />
 			<Experience />
 			<Highlights />
-			<PitchWinners />
+			<WatchBack />
 			<Impact />
 			<Voices />
 			<Speakers />

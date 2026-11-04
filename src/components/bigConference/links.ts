@@ -7,7 +7,11 @@ export const GROWTH_LAB_URL = "#";
 export const FULL_GALLERY_URL =
 	"https://drive.google.com/drive/folders/1K-h2exaJnA_azMxQRu4UhFrDzaDF4vjU";
 export const HIGHLIGHTS_VIDEO_URL =
-	"https://www.youtube.com/live/wUd9B8h-DU8?si=2rn8TZle-2p9ROBC";
+	"https://www.instagram.com/reel/DctSSsyouDv/";
+export const DAY_1_REPLAY_URL =
+	"https://www.youtube.com/live/QSvEA-7Tm0I?si=kMFaUqYms9fSV_Cu";
+export const DAY_2_REPLAY_URL =
+	"https://www.youtube.com/live/wUd9B8h-DU8?si=a8ajVJ47pUBaNypQ";
 
 export const EXPLORE_STUSTLE_URL = "/";
 export const PARTNERSHIP_EMAIL = "mailto:jane@stustle.com";

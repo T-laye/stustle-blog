@@ -19,13 +19,6 @@ export interface Partner {
 	url?: string;
 }
 
-export interface Winner {
-	name: string;
-	business: string;
-	blurb: string;
-	photo: string;
-}
-
 export interface Testimonial {
 	quote: string;
 	name: string;
@@ -135,21 +128,6 @@ export const partners: Partner[] = [
 	{ name: "Tri-P Tech", logo: `${LOGOS}/tri-p-tech.webp` },
 	{ name: "Weefa", logo: `${LOGOS}/weefa.webp`, bg: "#1a1a1a" },
 	{ name: "YEFoN", logo: `${LOGOS}/yefon.webp` },
-];
-
-export const pitchWinners: Winner[] = [
-	{
-		name: "[Winner name]",
-		business: "[Business name]",
-		blurb: "[One line on what the business does]",
-		photo: "",
-	},
-	{
-		name: "[Winner name]",
-		business: "[Business name]",
-		blurb: "[One line on what the business does]",
-		photo: "",
-	},
 ];
 
 // Shortened excerpts from the B.I.G. Testimonials doc — wording kept, only trimmed

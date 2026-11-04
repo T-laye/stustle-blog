@@ -2,6 +2,7 @@
 import React, { useEffect, useRef, useState } from "react";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
+import { FaPlayCircle } from "react-icons/fa";
 import { SlLocationPin } from "react-icons/sl";
 import { IoCalendarOutline } from "react-icons/io5";
 import CtaLink from "./CtaLink";
@@ -173,6 +174,14 @@ export default function Hero() {
 							Join the 2027 Waitlist
 						</CtaLink>
 					</div>
+
+					<a
+						href="#big-watch"
+						className="inline-flex items-center gap-2 mt-5 font-semibold text-white/90 hover:text-primary duration-150"
+					>
+						<FaPlayCircle className="text-primary text-xl" />
+						Watch the highlights &amp; replays
+					</a>
 				</div>
 
 				{/* Slide indicators */}
